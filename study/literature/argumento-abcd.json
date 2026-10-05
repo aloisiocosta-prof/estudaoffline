@@ -109,7 +109,7 @@
           "base_parts": [
             {
               "key": "education_araka2020",
-              "text": "Revisão identificou uso continuado de instrumentos de sala presencial para medir autorregulação em ambientes digitais e lacunas em análises de registros"
+              "text": "A revisão descreve a passagem de autorrelatos para análises de registros digitais, com desafios de interpretação"
             },
             {
               "key": "education_baars2022",
@@ -918,5 +918,6 @@
         }
       ]
     }
-  ]
+  ],
+  "locator_policy": "Página impressa e posição PDF verificadas para cinco fontes centrais; demais páginas pendentes. DOI identifica publicação e não certifica qualidade. ABCD preservado."
 }

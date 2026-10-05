@@ -27,7 +27,8 @@ def audit_sources():
     result = {}
     for name in ['artigo', 'entrega-escolar', 'poster', 'fichamentos']:
         text = expand(ROOT/'paper'/f'{name}.tex')
-        cites = {k.strip() for m in re.finditer(r'\\cite(?:p|t)?\{([^}]+)\}', text) for k in m[1].split(',')}
+        assert not re.search(r'EstudaOffline\s*[,;(]\s*2026|ESTUDAOFFLINE\.\s*Protocolo',text,re.I), (name,'forbidden own-study citation text')
+        cites = {k.strip() for m in re.finditer(r'\\cite(?:p|t)?(?:\[[^\]]*\]){0,2}\{([^}]+)\}', text) for k in m[1].split(',')}
         bibs = set(re.findall(r'\\bibitem(?:\[[^\]]*\])?\{([^}]+)\}',text))
         required=keys
         assert 'projeto' not in cites and 'projeto' not in bibs, (name,'own-study bibliography prohibited')

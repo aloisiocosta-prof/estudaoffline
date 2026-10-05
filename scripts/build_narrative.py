@@ -1,5 +1,6 @@
 """Build ABCD prose and an external bibliography; never cite own study as evidence."""
 import json,re
+from source_citations import citation
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def main():
@@ -9,10 +10,10 @@ def main():
         for p in section['paragraphs']:
             if p['id']=='T4':parts.append(r'\newpage')
             if p['id']=='R1':parts.append(r'\input{results.tex}');continue
-            cite=r' \citep{'+','.join(p['keys'])+'}' if p['keys'] else ''
+            cite=' '+citation(p['keys']) if p['keys'] else ''
             if p.get('base_parts'):
                 # Each attributed claim retains its own source, rather than a decorative cluster.
-                b='; '.join(item['text'].rstrip('.!?')+r' \citep{'+item['key']+'}' for item in p['base_parts'])+'.'
+                b='; '.join(item['text'].rstrip('.!?')+' '+citation([item['key']]) for item in p['base_parts'])+'.'
                 parts.append(p['A']+cite+'. '+b+' '+p['C']+cite+'. '+p['D']+cite+'.')
             else:
                 # Own context/procedures/results are described; they are not external literature.

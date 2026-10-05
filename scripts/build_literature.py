@@ -1,6 +1,7 @@
 """Build transparent paraphrase/source appendices; never manufacture references."""
 import json
 import re
+from source_citations import locators
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -20,6 +21,7 @@ def tex(s):
 
 def main():
     selected, excluded, seen = [], [], set()
+    locations=locators()
     for group in GROUPS:
         path = ROOT / 'study/literature' / (group + '.json')
         if not path.exists():
@@ -63,7 +65,7 @@ def main():
         bib.append(r'\bibitem[' + tex(label) + '(' + str(s['year']) + suffix + ')]{' + s['key'] + '} ' +
                    tex('; '.join(s['authors'])) + '. ' + tex(s['title']) + '. ' + tex(venue) + ', ' + str(s['year']) + '. ' +
                    (r'DOI: ' + tex(s['doi']) + r'. URL: \url{https://doi.org/' + s['doi'] + '}.' if s.get('doi') else r'URL: \url{' + s['url'].split('?')[0] + '}.') +
-                   ' Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.')
+                   ' Consulta: 5 out. 2026. ' + ('Localizador utilizado: '+tex(locations[s['key']]['citation_locator'])+'. Leitura: '+r'\url{'+locations[s['key']]['reading_url']+'}.' if locations[s['key']]['citation_locator'] else 'Página do trecho não conferida; nível de acesso registrado no fichamento.'))
         rows.append('| ' + ' | '.join(str(s.get(k, '')).replace('|','/').replace('\n',' ') for k in ['key','claim_pt','limitation_pt','kind','access_level','url']) + ' |')
     for key, label, title, url in [
         ('flutter','Flutter','Web FAQ','https://docs.flutter.dev/platform-integration/web/faq'),

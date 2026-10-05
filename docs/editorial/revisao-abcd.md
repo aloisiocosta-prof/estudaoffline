@@ -2,7 +2,7 @@
 
 # Revisão orientada de coerência — 5 outubro 2026
 
-O problema observado pelo orientador foi a mudança abrupta de assunto entre parágrafos; a revisão usa ABCD como convenção editorial proposta, sem alegação de validação empírica (EstudaOffline,2026, solicitação e mapa editorial).
+O problema observado pelo orientador foi a mudança abrupta de assunto entre parágrafos; a revisão usa ABCD como convenção editorial proposta, sem alegação de validação empírica .
 
 ## Decisões e sustentação
 
@@ -20,12 +20,12 @@ A síntese seleciona fontes por pertinência ao argumento, conserva acesso e ori
 
 ## Uso do caderno na orientação
 
-O professor pode escolher uma ficha, abrir a fonte, verificar a paráfrase e pedir ao estudante que explique a relação entre achado, limite e afirmação pretendida; a extração registra o que não foi obtido, sem inventar amostra, instrumento ou validade (Snyder,2019; EstudaOffline,2026, protocolo).
+O professor pode escolher uma ficha, abrir a fonte, verificar a paráfrase e pedir ao estudante que explique a relação entre achado, limite e afirmação pretendida; a extração registra o que não foi obtido, sem inventar amostra, instrumento ou validade (Snyder,2019).
 
-Roteiro local: confirmar a fonte → localizar a evidência → separar achado e interpretação → preencher ABCD → conferir a ponte com o parágrafo seguinte → revisar no original; não atribuir ao checklist uma validação que não foi investigada (Snyder,2019; EstudaOffline,2026, mapa editorial).
+Roteiro local: confirmar a fonte → localizar a evidência → separar achado e interpretação → preencher ABCD → conferir a ponte com o parágrafo seguinte → revisar no original; não atribuir ao checklist uma validação que não foi investigada (Snyder,2019).
 
-O fichamento prioriza citação indireta; citação literal só deve ser usada após conferir transcrição, localizador e extensão, e apud apenas quando o intermediário foi realmente consultado (EstudaOffline,2026, política de atribuição).
+O fichamento prioriza citação indireta; citação literal só deve ser usada após conferir transcrição, localizador e extensão, e apud apenas quando o intermediário foi realmente consultado .
 
 ## Pendências preservadas
 
-Revisão humana da sustentação; acesso integral heterogêneo; ausência de avaliação uniforme de risco de viés e rastreio completo de retratações; critérios WCAG, exportação real, quota e recarga offline pendentes; eficácia educacional não demonstrada; substituição de Arial e aprovação escolar pendentes; regra literal50% das linhas não satisfeita (EstudaOffline,2026, registros técnicos e editorial-audit.json).
+Revisão humana da sustentação; acesso integral heterogêneo; ausência de avaliação uniforme de risco de viés e rastreio completo de retratações; critérios WCAG, exportação real, quota e recarga offline pendentes; eficácia educacional não demonstrada; substituição de Arial e aprovação escolar pendentes; regra literal50% das linhas não satisfeita .

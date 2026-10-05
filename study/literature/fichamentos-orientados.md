@@ -20,13 +20,23 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Eric Araka; E. Maina; Rhoda Gitonga; Robert O. Oboko. 2020. https://doi.org/10.1186/s41039-020-00129-5
 
+**DOI de identificação:** 10.1186/s41039-020-00129-5 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://link.springer.com/content/pdf/10.1186/s41039-020-00129-5.pdf (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** 4, 15–16 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** 4, 15, 16 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** seções Introdução, Methodology, Quality assessment and selection criteria e Results consultadas no texto editorial aberto; avaliação dirigida, não integral uniforme (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Editor, Previous review studies, Methodology e Results (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Previous review studies; RQ4; Discussion (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** 30 artigos selecionados; foco de perguntas e elegibilidade em ensino superior (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Achado atribuível:** Revisão identificou uso continuado de instrumentos de sala presencial para medir autorregulação em ambientes digitais e lacunas em análises de registros. (Eric Araka, 2020).
+**Achado atribuível:** A revisão descreve a passagem de autorrelatos para análises de registros digitais, com desafios de interpretação. (Eric Araka, 2020).
 
 **Força pertinente ao argumento:** Sustenta crítica de mensuração; não recarga desconectada (Eric Araka, 2020).
 
@@ -44,9 +54,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Martine Baars; Olga Viberg. 2022. https://doi.org/10.4018/IJMBL.315628
 
+**DOI de identificação:** 10.4018/IJMBL.315628 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.4018/IJMBL.315628 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -68,9 +88,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** B. Brahma; P. Saikia. 2023. https://doi.org/10.4103/jehp.jehp_1106_22
 
+**DOI de identificação:** 10.4103/jehp.jehp_1106_22 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.4103/jehp.jehp_1106_22 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -92,9 +122,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Jaclyn Broadbent; E. Panadero; M. Fuller-Tyszkiewicz. 2020. https://doi.org/10.1007/s11423-020-09781-6
 
+**DOI de identificação:** 10.1007/s11423-020-09781-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s11423-020-09781-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -116,9 +156,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Yi-Chun Chen; Gwo-Jen Hwang; Chiu-Lin Lai. 2024. https://doi.org/10.1007/s10639-024-12462-z
 
+**DOI de identificação:** 10.1007/s10639-024-12462-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s10639-024-12462-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -140,9 +190,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Knut Inge Forstervold; S. Ludvigsen; Helge I. Strømsø. 2022. https://doi.org/10.1080/01443410.2022.2102582
 
+**DOI de identificação:** 10.1080/01443410.2022.2102582 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/01443410.2022.2102582 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -164,9 +224,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Jaeyun Han; D. DiGiacomo; Ellen L. Usher. 2023. https://doi.org/10.1080/03075079.2023.2201608
 
+**DOI de identificação:** 10.1080/03075079.2023.2201608 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/03075079.2023.2201608 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -188,9 +258,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Kendall Hartley; Emily Shreve; Dan Gianoutsos; Lisa D. Bendixen. 2022. https://doi.org/10.3991/ijim.v16i14.28783
 
+**DOI de identificação:** 10.3991/ijim.v16i14.28783 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3991/ijim.v16i14.28783 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no SciSpace; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -212,9 +292,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Genevieve Lim; A. Shelley; Dongcheol Heo. 2019. https://doi.org/10.34105/j.kmel.2019.11.024
 
+**DOI de identificação:** 10.34105/j.kmel.2019.11.024 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.34105/j.kmel.2019.11.024 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -236,9 +326,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** P. Limone; M. Sinatra; F. Ceglie; L. Monacis. 2020. https://doi.org/10.3390/bs10120184
 
+**DOI de identificação:** 10.3390/bs10120184 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3390/bs10120184 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -260,9 +360,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** A. Palalas; Norine Wark. 2020. https://doi.org/10.14742/ajet.5650
 
+**DOI de identificação:** 10.14742/ajet.5650 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://ajet.org.au/index.php/AJET/article/download/5650/1665 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** 156, 164–165 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** 6, 14, 15 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** PDF editorial: seções Research design, Discussion, Review limitations e recomendações consultadas; avaliação dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** PDF editorial, Discussion e Review limitations, físicas14–15/impressas164–165 (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Research outcomes; Discussion; Review limitations (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** 38 estudos; seis bases; inglês; contextos formais; falhas de relato e resultados neutros/desfavoráveis (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -284,9 +394,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Alexandra Patzak; Xiaorong Zhang; Jovita Vytasek. 2025. https://doi.org/10.3389/feduc.2025.1623228
 
+**DOI de identificação:** 10.3389/feduc.2025.1623228 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3389/feduc.2025.1623228 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no SciSpace; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -308,9 +428,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Doreen Prasse; Mary Webb; Michelle Deschênes; Séverine Parent; Franziska Aeschlimann; Yoshiko Goda; Masanori Yamada; Audrey Raynault. 2024. https://doi.org/10.1007/s10758-024-09772-z
 
+**DOI de identificação:** 10.1007/s10758-024-09772-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://link.springer.com/content/pdf/10.1007/s10758-024-09772-z.pdf (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** 1809, 1825–1827 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** 1, 17, 18, 19 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** seções Methods, Results, Discussion e lista de revisões incluídas consultadas no texto editorial aberto; avaliação dirigida, sem novo escore de viés (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Editor, §§2, 3, 4 e referências ID2 (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Abstract; 4 Discussion; 5 Conclusion (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** 27 revisões e quatro meta-análises; avaliação pelos autores; inclui Araka2020 (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -332,9 +462,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Fatemeh Sadat Taghavi-Nejad; Nasser Fallah; Behruz Lotfi Gaskaree. 2024. https://doi.org/10.1177/00332941241287423
 
+**DOI de identificação:** 10.1177/00332941241287423 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1177/00332941241287423 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -356,9 +496,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Xue Tao; H. Hanif; Lie-Qin Wang. 2025. https://doi.org/10.3389/fpsyg.2025.1562980
 
+**DOI de identificação:** 10.3389/fpsyg.2025.1562980 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3389/fpsyg.2025.1562980 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -380,9 +530,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** C. Wolters; Sungjun Won; M. Hussain. 2017. https://doi.org/10.1007/s11409-017-9174-1
 
+**DOI de identificação:** 10.1007/s11409-017-9174-1 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s11409-017-9174-1 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -403,6 +563,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 17. education_wolters2021 — College Students’ Time Management: a Self-Regulated Learning Perspective
 
 **Referência:** Christopher A. Wolters; Anna C. Brady. 2021. https://doi.org/10.1007/s10648-020-09519-z
+
+**DOI de identificação:** 10.1007/s10648-020-09519-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s10648-020-09519-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract recuperado no SciSpace; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -428,9 +598,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Jacqueline Wong; Mohammad Khalil; Vsevolod Suschevskiy; Martine Baars; Bjorn de Koning; Fred Paas. 2026. https://doi.org/10.1007/s11423-026-10586-2
 
+**DOI de identificação:** 10.1007/s11423-026-10586-2 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s11423-026-10586-2 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -452,9 +632,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Zhi-Hong Xu; Yingying Zhao; Bingsheng Zhang; J. Liew; Ashlynn Kogut. 2022. https://doi.org/10.1080/0144929X.2022.2151935
 
+**DOI de identificação:** 10.1080/0144929X.2022.2151935 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/0144929X.2022.2151935 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -476,9 +666,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Lanqin Zheng; Xin Li; Fengying Chen. 2016. https://doi.org/10.1080/14703297.2016.1259080
 
+**DOI de identificação:** 10.1080/14703297.2016.1259080 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/14703297.2016.1259080 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract recuperado no Consensus; texto integral não avaliado sistematicamente (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -500,9 +700,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** C. Azionya; Abyshey Nhedzi. 2021. https://doi.org/10.17718/tojde.1002822
 
+**DOI de identificação:** 10.17718/tojde.1002822 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://dergipark.org.tr/en/pub/tojde/article/1002822 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -524,9 +734,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Concepción Batanero-Ochaíta; Luis de-Marcos; Luis Felipe Rivera; J. Holvikivi; J. Hilera; Salvador Otón Tortosa. 2021. https://doi.org/10.1109/ACCESS.2021.3095041
 
+**DOI de identificação:** 10.1109/ACCESS.2021.3095041 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://ebuah.uah.es/dspace/handle/10017/55403 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -547,6 +767,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 23. bong2021 — Increasing faculty’s competence in digital accessibility for inclusive education: a systematic literature review
 
 **Referência:** W. K. Bong; Wei-Qin Chen. 2021. https://doi.org/10.1080/13603116.2021.1937344
+
+**DOI de identificação:** 10.1080/13603116.2021.1937344 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/13603116.2021.1937344 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -572,9 +802,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Gi Woong Choi; JooYoung Seo. 2024. https://doi.org/10.1007/s11528-024-00987-6
 
+**DOI de identificação:** 10.1007/s11528-024-00987-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s11528-024-00987-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -596,9 +836,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Pierre-Antoine Cinquin; P. Guitton; H. Sauzéon. 2019. https://doi.org/10.1016/j.compedu.2018.12.004
 
+**DOI de identificação:** 10.1016/j.compedu.2018.12.004 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.compedu.2018.12.004 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -620,9 +870,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** M. Ahmad Faudzi; Zaihisma Che Cob; Ridha Omar; Sharul Azim Sharudin; Masitah Ghazali. 2023. https://doi.org/10.3390/educsci13010094
 
+**DOI de identificação:** 10.3390/educsci13010094 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://www.mdpi.com/2227-7102/13/1/94 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -644,9 +904,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Wejdan Farhan; Jamil Razmak. 2020. https://doi.org/10.1080/17483107.2020.1786733
 
+**DOI de identificação:** 10.1080/17483107.2020.1786733 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://www.tandfonline.com/doi/full/10.1080/17483107.2020.1786733 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -667,6 +937,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 28. gobbo2023 — Emerging Themes for Digital Accessibility in Education
 
 **Referência:** José Alcides Gobbo; B. Bezerra. 2023. https://doi.org/10.3390/su151411392
+
+**DOI de identificação:** 10.3390/su151411392 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3390/su151411392 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -692,9 +972,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Congbin Guo; Boshen Wan. 2022. https://doi.org/10.1016/j.techsoc.2022.102122
 
+**DOI de identificação:** 10.1016/j.techsoc.2022.102122 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.techsoc.2022.102122 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -716,9 +1006,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** S. Jamil; G. Muschert. 2023. https://doi.org/10.1177/00027642231156779
 
+**DOI de identificação:** 10.1177/00027642231156779 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://journals.sagepub.com/doi/10.1177/00027642231156779 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -739,6 +1039,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 31. kumar2017 — Usability of mobile learning applications: a systematic literature review
 
 **Referência:** B. Kumar; P. Mohite. 2017. https://doi.org/10.1007/s40692-017-0093-6
+
+**DOI de identificação:** 10.1007/s40692-017-0093-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s40692-017-0093-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -764,9 +1074,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** B. Kumar; M. S. Goundar; S. Chand. 2019. https://doi.org/10.1007/s10639-019-09937-9
 
+**DOI de identificação:** 10.1007/s10639-019-09937-9 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s10639-019-09937-9 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -787,6 +1107,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 33. kumarmapping2024 — Usability testing of mobile learning applications: a systematic mapping study
 
 **Referência:** B. Kumar; S. Chand; M. S. Goundar. 2024. https://doi.org/10.1108/IJILT-03-2023-0029
+
+**DOI de identificação:** 10.1108/IJILT-03-2023-0029 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1108/IJILT-03-2023-0029 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -812,9 +1142,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Alex Kumi-Yeboah; YangHyun Kim; Yaa Essah Armah. 2023. https://doi.org/10.1111/bjet.13356
 
+**DOI de identificação:** 10.1111/bjet.13356 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -836,9 +1176,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Flávia Linhalis; Thiago Máximo Pavão; André Constantino da Silva. 2026. https://doi.org/10.17398/1695-288X.25.1.59
 
+**DOI de identificação:** 10.17398/1695-288X.25.1.59 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://relatec.unex.es/index.php/relatec/article/view/4851 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** SciSpace abstract plus publisher indexed metadata; direct publisher fetch 403 (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -859,6 +1209,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 36. martin2024 — From digital divide to digital equity: Systematic review of two decades of research on educational digital divide factors, dimensions, and interventions
 
 **Referência:** Florence Martin; E. Ceviker; T. Gezer. 2024. https://doi.org/10.1080/15391523.2024.2425442
+
+**DOI de identificação:** 10.1080/15391523.2024.2425442 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/15391523.2024.2425442 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -884,9 +1244,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** A. Mathrani; Tarushikha Sarvesh; R. Umer. 2021. https://doi.org/10.1080/14767724.2021.1981253
 
+**DOI de identificação:** 10.1080/14767724.2021.1981253 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://www.tandfonline.com/doi/full/10.1080/14767724.2021.1981253 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -908,9 +1278,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Q. Naveed; Heena Choudhary; Naim Ahmad; Jarallah Alqahtani; A. Qahmash. 2023. https://doi.org/10.3390/su151813566
 
+**DOI de identificação:** 10.3390/su151813566 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://www.mdpi.com/2071-1050/15/18/13566 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -932,9 +1312,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Lumpapun Punchoojit; Nuttanont Hongwarittorrn. 2017. https://doi.org/10.1155/2017/6787504
 
+**DOI de identificação:** 10.1155/2017/6787504 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://onlinelibrary.wiley.com/doi/10.1155/2017/6787504 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** publisher_open_access_page; metadata_and_relevant_sections_inspected (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -956,9 +1346,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** H. G. van de Werfhorst; Emma Kessenich; Sara Geven. 2022. https://doi.org/10.1016/j.caeo.2022.100100
 
+**DOI de identificação:** 10.1016/j.caeo.2022.100100 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://www.sciencedirect.com/science/article/pii/S2666557322000295 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_metadata_only; full_text_not_assessed (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -979,6 +1379,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 41. OS01 — The Remote on the Local: Exacerbating Web Attacks Via Service Workers Caches
 
 **Referência:** Marco Squarcina; Stefano Calzavara; Matteo Maffei. 2021. https://doi.org/10.1109/SPW53761.2021.00062
+
+**DOI de identificação:** 10.1109/SPW53761.2021.00062 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/SPW53761.2021.00062 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1004,6 +1414,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Karthika Subramani; Jordan Jueckstock; Alexandros Kapravelos; Roberto Perdisci. 2022. https://doi.org/10.1109/EuroSP53844.2022.00041
 
+**DOI de identificação:** 10.1109/EuroSP53844.2022.00041 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/EuroSP53844.2022.00041 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract and first-page primary metadata read; full paper not evaluated (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Localizador consultado:** PDF primário e metadados recuperados no corpus anterior (registro de leitura/proposta, sem fonte externa atribuída).
@@ -1028,9 +1448,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Soroush Karami; Panagiotis Ilia; Jason Polakis. 2021. https://doi.org/10.14722/NDSS.2021.23104
 
+**DOI de identificação:** 10.14722/NDSS.2021.23104 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.14722/NDSS.2021.23104 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1052,9 +1482,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Florian Dehling; Tobias Mengel; Luigi Lo Iacono. 2019. https://doi.org/10.1007/978-3-030-35055-0_2
 
+**DOI de identificação:** 10.1007/978-3-030-35055-0_2 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/978-3-030-35055-0_2 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1076,9 +1516,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Julian Haas; Ragnar Mogk; Elena Yanakieva; Annette Bieniusa; Mira Mezini. 2023. https://doi.org/10.1145/3633769
 
+**DOI de identificação:** 10.1145/3633769 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3633769 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1100,9 +1550,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Geoffrey Litt; B. Jackson. 2022. https://doi.org/10.1145/3517209.3524041
 
+**DOI de identificação:** 10.1145/3517209.3524041 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3517209.3524041 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1124,9 +1584,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Michael MacFadden; Meikang Qiu. 2022. https://doi.org/10.1109/SmartCloud55982.2022.00037
 
+**DOI de identificação:** 10.1109/SmartCloud55982.2022.00037 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/SmartCloud55982.2022.00037 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1148,9 +1618,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Kristof Jannes; Emad Heydari Beni; Bert Lagaisse; Wouter Joosen. 2023. https://doi.org/10.1109/TPDS.2023.3241963
 
+**DOI de identificação:** 10.1109/TPDS.2023.3241963 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/TPDS.2023.3241963 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1172,9 +1652,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Anirudh Ekambaranathan; Jun Zhao; George Chalhoub. 2023. https://doi.org/10.1145/3596267
 
+**DOI de identificação:** 10.1145/3596267 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3596267 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1196,9 +1686,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Moritz Gruber; Christian Höfig; Maximilian Golla; Tobias Urban; Matteo Große-Kampmann. 2022. https://doi.org/10.56553/popets-2022-0078
 
+**DOI de identificação:** 10.56553/popets-2022-0078 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.56553/popets-2022-0078 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1220,9 +1720,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Jun Zhao; Blanche Duron; Ge Wang. 2022. https://doi.org/10.1145/3501712.3535278
 
+**DOI de identificação:** 10.1145/3501712.3535278 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3501712.3535278 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1244,9 +1754,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Ruoxi Sun; Minhui Xue; Gareth Tyson; Shuang Wang; Seyit Camtepe; Surya Nepal. 2023. https://doi.org/10.1145/3543507.3583327
 
+**DOI de identificação:** 10.1145/3543507.3583327 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3543507.3583327 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1267,6 +1787,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 53. OS18 — Security Issues in the Use of Mobile Educational Apps: A Review
 
 **Referência:** Emmanuel O.C. Mkpojiogu; Azham Hussain; Monday Onah Agbudu. 2021. https://doi.org/10.3991/IJIM.V15I06.20631
+
+**DOI de identificação:** 10.3991/IJIM.V15I06.20631 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3991/IJIM.V15I06.20631 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1292,9 +1822,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Pingfan Kong; Li Li; Jun Gao; Kui Liu; Tegawendé F. Bissyandé; Jacques Klein. 2019. https://doi.org/10.1109/TR.2018.2865733
 
+**DOI de identificação:** 10.1109/TR.2018.2865733 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/TR.2018.2865733 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1316,9 +1856,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Natnael Gonfa Berihun; Cyrille Dongmo; J. A. van der Poll. 2023. https://doi.org/10.3390/computers12050097
 
+**DOI de identificação:** 10.3390/computers12050097 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.3390/computers12050097 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1340,9 +1890,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Porfirio Tramontana; Domenico Amalfitano; Nicola Amatucci; A. Fasolino. 2018. https://doi.org/10.1007/s11219-018-9418-6
 
+**DOI de identificação:** 10.1007/s11219-018-9418-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s11219-018-9418-6 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1363,6 +1923,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 57. eng04 — Systematic reviews in mobile app software engineering: A tertiary study
 
 **Referência:** Samer Zein; Norsaremah Salleh; John C. Grundy. 2023. https://doi.org/10.1016/j.infsof.2023.107323
+
+**DOI de identificação:** 10.1016/j.infsof.2023.107323 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.infsof.2023.107323 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_from_search; fetch_metadata_only (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1388,9 +1958,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Samer Zein; Norsaremah Salleh; J. Grundy. 2016. https://doi.org/10.1016/j.jss.2016.03.065
 
+**DOI de identificação:** 10.1016/j.jss.2016.03.065 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.jss.2016.03.065 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_search; fetch_metadata_only (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1411,6 +1991,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 59. eng06 — Dynamic Testing Techniques of Non-functional Requirements in Mobile Apps: A Systematic Mapping Study
 
 **Referência:** Misael C. Júnior; Domenico Amalfitano; Lina Garcés; A. Fasolino; Stevão A. Andrade; M. Delamaro. 2022. https://doi.org/10.1145/3507903
+
+**DOI de identificação:** 10.1145/3507903 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3507903 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** resumo e seções Methods, Background, Discussion e Threats to Validity recuperadas na página ACM; avaliação dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1436,9 +2026,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** H. Weigand; P. Johannesson. 2023. https://doi.org/10.1109/CBI58679.2023.10187511
 
+**DOI de identificação:** 10.1109/CBI58679.2023.10187511 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/CBI58679.2023.10187511 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1460,9 +2060,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Jesus M. Gonzalez-Barahona; G. Robles. 2023. https://doi.org/10.1016/j.infsof.2023.107318
 
+**DOI de identificação:** 10.1016/j.infsof.2023.107318 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.infsof.2023.107318 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_search; fetch_metadata_only (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1484,9 +2094,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Chao Liu; Cui-Yun Gao; Xin Xia; David Lo; John C. Grundy; Xiao-Hu Yang. 2022. https://doi.org/10.1145/3477535
 
+**DOI de identificação:** 10.1145/3477535 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3477535 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1507,6 +2127,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 63. eng11 — Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study
 
 **Referência:** Carlos E. Anchundia; Efraín R. Fonseca C.. 2020. https://doi.org/10.1109/ACCESS.2020.2964587
+
+**DOI de identificação:** 10.1109/ACCESS.2020.2964587 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/ACCESS.2020.2964587 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1532,9 +2162,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Daniel Amador dos Santos; E. D. de Almeida; Iftekhar Ahmed. 2022. https://doi.org/10.1016/j.infsof.2022.106870
 
+**DOI de identificação:** 10.1016/j.infsof.2022.106870 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.infsof.2022.106870 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_search; fetch_metadata_only (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1556,9 +2196,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** M. Shepperd; N. Ajienka; S. Counsell. 2018. https://doi.org/10.1016/j.infsof.2018.01.006
 
+**DOI de identificação:** 10.1016/j.infsof.2018.01.006 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.infsof.2018.01.006 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_search; fetch_metadata_only (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1580,9 +2230,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Mojtaba Shahin; Muhammad Ali Babar; Li-Ming Zhu. 2017. https://doi.org/10.1109/ACCESS.2017.2685629
 
+**DOI de identificação:** 10.1109/ACCESS.2017.2685629 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/ACCESS.2017.2685629 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1603,6 +2263,16 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 ## 67. eng15 — The effects of continuous integration on software development: a systematic literature review
 
 **Referência:** Eliezio Soares; Gustavo Sizílio; Jadson Santos; Daniel Alencar da Costa; U. Kulesza. 2022. https://doi.org/10.1007/s10664-021-10114-1
+
+**DOI de identificação:** 10.1007/s10664-021-10114-1 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1007/s10664-021-10114-1 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1628,9 +2298,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Omar Elazhary; Colin M. Werner; Ze-Shi Li; Derek Lowlind; Neil A. Ernst; M. Storey. 2021. https://doi.org/10.1109/TSE.2021.3064953
 
+**DOI de identificação:** 10.1109/TSE.2021.3064953 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/TSE.2021.3064953 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_Consensus_fetch; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1652,9 +2332,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** C. Guevara-Vega; B. Bernárdez; Margarita Cruz; A. Durán; Antonio Ruiz-Cortés; Martin Solari. 2024. https://doi.org/10.1016/j.jss.2024.112187
 
+**DOI de identificação:** 10.1016/j.jss.2024.112187 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1016/j.jss.2024.112187 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_from_search; fetch_metadata_only (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1676,9 +2366,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Richard Baskerville; Jan Pries-Heje; John R. Venable. 2026. https://doi.org/10.1080/0960085X.2026.2627280
 
+**DOI de identificação:** 10.1080/0960085X.2026.2627280 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1080/0960085X.2026.2627280 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** Consensus fetched abstract + publisher metadata; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1700,9 +2400,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Matthew J. Page; Joanne E. McKenzie; Patrick M.M. Bossuyt; Isabelle Boutron; Tammy Hoffmann; Cynthia D. Mulrow; Larissa Shamseer; Jennifer Tetzlaff; Elie A. Akl; Sue E. Brennan; Roger Chou; Julie Glanville; Jeremy M. Grimshaw; Asbjørn Hróbjartsson; Manoj M. Lalu; Tianjing Li; Elizabeth Loder; Evan Mayo-Wilson; Steve McDonald; Luke A McGuinness; Lesley A. Stewart; James Thomas; Andrea C. Tricco; Vivian Welch; Penny Whiting; David Moher. 2021. https://doi.org/10.1136/bmj.n71
 
+**DOI de identificação:** 10.1136/bmj.n71 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1136/bmj.n71 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1724,9 +2434,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Matthew J. Page; David Moher; Patrick M.M. Bossuyt; Isabelle Boutron; Tammy Hoffmann; Cynthia D. Mulrow; Larissa Shamseer; Jennifer Tetzlaff; Elie A. Akl; Sue E. Brennan; Roger Chou; Julie Glanville; Jeremy M. Grimshaw; Asbjørn Hróbjartsson; Manoj M. Lalu; Tianjing Li; Elizabeth Loder; Evan Mayo-Wilson; Steve McDonald; Luke A McGuinness; Lesley A. Stewart; James Thomas; Andrea C. Tricco; Vivian Welch; Penny Whiting; Joanne E. McKenzie. 2021. https://doi.org/10.1136/bmj.n160
 
+**DOI de identificação:** 10.1136/bmj.n160 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1136/bmj.n160 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1748,9 +2468,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Melissa L. Rethlefsen; Shona Kirtley; Siw Waffenschmidt; Ana Patricia Ayala; David Moher; Matthew J. Page; Jonathan Koffel; PRISMA-S Group. 2021. https://doi.org/10.1186/s13643-020-01542-z
 
+**DOI de identificação:** 10.1186/s13643-020-01542-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1186/s13643-020-01542-z (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1772,9 +2502,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Marcus R. Munafò; Brian A. Nosek; Dorothy V. M. Bishop; Katherine S. Button; Christopher D. Chambers; Nathalie Percie du Sert; Uri Simonsohn; Eric-Jan Wagenmakers; Jennifer J. Ware; John P. A. Ioannidis. 2017. https://doi.org/10.1038/s41562-016-0021
 
+**DOI de identificação:** 10.1038/s41562-016-0021 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1038/s41562-016-0021 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1796,9 +2536,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Tomáš Foltýnek; Norman Meuschke; Bela Gipp. 2019. https://doi.org/10.1145/3345317
 
+**DOI de identificação:** 10.1145/3345317 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1145/3345317 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1820,9 +2570,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** William H. Walters; Esther Isabelle Wilder. 2023. https://doi.org/10.1038/s41598-023-41032-5
 
+**DOI de identificação:** 10.1038/s41598-023-41032-5 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1038/s41598-023-41032-5 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_and_methods_section_read; full_text_not_comprehensively_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1844,9 +2604,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Mehul Bhattacharyya; Valerie M. Miller; Debjani Bhattacharyya; Larry E. Miller. 2023. https://doi.org/10.7759/cureus.39238
 
+**DOI de identificação:** 10.7759/cureus.39238 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.7759/cureus.39238 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1868,9 +2638,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Atish Kumar Dipongkor; Rayhanul Islam; Md. Shafiuzzaman; Asif Nashiry; Syed Md. Galib; Khaza Moinuddin Mazumder. 2021. https://doi.org/10.1109/icievicivpr52578.2021.9564123
 
+**DOI de identificação:** 10.1109/icievicivpr52578.2021.9564123 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://doi.org/10.1109/icievicivpr52578.2021.9564123 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** Página do trecho não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** Posição não conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_pendente (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** abstract_read; full_text_not_read (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo/metadados; página de suporte não conferida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Método e amostra não extraídos nesta ficha; consultar o original (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1892,9 +2672,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Ernesto Panadero. 2017. https://doi.org/10.3389/fpsyg.2017.00422
 
+**DOI de identificação:** 10.3389/fpsyg.2017.00422 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/pdf (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** 1, 3 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** 1, 3 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** seções de definição, modelo cíclico e instrumentos consultadas no texto editorial aberto; avaliação dirigida, não leitura crítica integral uniforme (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** Texto editorial, Zimmerman’s Cyclical Phases Model (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** Resumo; Zimmerman’s Cyclical Phases Model (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Três fases e componentes cognitivos, motivacionais e afetivos (registro de leitura/proposta, sem fonte externa atribuída).
 
@@ -1916,9 +2706,19 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Referência:** Hannah Snyder. 2019. https://doi.org/10.1016/j.jbusres.2019.07.039
 
+**DOI de identificação:** 10.1016/j.jbusres.2019.07.039 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**URL de leitura/registro:** https://fenix.iseg.ulisboa.pt/downloadFile/281608120804966/Guidelines%20Snyder%202019.pdf (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Página impressa do trecho:** 336–337 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Posição da página no arquivo PDF:** 4, 5 (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Conferência da paginação:** pagina_conferida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Acesso efetivo:** seções de tipos, desenho, seleção, análise e relato consultadas em PDF do artigo depositado na Universidade de Lisboa (registro de leitura/proposta, sem fonte externa atribuída).
 
-**Localizador consultado:** PDF institucional, seções 2.2 e 3, páginas físicas 4–5 (registro de leitura/proposta, sem fonte externa atribuída).
+**Localizador consultado:** 2.2; 3; 3.3 (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Método observado:** Tipo de revisão, seleção, extração e relato orientados à pergunta (registro de leitura/proposta, sem fonte externa atribuída).
 

@@ -7,6 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 import fitz
 import audit_latex
+from source_citations import citation
 
 class EditorialAuditTests(unittest.TestCase):
     def test_document_without_pages_is_rejected(self):
@@ -75,6 +76,21 @@ class EditorialAuditTests(unittest.TestCase):
         with self.source_fixture() as (root,selected):
             (root/'study/literature/selected.json').write_text(json.dumps(selected[:79]))
             with self.assertRaises(AssertionError):audit_latex.audit_sources()
+
+
+    def test_unverified_page_note_is_not_emitted(self):
+        records={'source':{'status':'pagina_pendente','citation_locator':'p. 99'}}
+        self.assertEqual(citation(['source'],records=records),r'\citep{source}')
+
+    def test_verified_page_note_is_emitted(self):
+        records={'source':{'status':'pagina_conferida','citation_locator':'p. 336–337'}}
+        self.assertEqual(citation(['source'],records=records),r'\citep[p. 336–337]{source}')
+
+    def test_source_audit_accepts_optional_locator(self):
+        with self.source_fixture() as (root,selected):
+            path=root/'paper/artigo.tex'
+            path.write_text(path.read_text().replace(r'\citep{',r'\citep[sec. Abstract]{',1))
+            self.assertEqual(audit_latex.audit_sources()['artigo']['scientific_publications_cited'],80)
 
 if __name__ == '__main__':
     unittest.main()

@@ -1,5 +1,11 @@
 [
   {
+    "doi": "10.1186/s41039-020-00129-5",
+    "doi_url": "https://doi.org/10.1186/s41039-020-00129-5",
+    "reading_url": "https://link.springer.com/content/pdf/10.1186/s41039-020-00129-5.pdf",
+    "pages_printed": "4, 15–16",
+    "pages_pdf": "4, 15, 16",
+    "locator_status": "pagina_conferida",
     "key": "education_araka2020",
     "reference": [
       "Eric Araka",
@@ -12,9 +18,9 @@
     "url": "https://doi.org/10.1186/s41039-020-00129-5",
     "kind": "Revisão sistemática",
     "access": "seções Introdução, Methodology, Quality assessment and selection criteria e Results consultadas no texto editorial aberto; avaliação dirigida, não integral uniforme",
-    "location": "Editor, Previous review studies, Methodology e Results",
+    "location": "Previous review studies; RQ4; Discussion",
     "methods_observed": "30 artigos selecionados; foco de perguntas e elegibilidade em ensino superior",
-    "finding": "Revisão identificou uso continuado de instrumentos de sala presencial para medir autorregulação em ambientes digitais e lacunas em análises de registros.",
+    "finding": "A revisão descreve a passagem de autorrelatos para análises de registros digitais, com desafios de interpretação.",
     "limit": "Período 2008–2018; medir atividades digitais não equivale a medir aprendizagem. Offline refere-se à posição temporal da medida; instrumentos não transferidos automaticamente ao curso técnico",
     "strength": "Sustenta crítica de mensuração; não recarga desconectada",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
@@ -27,6 +33,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.4018/IJMBL.315628",
+    "doi_url": "https://doi.org/10.4018/IJMBL.315628",
+    "reading_url": "https://doi.org/10.4018/IJMBL.315628",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_baars2022",
     "reference": [
       "Martine Baars",
@@ -37,7 +49,7 @@
     "url": "https://doi.org/10.4018/IJMBL.315628",
     "kind": "Revisão teórica",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Revisão teórica discute suporte móvel oportuno a planejamento, monitoramento, reflexão e estratégias de aprendizagem.",
     "limit": "Não é ensaio de um planejador; oportunidades conceituais não são eficácia demonstrada. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -50,6 +62,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.4103/jehp.jehp_1106_22",
+    "doi_url": "https://doi.org/10.4103/jehp.jehp_1106_22",
+    "reading_url": "https://doi.org/10.4103/jehp.jehp_1106_22",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_brahma2023",
     "reference": [
       "B. Brahma",
@@ -60,7 +78,7 @@
     "url": "https://doi.org/10.4103/jehp.jehp_1106_22",
     "kind": "Levantamento descritivo",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Levantamento com 142 universitários encontrou associação negativa entre autorregulação e procrastinação acadêmica.",
     "limit": "Questionários e regressão não demonstram causalidade nem validade local para alunos do ADS. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -73,6 +91,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s11423-020-09781-6",
+    "doi_url": "https://doi.org/10.1007/s11423-020-09781-6",
+    "reading_url": "https://doi.org/10.1007/s11423-020-09781-6",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_broadbent2020",
     "reference": [
       "Jaclyn Broadbent",
@@ -84,7 +108,7 @@
     "url": "https://doi.org/10.1007/s11423-020-09781-6",
     "kind": "Estudo randomizado controlado",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em 73 universitários, condição combinando treinamento online e diários móveis apresentou maiores melhorias em componentes autorregulatórios.",
     "limit": "Intervenção combinada impede atribuir o resultado ao diário isolado ou a qualquer aplicativo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -97,6 +121,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s10639-024-12462-z",
+    "doi_url": "https://doi.org/10.1007/s10639-024-12462-z",
+    "reading_url": "https://doi.org/10.1007/s10639-024-12462-z",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_chen2024",
     "reference": [
       "Yi-Chun Chen",
@@ -108,7 +138,7 @@
     "url": "https://doi.org/10.1007/s10639-024-12462-z",
     "kind": "Experimento educacional",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em duas turmas de 22 participantes, abordagem móvel gamificada melhorou desempenho, definição de metas e reflexão, mas não monitoramento.",
     "limit": "Amostra pequena; gamificação e instrução diferem de organizador local de tarefas. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -121,6 +151,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/01443410.2022.2102582",
+    "doi_url": "https://doi.org/10.1080/01443410.2022.2102582",
+    "reading_url": "https://doi.org/10.1080/01443410.2022.2102582",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_forstervold2022",
     "reference": [
       "Knut Inge Forstervold",
@@ -132,7 +168,7 @@
     "url": "https://doi.org/10.1080/01443410.2022.2102582",
     "kind": "Estudo observacional com SEM",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em 8.907 universitários durante a pandemia, motivação e procrastinação relacionaram-se à gestão do tempo e regulação do esforço.",
     "limit": "Contexto de emergência e relações observacionais não generalizam automaticamente para ensino técnico. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -145,6 +181,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/03075079.2023.2201608",
+    "doi_url": "https://doi.org/10.1080/03075079.2023.2201608",
+    "reading_url": "https://doi.org/10.1080/03075079.2023.2201608",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_han2023",
     "reference": [
       "Jaeyun Han",
@@ -156,7 +198,7 @@
     "url": "https://doi.org/10.1080/03075079.2023.2201608",
     "kind": "Estudo de métodos mistos",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em 1.216 universitários, autoeficácia autorregulatória e procrastinação apresentaram relações recíprocas; gestão do tempo foi dificuldade recorrente.",
     "limit": "Cursos assíncronos durante COVID-19; não testa aplicativo offline. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -169,6 +211,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3991/ijim.v16i14.28783",
+    "doi_url": "https://doi.org/10.3991/ijim.v16i14.28783",
+    "reading_url": "https://doi.org/10.3991/ijim.v16i14.28783",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_hartley2022",
     "reference": [
       "Kendall Hartley",
@@ -181,7 +229,7 @@
     "url": "https://doi.org/10.3991/ijim.v16i14.28783",
     "kind": "Estudo observacional",
     "access": "abstract recuperado no SciSpace; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Planejamento por smartphone e agenda associou-se a habilidades autorregulatórias; modelos apresentaram associações diferentes com notas.",
     "limit": "Associação negativa de smartphone e positiva de agenda sob controle estatístico não é causalidade nem avalia este aplicativo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -194,6 +242,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.34105/j.kmel.2019.11.024",
+    "doi_url": "https://doi.org/10.34105/j.kmel.2019.11.024",
+    "reading_url": "https://doi.org/10.34105/j.kmel.2019.11.024",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_lim2019",
     "reference": [
       "Genevieve Lim",
@@ -205,7 +259,7 @@
     "url": "https://doi.org/10.34105/j.kmel.2019.11.024",
     "kind": "Pesquisa-ação qualitativa",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Duas pesquisas-ação descrevem regulação não linear e construção compartilhada de conhecimento em aprendizagem móvel colaborativa.",
     "limit": "Contexto colaborativo qualitativo não valida planejador individual nem produz estimativa causal. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -218,6 +272,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3390/bs10120184",
+    "doi_url": "https://doi.org/10.3390/bs10120184",
+    "reading_url": "https://doi.org/10.3390/bs10120184",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_limone2020",
     "reference": [
       "P. Limone",
@@ -230,7 +290,7 @@
     "url": "https://doi.org/10.3390/bs10120184",
     "kind": "Estudo transversal",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em 450 universitários, estratégias metacognitivas e gestão do tempo foram examinadas como preditores de procrastinação.",
     "limit": "Desenho transversal não estabelece causalidade; contexto universitário específico. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -243,6 +303,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.14742/ajet.5650",
+    "doi_url": "https://doi.org/10.14742/ajet.5650",
+    "reading_url": "https://ajet.org.au/index.php/AJET/article/download/5650/1665",
+    "pages_printed": "156, 164–165",
+    "pages_pdf": "6, 14, 15",
+    "locator_status": "pagina_conferida",
     "key": "education_palalas2020",
     "reference": [
       "A. Palalas",
@@ -253,7 +319,7 @@
     "url": "https://doi.org/10.14742/ajet.5650",
     "kind": "Revisão sistemática",
     "access": "PDF editorial: seções Research design, Discussion, Review limitations e recomendações consultadas; avaliação dirigida",
-    "location": "PDF editorial, Discussion e Review limitations, físicas14–15/impressas164–165",
+    "location": "Research outcomes; Discussion; Review limitations",
     "methods_observed": "38 estudos; seis bases; inglês; contextos formais; falhas de relato e resultados neutros/desfavoráveis",
     "finding": "Revisão de 38 estudos descreveu relação complexa entre aprendizagem móvel e autorregulação e recomendou integração curricular intencional.",
     "limit": "Síntese heterogênea de 2007–2019 não demonstra efeito de todo app móvel. Não combinar relatos positivos em novo efeito causal; amostras e contextos diferentes",
@@ -268,6 +334,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.3389/feduc.2025.1623228",
+    "doi_url": "https://doi.org/10.3389/feduc.2025.1623228",
+    "reading_url": "https://doi.org/10.3389/feduc.2025.1623228",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_patzak2025",
     "reference": [
       "Alexandra Patzak",
@@ -279,7 +351,7 @@
     "url": "https://doi.org/10.3389/feduc.2025.1623228",
     "kind": "Revisão sistemática",
     "access": "abstract recuperado no SciSpace; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Revisão de 107 estudos identificou planejamento, metas, priorização e organização de tarefas entre estratégias relevantes.",
     "limit": "Inclui educação e trabalho, artigos e dissertações; não demonstra efeito do MVP nem padroniza medida universal. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -292,6 +364,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s10758-024-09772-z",
+    "doi_url": "https://doi.org/10.1007/s10758-024-09772-z",
+    "reading_url": "https://link.springer.com/content/pdf/10.1007/s10758-024-09772-z.pdf",
+    "pages_printed": "1809, 1825–1827",
+    "pages_pdf": "1, 17, 18, 19",
+    "locator_status": "pagina_conferida",
     "key": "education_prasse2024",
     "reference": [
       "Doreen Prasse",
@@ -308,7 +386,7 @@
     "url": "https://doi.org/10.1007/s10758-024-09772-z",
     "kind": "Revisão guarda-chuva",
     "access": "seções Methods, Results, Discussion e lista de revisões incluídas consultadas no texto editorial aberto; avaliação dirigida, sem novo escore de viés",
-    "location": "Editor, §§2, 3, 4 e referências ID2",
+    "location": "Abstract; 4 Discussion; 5 Conclusion",
     "methods_observed": "27 revisões e quatro meta-análises; avaliação pelos autores; inclui Araka2020",
     "finding": "Síntese de 31 revisões e meta-análises recomenda suportes autorregulatórios integrados ao longo do ciclo de aprendizagem.",
     "limit": "Revisões com contextos diversos; recomendação de desenho não constitui validação deste MVP. Sobreposição confirmada; predominância de ensino superior; sem novo julgamento formal de viés",
@@ -323,6 +401,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1177/00332941241287423",
+    "doi_url": "https://doi.org/10.1177/00332941241287423",
+    "reading_url": "https://doi.org/10.1177/00332941241287423",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_taghavi2024",
     "reference": [
       "Fatemeh Sadat Taghavi-Nejad",
@@ -334,7 +418,7 @@
     "url": "https://doi.org/10.1177/00332941241287423",
     "kind": "Estudo observacional com SEM",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em 272 universitários iranianos de inglês, maior autorregulação e controle atencional associaram-se a menor procrastinação.",
     "limit": "Amostra por conveniência e autorrelato; registro Consensus omitiu terceiro autor, corrigido pelo editor; 2024 online e 2026 fascículo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -347,6 +431,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3389/fpsyg.2025.1562980",
+    "doi_url": "https://doi.org/10.3389/fpsyg.2025.1562980",
+    "reading_url": "https://doi.org/10.3389/fpsyg.2025.1562980",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_tao2025",
     "reference": [
       "Xue Tao",
@@ -358,7 +448,7 @@
     "url": "https://doi.org/10.3389/fpsyg.2025.1562980",
     "kind": "Estudo quantitativo com SEM",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em 239 universitários de inglês como língua estrangeira, gestão do tempo e regulação do esforço associaram-se negativamente à procrastinação.",
     "limit": "Modelo de associações não demonstra eficácia de um planejador; população específica. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -371,6 +461,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s11409-017-9174-1",
+    "doi_url": "https://doi.org/10.1007/s11409-017-9174-1",
+    "reading_url": "https://doi.org/10.1007/s11409-017-9174-1",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_wolters2017",
     "reference": [
       "C. Wolters",
@@ -382,7 +478,7 @@
     "url": "https://doi.org/10.1007/s11409-017-9174-1",
     "kind": "Estudo observacional",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Em levantamento com 446 universitários, gestão do tempo contribuiu à predição de procrastinação além de variáveis motivacionais e estratégicas.",
     "limit": "Autorrelato e regressão não estabelecem efeito causal de um aplicativo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -395,6 +491,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s10648-020-09519-z",
+    "doi_url": "https://doi.org/10.1007/s10648-020-09519-z",
+    "reading_url": "https://doi.org/10.1007/s10648-020-09519-z",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_wolters2021",
     "reference": [
       "Christopher A. Wolters",
@@ -418,6 +520,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1007/s11423-026-10586-2",
+    "doi_url": "https://doi.org/10.1007/s11423-026-10586-2",
+    "reading_url": "https://doi.org/10.1007/s11423-026-10586-2",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_wong2026",
     "reference": [
       "Jacqueline Wong",
@@ -432,7 +540,7 @@
     "url": "https://doi.org/10.1007/s11423-026-10586-2",
     "kind": "Estudo de learning analytics",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Estudo identificou perfis ativo, desengajado e utilitário em app de prática de recuperação; autoeficácia e gestão do tempo predisseram notas.",
     "limit": "Perfis e associações não são efeito causal de uso de aplicativo; app inclui prática de recuperação ausente neste MVP. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -445,6 +553,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/0144929X.2022.2151935",
+    "doi_url": "https://doi.org/10.1080/0144929X.2022.2151935",
+    "reading_url": "https://doi.org/10.1080/0144929X.2022.2151935",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_xu2022",
     "reference": [
       "Zhi-Hong Xu",
@@ -458,7 +572,7 @@
     "url": "https://doi.org/10.1080/0144929X.2022.2151935",
     "kind": "Meta-análise",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Meta-análise encontrou efeito positivo moderado de intervenções de autorregulação no desempenho em ambientes online e híbridos.",
     "limit": "Intervenções e níveis escolares heterogêneos; efeito agrupado não valida EstudaOffline; 2022 online e 2023 fascículo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -471,6 +585,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/14703297.2016.1259080",
+    "doi_url": "https://doi.org/10.1080/14703297.2016.1259080",
+    "reading_url": "https://doi.org/10.1080/14703297.2016.1259080",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "education_zheng2016",
     "reference": [
       "Lanqin Zheng",
@@ -482,7 +602,7 @@
     "url": "https://doi.org/10.1080/14703297.2016.1259080",
     "kind": "Experimento educacional",
     "access": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Experimento com 60 graduandos encontrou melhores resultados e autorregulação em leitura de inglês apoiada por mecanismo móvel autorregulatório.",
     "limit": "Intervenção específica de leitura; 2016 online e 2018 fascículo; não transfere efeito ao EstudaOffline. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -495,6 +615,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.17718/tojde.1002822",
+    "doi_url": "https://doi.org/10.17718/tojde.1002822",
+    "reading_url": "https://dergipark.org.tr/en/pub/tojde/article/1002822",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "azionya2021",
     "reference": [
       "C. Azionya",
@@ -505,7 +631,7 @@
     "url": "https://doi.org/10.17718/tojde.1002822",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Cobertura de rede, dispositivo e condições socioeconômicas afetam participação em ensino síncrono.",
     "limit": "Netnografia de tweets, com seleção de usuários de rede social; não representa todos os estudantes. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -518,6 +644,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/ACCESS.2021.3095041",
+    "doi_url": "https://doi.org/10.1109/ACCESS.2021.3095041",
+    "reading_url": "https://ebuah.uah.es/dspace/handle/10017/55403",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "batanero2021",
     "reference": [
       "Concepción Batanero-Ochaíta",
@@ -532,7 +664,7 @@
     "url": "https://doi.org/10.1109/ACCESS.2021.3095041",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Avaliação por pessoas cegas e surdas pode revelar diferenças na facilidade de uso de uma plataforma adaptada.",
     "limit": "Protótipo e população específicos; percepções não demonstram eficácia pedagógica ou acessibilidade universal. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -545,6 +677,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/13603116.2021.1937344",
+    "doi_url": "https://doi.org/10.1080/13603116.2021.1937344",
+    "reading_url": "https://doi.org/10.1080/13603116.2021.1937344",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "bong2021",
     "reference": [
       "W. K. Bong",
@@ -568,6 +706,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1007/s11528-024-00987-6",
+    "doi_url": "https://doi.org/10.1007/s11528-024-00987-6",
+    "reading_url": "https://doi.org/10.1007/s11528-024-00987-6",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "choi2024",
     "reference": [
       "Gi Woong Choi",
@@ -578,7 +722,7 @@
     "url": "https://doi.org/10.1007/s11528-024-00987-6",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Acessibilidade, usabilidade e desenho universal para aprendizagem devem ser considerados em conjunto.",
     "limit": "Artigo conceitual com exemplos; não estima efeito causal nem certifica acessibilidade de um aplicativo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -591,6 +735,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1016/j.compedu.2018.12.004",
+    "doi_url": "https://doi.org/10.1016/j.compedu.2018.12.004",
+    "reading_url": "https://doi.org/10.1016/j.compedu.2018.12.004",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "cinquin2019",
     "reference": [
       "Pierre-Antoine Cinquin",
@@ -602,7 +752,7 @@
     "url": "https://doi.org/10.1016/j.compedu.2018.12.004",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Há lacunas na avaliação de efetividade de e-learning acessível a pessoas com dificuldades cognitivas.",
     "limit": "Revisão de estudos heterogêneos; resumo do editor consultado, texto integral não inspecionado. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -615,6 +765,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3390/educsci13010094",
+    "doi_url": "https://doi.org/10.3390/educsci13010094",
+    "reading_url": "https://www.mdpi.com/2227-7102/13/1/94",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "cob2023",
     "reference": [
       "M. Ahmad Faudzi",
@@ -628,7 +784,7 @@
     "url": "https://doi.org/10.3390/educsci13010094",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão organiza critérios de interface e sua relação com carga cognitiva; considerar tamanho de tela e desenho da interface no EstudaOffline é uma inferência de projeto.",
     "limit": "Revisão limitada a 2020–2022; não prova redução de carga cognitiva por uma interface específica. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -641,6 +797,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/17483107.2020.1786733",
+    "doi_url": "https://doi.org/10.1080/17483107.2020.1786733",
+    "reading_url": "https://www.tandfonline.com/doi/full/10.1080/17483107.2020.1786733",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "farhan2020",
     "reference": [
       "Wejdan Farhan",
@@ -651,7 +813,7 @@
     "url": "https://doi.org/10.1080/17483107.2020.1786733",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O estudo avaliou recursos de voz e língua de sinais com estudantes e docentes; propor avaliação participativa do EstudaOffline é uma inferência de projeto.",
     "limit": "Estudo de métodos mistos de satisfação; não transfere resultados ao EstudaOffline nem à educação técnica brasileira. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -664,6 +826,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3390/su151411392",
+    "doi_url": "https://doi.org/10.3390/su151411392",
+    "reading_url": "https://doi.org/10.3390/su151411392",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "gobbo2023",
     "reference": [
       "José Alcides Gobbo",
@@ -687,6 +855,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1016/j.techsoc.2022.102122",
+    "doi_url": "https://doi.org/10.1016/j.techsoc.2022.102122",
+    "reading_url": "https://doi.org/10.1016/j.techsoc.2022.102122",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "guo2022",
     "reference": [
       "Congbin Guo",
@@ -697,7 +871,7 @@
     "url": "https://doi.org/10.1016/j.techsoc.2022.102122",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Qualidade da conexão e condições de acesso integram a divisão digital no ensino online.",
     "limit": "Survey de estudantes chineses no contexto pandêmico; não autoriza inferência causal nem generalização direta ao Piauí. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -710,6 +884,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1177/00027642231156779",
+    "doi_url": "https://doi.org/10.1177/00027642231156779",
+    "reading_url": "https://journals.sagepub.com/doi/10.1177/00027642231156779",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "jamil2023",
     "reference": [
       "S. Jamil",
@@ -720,7 +900,7 @@
     "url": "https://doi.org/10.1177/00027642231156779",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Acesso à internet e habilidades digitais podem limitar continuidade educacional em universidades.",
     "limit": "Entrevistas por email podem excluir as pessoas com pior acesso; contexto paquistanês e pandêmico. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -733,6 +913,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s40692-017-0093-6",
+    "doi_url": "https://doi.org/10.1007/s40692-017-0093-6",
+    "reading_url": "https://doi.org/10.1007/s40692-017-0093-6",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "kumar2017",
     "reference": [
       "B. Kumar",
@@ -756,6 +942,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1007/s10639-019-09937-9",
+    "doi_url": "https://doi.org/10.1007/s10639-019-09937-9",
+    "reading_url": "https://doi.org/10.1007/s10639-019-09937-9",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "kumarguideline2019",
     "reference": [
       "B. Kumar",
@@ -767,7 +959,7 @@
     "url": "https://doi.org/10.1007/s10639-019-09937-9",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Diretrizes de usabilidade móvel devem ser atualizadas a partir de problemas observados.",
     "limit": "Síntese de 17 estudos e validação das diretrizes; condições e efeitos não podem ser transportados automaticamente. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -780,6 +972,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1108/IJILT-03-2023-0029",
+    "doi_url": "https://doi.org/10.1108/IJILT-03-2023-0029",
+    "reading_url": "https://doi.org/10.1108/IJILT-03-2023-0029",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "kumarmapping2024",
     "reference": [
       "B. Kumar",
@@ -804,6 +1002,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1111/bjet.13356",
+    "doi_url": "https://doi.org/10.1111/bjet.13356",
+    "reading_url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "kumiyeboah2023",
     "reference": [
       "Alex Kumi-Yeboah",
@@ -815,7 +1019,7 @@
     "url": "https://doi.org/10.1111/bjet.13356",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Entrevistas com docentes e administradores descrevem estratégias de enfrentamento da divisão digital; combinar conectividade acessível, suporte e formação no projeto é uma proposta informada por esses relatos.",
     "limit": "35 entrevistas em cinco universidades de Gana; relato de estratégias não é ensaio de eficácia causal. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -828,6 +1032,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.17398/1695-288X.25.1.59",
+    "doi_url": "https://doi.org/10.17398/1695-288X.25.1.59",
+    "reading_url": "https://relatec.unex.es/index.php/relatec/article/view/4851",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "linhalis2026",
     "reference": [
       "Flávia Linhalis",
@@ -839,7 +1049,7 @@
     "url": "https://doi.org/10.17398/1695-288X.25.1.59",
     "kind": "peer_reviewed_journal_article",
     "access": "SciSpace abstract plus publisher indexed metadata; direct publisher fetch 403",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Existe pesquisa anterior sobre AVA com operação offline e uso em baixa conectividade, tornando inadequada uma alegação genérica de novidade de aplicativo offline educacional.",
     "limit": "Educa Offline é um AVA distinto de um planejador; o resumo e metadados não sustentam equivalência arquitetural, comparação de desempenho ou eficácia do EstudaOffline. SciSpace omitiu terceiro autor, corrigido com fonte primária. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -852,6 +1062,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/15391523.2024.2425442",
+    "doi_url": "https://doi.org/10.1080/15391523.2024.2425442",
+    "reading_url": "https://doi.org/10.1080/15391523.2024.2425442",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "martin2024",
     "reference": [
       "Florence Martin",
@@ -876,6 +1092,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1080/14767724.2021.1981253",
+    "doi_url": "https://doi.org/10.1080/14767724.2021.1981253",
+    "reading_url": "https://www.tandfonline.com/doi/full/10.1080/14767724.2021.1981253",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "mathrani2021",
     "reference": [
       "A. Mathrani",
@@ -887,7 +1109,7 @@
     "url": "https://doi.org/10.1080/14767724.2021.1981253",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Acesso, práticas culturais e agência devem compor a análise de aprendizagem com conectividade limitada.",
     "limit": "Estudo em cinco países e no lockdown; gênero e responsabilidades domésticas dependem do contexto. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -900,6 +1122,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3390/su151813566",
+    "doi_url": "https://doi.org/10.3390/su151813566",
+    "reading_url": "https://www.mdpi.com/2071-1050/15/18/13566",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "naveed2023",
     "reference": [
       "Q. Naveed",
@@ -913,7 +1141,7 @@
     "url": "https://doi.org/10.3390/su151813566",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Facilidade de uso e acessibilidade integram fatores considerados na adoção de aprendizagem móvel.",
     "limit": "Revisão de 161 artigos, majoritariamente quantitativos; adoção e aprendizagem não são equivalentes. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -926,6 +1154,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1155/2017/6787504",
+    "doi_url": "https://doi.org/10.1155/2017/6787504",
+    "reading_url": "https://onlinelibrary.wiley.com/doi/10.1155/2017/6787504",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "punchoojit2017",
     "reference": [
       "Lumpapun Punchoojit",
@@ -936,7 +1170,7 @@
     "url": "https://doi.org/10.1155/2017/6787504",
     "kind": "peer_reviewed_journal_article",
     "access": "publisher_open_access_page; metadata_and_relevant_sections_inspected",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O artigo revisa padrões de interfaces móveis; aplicar sua discussão ao planejamento escolar do EstudaOffline é uma inferência de projeto.",
     "limit": "Revisão de interfaces móveis em geral; sua aplicação a planejamento escolar é uma inferência, não resultado direto. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -949,6 +1183,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1016/j.caeo.2022.100100",
+    "doi_url": "https://doi.org/10.1016/j.caeo.2022.100100",
+    "reading_url": "https://www.sciencedirect.com/science/article/pii/S2666557322000295",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "werfhorst2022",
     "reference": [
       "H. G. van de Werfhorst",
@@ -960,7 +1200,7 @@
     "url": "https://doi.org/10.1016/j.caeo.2022.100100",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Prontidão digital dos estudantes e das escolas são dimensões distintas da desigualdade educacional.",
     "limit": "Dados e contextos internacionais; não demonstra que uma PWA resolve desigualdade estrutural. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -973,6 +1213,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/SPW53761.2021.00062",
+    "doi_url": "https://doi.org/10.1109/SPW53761.2021.00062",
+    "reading_url": "https://doi.org/10.1109/SPW53761.2021.00062",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS01",
     "reference": [
       "Marco Squarcina",
@@ -997,6 +1243,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1109/EuroSP53844.2022.00041",
+    "doi_url": "https://doi.org/10.1109/EuroSP53844.2022.00041",
+    "reading_url": "https://doi.org/10.1109/EuroSP53844.2022.00041",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS02",
     "reference": [
       "Karthika Subramani",
@@ -1022,6 +1274,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.14722/NDSS.2021.23104",
+    "doi_url": "https://doi.org/10.14722/NDSS.2021.23104",
+    "reading_url": "https://doi.org/10.14722/NDSS.2021.23104",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS03",
     "reference": [
       "Soroush Karami",
@@ -1033,7 +1291,7 @@
     "url": "https://doi.org/10.14722/NDSS.2021.23104",
     "kind": "Proceedings Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Os autores demonstram ataques de inferência de histórico explorando isolamento de service workers e cache.",
     "limit": "Resultados relativos às versões investigadas; não presumir que os ataques persistem em navegadores atuais. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1046,6 +1304,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/978-3-030-35055-0_2",
+    "doi_url": "https://doi.org/10.1007/978-3-030-35055-0_2",
+    "reading_url": "https://doi.org/10.1007/978-3-030-35055-0_2",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS06",
     "reference": [
       "Florian Dehling",
@@ -1057,7 +1321,7 @@
     "url": "https://doi.org/10.1007/978-3-030-35055-0_2",
     "kind": "conference paper in LNCS proceedings",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Experimentos mostram limitações dos controles e salvaguardas de cache nos navegadores examinados.",
     "limit": "Cache HTTP não equivale à Cache API; resultados históricos não certificam navegadores atuais. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1070,6 +1334,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3633769",
+    "doi_url": "https://doi.org/10.1145/3633769",
+    "reading_url": "https://doi.org/10.1145/3633769",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS07",
     "reference": [
       "Julian Haas",
@@ -1083,7 +1353,7 @@
     "url": "https://doi.org/10.1145/3633769",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "LoRe combina programação reativa e verificação para identificar interações que violam invariantes e coordená-las quando necessário.",
     "limit": "Garantias dependem do modelo, das propriedades especificadas e do compilador; não se transferem ao Flutter localStorage. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1096,6 +1366,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3517209.3524041",
+    "doi_url": "https://doi.org/10.1145/3517209.3524041",
+    "reading_url": "https://doi.org/10.1145/3517209.3524041",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS08",
     "reference": [
       "Geoffrey Litt",
@@ -1106,7 +1382,7 @@
     "url": "https://doi.org/10.1145/3517209.3524041",
     "kind": "Proceedings Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Forking histories preserva restrições por histórico e expõe conflitos para reconciliação pelo usuário.",
     "limit": "Proposta de sincronização; não é resultado de adoção educacional nem regra necessária para app sem colaboração. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1119,6 +1395,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/SmartCloud55982.2022.00037",
+    "doi_url": "https://doi.org/10.1109/SmartCloud55982.2022.00037",
+    "reading_url": "https://doi.org/10.1109/SmartCloud55982.2022.00037",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS09",
     "reference": [
       "Michael MacFadden",
@@ -1129,7 +1411,7 @@
     "url": "https://doi.org/10.1109/SmartCloud55982.2022.00037",
     "kind": "Proceedings Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O trabalho compara opções de criptografia para Web Storage e relata alternativas com impacto de desempenho limitado no cenário avaliado.",
     "limit": "Criptografia local não elimina XSS nem valida gestão de chaves; dados e implementação do MVP não foram avaliados. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1142,6 +1424,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/TPDS.2023.3241963",
+    "doi_url": "https://doi.org/10.1109/TPDS.2023.3241963",
+    "reading_url": "https://doi.org/10.1109/TPDS.2023.3241963",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS10",
     "reference": [
       "Kristof Jannes",
@@ -1154,7 +1442,7 @@
     "url": "https://doi.org/10.1109/TPDS.2023.3241963",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "BeauForT propõe consenso e sincronização no navegador para tolerar réplicas bizantinas e redes instáveis.",
     "limit": "Sistema descentralizado com múltiplas partes; não constitui proteção pronta para aplicativo local sem sincronização. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1167,6 +1455,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3596267",
+    "doi_url": "https://doi.org/10.1145/3596267",
+    "reading_url": "https://doi.org/10.1145/3596267",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS13",
     "reference": [
       "Anirudh Ekambaranathan",
@@ -1178,7 +1472,7 @@
     "url": "https://doi.org/10.1145/3596267",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A análise de 137 apps infantis e entrevistas com 12 desenvolvedores identificaram barreiras ao uso de SDKs favoráveis à privacidade.",
     "limit": "Estudo qualitativo e ferramenta de apoio; não demonstra que remover SDKs garante segurança integral. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1191,6 +1485,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.56553/popets-2022-0078",
+    "doi_url": "https://doi.org/10.56553/popets-2022-0078",
+    "reading_url": "https://doi.org/10.56553/popets-2022-0078",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS14",
     "reference": [
       "Moritz Gruber",
@@ -1204,7 +1504,7 @@
     "url": "https://doi.org/10.56553/popets-2022-0078",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A análise de 42 apps Android de cuidado infantil e seus backends identificou rastreadores e riscos de exposição de dados.",
     "limit": "Contexto de creches e backends móveis; não extrapolar vulnerabilidades para app local com dados sintéticos. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1217,6 +1517,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3501712.3535278",
+    "doi_url": "https://doi.org/10.1145/3501712.3535278",
+    "reading_url": "https://doi.org/10.1145/3501712.3535278",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS15",
     "reference": [
       "Jun Zhao",
@@ -1228,7 +1534,7 @@
     "url": "https://doi.org/10.1145/3501712.3535278",
     "kind": "Proceedings Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Oficinas de codesign orientaram KOALA Hero para tornar riscos de tratamento de dados compreensíveis a crianças.",
     "limit": "Os autores deixam avaliação empírica futura em aberto; não evidencia mudança comprovada de comportamento. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1241,6 +1547,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3543507.3583327",
+    "doi_url": "https://doi.org/10.1145/3543507.3583327",
+    "reading_url": "https://doi.org/10.1145/3543507.3583327",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS17",
     "reference": [
       "Ruoxi Sun",
@@ -1255,7 +1567,7 @@
     "url": "https://doi.org/10.1145/3543507.3583327",
     "kind": "Proceedings Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Análise estática e dinâmica de 20.195 apps identificou práticas de rastreamento e permissões que divergiam de políticas de proteção infantil.",
     "limit": "Amostra Google Play e políticas do período; não mede riscos de uma PWA específica nem todos os ecossistemas. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1268,6 +1580,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3991/IJIM.V15I06.20631",
+    "doi_url": "https://doi.org/10.3991/IJIM.V15I06.20631",
+    "reading_url": "https://doi.org/10.3991/IJIM.V15I06.20631",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "OS18",
     "reference": [
       "Emmanuel O.C. Mkpojiogu",
@@ -1292,6 +1610,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1109/TR.2018.2865733",
+    "doi_url": "https://doi.org/10.1109/TR.2018.2865733",
+    "reading_url": "https://doi.org/10.1109/TR.2018.2865733",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng01",
     "reference": [
       "Pingfan Kong",
@@ -1306,7 +1630,7 @@
     "url": "https://doi.org/10.1109/TR.2018.2865733",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão de 103 estudos distingue testes funcionais e não funcionais e identifica desafios do ecossistema Android.",
     "limit": "Foco Android e literatura até 2016; não valida Flutter web nem este aplicativo. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1319,6 +1643,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3390/computers12050097",
+    "doi_url": "https://doi.org/10.3390/computers12050097",
+    "reading_url": "https://doi.org/10.3390/computers12050097",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng02",
     "reference": [
       "Natnael Gonfa Berihun",
@@ -1330,7 +1660,7 @@
     "url": "https://doi.org/10.3390/computers12050097",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão de 56 artigos identifica necessidades de adaptação dos frameworks de automação ao domínio móvel.",
     "limit": "Arquitetura MATF proposta, com implementação futura; não comprova eficácia do MVP. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1343,6 +1673,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s11219-018-9418-6",
+    "doi_url": "https://doi.org/10.1007/s11219-018-9418-6",
+    "reading_url": "https://doi.org/10.1007/s11219-018-9418-6",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng03",
     "reference": [
       "Porfirio Tramontana",
@@ -1355,7 +1691,7 @@
     "url": "https://doi.org/10.1007/s11219-018-9418-6",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O mapeamento de 131 artigos organiza técnicas, atividades de teste e formas de avaliação, com predominância de Android.",
     "limit": "Estudo secundário; o ano online 2018 difere do volume de 2019. Não transferir resultados Android diretamente à web. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1368,6 +1704,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1016/j.infsof.2023.107323",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2023.107323",
+    "reading_url": "https://doi.org/10.1016/j.infsof.2023.107323",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng04",
     "reference": [
       "Samer Zein",
@@ -1392,6 +1734,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1016/j.jss.2016.03.065",
+    "doi_url": "https://doi.org/10.1016/j.jss.2016.03.065",
+    "reading_url": "https://doi.org/10.1016/j.jss.2016.03.065",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng05",
     "reference": [
       "Samer Zein",
@@ -1403,7 +1751,7 @@
     "url": "https://doi.org/10.1016/j.jss.2016.03.065",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_search; fetch_metadata_only",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O mapeamento de 79 estudos identifica necessidade de elicitar requisitos de teste cedo e avaliar em contextos reais.",
     "limit": "Mapeamento secundário de literatura anterior; não substitui ensaios atuais no navegador. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1416,6 +1764,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3507903",
+    "doi_url": "https://doi.org/10.1145/3507903",
+    "reading_url": "https://doi.org/10.1145/3507903",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng06",
     "reference": [
       "Misael C. Júnior",
@@ -1444,6 +1798,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1109/CBI58679.2023.10187511",
+    "doi_url": "https://doi.org/10.1109/CBI58679.2023.10187511",
+    "reading_url": "https://doi.org/10.1109/CBI58679.2023.10187511",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng07",
     "reference": [
       "H. Weigand",
@@ -1454,7 +1814,7 @@
     "url": "https://doi.org/10.1109/CBI58679.2023.10187511",
     "kind": "peer-reviewed conference paper",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O artigo propõe explicitar o artefato e o objetivo de pesquisa para tornar mais precisa a investigação em design science.",
     "limit": "Validação metodológica em artigos DSR; não é medida de eficácia educacional. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1467,6 +1827,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1016/j.infsof.2023.107318",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2023.107318",
+    "reading_url": "https://doi.org/10.1016/j.infsof.2023.107318",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng08",
     "reference": [
       "Jesus M. Gonzalez-Barahona",
@@ -1477,7 +1843,7 @@
     "url": "https://doi.org/10.1016/j.infsof.2023.107318",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_search; fetch_metadata_only",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A reavaliação de um método para estudos de repositórios mostra utilidade de caracterizar a reprodutibilidade além da disponibilidade.",
     "limit": "Escopo de mineração de repositórios; não garante reprodução do MVP. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1490,6 +1856,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3477535",
+    "doi_url": "https://doi.org/10.1145/3477535",
+    "reading_url": "https://doi.org/10.1145/3477535",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng10",
     "reference": [
       "Chao Liu",
@@ -1504,7 +1876,7 @@
     "url": "https://doi.org/10.1145/3477535",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão e reexecução de modelos de deep learning mostram que compartilhar código não basta para reproduzir resultados.",
     "limit": "Escopo deep learning; o aplicativo não usa IA. Relevância limitada a documentação e pacotes reprodutíveis. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1517,6 +1889,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/ACCESS.2020.2964587",
+    "doi_url": "https://doi.org/10.1109/ACCESS.2020.2964587",
+    "reading_url": "https://doi.org/10.1109/ACCESS.2020.2964587",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng11",
     "reference": [
       "Carlos E. Anchundia",
@@ -1540,6 +1918,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1016/j.infsof.2022.106870",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2022.106870",
+    "reading_url": "https://doi.org/10.1016/j.infsof.2022.106870",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng12",
     "reference": [
       "Daniel Amador dos Santos",
@@ -1551,7 +1935,7 @@
     "url": "https://doi.org/10.1016/j.infsof.2022.106870",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_search; fetch_metadata_only",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Sete replicações externas identificam dificuldades relacionadas a instruções pouco claras e defeitos nos artefatos.",
     "limit": "Experimento em sistemas configuráveis; aplicar como orientação de documentação, não como resultado do MVP. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1564,6 +1948,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1016/j.infsof.2018.01.006",
+    "doi_url": "https://doi.org/10.1016/j.infsof.2018.01.006",
+    "reading_url": "https://doi.org/10.1016/j.infsof.2018.01.006",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng13",
     "reference": [
       "M. Shepperd",
@@ -1575,7 +1965,7 @@
     "url": "https://doi.org/10.1016/j.infsof.2018.01.006",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_search; fetch_metadata_only",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão de replicações identifica relato incompleto e problemas para interpretar resultados confirmatórios.",
     "limit": "Escopo previsão de esforço e pair programming; relato do resumo não estabelece validade de qualquer replicação. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1588,6 +1978,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/ACCESS.2017.2685629",
+    "doi_url": "https://doi.org/10.1109/ACCESS.2017.2685629",
+    "reading_url": "https://doi.org/10.1109/ACCESS.2017.2685629",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng14",
     "reference": [
       "Mojtaba Shahin",
@@ -1599,7 +1995,7 @@
     "url": "https://doi.org/10.1109/ACCESS.2017.2685629",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão de 69 artigos organiza ferramentas e desafios de integração, entrega e implantação contínuas.",
     "limit": "Revisão até junho de 2016; resultados exigem contextualização em pipelines atuais. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1612,6 +2008,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1007/s10664-021-10114-1",
+    "doi_url": "https://doi.org/10.1007/s10664-021-10114-1",
+    "reading_url": "https://doi.org/10.1007/s10664-021-10114-1",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng15",
     "reference": [
       "Eliezio Soares",
@@ -1638,6 +2040,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1109/TSE.2021.3064953",
+    "doi_url": "https://doi.org/10.1109/TSE.2021.3064953",
+    "reading_url": "https://doi.org/10.1109/TSE.2021.3064953",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng16",
     "reference": [
       "Omar Elazhary",
@@ -1652,7 +2060,7 @@
     "url": "https://doi.org/10.1109/TSE.2021.3064953",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_Consensus_fetch; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O estudo de três empresas mostra que a implementação de CI varia com o contexto e pode criar restrições ao feedback.",
     "limit": "Três empresas; generalização limitada e ausência de avaliação deste pipeline. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1665,6 +2073,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1016/j.jss.2024.112187",
+    "doi_url": "https://doi.org/10.1016/j.jss.2024.112187",
+    "reading_url": "https://doi.org/10.1016/j.jss.2024.112187",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng18",
     "reference": [
       "C. Guevara-Vega",
@@ -1679,7 +2093,7 @@
     "url": "https://doi.org/10.1016/j.jss.2024.112187",
     "kind": "peer-reviewed journal article",
     "access": "abstract_from_search; fetch_metadata_only",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A proposta de estrutura de artefatos para experimentos humanos organiza elementos alinhados às políticas de badges ACM.",
     "limit": "Exige validação externa adicional; um repositório estruturado não recebe automaticamente badge ACM. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1692,6 +2106,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1080/0960085X.2026.2627280",
+    "doi_url": "https://doi.org/10.1080/0960085X.2026.2627280",
+    "reading_url": "https://doi.org/10.1080/0960085X.2026.2627280",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "eng20",
     "reference": [
       "Richard Baskerville",
@@ -1703,7 +2123,7 @@
     "url": "https://doi.org/10.1080/0960085X.2026.2627280",
     "kind": "peer-reviewed journal article",
     "access": "Consensus fetched abstract + publisher metadata; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O MEDS propõe planejar objetivos, estratégias, propriedades e episódios de avaliação para ajustar rigor e recursos em DSR.",
     "limit": "Método orientador; não demonstra qualidade do MVP nem efeitos nos estudantes. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1716,6 +2136,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1136/bmj.n71",
+    "doi_url": "https://doi.org/10.1136/bmj.n71",
+    "reading_url": "https://doi.org/10.1136/bmj.n71",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU01",
     "reference": [
       "Matthew J. Page",
@@ -1750,7 +2176,7 @@
     "url": "https://doi.org/10.1136/bmj.n71",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "PRISMA 2020 fornece checklist de 27 itens e fluxogramas para relatar revisões sistemáticas de modo transparente.",
     "limit": "Diretriz de relato, não valida qualidade metodológica nem transforma esta busca exploratória em revisão sistemática. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1763,6 +2189,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1136/bmj.n160",
+    "doi_url": "https://doi.org/10.1136/bmj.n160",
+    "reading_url": "https://doi.org/10.1136/bmj.n160",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU02",
     "reference": [
       "Matthew J. Page",
@@ -1797,7 +2229,7 @@
     "url": "https://doi.org/10.1136/bmj.n160",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O artigo de explicação detalha a justificativa e exemplifica recomendações de cada item PRISMA 2020.",
     "limit": "Publicação complementar à mesma diretriz: fonte distinta, não estudo independente de eficácia. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1810,6 +2242,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1186/s13643-020-01542-z",
+    "doi_url": "https://doi.org/10.1186/s13643-020-01542-z",
+    "reading_url": "https://doi.org/10.1186/s13643-020-01542-z",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU03",
     "reference": [
       "Melissa L. Rethlefsen",
@@ -1826,7 +2264,7 @@
     "url": "https://doi.org/10.1186/s13643-020-01542-z",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "PRISMA-S apresenta 16 itens para descrever fontes e procedimentos de busca de forma reproduzível.",
     "limit": "Checklist desenvolvido por consenso; completude do relato não garante exaustividade ou ausência de viés. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1839,6 +2277,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1038/s41562-016-0021",
+    "doi_url": "https://doi.org/10.1038/s41562-016-0021",
+    "reading_url": "https://doi.org/10.1038/s41562-016-0021",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU04",
     "reference": [
       "Marcus R. Munafò",
@@ -1857,7 +2301,7 @@
     "url": "https://doi.org/10.1038/s41562-016-0021",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "O manifesto propõe melhorar métodos, transparência, reprodução, avaliação e incentivos na pesquisa.",
     "limit": "Proposta baseada em evidências variadas; adoção ampla ainda requer avaliação iterativa e não certifica o MVP. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1870,6 +2314,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1145/3345317",
+    "doi_url": "https://doi.org/10.1145/3345317",
+    "reading_url": "https://doi.org/10.1145/3345317",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU05",
     "reference": [
       "Tomáš Foltýnek",
@@ -1881,7 +2331,7 @@
     "url": "https://doi.org/10.1145/3345317",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A revisão de 239 estudos identifica avanços na detecção de plágio e lacunas de avaliação rigorosa dos sistemas.",
     "limit": "Literatura de 2013–2018; detecção computacional não substitui julgamento contextual nem garante originalidade. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1894,6 +2344,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1038/s41598-023-41032-5",
+    "doi_url": "https://doi.org/10.1038/s41598-023-41032-5",
+    "reading_url": "https://doi.org/10.1038/s41598-023-41032-5",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU06",
     "reference": [
       "William H. Walters",
@@ -1904,7 +2360,7 @@
     "url": "https://doi.org/10.1038/s41598-023-41032-5",
     "kind": "Journal Article",
     "access": "abstract_and_methods_section_read; full_text_not_comprehensively_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "A avaliação de 636 referências geradas por GPT-3.5 e GPT-4 encontrou referências fabricadas e erros em referências reais.",
     "limit": "Modelos e prompts de abril de 2023; taxas não são estimativas para modelos atuais nem para esta pesquisa com verificação externa. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1917,6 +2373,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.7759/cureus.39238",
+    "doi_url": "https://doi.org/10.7759/cureus.39238",
+    "reading_url": "https://doi.org/10.7759/cureus.39238",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU07",
     "reference": [
       "Mehul Bhattacharyya",
@@ -1929,7 +2391,7 @@
     "url": "https://doi.org/10.7759/cureus.39238",
     "kind": "Journal Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "Nos 30 textos médicos gerados por GPT-3.5, os autores encontraram referências fabricadas ou com metadados incorretos.",
     "limit": "115 referências e prompts médicos específicos; não generalizar taxas para todos os gêneros ou modelos. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1942,6 +2404,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.1109/icievicivpr52578.2021.9564123",
+    "doi_url": "https://doi.org/10.1109/icievicivpr52578.2021.9564123",
+    "reading_url": "https://doi.org/10.1109/icievicivpr52578.2021.9564123",
+    "pages_printed": "Página do trecho não conferida",
+    "pages_pdf": "Posição não conferida",
+    "locator_status": "pagina_pendente",
     "key": "SU08",
     "reference": [
       "Atish Kumar Dipongkor",
@@ -1956,7 +2424,7 @@
     "url": "https://doi.org/10.1109/icievicivpr52578.2021.9564123",
     "kind": "Proceedings Article",
     "access": "abstract_read; full_text_not_read",
-    "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
+    "location": "Resumo/metadados; página de suporte não conferida",
     "methods_observed": "Método e amostra não extraídos nesta ficha; consultar o original",
     "finding": "AcPgChecker compara documentos offline com similaridade de cosseno e um limiar para sinalizar possível plágio.",
     "limit": "Resumo não apresenta métricas completas; limiar de similaridade não constitui decisão ética válida por si só. Não foi realizada avaliação integral e uniforme de risco de viés",
@@ -1969,6 +2437,12 @@
     "status": "ficha preliminar"
   },
   {
+    "doi": "10.3389/fpsyg.2017.00422",
+    "doi_url": "https://doi.org/10.3389/fpsyg.2017.00422",
+    "reading_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/pdf",
+    "pages_printed": "1, 3",
+    "pages_pdf": "1, 3",
+    "locator_status": "pagina_conferida",
     "key": "SU10",
     "reference": [
       "Ernesto Panadero"
@@ -1978,7 +2452,7 @@
     "url": "https://doi.org/10.3389/fpsyg.2017.00422",
     "kind": "peer-reviewed theoretical review",
     "access": "seções de definição, modelo cíclico e instrumentos consultadas no texto editorial aberto; avaliação dirigida, não leitura crítica integral uniforme",
-    "location": "Texto editorial, Zimmerman’s Cyclical Phases Model",
+    "location": "Resumo; Zimmerman’s Cyclical Phases Model",
     "methods_observed": "Três fases e componentes cognitivos, motivacionais e afetivos",
     "finding": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos.",
     "limit": "Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico. Revisão teórica; não é validação do organizador local",
@@ -1993,6 +2467,12 @@
     "status": "conferência dirigida"
   },
   {
+    "doi": "10.1016/j.jbusres.2019.07.039",
+    "doi_url": "https://doi.org/10.1016/j.jbusres.2019.07.039",
+    "reading_url": "https://fenix.iseg.ulisboa.pt/downloadFile/281608120804966/Guidelines%20Snyder%202019.pdf",
+    "pages_printed": "336–337",
+    "pages_pdf": "4, 5",
+    "locator_status": "pagina_conferida",
     "key": "SU11",
     "reference": [
       "Hannah Snyder"
@@ -2002,7 +2482,7 @@
     "url": "https://doi.org/10.1016/j.jbusres.2019.07.039",
     "kind": "peer-reviewed methodological review",
     "access": "seções de tipos, desenho, seleção, análise e relato consultadas em PDF do artigo depositado na Universidade de Lisboa",
-    "location": "PDF institucional, seções 2.2 e 3, páginas físicas 4–5",
+    "location": "2.2; 3; 3.3",
     "methods_observed": "Tipo de revisão, seleção, extração e relato orientados à pergunta",
     "finding": "O artigo relaciona a escolha e execução do tipo de revisão à pergunta, ao propósito e à transparência da seleção e síntese.",
     "limit": "Diretrizes discutidas em pesquisa de negócios não certificam esta síntese narrativa nem dispensam adaptação ao problema educacional. Discussão em negócios; adaptação local e cobertura não exaustiva",

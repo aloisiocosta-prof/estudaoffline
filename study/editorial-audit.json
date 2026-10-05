@@ -41,27 +41,27 @@
   "pdf_lines": {
     "artigo": {
       "pages": 31,
-      "text_lines": 924,
-      "lines_below_half_width": 109,
-      "lines_below_half_character_width": 115,
+      "text_lines": 961,
+      "lines_below_half_width": 102,
+      "lines_below_half_character_width": 103,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "entrega-escolar": {
       "pages": 33,
-      "text_lines": 954,
-      "lines_below_half_width": 118,
-      "lines_below_half_character_width": 141,
+      "text_lines": 991,
+      "lines_below_half_width": 111,
+      "lines_below_half_character_width": 129,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "poster": {
-      "pages": 9,
-      "text_lines": 483,
-      "lines_below_half_width": 88,
-      "lines_below_half_character_width": 93,
+      "pages": 10,
+      "text_lines": 492,
+      "lines_below_half_width": 72,
+      "lines_below_half_character_width": 77,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."

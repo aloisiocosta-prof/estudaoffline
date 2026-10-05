@@ -33,3 +33,6 @@ O caderno `paper/fichamentos.tex` preserva80 registros,18 com conferência dirig
 Reproduzir: `python3 scripts/build_literature.py`, `python3 scripts/build_narrative.py`, `python3 scripts/build_fichamentos.py`; compilar em `paper` com `latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex fichamentos.tex`. O CI inclui o caderno nos PDFs publicados e audita referências e limites por seção.
 
 Auditorias: `scripts/audit_latex.py`, `scripts/audit_referencial.py`. A regra literal de todas as linhas ocuparem 50% continua não cumprida e é registrada sem preenchimento artificial. O pôster preserva os painéis ampliados anteriores; a revisão ABCD atual abrange artigo, entrega escolar e caderno, não uma revisão do aplicativo ou da eficácia educacional.
+
+
+Localizadores: usar `study/literature/source-locators.json` e `source-locators.md`. Cada ficha distingue DOI, URL de consulta, página impressa, posição no PDF, seção e estado de conferência. Cinco fontes centrais têm paginação conferida; as demais75 têm página pendente, sem preencher números a partir do intervalo geral da publicação. A citação com página é gerada somente quando o localizador está conferido; DOI identifica a publicação e não certifica validade metodológica. Não reintroduzir citação autor–ano nem entrada bibliográfica do próprio estudo.
