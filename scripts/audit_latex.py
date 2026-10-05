@@ -39,7 +39,7 @@ def audit_pdf(directory):
     results = {}
     import csv, io
     output = io.StringIO()
-    writer = csv.writer(output)
+    writer = csv.writer(output, lineterminator="\n")
     writer.writerow(['document','page','line','bounding_width_ratio','nonspace_character_width_ratio','text'])
     for name in ['artigo','entrega-escolar','poster']:
         doc = fitz.open(directory / (name+'.pdf'))
