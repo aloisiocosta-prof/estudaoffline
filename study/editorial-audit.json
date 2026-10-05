@@ -27,22 +27,22 @@
   "pdf_lines": {
     "artigo": {
       "pages": 19,
-      "text_lines": 776,
-      "lines_below_half_width": 95,
+      "text_lines": 777,
+      "lines_below_half_width": 94,
       "literal_every_line_requirement_met": false,
       "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
     },
     "entrega-escolar": {
       "pages": 26,
-      "text_lines": 812,
-      "lines_below_half_width": 110,
+      "text_lines": 813,
+      "lines_below_half_width": 109,
       "literal_every_line_requirement_met": false,
       "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
     },
     "poster": {
       "pages": 9,
-      "text_lines": 451,
-      "lines_below_half_width": 74,
+      "text_lines": 452,
+      "lines_below_half_width": 75,
       "literal_every_line_requirement_met": false,
       "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
     }

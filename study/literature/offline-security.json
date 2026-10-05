@@ -242,7 +242,7 @@
   },
   {
     "key": "OS13",
-    "title": "Navigating the Data Avalanche",
+    "title": "Navigating the Data Avalanche: Towards Supporting Developers in Developing Privacy-Friendly Children’s Apps",
     "authors": [
       "Anirudh Ekambaranathan",
       "Jun Zhao",
@@ -257,7 +257,8 @@
     "limitation_pt": "Estudo qualitativo e ferramenta de apoio; não demonstra que remover SDKs garante segurança integral.",
     "source_service": "SciSpace",
     "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
-    "journal": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies"
+    "journal": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies",
+    "primary_metadata_url": "https://dl.acm.org/doi/10.1145/3596267"
   },
   {
     "key": "OS14",
