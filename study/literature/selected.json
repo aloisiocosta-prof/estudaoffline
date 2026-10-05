@@ -945,7 +945,7 @@
   },
   {
     "key": "OS13",
-    "title": "Navigating the Data Avalanche",
+    "title": "Navigating the Data Avalanche: Towards Supporting Developers in Developing Privacy-Friendly Children’s Apps",
     "authors": [
       "Anirudh Ekambaranathan",
       "Jun Zhao",
@@ -961,6 +961,7 @@
     "source_service": "SciSpace",
     "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
     "journal": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies",
+    "primary_metadata_url": "https://dl.acm.org/doi/10.1145/3596267",
     "group": "offline-security"
   },
   {
@@ -1086,13 +1087,14 @@
     "doi": "10.3390/computers12050097",
     "url": "https://consensus.app/papers/the-applicability-of-automated-testing-frameworks-for-berihun-dongmo/f135b7aa5ed2569391340a45fc5dea3b/?utm_source=chatgpt",
     "kind": "peer-reviewed journal article",
-    "journal": "Comput.",
+    "journal": "Computers",
     "citation_count": 16,
     "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
     "claim_pt": "A revisão de 56 artigos identifica necessidades de adaptação dos frameworks de automação ao domínio móvel.",
     "limitation_pt": "Arquitetura MATF proposta, com implementação futura; não comprova eficácia do MVP.",
     "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
     "raw_fetch": "raw/engineering-fetch-1.json",
+    "primary_metadata_url": "https://www.mdpi.com/2073-431X/12/5/97",
     "group": "engineering"
   },
   {
@@ -1624,7 +1626,10 @@
     "limitation_pt": "Modelos e prompts de abril de 2023; taxas não são estimativas para modelos atuais nem para esta pesquisa com verificação externa.",
     "source_service": "SciSpace + Consensus search/fetch + publisher abstract/methods",
     "source_query": "Which peer-reviewed empirical studies evaluate citation errors and fabricated references in ChatGPT-generated academic writing?",
-    "journal": "Dental science reports",
+    "journal": "Scientific Reports, 13, article 14045",
+    "publication_date": "2023-09-07",
+    "primary_metadata_url": "https://www.nature.com/articles/s41598-023-41032-5",
+    "metadata_correction": "SciSpace incorrectly labelled journal Dental science reports; corrected against Nature publisher page.",
     "group": "supplemental"
   },
   {

@@ -168,7 +168,10 @@
     "limitation_pt": "Modelos e prompts de abril de 2023; taxas não são estimativas para modelos atuais nem para esta pesquisa com verificação externa.",
     "source_service": "SciSpace + Consensus search/fetch + publisher abstract/methods",
     "source_query": "Which peer-reviewed empirical studies evaluate citation errors and fabricated references in ChatGPT-generated academic writing?",
-    "journal": "Dental science reports"
+    "journal": "Scientific Reports, 13, article 14045",
+    "publication_date": "2023-09-07",
+    "primary_metadata_url": "https://www.nature.com/articles/s41598-023-41032-5",
+    "metadata_correction": "SciSpace incorrectly labelled journal Dental science reports; corrected against Nature publisher page."
   },
   {
     "key": "SU07",

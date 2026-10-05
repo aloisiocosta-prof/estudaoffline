@@ -61,3 +61,6 @@ A conferência estática atual confirma 89 entradas nas listas de origem, 80 sel
 As bibliografias geradas têm labels autor–ano distintos: Page et al. (2021a/2021b) para as duas publicações e MDN (2026a/2026b/2026c) para documentação técnica. Nenhum label opcional é duplicado. Os três documentos continuam citando 80 chaves científicas pelo arquivo compartilhado e nenhuma chave citada fica sem bibitem na expansão estática. Isso resolve a ambiguidade autor–ano observável nas fontes, sem substituir compilação e leitura do PDF.
 
 Ressalva documental localizada: supplemental-audit.md ainda abre com “Oito publicações”, embora supplemental.json agora tenha nove. Atualizar esse inventário e registrar a exceção Miller2007 nesse log; não foi editado por estar fora do escopo autorizado desta revisão.
+
+
+Conferência adicional pré-entrega: SU06 corrigido de Dental science reports para Scientific Reports13art14045, conforme Nature DOI10.1038/s41598-023-41032-5 (7set2023); OS13 título completo conforme ACMdoi10.1145/3596267; eng02 venueComputers conforme MDPI12(5)97. A presença de metadados no indexador não garante exatidão editorial. Não se afirma validação integral dos 80estudos.

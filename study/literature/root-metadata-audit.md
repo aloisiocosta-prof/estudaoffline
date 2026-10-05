@@ -11,3 +11,6 @@
 OS06 corrigido de classificação genérica capítulo para artigo de anais NordSec; autores conferidos no repositório institucional. Não implica leitura integral nem avaliação da validade dos resultados.
 
 OS02: vehicle and authors verified in first page of https://oaklandsok.github.io/papers/subramani2022.pdf. eng09 excluded precautionarily after version-history ambiguity reported in engineering audit; SU09 Miller2007 included as documented foundational poster-format exception; primary publisher/Rutgers abstract consulted; direct PMC blocked by CAPTCHA, no full-text review claimed.
+
+
+Conferência adicional pré-entrega: SU06 corrigido de Dental science reports para Scientific Reports13art14045, conforme Nature DOI10.1038/s41598-023-41032-5 (7set2023); OS13 título completo conforme ACMdoi10.1145/3596267; eng02 venueComputers conforme MDPI12(5)97. A presença de metadados no indexador não garante exatidão editorial. Não se afirma validação integral dos 80estudos.
