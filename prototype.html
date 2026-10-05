@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>EstudaOffline — explorar salvamento seguro</title>
+<style>body{font:17px/1.6 system-ui,sans-serif;max-width:900px;margin:40px auto;padding:0 24px;color:#173344;background:#f4f7f8}h1,h2{line-height:1.2}section{background:white;border:1px solid #d6e0e5;border-radius:12px;padding:24px;margin:24px 0}button{font:inherit;background:#136d78;color:white;border:0;border-radius:6px;padding:10px 16px;margin:6px 6px 6px 0;cursor:pointer}button:disabled{background:#dce4e7;color:#52636d;cursor:default}dt{font-weight:650}dd{margin:0 0 12px}#notice{border-left:4px solid #136d78;padding:12px;background:#eef6f7}[role=tab][aria-selected=true]{outline:3px solid #173344;outline-offset:2px}small{color:#52636d}</style>
+<header><h1>Salvar sem perder o que já existe</h1><p>Quando o armazenamento falha ou um arquivo importado é inválido, o estudo anterior deve permanecer disponível e a mensagem deve explicar o erro, sem anunciar que foi salvo. Explore essa decisão com dados simulados em memória.</p><small>Protótipo descartável: não acessa arquivos, rede ou armazenamento real. Recarregar a página reinicia os dados.</small></header>
+<section aria-labelledby="state-title"><h2 id="state-title">Estado atual</h2><dl><dt>Estudo em uso</dt><dd id="current"></dd><dt>Última cópia salva</dt><dd id="saved"></dd><dt>Alteração aguardando salvamento</dt><dd id="pending"></dd></dl><p id="notice" role="status" aria-live="polite"></p></section>
+<section><h2>Experimente livremente</h2><p>Prepare uma alteração e escolha um resultado para o salvamento. Você pode tentar as ações em qualquer ordem.</p><div id="free"></div></section>
+<section><h2>Percursos guiados</h2><div role="tablist" aria-label="Situações"><button role="tab" id="tab-normal" aria-controls="guide" data-scenario="normal">Salvamento normal</button><button role="tab" id="tab-failure" aria-controls="guide" data-scenario="failure">Falha ao salvar</button><button role="tab" id="tab-corrupt" aria-controls="guide" data-scenario="corrupt">Arquivo inválido</button></div><div id="guide" role="tabpanel"><p id="description"></p><div id="steps"></div></div></section>
+<script>
+// Módulo puro: todas as entradas e saídas são dados; não conhece a página.
+const StudyModel = (() => {
+ const initial = () => ({current:{title:'Biologia',minutes:20},saved:{title:'Biologia',minutes:20},pending:null,message:'Estudo inicial disponível. Nenhuma alteração foi feita.'});
+ const valid = x => x!==null && typeof x==='object' && !Array.isArray(x) && Object.keys(x).length===2 && typeof x.title==='string' && x.title.trim().length>0 && x.title.length<=120 && Number.isInteger(x.minutes) && x.minutes>=0 && x.minutes<=1440;
+ const copy = x => ({title:x.title,minutes:x.minutes});
+ function reduce(state,action){
+  switch(action.type){
+   case 'RESET': return initial();
+   case 'PREPARE': return {...state,pending:{title:'Biologia — revisão',minutes:35},message:'Alteração preparada. O estudo anterior permanece em uso até salvar.'};
+   case 'SAVE_OK': return state.pending ? {current:copy(state.pending),saved:copy(state.pending),pending:null,message:'Alteração salva. O novo estudo está em uso.'} : {...state,message:'Não há alteração aguardando salvamento.'};
+   case 'SAVE_FAIL': return {...state,message:state.pending?'Não foi possível salvar. O estudo anterior e a cópia salva foram mantidos; a alteração aguarda nova tentativa.':'Não há alteração aguardando salvamento.'};
+   case 'IMPORT': {
+    let candidate;try{candidate=JSON.parse(action.text)}catch{return {...state,message:'Arquivo inválido: conteúdo ilegível. O estudo anterior, a cópia salva e a alteração pendente foram mantidos.'}}
+    if(!valid(candidate))return {...state,message:'Arquivo inválido: título ou duração fora do formato esperado. O estado anterior foi mantido.'};
+    return {...state,pending:copy(candidate),message:'Arquivo válido preparado para importar. Salve para substituir o estudo em uso.'};
+   }
+   default:return state;
+  }
+ }
+ return {initial,reduce};
+})();
+</script>
+<script>
+// Interface descartável: usa o módulo sem acessar seus detalhes internos.
+let state=StudyModel.initial(),selected='normal',nextStep=0;
+const actions={prepare:{type:'PREPARE'},save:{type:'SAVE_OK'},fail:{type:'SAVE_FAIL'},bad:{type:'IMPORT',text:'{ arquivo danificado'},shape:{type:'IMPORT',text:'{"title":"História","minutes":-2}'},good:{type:'IMPORT',text:'{"title":"História","minutes":40}'},reset:{type:'RESET'}};
+const labels={prepare:'Preparar revisão de Biologia',save:'Simular salvamento concluído',fail:'Simular falha ao salvar',bad:'Importar arquivo ilegível',shape:'Importar duração inválida',good:'Preparar importação válida',reset:'Recomeçar'};
+const scenarios={normal:{description:'Prepare a revisão e salve. Observe que a troca do estudo e da cópia salva ocorre somente após o salvamento concluído.',steps:['prepare','save']},failure:{description:'Prepare a revisão, simule uma falha e tente novamente. Na falha, ambos os estudos anteriores permanecem iguais e a revisão aguarda nova tentativa.',steps:['prepare','fail','save']},corrupt:{description:'Prepare uma revisão e tente importar arquivos inválidos. Observe que nem o estudo anterior nem a revisão pendente são substituídos.',steps:['prepare','bad','shape']}};
+const describe=x=>x?`${x.title} · ${x.minutes} minutos`:'Nenhuma';
+function render(){for(const [id,value] of [['current',state.current],['saved',state.saved],['pending',state.pending]])document.getElementById(id).textContent=describe(value);document.getElementById('notice').textContent=state.message;}
+function dispatch(key){state=StudyModel.reduce(state,actions[key]);render();}
+function button(key,handler){const b=document.createElement('button');b.textContent=labels[key];b.addEventListener('click',handler);return b;}
+for(const key of Object.keys(actions))document.getElementById('free').append(button(key,()=>dispatch(key)));
+function drawSteps(){const target=document.getElementById('steps');target.replaceChildren();scenarios[selected].steps.forEach((key,i)=>{const b=button(key,()=>{dispatch(key);nextStep=i+1;drawSteps()});b.textContent=`${i+1}. ${labels[key]}`;b.disabled=i!==nextStep;target.append(b)});if(nextStep===scenarios[selected].steps.length){const p=document.createElement('p');p.textContent='Percurso concluído. Confira o estado acima; selecione uma situação para reiniciar.';target.append(p)}}
+function choose(name){selected=name;nextStep=0;state=StudyModel.initial();document.querySelectorAll('[data-scenario]').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.scenario===name)));document.getElementById('guide').setAttribute('aria-labelledby','tab-'+name);document.getElementById('description').textContent=scenarios[name].description;render();drawSteps()}
+document.querySelectorAll('[data-scenario]').forEach(b=>b.addEventListener('click',()=>choose(b.dataset.scenario)));choose('normal');
+</script></html>
