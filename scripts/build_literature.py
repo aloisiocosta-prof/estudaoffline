@@ -47,6 +47,14 @@ def main():
     def author_label(s):
         names = s.get('citation_names') or [name.split()[-1] for name in s['authors']]
         return names[0] + (' et al.' if len(names) > 2 else (' e ' + names[1] if len(names) == 2 else ''))
+    def reference_authors(s):
+        families=s.get('citation_names',[])
+        rendered=[]
+        for i,name in enumerate(s['authors']):
+            family=families[i] if i<len(families) else name.split()[-1]
+            given=name[:-len(family)].strip() if name.endswith(family) else name
+            rendered.append(family.upper()+(', '+given if given else ''))
+        return '; '.join(rendered)
     from collections import Counter, defaultdict
     label_counts = Counter((author_label(s), s['year']) for s in selected)
     label_index = defaultdict(int)
@@ -63,7 +71,7 @@ def main():
         label_index[pair] += 1
         venue = s.get('journal') or s.get('venue') or s.get('publication_venue') or s['kind']
         bib.append(r'\bibitem[' + tex(label) + '(' + str(s['year']) + suffix + ')]{' + s['key'] + '} ' +
-                   tex('; '.join(s['authors'])) + '. ' + tex(s['title']) + '. ' + tex(venue) + ', ' + str(s['year']) + '. ' +
+                   tex(reference_authors(s)) + '. ' + tex(s['title']) + '. '+r'\textbf{'+tex(venue)+'}, ' + str(s['year']) + suffix + '. ' +
                    (r'DOI: ' + tex(s['doi']) + r'. URL: \url{https://doi.org/' + s['doi'] + '}.' if s.get('doi') else r'URL: \url{' + s['url'].split('?')[0] + '}.') +
                    ' Consulta: 5 out. 2026. ' + ('Localizador utilizado: '+tex(locations[s['key']]['citation_locator'])+'. Leitura: '+r'\url{'+locations[s['key']]['reading_url']+'}.' if locations[s['key']]['citation_locator'] else 'Página do trecho não conferida; nível de acesso registrado no fichamento.'))
         rows.append('| ' + ' | '.join(str(s.get(k, '')).replace('|','/').replace('\n',' ') for k in ['key','claim_pt','limitation_pt','kind','access_level','url']) + ' |')
@@ -77,6 +85,9 @@ def main():
         suffix = {'local':'a','quota':'b','sw':'c'}.get(key,'')
         year = '2024' if key == 'wcag' else '2026'
         bib.append(r'\bibitem['+label+'('+year+suffix+')]{'+key+'} '+label+'. '+tex(title)+r'. \url{'+url+'}. Acesso em 5 out. 2026. Registro técnico, fora da contagem de fontes científicas.')
+    # Alphabetic sequence for the chosen author-date system; complete ABNT
+    # metadata and compound surnames still require checking against originals.
+    bib=[bib[0]]+sorted(bib[1:],key=lambda entry:re.search(r'\\bibitem\[([^\(]+)',entry)[1].casefold())
     bib.append(r'\end{thebibliography}')
     (ROOT/'paper/literature.tex').write_text('\n\n'.join(synthesis).replace('\\n','\n'))
     (ROOT/'paper/bibliography.tex').write_text('\n\n'.join(bib))

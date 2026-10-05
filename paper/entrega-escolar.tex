@@ -11,8 +11,13 @@
 \usepackage{xurl}
 \hypersetup{citecolor=black}
 \hypersetup{colorlinks=true,urlcolor=blue,linkcolor=black}
-\usepackage[left=3cm,top=3cm,right=2cm,bottom=2cm]{geometry}
+% Literal margins extracted from the supplied final-delivery DOCX.
+\usepackage[margin=2cm]{geometry}
 \usepackage{setspace}\onehalfspacing
+\usepackage{titlesec}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{8pt}{4pt}
+\titlespacing*{\subsubsection}{0pt}{6pt}{3pt}
 \setcounter{tocdepth}{3}\setcounter{secnumdepth}{3}
 \begin{document}\sloppy
 \begin{titlepage}\centering CETI LUCAS MEIRELES ALVES\\CURSO TÉCNICO EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS\\PROJETO INTEGRADOR\vfill
@@ -23,13 +28,5 @@ Teresina — Chapadinha Sul\\Outubro de 2026\end{titlepage}
 \begin{flushright}\begin{minipage}{.6\textwidth}Demonstração técnica de Projeto Integrador do curso técnico em Análise e Desenvolvimento de Sistemas do CETI Lucas Meireles Alves. Revisão e avaliação pelo professor pendentes . IA auxiliou código e texto, com revisão e contribuições dos estudantes ainda a registrar . Liberation Sans substitui Arial nesta demonstração; conformidade tipográfica e aprovação institucional permanecem pendentes .\end{minipage}\end{flushright}\vfill Teresina — Chapadinha Sul\\Outubro de 2026\end{titlepage}
 \renewcommand{\contentsname}{Sumário}\tableofcontents\newpage
 
-\input{argumento.tex}
-\clearpage
-\begingroup
-\linespread{1}\selectfont
-\setlength{\bibsep}{6pt}
-\renewcommand{\refname}{Referências}
-\phantomsection\addcontentsline{toc}{section}{Referências}
-\input{references-core.tex}
-\endgroup
+\input{entrega-conteudo.tex}
 \end{document}

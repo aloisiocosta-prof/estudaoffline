@@ -1,0 +1,4 @@
+{
+  "instructions": "Registrar por chave: decisao aceita, revisor, data, justificativa e afirmacoes_conferidas. Não preencher aprovação automaticamente. A decisão só admite os usos descritos e deve ser revista quando o trecho ou a fonte mudar.",
+  "source_decisions": {}
+}

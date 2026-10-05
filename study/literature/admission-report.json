@@ -1,0 +1,1830 @@
+{
+  "policy": "Triagem local conservadora; apta para revisão não equivale a aceita pelo orientador. Referências de trabalho permanecem provisórias até decisão registrada.",
+  "counts": {
+    "apta_para_revisao": 5,
+    "pendente": 75
+  },
+  "final_accepted": 0,
+  "input_sha256": {
+    "study/literature/selected.json": "2318a410f70ff989ec789562c50b9e1d1c848a791f06b04f22d9717a3bcd3571",
+    "study/literature/source-locators.json": "8fcbe9436ccc7e832fe506bf28ab9d257fe0adb4f59d6ac74c6b40b96049a11d",
+    "study/literature/argumento-abcd.json": "4d0a6cdb6120ab200b4e50a84d12de803cb7c971fdde18b5b0241ae2d15d1d74",
+    "study/literature/core-source-appraisal.json": "1e3d8cf1a261284860d354823d07565fb06abad0ccffcb27333f2e2484ee3a47",
+    "study/literature/admission-decisions.json": "3a62326885f16b9678bab252e3c751f517af19cf052527231ec354f59154a1df",
+    "docs/school-model-requirements.json": "5362bb6bf08406bbd7410847eb48dbb80098274e8bdb84356c3104ef40bcc9b4"
+  },
+  "records": [
+    {
+      "key": "education_araka2020",
+      "doi": "10.1186/s41039-020-00129-5",
+      "reading_url": "https://link.springer.com/content/pdf/10.1186/s41039-020-00129-5.pdf",
+      "pages": "4, 15–16",
+      "input_fingerprint": "e6da0e1e37eec1c735985a755d09a254902c9eda12795283047e60d206a67579",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": true,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "apta_para_revisao",
+      "bloqueios": [],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_baars2022",
+      "doi": "10.4018/IJMBL.315628",
+      "reading_url": "https://doi.org/10.4018/IJMBL.315628",
+      "pages": null,
+      "input_fingerprint": "0224f242e2a353512be4ac549f831ddab8225a611c5aefe70e3b854deec8f254",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_brahma2023",
+      "doi": "10.4103/jehp.jehp_1106_22",
+      "reading_url": "https://doi.org/10.4103/jehp.jehp_1106_22",
+      "pages": null,
+      "input_fingerprint": "f5d38fdbb94ecee0ff4a9accb0db4e0e22053f025e1f4719865f483069a21656",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_broadbent2020",
+      "doi": "10.1007/s11423-020-09781-6",
+      "reading_url": "https://doi.org/10.1007/s11423-020-09781-6",
+      "pages": null,
+      "input_fingerprint": "dd60352dbd1d88e6aae36b243e134f3a002b379ff5e01ea9e17acf9c6ed2b47e",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_chen2024",
+      "doi": "10.1007/s10639-024-12462-z",
+      "reading_url": "https://doi.org/10.1007/s10639-024-12462-z",
+      "pages": null,
+      "input_fingerprint": "0c55ad0e148ce990ba419444bff81904542f5562b462f8471fe08db68ee0225a",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_forstervold2022",
+      "doi": "10.1080/01443410.2022.2102582",
+      "reading_url": "https://doi.org/10.1080/01443410.2022.2102582",
+      "pages": null,
+      "input_fingerprint": "47743a13b947d04b32737fc57bea98d72fecdf7ce39cd8721f75de8205510dd3",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_han2023",
+      "doi": "10.1080/03075079.2023.2201608",
+      "reading_url": "https://doi.org/10.1080/03075079.2023.2201608",
+      "pages": null,
+      "input_fingerprint": "2ff152dee3c78f89d03e6130277acaeb700eb0215844e87eb29b90511060ff69",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_hartley2022",
+      "doi": "10.3991/ijim.v16i14.28783",
+      "reading_url": "https://doi.org/10.3991/ijim.v16i14.28783",
+      "pages": null,
+      "input_fingerprint": "333c4c3ccabe610a6c3ef28d96ba140f06a2c04c138dd44ba668951e710a57e6",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_lim2019",
+      "doi": "10.34105/j.kmel.2019.11.024",
+      "reading_url": "https://doi.org/10.34105/j.kmel.2019.11.024",
+      "pages": null,
+      "input_fingerprint": "cf5a5a5720c3922707f9058b355bd2662876dc52c92e7a6f8564eb6327ed7205",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_limone2020",
+      "doi": "10.3390/bs10120184",
+      "reading_url": "https://doi.org/10.3390/bs10120184",
+      "pages": null,
+      "input_fingerprint": "f749f4eb27626121fc48fed68c52996c5493b7cadcbfb7fd10e82bf0eb167b63",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_palalas2020",
+      "doi": "10.14742/ajet.5650",
+      "reading_url": "https://ajet.org.au/index.php/AJET/article/download/5650/1665",
+      "pages": "156, 164–165",
+      "input_fingerprint": "6c31aa4dfad5731ad9bc2609cfd3b39a9c533c3207b197fc66b723098586341d",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": true,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "apta_para_revisao",
+      "bloqueios": [],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_patzak2025",
+      "doi": "10.3389/feduc.2025.1623228",
+      "reading_url": "https://doi.org/10.3389/feduc.2025.1623228",
+      "pages": null,
+      "input_fingerprint": "e0f471d2063fbdb1717e819108de45f368cd10b6f0043fba74b72a26df3c6f6b",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_prasse2024",
+      "doi": "10.1007/s10758-024-09772-z",
+      "reading_url": "https://link.springer.com/content/pdf/10.1007/s10758-024-09772-z.pdf",
+      "pages": "1809, 1825–1827",
+      "input_fingerprint": "a06d7ef38c694e927692d73bcc1f313f4e3272e126b4624014c53294afb306a5",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": true,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "apta_para_revisao",
+      "bloqueios": [],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_taghavi2024",
+      "doi": "10.1177/00332941241287423",
+      "reading_url": "https://doi.org/10.1177/00332941241287423",
+      "pages": null,
+      "input_fingerprint": "8cc4cd853f63553e403489fa124778155f503f4935b3cd991b37152dc2cdcf67",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_tao2025",
+      "doi": "10.3389/fpsyg.2025.1562980",
+      "reading_url": "https://doi.org/10.3389/fpsyg.2025.1562980",
+      "pages": null,
+      "input_fingerprint": "4fe587d3f86b47e8ab59ddba384a539ac0189e20ab40cbe933e40648056853ee",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_wolters2017",
+      "doi": "10.1007/s11409-017-9174-1",
+      "reading_url": "https://doi.org/10.1007/s11409-017-9174-1",
+      "pages": null,
+      "input_fingerprint": "c16b6d92acd491c8174c0ae0e9735043d74aeb454fcf6ccd5bcfa1e01888c5d9",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_wolters2021",
+      "doi": "10.1007/s10648-020-09519-z",
+      "reading_url": "https://doi.org/10.1007/s10648-020-09519-z",
+      "pages": null,
+      "input_fingerprint": "b42099fb8bda669cfb74fac1a5f8322c24a7d5e81c30aca39760736d698a676b",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_wong2026",
+      "doi": "10.1007/s11423-026-10586-2",
+      "reading_url": "https://doi.org/10.1007/s11423-026-10586-2",
+      "pages": null,
+      "input_fingerprint": "2485f2b61aacdfbebfea4cd8d9dd9d7e0b47885119e77af597899d9507ba85b7",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_xu2022",
+      "doi": "10.1080/0144929X.2022.2151935",
+      "reading_url": "https://doi.org/10.1080/0144929X.2022.2151935",
+      "pages": null,
+      "input_fingerprint": "94769c9c7cfe9ebfb20452789dbf4a02a79df279409d1c44e4d3e700d7410fb8",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "education_zheng2016",
+      "doi": "10.1080/14703297.2016.1259080",
+      "reading_url": "https://doi.org/10.1080/14703297.2016.1259080",
+      "pages": null,
+      "input_fingerprint": "7a8ea882e72505d875401b6f7e858cf88e293682473663b660a0a190e7f874e8",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "azionya2021",
+      "doi": "10.17718/tojde.1002822",
+      "reading_url": "https://dergipark.org.tr/en/pub/tojde/article/1002822",
+      "pages": null,
+      "input_fingerprint": "b9ba5c49103be52a3746892443c47ba17bdaafbc5cc3a9e1284e0a09f61c58b7",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "batanero2021",
+      "doi": "10.1109/ACCESS.2021.3095041",
+      "reading_url": "https://ebuah.uah.es/dspace/handle/10017/55403",
+      "pages": null,
+      "input_fingerprint": "3500b1cd425f0655c7e59cc0403662d056a08fbc8b26da8ff36e11144e45e5b2",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "bong2021",
+      "doi": "10.1080/13603116.2021.1937344",
+      "reading_url": "https://doi.org/10.1080/13603116.2021.1937344",
+      "pages": null,
+      "input_fingerprint": "c468657594623c9349284bcd1246e6961e29a9312ed4a43adbdbaeedea6c6583",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "choi2024",
+      "doi": "10.1007/s11528-024-00987-6",
+      "reading_url": "https://doi.org/10.1007/s11528-024-00987-6",
+      "pages": null,
+      "input_fingerprint": "7dcc803df546395be1d769dc17c490450039cd6d07ca9f95c58a39c8cb79bc30",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "cinquin2019",
+      "doi": "10.1016/j.compedu.2018.12.004",
+      "reading_url": "https://doi.org/10.1016/j.compedu.2018.12.004",
+      "pages": null,
+      "input_fingerprint": "6ee249a69792de5119b269ad429e6064f8d27e532538e540bcba87b880ed8516",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "cob2023",
+      "doi": "10.3390/educsci13010094",
+      "reading_url": "https://www.mdpi.com/2227-7102/13/1/94",
+      "pages": null,
+      "input_fingerprint": "2b876d4c3d4d12f4b70512e32961f662ff8a15db5971bf19ad4c97ff592d402e",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "farhan2020",
+      "doi": "10.1080/17483107.2020.1786733",
+      "reading_url": "https://www.tandfonline.com/doi/full/10.1080/17483107.2020.1786733",
+      "pages": null,
+      "input_fingerprint": "7b47655e6e6b2046d58ad82d96405b6cb6bf74e9171f0a5abeea102c9f816984",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "gobbo2023",
+      "doi": "10.3390/su151411392",
+      "reading_url": "https://doi.org/10.3390/su151411392",
+      "pages": null,
+      "input_fingerprint": "e61aa00447a92be6d6cdee2bf0162416af426d8926f1bda65af28953b41ea105",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "guo2022",
+      "doi": "10.1016/j.techsoc.2022.102122",
+      "reading_url": "https://doi.org/10.1016/j.techsoc.2022.102122",
+      "pages": null,
+      "input_fingerprint": "03aef37a1e9156c4390e4a8dd0c039156557f0457b4d2acf1a99dd2dc1d4e50d",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "jamil2023",
+      "doi": "10.1177/00027642231156779",
+      "reading_url": "https://journals.sagepub.com/doi/10.1177/00027642231156779",
+      "pages": null,
+      "input_fingerprint": "036547446364d679af0df43fa6004d9fff7b96e7b3f2f88fc049ace6cd6fe658",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "kumar2017",
+      "doi": "10.1007/s40692-017-0093-6",
+      "reading_url": "https://doi.org/10.1007/s40692-017-0093-6",
+      "pages": null,
+      "input_fingerprint": "7835caff0de811d4bc442a5b87dc64405ad8d06e4e47033c1984511880c59cbe",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "kumarguideline2019",
+      "doi": "10.1007/s10639-019-09937-9",
+      "reading_url": "https://doi.org/10.1007/s10639-019-09937-9",
+      "pages": null,
+      "input_fingerprint": "1ea7a7e6ef6a6687ac00ecd84604997afea647fefe200b5e0c5a7bf3df6b6d78",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "kumarmapping2024",
+      "doi": "10.1108/IJILT-03-2023-0029",
+      "reading_url": "https://doi.org/10.1108/IJILT-03-2023-0029",
+      "pages": null,
+      "input_fingerprint": "1a6d02a2cfe22fbed9ba13440f793fab72849e60b684393cad6ac8ace4d74fde",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "kumiyeboah2023",
+      "doi": "10.1111/bjet.13356",
+      "reading_url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356",
+      "pages": null,
+      "input_fingerprint": "138faf0073d8baad0a56277b23c7ef40f58a2b264a087f94cea59a66914827d5",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "linhalis2026",
+      "doi": "10.17398/1695-288X.25.1.59",
+      "reading_url": "https://relatec.unex.es/index.php/relatec/article/view/4851",
+      "pages": null,
+      "input_fingerprint": "5137fdbbcf065c96208054e3aff659a1242f02fd4be10afda5a20ac9190731ed",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "martin2024",
+      "doi": "10.1080/15391523.2024.2425442",
+      "reading_url": "https://doi.org/10.1080/15391523.2024.2425442",
+      "pages": null,
+      "input_fingerprint": "7639058aecb78fc3bc6dc102fb0e8d55ce6fafd1af3c36f8269b0174e93fc3cd",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "mathrani2021",
+      "doi": "10.1080/14767724.2021.1981253",
+      "reading_url": "https://www.tandfonline.com/doi/full/10.1080/14767724.2021.1981253",
+      "pages": null,
+      "input_fingerprint": "a7816d57e3c40b7e7142946453d0deed6a5578d1a7aba7539e29ede4a8136b1b",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "naveed2023",
+      "doi": "10.3390/su151813566",
+      "reading_url": "https://www.mdpi.com/2071-1050/15/18/13566",
+      "pages": null,
+      "input_fingerprint": "ba439272b9c509cc68e19af28c3c08ae0dc59a2076d35894f1287dfb952949b8",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "punchoojit2017",
+      "doi": "10.1155/2017/6787504",
+      "reading_url": "https://onlinelibrary.wiley.com/doi/10.1155/2017/6787504",
+      "pages": null,
+      "input_fingerprint": "ff92c692c6043d20919d47be0d1517b9f32073f3a6c1d831b19f2275d631f1e0",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "werfhorst2022",
+      "doi": "10.1016/j.caeo.2022.100100",
+      "reading_url": "https://www.sciencedirect.com/science/article/pii/S2666557322000295",
+      "pages": null,
+      "input_fingerprint": "e14b072da335fb488901d118a0b2fd380e8d358b4317cd400736ed2909fc5746",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS01",
+      "doi": "10.1109/SPW53761.2021.00062",
+      "reading_url": "https://doi.org/10.1109/SPW53761.2021.00062",
+      "pages": null,
+      "input_fingerprint": "6afc1eefb79b18d04b767d8dcdc0362180d563a55f8a5cf828501ca3f9cf8572",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS02",
+      "doi": "10.1109/EuroSP53844.2022.00041",
+      "reading_url": "https://doi.org/10.1109/EuroSP53844.2022.00041",
+      "pages": null,
+      "input_fingerprint": "fb052ad8b98086c82512fe005e520dfc27ee563e6b06715400f8026625e987fa",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS03",
+      "doi": "10.14722/NDSS.2021.23104",
+      "reading_url": "https://doi.org/10.14722/NDSS.2021.23104",
+      "pages": null,
+      "input_fingerprint": "966e823ae4842acd2fca6b7e6d9e4d45a1b5d2f104e658d72da181002d7ccdf9",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS06",
+      "doi": "10.1007/978-3-030-35055-0_2",
+      "reading_url": "https://doi.org/10.1007/978-3-030-35055-0_2",
+      "pages": null,
+      "input_fingerprint": "01faea584866570e20dc613df1534ba0ed54a01a9690cd5b029c3586c2d26b49",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS07",
+      "doi": "10.1145/3633769",
+      "reading_url": "https://doi.org/10.1145/3633769",
+      "pages": null,
+      "input_fingerprint": "e1903b7a9ea3f32475d9c0e1523311dc505355c1ef3286b55532313dbae353e8",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS08",
+      "doi": "10.1145/3517209.3524041",
+      "reading_url": "https://doi.org/10.1145/3517209.3524041",
+      "pages": null,
+      "input_fingerprint": "c1e7149d021fe607ee5cd619b846477294f6cd01b58b051ab98b4a3157d96c0e",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS09",
+      "doi": "10.1109/SmartCloud55982.2022.00037",
+      "reading_url": "https://doi.org/10.1109/SmartCloud55982.2022.00037",
+      "pages": null,
+      "input_fingerprint": "a1ad3819754bd7e6eac572441cd3a6e10f548a8a571f2afab45aa66b879d8ef6",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS10",
+      "doi": "10.1109/TPDS.2023.3241963",
+      "reading_url": "https://doi.org/10.1109/TPDS.2023.3241963",
+      "pages": null,
+      "input_fingerprint": "119982708445ce3c3c00eefd058a424fa60593397288bb09c97ca25f3a4e9ef2",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS13",
+      "doi": "10.1145/3596267",
+      "reading_url": "https://doi.org/10.1145/3596267",
+      "pages": null,
+      "input_fingerprint": "8484fb0b9fcdbda18770abf7c0a5fb58126043931a6960495dd683f48a7bc9ec",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS14",
+      "doi": "10.56553/popets-2022-0078",
+      "reading_url": "https://doi.org/10.56553/popets-2022-0078",
+      "pages": null,
+      "input_fingerprint": "7a6d52c01df95f74a021037f6406d518de14e73a227e386bed2fa7f037976d21",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS15",
+      "doi": "10.1145/3501712.3535278",
+      "reading_url": "https://doi.org/10.1145/3501712.3535278",
+      "pages": null,
+      "input_fingerprint": "1264ec729d90b99a3136a8d47c6332eb870b8d5763a3221de1e2683ae7602c61",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS17",
+      "doi": "10.1145/3543507.3583327",
+      "reading_url": "https://doi.org/10.1145/3543507.3583327",
+      "pages": null,
+      "input_fingerprint": "738dad817ea351dd6d58d0910e3aa143478ad667db8f089e0bfa00ff96c2f266",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "OS18",
+      "doi": "10.3991/IJIM.V15I06.20631",
+      "reading_url": "https://doi.org/10.3991/IJIM.V15I06.20631",
+      "pages": null,
+      "input_fingerprint": "d6daaa35f0698771c3548f472a8f8e17faad82ef63a2fd63bb2fa14092785cf7",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng01",
+      "doi": "10.1109/TR.2018.2865733",
+      "reading_url": "https://doi.org/10.1109/TR.2018.2865733",
+      "pages": null,
+      "input_fingerprint": "26a71218661c188d3675a7ddcb1a92d3e4fe7fc795e8cc16db2b8a518542c26d",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng02",
+      "doi": "10.3390/computers12050097",
+      "reading_url": "https://doi.org/10.3390/computers12050097",
+      "pages": null,
+      "input_fingerprint": "569bc251656936d2fc36c1c0e83f90ee9d976bdf1a6904baa015663c894ba905",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng03",
+      "doi": "10.1007/s11219-018-9418-6",
+      "reading_url": "https://doi.org/10.1007/s11219-018-9418-6",
+      "pages": null,
+      "input_fingerprint": "52ec800bb0c6875292db4fb20fb8665d378bc45bba88da34ff4b2954c560c76b",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng04",
+      "doi": "10.1016/j.infsof.2023.107323",
+      "reading_url": "https://doi.org/10.1016/j.infsof.2023.107323",
+      "pages": null,
+      "input_fingerprint": "bbeee713d6840c85a35cad9972fc70f6a72b3f81d57b874c18b6e2169e87acb4",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng05",
+      "doi": "10.1016/j.jss.2016.03.065",
+      "reading_url": "https://doi.org/10.1016/j.jss.2016.03.065",
+      "pages": null,
+      "input_fingerprint": "46de3e67376b6062d0227962a8c77ebb26c1598c417259d08b985ad70ea7591a",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng06",
+      "doi": "10.1145/3507903",
+      "reading_url": "https://doi.org/10.1145/3507903",
+      "pages": null,
+      "input_fingerprint": "cdf1f807a7cdd6a25126da402e5df83d5f32c255763f57c275f24035ee5abd19",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng07",
+      "doi": "10.1109/CBI58679.2023.10187511",
+      "reading_url": "https://doi.org/10.1109/CBI58679.2023.10187511",
+      "pages": null,
+      "input_fingerprint": "fb3d48d6dda4c8d2e44d1147e85f2b51e8746c6b18be72c10b2eb1184609d448",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng08",
+      "doi": "10.1016/j.infsof.2023.107318",
+      "reading_url": "https://doi.org/10.1016/j.infsof.2023.107318",
+      "pages": null,
+      "input_fingerprint": "0392529374fffb8144effdc018c54b1bba7d72ccb26ca66fed15975ca4485a14",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng10",
+      "doi": "10.1145/3477535",
+      "reading_url": "https://doi.org/10.1145/3477535",
+      "pages": null,
+      "input_fingerprint": "cf60e0d3b28db24e69597dbd6fbc66908503384136b0bab63d96247ca6c40ed5",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng11",
+      "doi": "10.1109/ACCESS.2020.2964587",
+      "reading_url": "https://doi.org/10.1109/ACCESS.2020.2964587",
+      "pages": null,
+      "input_fingerprint": "4f20c82302dd69570def781509c10a50d0599e8e636590da1769341a59a23dae",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng12",
+      "doi": "10.1016/j.infsof.2022.106870",
+      "reading_url": "https://doi.org/10.1016/j.infsof.2022.106870",
+      "pages": null,
+      "input_fingerprint": "86b8dcf461c7bf28a121929df28b80ec6d1f43dd6dd7b0f70ac1cc24938551fc",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng13",
+      "doi": "10.1016/j.infsof.2018.01.006",
+      "reading_url": "https://doi.org/10.1016/j.infsof.2018.01.006",
+      "pages": null,
+      "input_fingerprint": "c34b559672752c1c62c14b183419d11eb89c239248564a41b0700384c747f220",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng14",
+      "doi": "10.1109/ACCESS.2017.2685629",
+      "reading_url": "https://doi.org/10.1109/ACCESS.2017.2685629",
+      "pages": null,
+      "input_fingerprint": "af2ba994c44532db86b61c4685fbf8956fbe84bccfb17611a549ae74c69e5c90",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng15",
+      "doi": "10.1007/s10664-021-10114-1",
+      "reading_url": "https://doi.org/10.1007/s10664-021-10114-1",
+      "pages": null,
+      "input_fingerprint": "dc80758a5b1ea6ec1771d23116ed250a5fc1ba16e6904442c4f7e1642698ad88",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng16",
+      "doi": "10.1109/TSE.2021.3064953",
+      "reading_url": "https://doi.org/10.1109/TSE.2021.3064953",
+      "pages": null,
+      "input_fingerprint": "98a5dde63a17cd1180e579c65019ebbf6ca8b67de0c8721d819ec6094945ce10",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng18",
+      "doi": "10.1016/j.jss.2024.112187",
+      "reading_url": "https://doi.org/10.1016/j.jss.2024.112187",
+      "pages": null,
+      "input_fingerprint": "6022221c6776b39bcb920b4ff8049bf9d1ca2fcb6f802cf3da2e8f49f5a9a024",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "eng20",
+      "doi": "10.1080/0960085X.2026.2627280",
+      "reading_url": "https://doi.org/10.1080/0960085X.2026.2627280",
+      "pages": null,
+      "input_fingerprint": "10b876ee142cded31cec203c794693ebfc6267da0ef1c8cd072a6c1c0c44a574",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU01",
+      "doi": "10.1136/bmj.n71",
+      "reading_url": "https://doi.org/10.1136/bmj.n71",
+      "pages": null,
+      "input_fingerprint": "d462d35ce5bf0e2b2c212cce283b54b76f5b09181e9399f37b955ee7d782729e",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU02",
+      "doi": "10.1136/bmj.n160",
+      "reading_url": "https://doi.org/10.1136/bmj.n160",
+      "pages": null,
+      "input_fingerprint": "fb454829b4509fbfe8b2d9e5f02ce65598643035891e2e99d901cd1ec5965437",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU03",
+      "doi": "10.1186/s13643-020-01542-z",
+      "reading_url": "https://doi.org/10.1186/s13643-020-01542-z",
+      "pages": null,
+      "input_fingerprint": "c7e5dcbbd73969315db7b9550016f42b43ff65f867c15f1d6c156eea2c2e1120",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU04",
+      "doi": "10.1038/s41562-016-0021",
+      "reading_url": "https://doi.org/10.1038/s41562-016-0021",
+      "pages": null,
+      "input_fingerprint": "5eb4d37a32bc774e0b4acb0f4a4eeb61dba2f49ae610b6965d465de1872bb5bd",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU05",
+      "doi": "10.1145/3345317",
+      "reading_url": "https://doi.org/10.1145/3345317",
+      "pages": null,
+      "input_fingerprint": "87d72c65a937dc9c02f74a38b310057c391314a641555255865c961279e71e4c",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU06",
+      "doi": "10.1038/s41598-023-41032-5",
+      "reading_url": "https://doi.org/10.1038/s41598-023-41032-5",
+      "pages": null,
+      "input_fingerprint": "a392ce867e12ecc0d1902cc18103fa25becfdc115cab9e8c6f85a3b633334e77",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU07",
+      "doi": "10.7759/cureus.39238",
+      "reading_url": "https://doi.org/10.7759/cureus.39238",
+      "pages": null,
+      "input_fingerprint": "927717da977a32031d4684a8493b9b5ae124e18a79956be6e9967d3a964bebbf",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU08",
+      "doi": "10.1109/icievicivpr52578.2021.9564123",
+      "reading_url": "https://doi.org/10.1109/icievicivpr52578.2021.9564123",
+      "pages": null,
+      "input_fingerprint": "f3982475295fbd4257f0773e86b2d94459f87f61aec7df8bd5a1988cc3e7fe5e",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": false,
+        "conferencia_dirigida": false,
+        "limites_registrados": true
+      },
+      "status": "pendente",
+      "bloqueios": [
+        "localizador_conferido",
+        "conferencia_dirigida"
+      ],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU10",
+      "doi": "10.3389/fpsyg.2017.00422",
+      "reading_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/pdf",
+      "pages": "1, 3",
+      "input_fingerprint": "b8716814ce2f20c2302ffd9214b69a1a2bd873efe18a2fbb6d7ac6f22227f891",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": true,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "apta_para_revisao",
+      "bloqueios": [],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    },
+    {
+      "key": "SU11",
+      "doi": "10.1016/j.jbusres.2019.07.039",
+      "reading_url": "https://fenix.iseg.ulisboa.pt/downloadFile/281608120804966/Guidelines%20Snyder%202019.pdf",
+      "pages": "336–337",
+      "input_fingerprint": "37c8f65009b11fd5ab1a950739edd5b7854ce8cb32de1605fbf99987371c1d45",
+      "checks": {
+        "identificacao": true,
+        "doi_registrado": true,
+        "url_registrada": true,
+        "localizador_conferido": true,
+        "conferencia_dirigida": true,
+        "limites_registrados": true
+      },
+      "status": "apta_para_revisao",
+      "bloqueios": [],
+      "decisao_final": "nao_registrada",
+      "revisor": null,
+      "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+    }
+  ]
+}

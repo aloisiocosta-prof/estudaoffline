@@ -1,0 +1,3945 @@
+{
+  "nodes": [
+    {
+      "id": "paragraph:I1",
+      "type": "Paragraph",
+      "section": "Introdução",
+      "ABCD": {
+        "A": "O planejamento das atividades é o recorte educacional que orienta o EstudaOffline",
+        "B": "Panadero descreve a autorregulação como um processo que articula antecipação, execução e autorreflexão",
+        "C": "Nesse quadro, organizar tarefas corresponde a uma parte do processo, sem representar todas as dimensões da aprendizagem",
+        "D": "Essa delimitação permite investigar um organizador de tarefas sem lhe atribuir benefícios educacionais ainda não avaliados"
+      }
+    },
+    {
+      "id": "paragraph:I2",
+      "type": "Paragraph",
+      "section": "Introdução",
+      "ABCD": {
+        "A": "A investigação concentra-se na conservação de tarefas sintéticas em um aplicativo Flutter web",
+        "B": "O protocolo do projeto situa o MVP no curso técnico de Análise e Desenvolvimento de Sistemas do CETI Lucas Meireles Alves, em Teresina, e define testes sem participantes",
+        "C": "A pergunta é se tarefas e interface continuam disponíveis após preparação online e interrupção da conexão, com persistência e backup verificáveis",
+        "D": "Para responder a essa pergunta técnica, o referencial seguinte distingue apoio ao planejamento, aprendizagem e qualidade do software"
+      }
+    },
+    {
+      "id": "paragraph:T1",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "O apoio ao planejamento precisa ser compreendido dentro de um ciclo de autorregulação",
+        "B": "Na descrição do modelo cíclico de Zimmerman apresentada por Panadero, a antecipação envolve o planejamento, enquanto a execução e a autorreflexão incluem processos adicionais",
+        "C": "Uma lista de tarefas pode apoiar a organização inicial, mas seus registros não cobrem, por si, monitoramento cognitivo, motivação ou avaliação da compreensão",
+        "D": "Por isso, a pertinência conceitual do organizador deve ser examinada junto às condições em que o apoio digital é utilizado"
+      }
+    },
+    {
+      "id": "paragraph:T2",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "A pertinência conceitual não assegura que qualquer recurso digital produza benefício educacional",
+        "B": "Palalas e Wark sintetizam uma relação complexa entre aprendizagem móvel e autorregulação, com achados heterogêneos e resultados também neutros ou desfavoráveis",
+        "C": "A revisão oferece uma oportunidade de investigar a integração intencional do recurso ao estudo, mas não autoriza transferir efeitos de outras intervenções para este MVP",
+        "D": "Essa cautela desloca a análise da simples presença de tecnologia para a amplitude do apoio oferecido"
+      }
+    },
+    {
+      "id": "paragraph:T3",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "A amplitude do apoio exige reconhecer que organizar tarefas é apenas um componente da aprendizagem autorregulada",
+        "B": "Prasse e colaboradores sintetizam 31 revisões e meta-análises e ressaltam a integração de suportes ao longo do ciclo de aprendizagem",
+        "C": "Como o EstudaOffline foi delimitado à organização de tarefas, ampliar o acompanhamento é uma oportunidade futura, e não uma funcionalidade ou um efeito já demonstrado",
+        "D": "Essa diferença entre escopo atual e oportunidade futura exige definir precisamente o significado dos registros produzidos"
+      }
+    },
+    {
+      "id": "paragraph:T4",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "Os registros produzidos pelo organizador precisam ser interpretados como dados de tarefa, e não como medidas automáticas de aprendizagem",
+        "B": "Araka e colaboradores discutem limites dos instrumentos e dos registros empregados para mensurar autorregulação em ambientes digitais",
+        "C": "À luz desse problema de mensuração, os minutos do MVP são duração planejada e a conclusão é um estado informado, conforme a definição dos campos no protocolo do projeto",
+        "D": "Uma vez delimitado o que os registros significam, a investigação pode avaliar a qualidade técnica de sua conservação"
+      }
+    },
+    {
+      "id": "paragraph:T5",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "A conservação de registros demanda critérios técnicos diferentes dos critérios de aprendizagem",
+        "B": "O mapeamento de Júnior e colaboradores caracteriza técnicas de teste de requisitos não funcionais em aplicativos móveis",
+        "C": "Esse panorama justifica separar cenários de persistência, recuperação e falha, preservando o limite de transferir conclusões de estudos predominantemente móveis para uma implementação web",
+        "D": "Essa separação permite tratar acessibilidade como outra dimensão específica, em vez de deduzi-la do sucesso funcional"
+      }
+    },
+    {
+      "id": "paragraph:T6",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "A acessibilidade precisa de inspeção específica mesmo quando o cadastro e a recuperação de tarefas funcionam",
+        "B": "A recomendação WCAG 2.2 especifica critérios de teclado, foco, mensagens de erro, rótulos, contraste e semântica dos componentes",
+        "C": "No projeto, esses critérios originam procedimentos de inspeção ainda pendentes, enquanto o protocolo delimita o estudo atual aos cenários técnicos registrados",
+        "D": "A separação dessas dimensões orienta a síntese ampliada das fontes, começando pelas relações entre planejamento e autorregulação"
+      }
+    },
+    {
+      "id": "paragraph:L1",
+      "type": "Paragraph",
+      "section": "Planejamento e processos de estudo",
+      "ABCD": {
+        "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Período 2008–2018; medir atividades digitais não equivale a medir aprendizagem",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação"
+      }
+    },
+    {
+      "id": "claim:L1:1",
+      "type": "Claim",
+      "text": "A revisão descreve a passagem de autorrelatos para análises de registros digitais, com desafios de interpretação"
+    },
+    {
+      "id": "claim:L1:2",
+      "type": "Claim",
+      "text": "Revisão teórica discute suporte móvel oportuno a planejamento, monitoramento, reflexão e estratégias de aprendizagem"
+    },
+    {
+      "id": "claim:L1:3",
+      "type": "Claim",
+      "text": "Levantamento com 142 universitários encontrou associação negativa entre autorregulação e procrastinação acadêmica"
+    },
+    {
+      "id": "claim:L1:4",
+      "type": "Claim",
+      "text": "Em 73 universitários, condição combinando treinamento online e diários móveis apresentou maiores melhorias em componentes autorregulatórios"
+    },
+    {
+      "id": "paragraph:L2",
+      "type": "Paragraph",
+      "section": "Planejamento e processos de estudo",
+      "ABCD": {
+        "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Amostra pequena; gamificação e instrução diferem de organizador local de tarefas",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação"
+      }
+    },
+    {
+      "id": "claim:L2:1",
+      "type": "Claim",
+      "text": "Em duas turmas de 22 participantes, abordagem móvel gamificada melhorou desempenho, definição de metas e reflexão, mas não monitoramento"
+    },
+    {
+      "id": "claim:L2:2",
+      "type": "Claim",
+      "text": "Em 8.907 universitários durante a pandemia, motivação e procrastinação relacionaram-se à gestão do tempo e regulação do esforço"
+    },
+    {
+      "id": "claim:L2:3",
+      "type": "Claim",
+      "text": "Em 1.216 universitários, autoeficácia autorregulatória e procrastinação apresentaram relações recíprocas"
+    },
+    {
+      "id": "claim:L2:4",
+      "type": "Claim",
+      "text": "Planejamento por smartphone e agenda associou-se a habilidades autorregulatórias"
+    },
+    {
+      "id": "paragraph:L3",
+      "type": "Paragraph",
+      "section": "Autorregulação e procrastinação",
+      "ABCD": {
+        "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Contexto colaborativo qualitativo não valida planejador individual nem produz estimativa causal",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação"
+      }
+    },
+    {
+      "id": "claim:L3:1",
+      "type": "Claim",
+      "text": "Duas pesquisas-ação descrevem regulação não linear e construção compartilhada de conhecimento em aprendizagem móvel colaborativa"
+    },
+    {
+      "id": "claim:L3:2",
+      "type": "Claim",
+      "text": "Em 450 universitários, estratégias metacognitivas e gestão do tempo foram examinadas como preditores de procrastinação"
+    },
+    {
+      "id": "claim:L3:3",
+      "type": "Claim",
+      "text": "Revisão de 38 estudos descreveu relação complexa entre aprendizagem móvel e autorregulação e recomendou integração curricular intencional"
+    },
+    {
+      "id": "claim:L3:4",
+      "type": "Claim",
+      "text": "Revisão de 107 estudos identificou planejamento, metas, priorização e organização de tarefas entre estratégias relevantes"
+    },
+    {
+      "id": "paragraph:L4",
+      "type": "Paragraph",
+      "section": "Autorregulação e procrastinação",
+      "ABCD": {
+        "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Revisões com contextos diversos; recomendação de desenho não constitui validação deste MVP",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação"
+      }
+    },
+    {
+      "id": "claim:L4:1",
+      "type": "Claim",
+      "text": "Síntese de 31 revisões e meta-análises recomenda suportes autorregulatórios integrados ao longo do ciclo de aprendizagem"
+    },
+    {
+      "id": "claim:L4:2",
+      "type": "Claim",
+      "text": "Em 272 universitários iranianos de inglês, maior autorregulação e controle atencional associaram-se a menor procrastinação"
+    },
+    {
+      "id": "claim:L4:3",
+      "type": "Claim",
+      "text": "Em 239 universitários de inglês como língua estrangeira, gestão do tempo e regulação do esforço associaram-se negativamente à procrastinação"
+    },
+    {
+      "id": "claim:L4:4",
+      "type": "Claim",
+      "text": "Em levantamento com 446 universitários, gestão do tempo contribuiu à predição de procrastinação além de variáveis motivacionais e estratégicas"
+    },
+    {
+      "id": "paragraph:L5",
+      "type": "Paragraph",
+      "section": "Intervenções e limites de transferência",
+      "ABCD": {
+        "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Síntese conceitual não comprova eficácia de aplicativo específico",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces"
+      }
+    },
+    {
+      "id": "claim:L5:1",
+      "type": "Claim",
+      "text": "Revisão situa a gestão do tempo nas fases de antecipação, execução e avaliação da aprendizagem autorregulada"
+    },
+    {
+      "id": "claim:L5:2",
+      "type": "Claim",
+      "text": "Estudo identificou perfis ativo, desengajado e utilitário em app de prática de recuperação"
+    },
+    {
+      "id": "claim:L5:3",
+      "type": "Claim",
+      "text": "Meta-análise encontrou efeito positivo moderado de intervenções de autorregulação no desempenho em ambientes online e híbridos"
+    },
+    {
+      "id": "claim:L5:4",
+      "type": "Claim",
+      "text": "Experimento com 60 graduandos encontrou melhores resultados e autorregulação em leitura de inglês apoiada por mecanismo móvel autorregulatório"
+    },
+    {
+      "id": "paragraph:L6",
+      "type": "Paragraph",
+      "section": "Barreiras de acesso e interfaces",
+      "ABCD": {
+        "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Netnografia de tweets, com seleção de usuários de rede social; não representa todos os estudantes",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces"
+      }
+    },
+    {
+      "id": "claim:L6:1",
+      "type": "Claim",
+      "text": "Cobertura de rede, dispositivo e condições socioeconômicas afetam participação em ensino síncrono"
+    },
+    {
+      "id": "claim:L6:2",
+      "type": "Claim",
+      "text": "Avaliação por pessoas cegas e surdas pode revelar diferenças na facilidade de uso de uma plataforma adaptada"
+    },
+    {
+      "id": "claim:L6:3",
+      "type": "Claim",
+      "text": "A revisão examina a formação docente para produção de materiais e ambientes digitais inclusivos"
+    },
+    {
+      "id": "claim:L6:4",
+      "type": "Claim",
+      "text": "Acessibilidade, usabilidade e desenho universal para aprendizagem devem ser considerados em conjunto"
+    },
+    {
+      "id": "paragraph:L7",
+      "type": "Paragraph",
+      "section": "Barreiras de acesso e interfaces",
+      "ABCD": {
+        "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Revisão de estudos heterogêneos; resumo do editor consultado, texto integral não inspecionado",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces"
+      }
+    },
+    {
+      "id": "claim:L7:1",
+      "type": "Claim",
+      "text": "Há lacunas na avaliação de efetividade de e-learning acessível a pessoas com dificuldades cognitivas"
+    },
+    {
+      "id": "claim:L7:2",
+      "type": "Claim",
+      "text": "A revisão organiza critérios de interface e sua relação com carga cognitiva"
+    },
+    {
+      "id": "claim:L7:3",
+      "type": "Claim",
+      "text": "O estudo avaliou recursos de voz e língua de sinais com estudantes e docentes"
+    },
+    {
+      "id": "claim:L7:4",
+      "type": "Claim",
+      "text": "A avaliação de acessibilidade educacional deve considerar barreiras atitudinais além de aspectos técnicos"
+    },
+    {
+      "id": "paragraph:L8",
+      "type": "Paragraph",
+      "section": "Usabilidade e inclusão digital",
+      "ABCD": {
+        "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Survey de estudantes chineses no contexto pandêmico; não autoriza inferência causal nem generalização direta ao Piauí",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces"
+      }
+    },
+    {
+      "id": "claim:L8:1",
+      "type": "Claim",
+      "text": "Qualidade da conexão e condições de acesso integram a divisão digital no ensino online"
+    },
+    {
+      "id": "claim:L8:2",
+      "type": "Claim",
+      "text": "Acesso à internet e habilidades digitais podem limitar continuidade educacional em universidades"
+    },
+    {
+      "id": "claim:L8:3",
+      "type": "Claim",
+      "text": "Usabilidade de aplicações de aprendizagem móvel exige avaliação explícita e não pode ser presumida pela tecnologia"
+    },
+    {
+      "id": "claim:L8:4",
+      "type": "Claim",
+      "text": "Diretrizes de usabilidade móvel devem ser atualizadas a partir de problemas observados"
+    },
+    {
+      "id": "paragraph:L9",
+      "type": "Paragraph",
+      "section": "Usabilidade e inclusão digital",
+      "ABCD": {
+        "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Mapeamento de 51 trabalhos de uma base; muitos testes controlados, limitando transferência para uso real",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces"
+      }
+    },
+    {
+      "id": "claim:L9:1",
+      "type": "Claim",
+      "text": "Testes com usuários, observação e questionários são utilizados na avaliação de aprendizagem móvel"
+    },
+    {
+      "id": "claim:L9:2",
+      "type": "Claim",
+      "text": "Entrevistas com docentes e administradores descrevem estratégias de enfrentamento da divisão digital"
+    },
+    {
+      "id": "claim:L9:3",
+      "type": "Claim",
+      "text": "Existe pesquisa anterior sobre AVA com operação offline e uso em baixa conectividade, tornando inadequada uma alegação genérica de novidade de aplicativo offline educacional"
+    },
+    {
+      "id": "claim:L9:4",
+      "type": "Claim",
+      "text": "Inclusão digital educacional depende de acesso, uso, fatores sociais e suporte organizacional"
+    },
+    {
+      "id": "paragraph:L10",
+      "type": "Paragraph",
+      "section": "Adoção e prontidão digital",
+      "ABCD": {
+        "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Estudo em cinco países e no lockdown; gênero e responsabilidades domésticas dependem do contexto",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros"
+      }
+    },
+    {
+      "id": "claim:L10:1",
+      "type": "Claim",
+      "text": "Acesso, práticas culturais e agência devem compor a análise de aprendizagem com conectividade limitada"
+    },
+    {
+      "id": "claim:L10:2",
+      "type": "Claim",
+      "text": "Facilidade de uso e acessibilidade integram fatores considerados na adoção de aprendizagem móvel"
+    },
+    {
+      "id": "claim:L10:3",
+      "type": "Claim",
+      "text": "O artigo revisa padrões de interfaces móveis"
+    },
+    {
+      "id": "claim:L10:4",
+      "type": "Claim",
+      "text": "Prontidão digital dos estudantes e das escolas são dimensões distintas da desigualdade educacional"
+    },
+    {
+      "id": "paragraph:L11",
+      "type": "Paragraph",
+      "section": "Persistência, cache e consistência",
+      "ABCD": {
+        "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Cenários de ataque específicos; não demonstra vulnerabilidade no EstudaOffline nem estado atual de todos os navegadores",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros"
+      }
+    },
+    {
+      "id": "claim:L11:1",
+      "type": "Claim",
+      "text": "O estudo mostra que XSS na mesma origem pode manipular Cache API e ampliar o impacto sobre conteúdo armazenado"
+    },
+    {
+      "id": "claim:L11:2",
+      "type": "Claim",
+      "text": "A sistematização reproduz ataques ligados a service workers e analisa medidas de mitigação dos navegadores"
+    },
+    {
+      "id": "claim:L11:3",
+      "type": "Claim",
+      "text": "Os autores demonstram ataques de inferência de histórico explorando isolamento de service workers e cache"
+    },
+    {
+      "id": "claim:L11:4",
+      "type": "Claim",
+      "text": "Experimentos mostram limitações dos controles e salvaguardas de cache nos navegadores examinados"
+    },
+    {
+      "id": "paragraph:L12",
+      "type": "Paragraph",
+      "section": "Persistência, cache e consistência",
+      "ABCD": {
+        "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Garantias dependem do modelo, das propriedades especificadas e do compilador; não se transferem ao Flutter localStorage",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros"
+      }
+    },
+    {
+      "id": "claim:L12:1",
+      "type": "Claim",
+      "text": "LoRe combina programação reativa e verificação para identificar interações que violam invariantes e coordená-las quando necessário"
+    },
+    {
+      "id": "claim:L12:2",
+      "type": "Claim",
+      "text": "Forking histories preserva restrições por histórico e expõe conflitos para reconciliação pelo usuário"
+    },
+    {
+      "id": "claim:L12:3",
+      "type": "Claim",
+      "text": "O trabalho compara opções de criptografia para Web Storage e relata alternativas com impacto de desempenho limitado no cenário avaliado"
+    },
+    {
+      "id": "claim:L12:4",
+      "type": "Claim",
+      "text": "BeauForT propõe consenso e sincronização no navegador para tolerar réplicas bizantinas e redes instáveis"
+    },
+    {
+      "id": "paragraph:L13",
+      "type": "Paragraph",
+      "section": "Privacidade em aplicações educacionais",
+      "ABCD": {
+        "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Estudo qualitativo e ferramenta de apoio; não demonstra que remover SDKs garante segurança integral",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros"
+      }
+    },
+    {
+      "id": "claim:L13:1",
+      "type": "Claim",
+      "text": "A análise de 137 apps infantis e entrevistas com 12 desenvolvedores identificaram barreiras ao uso de SDKs favoráveis à privacidade"
+    },
+    {
+      "id": "claim:L13:2",
+      "type": "Claim",
+      "text": "A análise de 42 apps Android de cuidado infantil e seus backends identificou rastreadores e riscos de exposição de dados"
+    },
+    {
+      "id": "claim:L13:3",
+      "type": "Claim",
+      "text": "Oficinas de codesign orientaram KOALA Hero para tornar riscos de tratamento de dados compreensíveis a crianças"
+    },
+    {
+      "id": "claim:L13:4",
+      "type": "Claim",
+      "text": "Análise estática e dinâmica de 20.195 apps identificou práticas de rastreamento e permissões que divergiam de políticas de proteção infantil"
+    },
+    {
+      "id": "paragraph:L14",
+      "type": "Paragraph",
+      "section": "Privacidade em aplicações educacionais",
+      "ABCD": {
+        "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Revisão secundária; apenas resumo consultado, sem auditoria de busca ou qualidade de cada estudo",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software"
+      }
+    },
+    {
+      "id": "claim:L14:1",
+      "type": "Claim",
+      "text": "A revisão selecionou 21 de 64 trabalhos e apontou lacunas na literatura sobre segurança de apps educacionais"
+    },
+    {
+      "id": "paragraph:L15",
+      "type": "Paragraph",
+      "section": "Testes e avaliação do artefato",
+      "ABCD": {
+        "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Foco Android e literatura até 2016; não valida Flutter web nem este aplicativo",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software"
+      }
+    },
+    {
+      "id": "claim:L15:1",
+      "type": "Claim",
+      "text": "A revisão de 103 estudos distingue testes funcionais e não funcionais e identifica desafios do ecossistema Android"
+    },
+    {
+      "id": "claim:L15:2",
+      "type": "Claim",
+      "text": "A revisão de 56 artigos identifica necessidades de adaptação dos frameworks de automação ao domínio móvel"
+    },
+    {
+      "id": "claim:L15:3",
+      "type": "Claim",
+      "text": "O mapeamento de 131 artigos organiza técnicas, atividades de teste e formas de avaliação, com predominância de Android"
+    },
+    {
+      "id": "claim:L15:4",
+      "type": "Claim",
+      "text": "O estudo terciário organiza 24 revisões sobre engenharia de aplicativos e identifica lacunas em manutenção e plataformas cruzadas"
+    },
+    {
+      "id": "paragraph:L16",
+      "type": "Paragraph",
+      "section": "Testes e avaliação do artefato",
+      "ABCD": {
+        "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Mapeamento secundário de literatura anterior; não substitui ensaios atuais no navegador",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software"
+      }
+    },
+    {
+      "id": "claim:L16:1",
+      "type": "Claim",
+      "text": "O mapeamento de 79 estudos identifica necessidade de elicitar requisitos de teste cedo e avaliar em contextos reais"
+    },
+    {
+      "id": "claim:L16:2",
+      "type": "Claim",
+      "text": "O mapeamento de 56 estudos caracteriza técnicas e ferramentas de teste dinâmico de requisitos não funcionais"
+    },
+    {
+      "id": "claim:L16:3",
+      "type": "Claim",
+      "text": "O artigo propõe explicitar o artefato e o objetivo de pesquisa para tornar mais precisa a investigação em design science"
+    },
+    {
+      "id": "claim:L16:4",
+      "type": "Claim",
+      "text": "A reavaliação de um método para estudos de repositórios mostra utilidade de caracterizar a reprodutibilidade além da disponibilidade"
+    },
+    {
+      "id": "paragraph:L17",
+      "type": "Paragraph",
+      "section": "Reprodução e integração contínua",
+      "ABCD": {
+        "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Escopo deep learning; o aplicativo não usa IA. Relevância limitada a documentação e pacotes reprodutíveis",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software"
+      }
+    },
+    {
+      "id": "claim:L17:1",
+      "type": "Claim",
+      "text": "A revisão e reexecução de modelos de deep learning mostram que compartilhar código não basta para reproduzir resultados"
+    },
+    {
+      "id": "claim:L17:2",
+      "type": "Claim",
+      "text": "O mapeamento de 40 estudos identifica dependência do domínio nas ferramentas e práticas de reprodução experimental"
+    },
+    {
+      "id": "claim:L17:3",
+      "type": "Claim",
+      "text": "Sete replicações externas identificam dificuldades relacionadas a instruções pouco claras e defeitos nos artefatos"
+    },
+    {
+      "id": "claim:L17:4",
+      "type": "Claim",
+      "text": "A revisão de replicações identifica relato incompleto e problemas para interpretar resultados confirmatórios"
+    },
+    {
+      "id": "paragraph:L18",
+      "type": "Paragraph",
+      "section": "Reprodução e integração contínua",
+      "ABCD": {
+        "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Revisão até junho de 2016; resultados exigem contextualização em pipelines atuais",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software"
+      }
+    },
+    {
+      "id": "claim:L18:1",
+      "type": "Claim",
+      "text": "A revisão de 69 artigos organiza ferramentas e desafios de integração, entrega e implantação contínuas"
+    },
+    {
+      "id": "claim:L18:2",
+      "type": "Claim",
+      "text": "A revisão de 101 estudos empíricos identifica benefícios e desafios técnicos associados à integração contínua"
+    },
+    {
+      "id": "claim:L18:3",
+      "type": "Claim",
+      "text": "O estudo de três empresas mostra que a implementação de CI varia com o contexto e pode criar restrições ao feedback"
+    },
+    {
+      "id": "claim:L18:4",
+      "type": "Claim",
+      "text": "A proposta de estrutura de artefatos para experimentos humanos organiza elementos alinhados às políticas de badges ACM"
+    },
+    {
+      "id": "paragraph:L19",
+      "type": "Paragraph",
+      "section": "Planejamento de evidências técnicas",
+      "ABCD": {
+        "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Método orientador; não demonstra qualidade do MVP nem efeitos nos estudantes",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de transparência e atribuição das evidências"
+      }
+    },
+    {
+      "id": "claim:L19:1",
+      "type": "Claim",
+      "text": "O MEDS propõe planejar objetivos, estratégias, propriedades e episódios de avaliação para ajustar rigor e recursos em DSR"
+    },
+    {
+      "id": "paragraph:L20",
+      "type": "Paragraph",
+      "section": "Transparência e integridade científica",
+      "ABCD": {
+        "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Diretriz de relato, não valida qualidade metodológica nem transforma esta busca exploratória em revisão sistemática",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de transparência e atribuição das evidências"
+      }
+    },
+    {
+      "id": "claim:L20:1",
+      "type": "Claim",
+      "text": "PRISMA 2020 fornece checklist de 27 itens e fluxogramas para relatar revisões sistemáticas de modo transparente"
+    },
+    {
+      "id": "claim:L20:2",
+      "type": "Claim",
+      "text": "O artigo de explicação detalha a justificativa e exemplifica recomendações de cada item PRISMA 2020"
+    },
+    {
+      "id": "claim:L20:3",
+      "type": "Claim",
+      "text": "PRISMA-S apresenta 16 itens para descrever fontes e procedimentos de busca de forma reproduzível"
+    },
+    {
+      "id": "claim:L20:4",
+      "type": "Claim",
+      "text": "O manifesto propõe melhorar métodos, transparência, reprodução, avaliação e incentivos na pesquisa"
+    },
+    {
+      "id": "paragraph:L21",
+      "type": "Paragraph",
+      "section": "Transparência e integridade científica",
+      "ABCD": {
+        "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Literatura de 2013–2018; detecção computacional não substitui julgamento contextual nem garante originalidade",
+        "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de transparência e atribuição das evidências"
+      }
+    },
+    {
+      "id": "claim:L21:1",
+      "type": "Claim",
+      "text": "A revisão de 239 estudos identifica avanços na detecção de plágio e lacunas de avaliação rigorosa dos sistemas"
+    },
+    {
+      "id": "claim:L21:2",
+      "type": "Claim",
+      "text": "A avaliação de 636 referências geradas por GPT-3.5 e GPT-4 encontrou referências fabricadas e erros em referências reais"
+    },
+    {
+      "id": "claim:L21:3",
+      "type": "Claim",
+      "text": "Nos 30 textos médicos gerados por GPT-3.5, os autores encontraram referências fabricadas ou com metadados incorretos"
+    },
+    {
+      "id": "claim:L21:4",
+      "type": "Claim",
+      "text": "AcPgChecker compara documentos offline com similaridade de cosseno e um limiar para sinalizar possível plágio"
+    },
+    {
+      "id": "paragraph:L22",
+      "type": "Paragraph",
+      "section": "Fundamentação e critérios de síntese",
+      "ABCD": {
+        "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico",
+        "D": "A distinção entre orientação teórica e evidência observada prepara a delimitação do método técnico empregado neste estudo"
+      }
+    },
+    {
+      "id": "claim:L22:1",
+      "type": "Claim",
+      "text": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos"
+    },
+    {
+      "id": "claim:L22:2",
+      "type": "Claim",
+      "text": "O artigo relaciona a escolha e execução do tipo de revisão à pergunta, ao propósito e à transparência da seleção e síntese"
+    },
+    {
+      "id": "paragraph:M1",
+      "type": "Paragraph",
+      "section": "Métodos",
+      "ABCD": {
+        "A": "O método traduz a delimitação teórica em um estudo técnico descritivo do artefato",
+        "B": "O protocolo define como unidade a execução de um cenário em uma combinação registrada de versão, navegador e armazenamento, utilizando dados sintéticos",
+        "C": "Cada cenário deve indicar entrada, procedimento, resultado esperado, resultado observado e evidência, distinguindo testes de modelo, widget e navegador",
+        "D": "Com essa unidade explícita, a leitura das fontes também precisa de um registro que preserve a origem de cada afirmação"
+      }
+    },
+    {
+      "id": "paragraph:M2",
+      "type": "Paragraph",
+      "section": "Métodos",
+      "ABCD": {
+        "A": "A leitura das fontes foi organizada como uma síntese narrativa focal apoiada em fichamentos",
+        "B": "Snyder relaciona a modalidade de revisão à pergunta e à transparência da seleção, extração e análise",
+        "C": "O caderno preserva 80 registros com níveis de acesso e limites, e as 80 publicações são articuladas à síntese deste texto; sua quantidade não representa 80 validações independentes",
+        "D": "Essa seleção documentada orienta a interpretação dos resultados técnicos apresentados a seguir"
+      }
+    },
+    {
+      "id": "paragraph:R1",
+      "type": "Paragraph",
+      "section": "Resultados",
+      "ABCD": {
+        "A": "A execução automatizada documentada verificou componentes técnicos do MVP",
+        "B": "O registro da versão 0.1.1 informa análise estática, seis testes Flutter, quatro testes de versionamento e compilação web, na execução 37249382657",
+        "C": "Esses resultados se restringem à execução registrada: o teste de widget usa armazenamento simulado e não comprova recarga real do navegador sem conexão",
+        "D": "Por isso, os resultados automatizados precisam ser lidos junto às observações disponíveis no navegador"
+      }
+    },
+    {
+      "id": "paragraph:R2",
+      "type": "Paragraph",
+      "section": "Resultados",
+      "ABCD": {
+        "A": "A demonstração no navegador acrescentou evidências de manipulação de tarefas e recarga online",
+        "B": "O registro da versão 0.1.0 descreve criação, conclusão, recuperação após recarga online, rejeição de backup com versão 99 e importação válida de duas tarefas",
+        "C": "A preparação indicada do cache e a solicitação de download não comprovam reabertura desconectada nem integridade do arquivo exportado, que permanecem sem confirmação",
+        "D": "Esses limites conduzem à discussão do que a demonstração permite concluir e do que ainda requer avaliação"
+      }
+    },
+    {
+      "id": "paragraph:D1",
+      "type": "Paragraph",
+      "section": "Discussão",
+      "ABCD": {
+        "A": "Os resultados registrados sustentam uma demonstração funcional delimitada, e não uma avaliação de aprendizagem",
+        "B": "Araka e colaboradores evidenciam problemas de mensuração da autorregulação a partir de instrumentos e registros digitais",
+        "C": "A criação e a recuperação de uma tarefa são coerentes com o recorte técnico do protocolo, mas não demonstram que seu usuário estudou, compreendeu o conteúdo ou melhorou o desempenho",
+        "D": "Essa distinção delimita a contribuição atual e permite identificar uma oportunidade de pesquisa futura"
+      }
+    },
+    {
+      "id": "paragraph:D2",
+      "type": "Paragraph",
+      "section": "Discussão",
+      "ABCD": {
+        "A": "A oportunidade futura é integrar o organizador a um processo de estudo mais amplo e avaliá-lo em contexto",
+        "B": "Prasse e colaboradores recomendam suportes ao longo do ciclo autorregulatório, enquanto Palalas e Wark mostram que resultados digitais dependem de condições heterogêneas",
+        "C": "As revisões oferecem uma direção de desenvolvimento, mas sua sobreposição e diversidade impedem somar seus estudos como evidências independentes ou prever o efeito do MVP",
+        "D": "Portanto, a conclusão deve preservar a contribuição técnica existente e formular a investigação educacional como etapa posterior"
+      }
+    },
+    {
+      "id": "paragraph:F1",
+      "type": "Paragraph",
+      "section": "Considerações finais",
+      "ABCD": {
+        "A": "O EstudaOffline oferece um artefato e um protocolo para examinar a organização e a conservação local de tarefas sintéticas",
+        "B": "Os registros do projeto sustentam apenas os cenários efetivamente observados e mantêm pendentes recarga sem rede, falha de quota, verificação do arquivo exportado e inspeção de acessibilidade",
+        "C": "A contribuição está nessa base verificável, sem demonstração de eficácia pedagógica, conformidade institucional integral ou funcionamento universal",
+        "D": "A continuidade deve primeiro concluir os cenários técnicos pendentes e, depois, planejar uma avaliação educacional com procedimentos e autorizações próprios"
+      }
+    },
+    {
+      "id": "source:education_araka2020",
+      "type": "Source",
+      "doi": "10.1186/s41039-020-00129-5",
+      "title": "Research trends in measurement and intervention tools for self-regulated learning for e-learning environments—systematic review (2008–2018)",
+      "decision": "apta_para_revisao"
+    },
+    {
+      "id": "source:education_baars2022",
+      "type": "Source",
+      "doi": "10.4018/IJMBL.315628",
+      "title": "Mobile Learning to Support Self-Regulated Learning: A Theoretical Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_brahma2023",
+      "type": "Source",
+      "doi": "10.4103/jehp.jehp_1106_22",
+      "title": "Influence of self-regulated learning on the academic procrastination of college students",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_broadbent2020",
+      "type": "Source",
+      "doi": "10.1007/s11423-020-09781-6",
+      "title": "Effects of mobile-app learning diaries vs online training on specific self-regulated learning components",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_chen2024",
+      "type": "Source",
+      "doi": "10.1007/s10639-024-12462-z",
+      "title": "Motivating students to become self-regulatory learners: A gamified mobile self-regulated learning approach",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_forstervold2022",
+      "type": "Source",
+      "doi": "10.1080/01443410.2022.2102582",
+      "title": "Students’ time management and procrastination in the wake of the pandemic",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_han2023",
+      "type": "Source",
+      "doi": "10.1080/03075079.2023.2201608",
+      "title": "College students’ self-regulation in asynchronous online courses during COVID-19",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_hartley2022",
+      "type": "Source",
+      "doi": "10.3991/ijim.v16i14.28783",
+      "title": "Smartphone as a Self-regulatory Planning Tool: Promise or Peril",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_lim2019",
+      "type": "Source",
+      "doi": "10.34105/j.kmel.2019.11.024",
+      "title": "The regulation of learning and co-creation of new knowledge in mobile learning",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_limone2020",
+      "type": "Source",
+      "doi": "10.3390/bs10120184",
+      "title": "Examining Procrastination among University Students through the Lens of the Self-Regulated Learning Model",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_palalas2020",
+      "type": "Source",
+      "doi": "10.14742/ajet.5650",
+      "title": "The relationship between mobile learning and self-regulated learning: A systematic review",
+      "decision": "apta_para_revisao"
+    },
+    {
+      "id": "source:education_patzak2025",
+      "type": "Source",
+      "doi": "10.3389/feduc.2025.1623228",
+      "title": "Boosting productivity and wellbeing through time management: evidence-based strategies for higher education and workforce development",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_prasse2024",
+      "type": "Source",
+      "doi": "10.1007/s10758-024-09772-z",
+      "title": "Challenges in Promoting Self-Regulated Learning in Technology Supported Learning Environments: An Umbrella Review of Systematic Reviews and Meta-Analyses",
+      "decision": "apta_para_revisao"
+    },
+    {
+      "id": "source:education_taghavi2024",
+      "type": "Source",
+      "doi": "10.1177/00332941241287423",
+      "title": "Mindfulness and Procrastination Among University EFL Learners: The Role of Attention Control and Self-Regulated Learning",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_tao2025",
+      "type": "Source",
+      "doi": "10.3389/fpsyg.2025.1562980",
+      "title": "The effects of self-regulated learning strategies on academic procrastination and academic success among college EFL students in China",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_wolters2017",
+      "type": "Source",
+      "doi": "10.1007/s11409-017-9174-1",
+      "title": "Examining the relations of time management and procrastination within a model of self-regulated learning",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_wolters2021",
+      "type": "Source",
+      "doi": "10.1007/s10648-020-09519-z",
+      "title": "College Students’ Time Management: a Self-Regulated Learning Perspective",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_wong2026",
+      "type": "Source",
+      "doi": "10.1007/s11423-026-10586-2",
+      "title": "Student engagement profiles in a mobile app: Links to self-regulated learning and performance",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_xu2022",
+      "type": "Source",
+      "doi": "10.1080/0144929X.2022.2151935",
+      "title": "A meta-analysis of the efficacy of self-regulated learning interventions on academic achievement in online and blended environments in K-12 and higher education",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:education_zheng2016",
+      "type": "Source",
+      "doi": "10.1080/14703297.2016.1259080",
+      "title": "Effects of a mobile self-regulated learning approach on students’ learning achievements and self-regulated learning skills",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:azionya2021",
+      "type": "Source",
+      "doi": "10.17718/tojde.1002822",
+      "title": "THE DIGITAL DIVIDE AND HIGHER EDUCATION CHALLENGE WITH EMERGENCY ONLINE LEARNING: ANALYSIS OF TWEETS IN THE WAKE OF THE COVID-19 LOCKDOWN",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:batanero2021",
+      "type": "Source",
+      "doi": "10.1109/ACCESS.2021.3095041",
+      "title": "Improving Accessibility in Online Education: Comparative Analysis of Attitudes of Blind and Deaf Students Toward an Adapted Learning Platform",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:bong2021",
+      "type": "Source",
+      "doi": "10.1080/13603116.2021.1937344",
+      "title": "Increasing faculty’s competence in digital accessibility for inclusive education: a systematic literature review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:choi2024",
+      "type": "Source",
+      "doi": "10.1007/s11528-024-00987-6",
+      "title": "Accessibility, Usability, and Universal Design for Learning: Discussion of Three Key LX/UX Elements for Inclusive Learning Design",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:cinquin2019",
+      "type": "Source",
+      "doi": "10.1016/j.compedu.2018.12.004",
+      "title": "Online e-learning and cognitive disabilities: A systematic review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:cob2023",
+      "type": "Source",
+      "doi": "10.3390/educsci13010094",
+      "title": "Investigating the User Interface Design Frameworks of Current Mobile Learning Applications: A Systematic Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:farhan2020",
+      "type": "Source",
+      "doi": "10.1080/17483107.2020.1786733",
+      "title": "A comparative study of an assistive e-learning interface among students with and without visual and hearing impairments",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:gobbo2023",
+      "type": "Source",
+      "doi": "10.3390/su151411392",
+      "title": "Emerging Themes for Digital Accessibility in Education",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:guo2022",
+      "type": "Source",
+      "doi": "10.1016/j.techsoc.2022.102122",
+      "title": "The digital divide in online learning in China during the COVID-19 pandemic",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:jamil2023",
+      "type": "Source",
+      "doi": "10.1177/00027642231156779",
+      "title": "The COVID-19 Pandemic and E-Learning: The Digital Divide and Educational Crises in Pakistan’s Universities",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:kumar2017",
+      "type": "Source",
+      "doi": "10.1007/s40692-017-0093-6",
+      "title": "Usability of mobile learning applications: a systematic literature review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:kumarguideline2019",
+      "type": "Source",
+      "doi": "10.1007/s10639-019-09937-9",
+      "title": "Usability guideline for Mobile learning applications: an update",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:kumarmapping2024",
+      "type": "Source",
+      "doi": "10.1108/IJILT-03-2023-0029",
+      "title": "Usability testing of mobile learning applications: a systematic mapping study",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:kumiyeboah2023",
+      "type": "Source",
+      "doi": "10.1111/bjet.13356",
+      "title": "Strategies for overcoming the digital divide during the COVID-19 pandemic in higher education institutions in Ghana",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:linhalis2026",
+      "type": "Source",
+      "doi": "10.17398/1695-288X.25.1.59",
+      "title": "Educa Offline: concepción de un Ambiente Virtual de Aprendizaje (AVA) en contextos de baja conectividad y vulnerabilidad social",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:martin2024",
+      "type": "Source",
+      "doi": "10.1080/15391523.2024.2425442",
+      "title": "From digital divide to digital equity: Systematic review of two decades of research on educational digital divide factors, dimensions, and interventions",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:mathrani2021",
+      "type": "Source",
+      "doi": "10.1080/14767724.2021.1981253",
+      "title": "Digital divide framework: online learning in developing countries during the COVID-19 lockdown",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:naveed2023",
+      "type": "Source",
+      "doi": "10.3390/su151813566",
+      "title": "Mobile Learning in Higher Education: A Systematic Literature Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:punchoojit2017",
+      "type": "Source",
+      "doi": "10.1155/2017/6787504",
+      "title": "Usability Studies on Mobile User Interface Design Patterns: A Systematic Literature Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:werfhorst2022",
+      "type": "Source",
+      "doi": "10.1016/j.caeo.2022.100100",
+      "title": "The digital divide in online education: Inequality in digital readiness of students and schools",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS01",
+      "type": "Source",
+      "doi": "10.1109/SPW53761.2021.00062",
+      "title": "The Remote on the Local: Exacerbating Web Attacks Via Service Workers Caches",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS02",
+      "type": "Source",
+      "doi": "10.1109/EuroSP53844.2022.00041",
+      "title": "SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS03",
+      "type": "Source",
+      "doi": "10.14722/NDSS.2021.23104",
+      "title": "Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage.",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS06",
+      "type": "Source",
+      "doi": "10.1007/978-3-030-35055-0_2",
+      "title": "Rotten Cellar: Security and Privacy of the Browser Cache Revisited",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS07",
+      "type": "Source",
+      "doi": "10.1145/3633769",
+      "title": "LoRe: A Programming Model for Verifiably Safe Local-First Software",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS08",
+      "type": "Source",
+      "doi": "10.1145/3517209.3524041",
+      "title": "Merge what you can, fork what you can't: managing data integrity in local-first software",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS09",
+      "type": "Source",
+      "doi": "10.1109/SmartCloud55982.2022.00037",
+      "title": "Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS10",
+      "type": "Source",
+      "doi": "10.1109/TPDS.2023.3241963",
+      "title": "BeauForT: Robust Byzantine Fault Tolerance for Client-Centric Mobile Web Applications",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS13",
+      "type": "Source",
+      "doi": "10.1145/3596267",
+      "title": "Navigating the Data Avalanche: Towards Supporting Developers in Developing Privacy-Friendly Children’s Apps",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS14",
+      "type": "Source",
+      "doi": "10.56553/popets-2022-0078",
+      "title": "\"We may share the number of diaper changes\": A Privacy and Security Analysis of Mobile Child Care Applications",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS15",
+      "type": "Source",
+      "doi": "10.1145/3501712.3535278",
+      "title": "KOALA Hero: Inform Children of Privacy Risks of Mobile Apps",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS17",
+      "type": "Source",
+      "doi": "10.1145/3543507.3583327",
+      "title": "Not Seen, Not Heard in the Digital World! Measuring Privacy Practices in Children’s Apps",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:OS18",
+      "type": "Source",
+      "doi": "10.3991/IJIM.V15I06.20631",
+      "title": "Security Issues in the Use of Mobile Educational Apps: A Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng01",
+      "type": "Source",
+      "doi": "10.1109/TR.2018.2865733",
+      "title": "Automated Testing of Android Apps: A Systematic Literature Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng02",
+      "type": "Source",
+      "doi": "10.3390/computers12050097",
+      "title": "The Applicability of Automated Testing Frameworks for Mobile Application Testing: A Systematic Literature Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng03",
+      "type": "Source",
+      "doi": "10.1007/s11219-018-9418-6",
+      "title": "Automated functional testing of mobile applications: a systematic mapping study",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng04",
+      "type": "Source",
+      "doi": "10.1016/j.infsof.2023.107323",
+      "title": "Systematic reviews in mobile app software engineering: A tertiary study",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng05",
+      "type": "Source",
+      "doi": "10.1016/j.jss.2016.03.065",
+      "title": "A systematic mapping study of mobile application testing techniques",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng06",
+      "type": "Source",
+      "doi": "10.1145/3507903",
+      "title": "Dynamic Testing Techniques of Non-functional Requirements in Mobile Apps: A Systematic Mapping Study",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng07",
+      "type": "Source",
+      "doi": "10.1109/CBI58679.2023.10187511",
+      "title": "How to Identify your Design Science Research Artifact",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng08",
+      "type": "Source",
+      "doi": "10.1016/j.infsof.2023.107318",
+      "title": "Revisiting the reproducibility of empirical software engineering studies based on data retrieved from development repositories",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng10",
+      "type": "Source",
+      "doi": "10.1145/3477535",
+      "title": "On the Reproducibility and Replicability of Deep Learning in Software Engineering",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng11",
+      "type": "Source",
+      "doi": "10.1109/ACCESS.2020.2964587",
+      "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng12",
+      "type": "Source",
+      "doi": "10.1016/j.infsof.2022.106870",
+      "title": "Investigating replication challenges through multiple replications of an experiment",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng13",
+      "type": "Source",
+      "doi": "10.1016/j.infsof.2018.01.006",
+      "title": "The role and value of replication in empirical software engineering results",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng14",
+      "type": "Source",
+      "doi": "10.1109/ACCESS.2017.2685629",
+      "title": "Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng15",
+      "type": "Source",
+      "doi": "10.1007/s10664-021-10114-1",
+      "title": "The effects of continuous integration on software development: a systematic literature review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng16",
+      "type": "Source",
+      "doi": "10.1109/TSE.2021.3064953",
+      "title": "Uncovering the Benefits and Challenges of Continuous Integration Practices",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng18",
+      "type": "Source",
+      "doi": "10.1016/j.jss.2024.112187",
+      "title": "Research artifacts for human-oriented experiments in software engineering: An ACM badges-driven structure proposal",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:eng20",
+      "type": "Source",
+      "doi": "10.1080/0960085X.2026.2627280",
+      "title": "MEDS: Methodology for Evaluation in Design Science",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU01",
+      "type": "Source",
+      "doi": "10.1136/bmj.n71",
+      "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU02",
+      "type": "Source",
+      "doi": "10.1136/bmj.n160",
+      "title": "PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews.",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU03",
+      "type": "Source",
+      "doi": "10.1186/s13643-020-01542-z",
+      "title": "PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU04",
+      "type": "Source",
+      "doi": "10.1038/s41562-016-0021",
+      "title": "A manifesto for reproducible science",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU05",
+      "type": "Source",
+      "doi": "10.1145/3345317",
+      "title": "Academic Plagiarism Detection: A Systematic Literature Review",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU06",
+      "type": "Source",
+      "doi": "10.1038/s41598-023-41032-5",
+      "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU07",
+      "type": "Source",
+      "doi": "10.7759/cureus.39238",
+      "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU08",
+      "type": "Source",
+      "doi": "10.1109/icievicivpr52578.2021.9564123",
+      "title": "AcPgChecker: Detection of Plagiarism among Academic and Scientific Writings",
+      "decision": "pendente"
+    },
+    {
+      "id": "source:SU10",
+      "type": "Source",
+      "doi": "10.3389/fpsyg.2017.00422",
+      "title": "A Review of Self-regulated Learning: Six Models and Four Directions for Research",
+      "decision": "apta_para_revisao"
+    },
+    {
+      "id": "source:SU11",
+      "type": "Source",
+      "doi": "10.1016/j.jbusres.2019.07.039",
+      "title": "Literature review as a research methodology: An overview and guidelines",
+      "decision": "apta_para_revisao"
+    },
+    {
+      "id": "criterion:identificacao",
+      "type": "AdmissionCriterion",
+      "name": "identificacao"
+    },
+    {
+      "id": "criterion:doi_registrado",
+      "type": "AdmissionCriterion",
+      "name": "doi_registrado"
+    },
+    {
+      "id": "criterion:url_registrada",
+      "type": "AdmissionCriterion",
+      "name": "url_registrada"
+    },
+    {
+      "id": "criterion:localizador_conferido",
+      "type": "AdmissionCriterion",
+      "name": "localizador_conferido"
+    },
+    {
+      "id": "criterion:conferencia_dirigida",
+      "type": "AdmissionCriterion",
+      "name": "conferencia_dirigida"
+    },
+    {
+      "id": "criterion:limites_registrados",
+      "type": "AdmissionCriterion",
+      "name": "limites_registrados"
+    },
+    {
+      "id": "artifact:entrega-escolar",
+      "type": "Artifact",
+      "path": "paper/entrega-escolar.tex"
+    },
+    {
+      "id": "ESC01",
+      "type": "Requirement",
+      "item": "Capa e folha de identificação",
+      "location": "páginas 1–2; parágrafos 0–55",
+      "status": "implementado; nomes dos estudantes omitidos por solicitação"
+    },
+    {
+      "id": "ESC02",
+      "type": "Requirement",
+      "item": "Sumário na ordem Introdução, Objetivos, Metodologia, Referencial teórico, Considerações finais, Referências, Apêndices, Anexos",
+      "location": "página 3; parágrafos 58–81",
+      "status": "implementado pelo gerador escolar"
+    },
+    {
+      "id": "ESC03",
+      "type": "Requirement",
+      "item": "Um objetivo geral e dois específicos; verbos no infinitivo",
+      "location": "página 4; parágrafos 101–109",
+      "status": "implementado"
+    },
+    {
+      "id": "ESC04",
+      "type": "Requirement",
+      "item": "A4 e margens de 2 cm em todos os lados",
+      "location": "word/document.xml: w:sectPr/w:pgSz e w:pgMar",
+      "status": "implementado literal do arquivo; registrar conflito com orientação ABNT genérica 3/2 cm"
+    },
+    {
+      "id": "ESC05",
+      "type": "Requirement",
+      "item": "Arial ou Times New Roman, 12 pt, entrelinhas 1,5, justificado",
+      "location": "página 4; parágrafo 97",
+      "status": "12 pt, 1,5 e justificado implementados; fonte exata pendente: Liberation Sans substitui Arial"
+    },
+    {
+      "id": "ESC06",
+      "type": "Requirement",
+      "item": "Citações e referências ABNT",
+      "location": "página 5; parágrafos 118 e 126",
+      "status": "autor-data e ordem alfabética implementados; metadados completos e conferência normativa integral pendentes"
+    }
+  ],
+  "edges": [
+    {
+      "from": "paragraph:I1",
+      "to": "source:SU10",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:T1",
+      "to": "source:SU10",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:T2",
+      "to": "source:education_palalas2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:T3",
+      "to": "source:education_prasse2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:T4",
+      "to": "source:education_araka2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:T5",
+      "to": "source:eng06",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:T6",
+      "to": "source:wcag",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "source:education_araka2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "source:education_baars2022",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "source:education_brahma2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "source:education_broadbent2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "claim:L1:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L1:1",
+      "to": "source:education_araka2020",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "claim:L1:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L1:2",
+      "to": "source:education_baars2022",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "claim:L1:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L1:3",
+      "to": "source:education_brahma2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L1",
+      "to": "claim:L1:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L1:4",
+      "to": "source:education_broadbent2020",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "source:education_chen2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "source:education_forstervold2022",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "source:education_han2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "source:education_hartley2022",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "claim:L2:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L2:1",
+      "to": "source:education_chen2024",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "claim:L2:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L2:2",
+      "to": "source:education_forstervold2022",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "claim:L2:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L2:3",
+      "to": "source:education_han2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L2",
+      "to": "claim:L2:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L2:4",
+      "to": "source:education_hartley2022",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "source:education_lim2019",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "source:education_limone2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "source:education_palalas2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "source:education_patzak2025",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "claim:L3:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L3:1",
+      "to": "source:education_lim2019",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "claim:L3:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L3:2",
+      "to": "source:education_limone2020",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "claim:L3:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L3:3",
+      "to": "source:education_palalas2020",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L3",
+      "to": "claim:L3:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L3:4",
+      "to": "source:education_patzak2025",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "source:education_prasse2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "source:education_taghavi2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "source:education_tao2025",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "source:education_wolters2017",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "claim:L4:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L4:1",
+      "to": "source:education_prasse2024",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "claim:L4:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L4:2",
+      "to": "source:education_taghavi2024",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "claim:L4:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L4:3",
+      "to": "source:education_tao2025",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L4",
+      "to": "claim:L4:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L4:4",
+      "to": "source:education_wolters2017",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "source:education_wolters2021",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "source:education_wong2026",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "source:education_xu2022",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "source:education_zheng2016",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "claim:L5:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L5:1",
+      "to": "source:education_wolters2021",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "claim:L5:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L5:2",
+      "to": "source:education_wong2026",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "claim:L5:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L5:3",
+      "to": "source:education_xu2022",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L5",
+      "to": "claim:L5:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L5:4",
+      "to": "source:education_zheng2016",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "source:azionya2021",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "source:batanero2021",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "source:bong2021",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "source:choi2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "claim:L6:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L6:1",
+      "to": "source:azionya2021",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "claim:L6:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L6:2",
+      "to": "source:batanero2021",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "claim:L6:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L6:3",
+      "to": "source:bong2021",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L6",
+      "to": "claim:L6:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L6:4",
+      "to": "source:choi2024",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "source:cinquin2019",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "source:cob2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "source:farhan2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "source:gobbo2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "claim:L7:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L7:1",
+      "to": "source:cinquin2019",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "claim:L7:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L7:2",
+      "to": "source:cob2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "claim:L7:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L7:3",
+      "to": "source:farhan2020",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L7",
+      "to": "claim:L7:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L7:4",
+      "to": "source:gobbo2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "source:guo2022",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "source:jamil2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "source:kumar2017",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "source:kumarguideline2019",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "claim:L8:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L8:1",
+      "to": "source:guo2022",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "claim:L8:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L8:2",
+      "to": "source:jamil2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "claim:L8:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L8:3",
+      "to": "source:kumar2017",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L8",
+      "to": "claim:L8:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L8:4",
+      "to": "source:kumarguideline2019",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "source:kumarmapping2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "source:kumiyeboah2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "source:linhalis2026",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "source:martin2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "claim:L9:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L9:1",
+      "to": "source:kumarmapping2024",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "claim:L9:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L9:2",
+      "to": "source:kumiyeboah2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "claim:L9:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L9:3",
+      "to": "source:linhalis2026",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L9",
+      "to": "claim:L9:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L9:4",
+      "to": "source:martin2024",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "source:mathrani2021",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "source:naveed2023",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "source:punchoojit2017",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "source:werfhorst2022",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "claim:L10:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L10:1",
+      "to": "source:mathrani2021",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "claim:L10:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L10:2",
+      "to": "source:naveed2023",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "claim:L10:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L10:3",
+      "to": "source:punchoojit2017",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L10",
+      "to": "claim:L10:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L10:4",
+      "to": "source:werfhorst2022",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "source:OS01",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "source:OS02",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "source:OS03",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "source:OS06",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "claim:L11:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L11:1",
+      "to": "source:OS01",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "claim:L11:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L11:2",
+      "to": "source:OS02",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "claim:L11:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L11:3",
+      "to": "source:OS03",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L11",
+      "to": "claim:L11:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L11:4",
+      "to": "source:OS06",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "source:OS07",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "source:OS08",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "source:OS09",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "source:OS10",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "claim:L12:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L12:1",
+      "to": "source:OS07",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "claim:L12:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L12:2",
+      "to": "source:OS08",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "claim:L12:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L12:3",
+      "to": "source:OS09",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L12",
+      "to": "claim:L12:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L12:4",
+      "to": "source:OS10",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "source:OS13",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "source:OS14",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "source:OS15",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "source:OS17",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "claim:L13:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L13:1",
+      "to": "source:OS13",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "claim:L13:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L13:2",
+      "to": "source:OS14",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "claim:L13:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L13:3",
+      "to": "source:OS15",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L13",
+      "to": "claim:L13:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L13:4",
+      "to": "source:OS17",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L14",
+      "to": "source:OS18",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L14",
+      "to": "claim:L14:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L14:1",
+      "to": "source:OS18",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "source:eng01",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "source:eng02",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "source:eng03",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "source:eng04",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "claim:L15:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L15:1",
+      "to": "source:eng01",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "claim:L15:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L15:2",
+      "to": "source:eng02",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "claim:L15:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L15:3",
+      "to": "source:eng03",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L15",
+      "to": "claim:L15:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L15:4",
+      "to": "source:eng04",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "source:eng05",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "source:eng06",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "source:eng07",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "source:eng08",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "claim:L16:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L16:1",
+      "to": "source:eng05",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "claim:L16:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L16:2",
+      "to": "source:eng06",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "claim:L16:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L16:3",
+      "to": "source:eng07",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L16",
+      "to": "claim:L16:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L16:4",
+      "to": "source:eng08",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "source:eng10",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "source:eng11",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "source:eng12",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "source:eng13",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "claim:L17:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L17:1",
+      "to": "source:eng10",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "claim:L17:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L17:2",
+      "to": "source:eng11",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "claim:L17:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L17:3",
+      "to": "source:eng12",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L17",
+      "to": "claim:L17:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L17:4",
+      "to": "source:eng13",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "source:eng14",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "source:eng15",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "source:eng16",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "source:eng18",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "claim:L18:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L18:1",
+      "to": "source:eng14",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "claim:L18:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L18:2",
+      "to": "source:eng15",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "claim:L18:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L18:3",
+      "to": "source:eng16",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L18",
+      "to": "claim:L18:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L18:4",
+      "to": "source:eng18",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L19",
+      "to": "source:eng20",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L19",
+      "to": "claim:L19:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L19:1",
+      "to": "source:eng20",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "source:SU01",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "source:SU02",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "source:SU03",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "source:SU04",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "claim:L20:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L20:1",
+      "to": "source:SU01",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "claim:L20:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L20:2",
+      "to": "source:SU02",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "claim:L20:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L20:3",
+      "to": "source:SU03",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L20",
+      "to": "claim:L20:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L20:4",
+      "to": "source:SU04",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "source:SU05",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "source:SU06",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "source:SU07",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "source:SU08",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "claim:L21:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L21:1",
+      "to": "source:SU05",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "claim:L21:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L21:2",
+      "to": "source:SU06",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "claim:L21:3",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L21:3",
+      "to": "source:SU07",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L21",
+      "to": "claim:L21:4",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L21:4",
+      "to": "source:SU08",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L22",
+      "to": "source:SU10",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L22",
+      "to": "source:SU11",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:L22",
+      "to": "claim:L22:1",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L22:1",
+      "to": "source:SU10",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:L22",
+      "to": "claim:L22:2",
+      "type": "HAS_BASE"
+    },
+    {
+      "from": "claim:L22:2",
+      "to": "source:SU11",
+      "type": "ATTRIBUTED_TO"
+    },
+    {
+      "from": "paragraph:M2",
+      "to": "source:SU11",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:D1",
+      "to": "source:education_araka2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:D2",
+      "to": "source:education_prasse2024",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "paragraph:D2",
+      "to": "source:education_palalas2020",
+      "type": "CITES",
+      "scope": "paráfrase registrada; sustentação deve ser conferida por afirmação"
+    },
+    {
+      "from": "source:education_araka2020",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_araka2020",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_araka2020",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_araka2020",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_araka2020",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_araka2020",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_baars2022",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_baars2022",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_baars2022",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_baars2022",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_baars2022",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_baars2022",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_brahma2023",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_brahma2023",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_brahma2023",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_brahma2023",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_brahma2023",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_brahma2023",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_broadbent2020",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_broadbent2020",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_broadbent2020",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_broadbent2020",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_broadbent2020",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_broadbent2020",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_chen2024",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_chen2024",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_chen2024",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_chen2024",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_chen2024",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_chen2024",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_forstervold2022",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_forstervold2022",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_forstervold2022",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_forstervold2022",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_forstervold2022",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_forstervold2022",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_han2023",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_han2023",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_han2023",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_han2023",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_han2023",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_han2023",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_hartley2022",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_hartley2022",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_hartley2022",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_hartley2022",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_hartley2022",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_hartley2022",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_lim2019",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_lim2019",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_lim2019",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_lim2019",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_lim2019",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_lim2019",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_limone2020",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_limone2020",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_limone2020",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_limone2020",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_limone2020",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_limone2020",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_palalas2020",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_palalas2020",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_palalas2020",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_palalas2020",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_palalas2020",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_palalas2020",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_patzak2025",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_patzak2025",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_patzak2025",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_patzak2025",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_patzak2025",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_patzak2025",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_prasse2024",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_prasse2024",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_prasse2024",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_prasse2024",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_prasse2024",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_prasse2024",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_taghavi2024",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_taghavi2024",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_taghavi2024",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_taghavi2024",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_taghavi2024",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_taghavi2024",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_tao2025",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_tao2025",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_tao2025",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_tao2025",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_tao2025",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_tao2025",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2017",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2017",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2017",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2017",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_wolters2017",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_wolters2017",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2021",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2021",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2021",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2021",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_wolters2021",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wolters2021",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wong2026",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wong2026",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wong2026",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_wong2026",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_wong2026",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_wong2026",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_xu2022",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_xu2022",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_xu2022",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_xu2022",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_xu2022",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_xu2022",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_zheng2016",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_zheng2016",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_zheng2016",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:education_zheng2016",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_zheng2016",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:education_zheng2016",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:azionya2021",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:azionya2021",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:azionya2021",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:azionya2021",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:azionya2021",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:azionya2021",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:batanero2021",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:batanero2021",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:batanero2021",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:batanero2021",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:batanero2021",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:batanero2021",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:bong2021",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:bong2021",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:bong2021",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:bong2021",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:bong2021",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:bong2021",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:choi2024",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:choi2024",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:choi2024",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:choi2024",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:choi2024",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:choi2024",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cinquin2019",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cinquin2019",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cinquin2019",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cinquin2019",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:cinquin2019",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:cinquin2019",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cob2023",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cob2023",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cob2023",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:cob2023",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:cob2023",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:cob2023",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:farhan2020",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:farhan2020",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:farhan2020",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:farhan2020",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:farhan2020",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:farhan2020",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:gobbo2023",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:gobbo2023",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:gobbo2023",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:gobbo2023",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:gobbo2023",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:gobbo2023",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:guo2022",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:guo2022",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:guo2022",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:guo2022",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:guo2022",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:guo2022",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:jamil2023",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:jamil2023",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:jamil2023",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:jamil2023",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:jamil2023",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:jamil2023",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumar2017",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumar2017",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumar2017",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumar2017",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:kumar2017",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumar2017",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumarguideline2019",
+      "to": "criterion:identificacao",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumarguideline2019",
+      "to": "criterion:doi_registrado",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumarguideline2019",
+      "to": "criterion:url_registrada",
+      "type": "CHECK_RESULT",
+      "passed": true
+    },
+    {
+      "from": "source:kumarguideline2019",
+      "to": "criterion:localizador_conferido",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:kumarguideline2019",
+      "to": "criterion:conferencia_dirigida",
+      "type": "CHECK_RESULT",
+      "passed": false
+    },
+    {
+      "from": "source:kumarguideline2019",
+      "to": "criterion:limites_registrados",
+      "type": "CHECK_RESULT",
+      

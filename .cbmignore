@@ -1,0 +1,3 @@
+# Bibliographic data are tracked by scripts/track_sources.py, not an AST graph.
+study/literature/
+study/technical-graph/

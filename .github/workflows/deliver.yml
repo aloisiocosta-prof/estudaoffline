@@ -40,10 +40,14 @@ jobs:
         shell: bash
       - run: flutter build web --release --base-href /estudaoffline/ --no-web-resources-cdn
       - run: python3 scripts/build_literature.py
-      - run: python3 scripts/build_narrative.py
-      - run: python3 scripts/build_fichamentos.py
-      - run: python3 scripts/audit_latex.py
       - run: python3 scripts/write_ci_results.py
+      - run: python3 scripts/build_narrative.py
+      - run: python3 scripts/track_sources.py
+      - run: python3 scripts/build_school_delivery.py
+      - run: python3 scripts/build_fichamentos.py
+      - run: python3 scripts/test_source_tracking.py
+      - run: python3 scripts/audit_latex.py
+      - run: python3 scripts/track_sources.py --verify-fresh
       - run: sudo apt-get update && sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-lang-portuguese fonts-liberation latexmk
       - run: mkdir -p build/web/pdfs && cd paper && latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex fichamentos.tex && cp artigo.pdf entrega-escolar.pdf poster.pdf fichamentos.pdf ../build/web/pdfs/
       - run: python3 -m pip install PyMuPDF==1.26.6
@@ -74,6 +78,17 @@ jobs:
     steps:
       - uses: actions/deploy-pages@v4
         id: deploy
+  technical-graph:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/run_codebase_memory.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: codebase-memory-evidence
+          path: study/technical-graph
   release:
     needs: validate
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'

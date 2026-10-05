@@ -1,0 +1,28 @@
+{
+  "version": "v0.11.0",
+  "archive_sha256": "032b33c1833919a2d1de67ff6367fa6ea46aee8689c86ef223c88fae3b6e4536",
+  "results": [
+    {
+      "tool": "index_repository",
+      "returncode": 0,
+      "stdout": "{\"content\":[{\"type\":\"text\",\"text\":\"{\\\"project\\\":\\\"estudaoffline\\\",\\\"excluded\\\":{\\\"dirs\\\":[\\\"build\\\",\\\".git\\\",\\\"scripts\\\",\\\"docs\\\",\\\"study/fixtures\\\"],\\\"count\\\":5,\\\"truncated\\\":false},\\\"not_indexed_files_count\\\":6,\\\"not_indexed_files\\\":{\\\"files\\\":[{\\\"path\\\":\\\"web/icons/Icon-512.png\\\",\\\"reason\\\":\\\"ignored-suffix\\\"},{\\\"path\\\":\\\"web/icons/Icon-192.png\\\",\\\"reason\\\":\\\"ignored-suffix\\\"},{\\\"path\\\":\\\"paper/fonts/LiberationSans-Regular.ttf\\\",\\\"reason\\\":\\\"ignored-suffix\\\"},{\\\"path\\\":\\\"paper/fonts/LiberationSans-Italic.ttf\\\",\\\"reason\\\":\\\"ignored-suffix\\\"},{\\\"path\\\":\\\"paper/fonts/LiberationSans-BoldItalic.ttf\\\",\\\"reason\\\":\\\"ignored-suffix\\\"}],\\\"count\\\":6,\\\"truncated\\\":true,\\\"note\\\":\\\"Excluded by design (gitignore/.cbmignore/skip-lists); examples only — full list in 'logfile'.\\\"},\\\"skipped_count\\\":0,\\\"logfile\\\":\\\"/home/runner/.cache/codebase-memory-mcp/logs/estudaoffline-1791205535.log\\\",\\\"parse_partial_count\\\":0,\\\"parse_unusable_count\\\":1,\\\"parse_unusable\\\":{\\\"files\\\":[{\\\"path\\\":\\\"study/literature/evidence-graph.json\\\",\\\"whole_file\\\":true,\\\"range_end\\\":3944}],\\\"count\\\":1,\\\"truncated\\\":false,\\\"note\\\":\\\"Indexed, but the parse failed across nearly the whole file, so line ranges are not useful here — read the source directly.\\\"},\\\"nodes\\\":2207,\\\"edges\\\":2315,\\\"expected_nodes\\\":2207,\\\"expected_edges\\\":2315,\\\"adr_present\\\":false,\\\"adr_hint\\\":\\\"Project indexed. Consider creating an Architecture Decision Record: explore the codebase with get_architecture(aspects=['all']), then use manage_adr(mode='update') to persist architectural insights across sessions.\\\",\\\"artifact_present\\\":false,\\\"status\\\":\\\"indexed\\\"}\"}],\"structuredContent\":{\"project\":\"estudaoffline\",\"excluded\":{\"dirs\":[\"build\",\".git\",\"scripts\",\"docs\",\"study/fixtures\"],\"count\":5,\"truncated\":false},\"not_indexed_files_count\":6,\"not_indexed_files\":{\"files\":[{\"path\":\"web/icons/Icon-512.png\",\"reason\":\"ignored-suffix\"},{\"path\":\"web/icons/Icon-192.png\",\"reason\":\"ignored-suffix\"},{\"path\":\"paper/fonts/LiberationSans-Regular.ttf\",\"reason\":\"ignored-suffix\"},{\"path\":\"paper/fonts/LiberationSans-Italic.ttf\",\"reason\":\"ignored-suffix\"},{\"path\":\"paper/fonts/LiberationSans-BoldItalic.ttf\",\"reason\":\"ignored-suffix\"}],\"count\":6,\"truncated\":true,\"note\":\"Excluded by design (gitignore/.cbmignore/skip-lists); examples only — full list in 'logfile'.\"},\"skipped_count\":0,\"logfile\":\"/home/runner/.cache/codebase-memory-mcp/logs/estudaoffline-1791205535.log\",\"parse_partial_count\":0,\"parse_unusable_count\":1,\"parse_unusable\":{\"files\":[{\"path\":\"study/literature/evidence-graph.json\",\"whole_file\":true,\"range_end\":3944}],\"count\":1,\"truncated\":false,\"note\":\"Indexed, but the parse failed across nearly the whole file, so line ranges are not useful here — read the source directly.\"},\"nodes\":2207,\"edges\":2315,\"expected_nodes\":2207,\"expected_edges\":2315,\"adr_present\":false,\"adr_hint\":\"Project indexed. Consider creating an Architecture Decision Record: explore the codebase with get_architecture(aspects=['all']), then use manage_adr(mode='update') to persist architectural insights across sessions.\",\"artifact_present\":false,\"status\":\"indexed\"},\"isError\":false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "get_graph_schema",
+      "returncode": 0,
+      "stdout": "{\"content\":[{\"type\":\"text\",\"text\":\"node_labels: 11  (cols: label count)\\n  Variable 1791\\n  File 126\\n  Module 121\\n  Section 116\\n  Method 21\\n  Function 14\\n  Folder 11\\n  Class 4\\n  Branch 1\\n  Decorator 1\\n  Project 1\\nedge_types: 9  (cols: type count)\\n  DEFINES 2072\\n  CONTAINS_FILE 126\\n  CALLS 48\\n  USAGE 28\\n  DEFINES_METHOD 21\\n  CONTAINS_FOLDER 10\\n  IMPORTS 5\\n  DECORATES 4\\n  HAS_BRANCH 1\\ntotal: 20\\nreturned: 20\\nhas_more: false\\nadr_present: false\\n\"}],\"isError\":false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "query_graph",
+      "returncode": 0,
+      "stdout": "{\"content\":[{\"type\":\"text\",\"text\":\"rows: 0  (cols: f.name)\\nreturned: 0\\ntotal: 0\\ntotal_relation: eq\\nhas_more: false\\ntruncated: false\\nhint: \\\"Query returned no results. Use get_graph_schema() to see available labels and edge types.\\\"\\n\"}],\"isError\":false}\n",
+      "stderr": ""
+    }
+  ],
+  "success": true,
+  "scope": "Code graph only; bibliographic support is tracked separately in evidence-graph.json.",
+  "semantic_coverage_accepted": false,
+  "coverage_reason": "Moderate mode excluded scripts; assess query returned zero rows. Command return codes are insufficient."
+}

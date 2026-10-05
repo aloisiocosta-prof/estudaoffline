@@ -1,0 +1,211 @@
+{
+  "source": "01-ENTREGA-FINAL-PROJETO-INTEGRADOR-9-1-.docx",
+  "duplicate": "02-ENTREGA-FINAL-PROJETO-INTEGRADOR-9-1-.docx",
+  "sha256": "845b66af999c0231eb0af8087a32c17e33d8540ac3f8d53c35f0516b9e5c21db",
+  "source_pages": 5,
+  "same_bytes": true,
+  "requirements": [
+    {
+      "id": "ESC01",
+      "item": "Capa e folha de identificação",
+      "location": "páginas 1–2; parágrafos 0–55",
+      "status": "implementado; nomes dos estudantes omitidos por solicitação"
+    },
+    {
+      "id": "ESC02",
+      "item": "Sumário na ordem Introdução, Objetivos, Metodologia, Referencial teórico, Considerações finais, Referências, Apêndices, Anexos",
+      "location": "página 3; parágrafos 58–81",
+      "status": "implementado pelo gerador escolar"
+    },
+    {
+      "id": "ESC03",
+      "item": "Um objetivo geral e dois específicos; verbos no infinitivo",
+      "location": "página 4; parágrafos 101–109",
+      "status": "implementado"
+    },
+    {
+      "id": "ESC04",
+      "item": "A4 e margens de 2 cm em todos os lados",
+      "location": "word/document.xml: w:sectPr/w:pgSz e w:pgMar",
+      "status": "implementado literal do arquivo; registrar conflito com orientação ABNT genérica 3/2 cm"
+    },
+    {
+      "id": "ESC05",
+      "item": "Arial ou Times New Roman, 12 pt, entrelinhas 1,5, justificado",
+      "location": "página 4; parágrafo 97",
+      "status": "12 pt, 1,5 e justificado implementados; fonte exata pendente: Liberation Sans substitui Arial"
+    },
+    {
+      "id": "ESC06",
+      "item": "Citações e referências ABNT",
+      "location": "página 5; parágrafos 118 e 126",
+      "status": "autor-data e ordem alfabética implementados; metadados completos e conferência normativa integral pendentes"
+    }
+  ],
+  "extracted_paragraphs": [
+    {
+      "index": 0,
+      "text": "ESCOLA: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    {
+      "index": 1,
+      "text": "CURSO TÉCNICO EM XXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    {
+      "index": 2,
+      "text": "PROJETO INTEGRADOR  "
+    },
+    {
+      "index": 14,
+      "text": "TÍTULO"
+    },
+    {
+      "index": 27,
+      "text": "LOCAL E DATA"
+    },
+    {
+      "index": 29,
+      "text": "ALUNOS(AS): XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    {
+      "index": 30,
+      "text": "PROFESSOR: (Aqui deve ser inserido o nome do professor que acompanha o aluno na Escola) "
+    },
+    {
+      "index": 42,
+      "text": "TÍTULO DO TRABALHO "
+    },
+    {
+      "index": 55,
+      "text": "LOCAL E DATA"
+    },
+    {
+      "index": 58,
+      "text": "SUMÁRIO"
+    },
+    {
+      "index": 63,
+      "text": "1 INTRODUÇÃO..................................................................................................XX"
+    },
+    {
+      "index": 65,
+      "text": " 1.1 OBJETIVOS .................................................................................................XX"
+    },
+    {
+      "index": 67,
+      "text": "1.1.1 Objetivo Geral ............................................................................................XX"
+    },
+    {
+      "index": 69,
+      "text": "1.1.2 Objetivos Específicos ................................................................................XX"
+    },
+    {
+      "index": 71,
+      "text": "1.2 METODOLOGIA............................................................................................XX"
+    },
+    {
+      "index": 73,
+      "text": "2 REFERENCIAL TEÓRICO...............................................................................XX"
+    },
+    {
+      "index": 75,
+      "text": "3 CONSIDERAÇÕES FINAIS............................................................................XX"
+    },
+    {
+      "index": 77,
+      "text": " 4 REFERÊNCIAS ..............................................................................................XX"
+    },
+    {
+      "index": 79,
+      "text": "APÊNDICES ......................................................................................................XX"
+    },
+    {
+      "index": 81,
+      "text": "ANEXOS ............................................................................................................XX"
+    },
+    {
+      "index": 96,
+      "text": "INTRODUÇÃO: "
+    },
+    {
+      "index": 97,
+      "text": "Apresentar o tema de sua pesquisa em um pequeno texto que traga informações claras e objetivas sobre seu trabalho. Aqui seria como uma apresentação da pesquisa, todo o trabalho deve ser apresentado em fonte Arial ou Times New Roman, tamanho 12 e espaçamento entrelinhas de 1,5, justificado."
+    },
+    {
+      "index": 99,
+      "text": "OBJETIVOS"
+    },
+    {
+      "index": 101,
+      "text": "Objetivo Geral"
+    },
+    {
+      "index": 103,
+      "text": "Descreva o objetivo se sua pesquisa, o objetivo geral é mais amplo e é apenas um. Deve traçar um panorama que integre o foco de sua pesquisa."
+    },
+    {
+      "index": 105,
+      "text": "1.1.2 Objetivos Específicos "
+    },
+    {
+      "index": 107,
+      "text": "Liste 2 objetivos específicos, eles devem estar alinhados com o tema central da pesquisa, servem como um guia do conteúdo que será abordado no trabalho. "
+    },
+    {
+      "index": 109,
+      "text": "Lembrando que tanto o objetivo geral como os objetivos específicos, deve começar com verbo no infinitivo."
+    },
+    {
+      "index": 111,
+      "text": " METODOLOGIA"
+    },
+    {
+      "index": 113,
+      "text": "A seção de metodologia é essencial para descrever os procedimentos e as técnicas que você utilizou para conduzir sua pesquisa. Ela explica como você coletou, analisou e interpretou os dados, permitindo que o leitor compreenda a abordagem e possa avaliar a validade e a confiabilidade do estudo. A metodologia varia conforme o tipo de pesquisa (qualitativa, quantitativa, experimental, descritiva, etc)."
+    },
+    {
+      "index": 116,
+      "text": "REFERENCIAL TEÓRICO"
+    },
+    {
+      "index": 118,
+      "text": "É a pesquisa propriamente dita, exponha aqui as informações que você coletou sobre o seu objeto de pesquisa, cite quais autores foram utilizados. Busque informações em livros, artigos, sites e outras fontes de informações, lembrando que todas as fontes utilizadas devem ser citadas nas referências. Levar em consideração as regras da ABNT (Associação Brasileira de Normas Técnicas) "
+    },
+    {
+      "index": 120,
+      "text": "CONSIDERAÇÕES FINAIS:"
+    },
+    {
+      "index": 122,
+      "text": "Nessa etapa do trabalho você vai escrever sobre os resultados obtidos com a pesquisa. Escreva um texto mostrando as principais conclusões levantadas desde o início do trabalho até a conclusão do mesmo. "
+    },
+    {
+      "index": 124,
+      "text": "REFERÊNCIAS "
+    },
+    {
+      "index": 126,
+      "text": "Destaque aqui, os livros, artigos, sites e documentos que você utilizou como fonte em sua pesquisa, ver as normas da ABNT."
+    },
+    {
+      "index": 128,
+      "text": "APÊNDICES"
+    },
+    {
+      "index": 130,
+      "text": "É um texto ou documento usado para complementar um trabalho, que foi elaborado pelo próprio autor, exemplo: um roteiro de entrevista."
+    },
+    {
+      "index": 132,
+      "text": "ANEXOS"
+    },
+    {
+      "index": 134,
+      "text": "É o texto ou documento usado para complementar um trabalho, que não foi elaborado pelo próprio autor dele, exemplo: a cópia e de um mapa, documento ou fotografia."
+    }
+  ],
+  "limits": [
+    "Modelo não determina corte de nota, aprovação automática, quantidade mínima de DOI ou ferramenta MCP.",
+    "ABCD é a convenção editorial do orientador; ABNT regula citações e referências, sem conferir validade científica."
+  ]
+}

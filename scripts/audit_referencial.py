@@ -8,14 +8,18 @@ def main():
     titles=[s['title'] for s in json.loads((ROOT/'study/literature/argumento-abcd.json').read_text())['sections']]
     for name in ['artigo','entrega-escolar']:
         doc=fitz.open(args.pdf_dir/(name+'.pdf'));assert len(doc)>0
-        toc=doc.get_toc();starts=[(t,next(p for level,label,p in toc if level==1 and label==t)) for t in titles]
+        toc=doc.get_toc()
+        checked_titles=titles if name=='artigo' else ['Introdução','Referencial teórico','Considerações finais']
+        starts=[(t,next(p for level,label,p in toc if level==1 and label==t)) for t in checked_titles]
         # Bibliography can be an unnumbered heading without a PDF bookmark.
-        ref=next(i+1 for i,p in enumerate(doc) if p.get_text().lstrip().startswith('Referências'))
+        ref=next(i+1 for i,p in enumerate(doc) if re.match(r'(?:4\s+)?Referências',p.get_text().lstrip()))
         bookmarks=[p for level,title,p in toc if title=='Referências']
         assert bookmarks and all(p==ref for p in bookmarks),(name,'bibliography bookmark',bookmarks,ref)
         starts.append(('Referências',ref));result={}
         for i,(title,start) in enumerate(starts):
             stop=starts[i+1][1]-1 if i+1<len(starts) else len(doc)
+            if name=='entrega-escolar' and title=='Referências':
+                stop=next(p for level,label,p in toc if label=='Apêndices')-1
             cap=None if title=='Referências' else (1 if title=='Considerações finais' else 2)
             assert stop>=start and (cap is None or stop-start+1<=cap),(name,title,start,stop,cap)
             text=' '.join(doc[p-1].get_text() for p in range(start,stop+1))
