@@ -21,11 +21,16 @@ jobs:
           channel: stable
           flutter-version: '3.47.6'
           cache: true
+      - run: mkdir -p study/raw
       - run: flutter pub get
-      - run: flutter analyze
-      - run: flutter test --reporter expanded
-      - run: python3 scripts/test_version.py
+      - run: flutter analyze | tee study/raw/flutter-analyze.txt
+        shell: bash
+      - run: flutter test --reporter expanded | tee study/raw/flutter-tests.txt
+        shell: bash
+      - run: python3 scripts/test_version.py 2>&1 | tee study/raw/semver-tests.txt
+        shell: bash
       - run: flutter build web --release --base-href /estudaoffline/ --no-web-resources-cdn
+      - run: python3 scripts/write_ci_results.py
       - run: sudo apt-get update && sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-lang-portuguese fonts-liberation latexmk
       - run: mkdir -p build/web/pdfs && cd paper && latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex && cp artigo.pdf entrega-escolar.pdf poster.pdf ../build/web/pdfs/
       - run: python3 scripts/prepare_web.py
