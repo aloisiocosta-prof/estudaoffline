@@ -26,8 +26,14 @@ def apply_decision(record, decision):
       record.update(decisao_final='aceita',revisor=decision['revisor'],decision_evidence=decision)
     else:record.update(decisao_final='pendente',decision_evidence=decision)
     return record
+def check_freshness(root, hashes):
+    for name,expected in hashes.items():
+      if hashlib.sha256((root/name).read_bytes()).hexdigest()!=expected:
+        raise ValueError('Rastreamento desatualizado: '+name)
 def main():
-    parser=argparse.ArgumentParser();parser.add_argument('--strict',action='store_true');args=parser.parse_args()
+    parser=argparse.ArgumentParser();parser.add_argument('--strict',action='store_true');parser.add_argument('--verify-fresh',action='store_true');args=parser.parse_args()
+    if args.verify_fresh:
+      report=load('admission-report.json');check_freshness(ROOT,report['input_sha256']);print('Rastreamento corresponde aos arquivos atuais');return
     sources=load('selected.json');locations=load('source-locators.json')
     appraisals={s['key']:s for s in load('core-source-appraisal.json')['core_sources']}
     decisions=load('admission-decisions.json')['source_decisions']
@@ -51,7 +57,8 @@ def main():
     for req in model['requirements']:
       nodes.append({'id':'requirement:'+req['id'],'type':'Requirement',**req})
       edges.append({'from':'artifact:entrega-escolar','to':'requirement:'+req['id'],'type':'MAPS_TO','state':req['status']})
-    digest={str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in [ROOT/'study/literature'/n for n in ['selected.json','source-locators.json','argumento-abcd.json','core-source-appraisal.json']]}
+    inputs=[ROOT/'study/literature'/n for n in ['selected.json','source-locators.json','argumento-abcd.json','core-source-appraisal.json','admission-decisions.json']]+[ROOT/'docs/school-model-requirements.json']
+    digest={str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in inputs}
     report={'policy':'Triagem local conservadora; apta para revisão não equivale a aceita pelo orientador. Referências de trabalho permanecem provisórias até decisão registrada.',
       'counts':dict(Counter(r['status'] for r in rows)),'final_accepted':sum(r['decisao_final']=='aceita' for r in rows),'input_sha256':digest,'records':rows}
     out=ROOT/'study/literature';(out/'admission-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')

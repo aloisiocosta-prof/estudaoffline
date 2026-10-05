@@ -1,5 +1,6 @@
-import unittest
-from track_sources import assess,apply_decision
+import hashlib,tempfile,unittest
+from pathlib import Path
+from track_sources import assess,apply_decision,check_freshness
 class AdmissionTests(unittest.TestCase):
     def setUp(self):
       self.s={'authors':['Autor'],'title':'Título','year':2020,'doi':'10.1234/test','url':'https://doi.org/10.1234/test','limitation_pt':'Escopo limitado'}
@@ -29,4 +30,11 @@ class AdmissionTests(unittest.TestCase):
       self.assertEqual(apply_decision(r,d)['decisao_final'],'aceita')
       changed=assess(self.s,self.l,{'judgement':'apoio'},[{'text':'alterado'}])
       self.assertEqual(apply_decision(changed,d)['decisao_final'],'pendente')
+    def test_changed_input_blocks_stale_graph(self):
+      with tempfile.TemporaryDirectory() as tmp:
+        root=Path(tmp);p=root/'input.json';p.write_text('original')
+        hashes={'input.json':hashlib.sha256(p.read_bytes()).hexdigest()}
+        check_freshness(root,hashes)
+        p.write_text('alterado')
+        with self.assertRaisesRegex(ValueError,'desatualizado'):check_freshness(root,hashes)
 if __name__=='__main__':unittest.main()
