@@ -224,7 +224,7 @@
     "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
     "authors": [
       "Carlos E. Anchundia",
-      "E. Fonseca C."
+      "Efraín R. Fonseca C."
     ],
     "year": 2020,
     "doi": "10.1109/ACCESS.2020.2964587",
@@ -235,8 +235,12 @@
     "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
     "claim_pt": "O mapeamento de 40 estudos identifica dependência do domínio nas ferramentas e práticas de reprodução experimental.",
     "limitation_pt": "Ferramentas dependem do domínio; não autoriza generalização direta para estudantes.",
-    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
-    "raw_fetch": "raw/engineering-fetch-10.json"
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check; autoria conferida em registro institucional EPN em 5 out. 2026",
+    "raw_fetch": "raw/engineering-fetch-10.json",
+    "citation_names": [
+      "Anchundia",
+      "Fonseca C."
+    ]
   },
   {
     "key": "eng12",

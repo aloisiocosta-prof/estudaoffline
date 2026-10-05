@@ -43,8 +43,8 @@ def main():
             '| Chave | Afirmação indireta | Limite | Tipo | Acesso | Fonte |',
             '|---|---|---|---|---|---|']
     def author_label(s):
-        first = s['authors'][0].split()[-1]
-        return first + (' et al.' if len(s['authors']) > 2 else (' e ' + s['authors'][1].split()[-1] if len(s['authors']) == 2 else ''))
+        names = s.get('citation_names') or [name.split()[-1] for name in s['authors']]
+        return names[0] + (' et al.' if len(names) > 2 else (' e ' + names[1] if len(names) == 2 else ''))
     from collections import Counter, defaultdict
     label_counts = Counter((author_label(s), s['year']) for s in selected)
     label_index = defaultdict(int)

@@ -40,6 +40,11 @@
     "https://doi.org/10.1145/3507903",
     "https://link.springer.com/article/10.1007/s10664-021-10114-1",
     "https://research.monash.edu/en/publications/systematic-reviews-in-mobile-app-software-engineering-a-tertiary-/",
-    "https://ieeexplore.ieee.org/document/8951162/"
+    "https://ieeexplore.ieee.org/document/8951162/",
+    "https://fis.epn.edu.ec/la-facultad/planta-docentes/219-anchundia-valencia-carlos-eduardo/"
+  ],
+  "metadata_corrections": [
+    "DOI de Martin et al. confirmado na editora.",
+    "Autoria de Anchundia e Fonseca C. conferida na instituição EPN; rótulo de citação com sobrenome composto explícito."
   ]
 }
