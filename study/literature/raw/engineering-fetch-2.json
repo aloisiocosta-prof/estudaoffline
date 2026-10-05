@@ -1,0 +1,22 @@
+{
+  "id": "6d574fdd4c7253c2bcaeabaca56b305b",
+  "retrieved_utc": "2026-10-05T05:45:05.258Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "6d574fdd4c7253c2bcaeabaca56b305b",
+        "title": "Automated functional testing of mobile applications: a systematic mapping study",
+        "url": "https://consensus.app/papers/automated-functional-testing-of-mobile-applications-a-tramontana-amalfitano/6d574fdd4c7253c2bcaeabaca56b305b/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Porfirio Tramontana, Domenico Amalfitano, Nicola Amatucci, A. Fasolino",
+          "publish_year": "2018",
+          "journal": "Software Quality Journal",
+          "volume": "27",
+          "pages": "149 - 201",
+          "citation_count": "70"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

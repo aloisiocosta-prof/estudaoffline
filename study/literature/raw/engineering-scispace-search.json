@@ -1,0 +1,518 @@
+{
+  "query": "What peer-reviewed research from 2016 to 2026 supports reproducible software engineering experiments, artifact evaluation, design science evaluation, and continuous integration testing?",
+  "retrieved_utc": "2026-10-05T05:44:04.388Z",
+  "response": {
+    "structuredContent": {
+      "searchTerm": "What peer-reviewed research from 2016 to 2026 supports reproducible software engineering experiments, artifact evaluation, design science evaluation, and continuous integration testing?",
+      "papers": [
+        {
+          "id": 4111903245,
+          "title": "Reproducibility by Construction: Open Algorithms, Public Benchmarks, and Cloud-Native Artifact Pipelines",
+          "is_archived": false,
+          "full_slug": "reproducibility-by-construction-open-algorithms-public-hpnpkfk8il1e",
+          "journal": null,
+          "conference_series": null,
+          "date": "2025-12-30T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.61359/11.2206-2562",
+          "unique_id": "hpnpkfk8il1e",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Pankaj Singh",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2185948200,
+          "title": "TraceLab: Reproducing Empirical Software Engineering Research",
+          "is_archived": false,
+          "full_slug": "tracelab-reproducing-empirical-software-engineering-research-2xqruk6v8v",
+          "journal": null,
+          "conference_series": null,
+          "date": "2013-01-01T00:00:00Z",
+          "is_oa": true,
+          "publication_type": null,
+          "doi": null,
+          "unique_id": "2xqruk6v8v",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Evan Alexander Moritz",
+                "id": 2185652621,
+                "slug": "evan-alexander-moritz",
+                "unique_id": "4zwaa49n7j",
+                "full_slug": "evan-alexander-moritz-4zwaa49n7j"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "/pdf/tracelab-reproducing-empirical-software-engineering-research-2xqruk6v8v.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "http://www.cs.wm.edu/~denys/pubs/dissertations/Moritz-Thesis.pdf"
+              ],
+              "Pdf": [
+                "https://www.cs.wm.edu/~denys/pubs/dissertations/Moritz-Thesis.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 2
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4111336996,
+          "title": "Toward Metadata-Driven Experimentation in Software Engineering - A Vision for Reproducible, Interoperable, and Transparent Research",
+          "is_archived": false,
+          "full_slug": "toward-metadata-driven-experimentation-in-software-uh6jmodd5vgz",
+          "journal": null,
+          "conference_series": null,
+          "date": "2026-01-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.5281/zenodo.18395938",
+          "unique_id": "uh6jmodd5vgz",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Filipe A. Santana",
+                "full_slug": null
+              },
+              {
+                "display_name": "André F. R. Cordeiro",
+                "full_slug": null
+              },
+              {
+                "display_name": "Edson OliveiraJr",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4111382194,
+          "title": "Toward Metadata-Driven Experimentation in Software Engineering - A Vision for Reproducible, Interoperable, and Transparent Research",
+          "is_archived": false,
+          "full_slug": "toward-metadata-driven-experimentation-in-software-c1a2t1l18hdt",
+          "journal": null,
+          "conference_series": null,
+          "date": "2026-01-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.5281/zenodo.18395937",
+          "unique_id": "c1a2t1l18hdt",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Filipe A. Santana",
+                "full_slug": null
+              },
+              {
+                "display_name": "André F. R. Cordeiro",
+                "full_slug": null
+              },
+              {
+                "display_name": "Edson OliveiraJr",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4090166241,
+          "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
+          "is_archived": false,
+          "full_slug": "resources-for-reproducibility-of-experiments-in-empirical-bwwvftu1y6kb",
+          "journal": null,
+          "conference_series": null,
+          "date": "2024-06-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.60692/ax0t2-mak21",
+          "unique_id": "bwwvftu1y6kb",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Carlos E. Anchundia",
+                "full_slug": null
+              },
+              {
+                "display_name": "Rúbia Santos Fonseca",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4097527754,
+          "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
+          "is_archived": false,
+          "full_slug": "resources-for-reproducibility-of-experiments-in-empirical-7emic8gq6pvr",
+          "journal": null,
+          "conference_series": null,
+          "date": "2024-06-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.60692/kayv4-qf687",
+          "unique_id": "7emic8gq6pvr",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Carlos E. Anchundia",
+                "full_slug": null
+              },
+              {
+                "display_name": "Rúbia Santos Fonseca",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2807964278,
+          "title": "Supporting Long-term Reproducible Software Execution",
+          "is_archived": false,
+          "full_slug": "supporting-long-term-reproducible-software-execution-4xgcjgx5uz",
+          "journal": null,
+          "conference_series": null,
+          "date": "2018-06-11T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1145/3214239.3214245",
+          "unique_id": "4xgcjgx5uz",
+          "authors": {
+            "total": 4,
+            "data": [
+              {
+                "display_name": "Luis Oliveira",
+                "id": 2992081076,
+                "slug": "luis-oliveira",
+                "unique_id": "4g1l0jqze3",
+                "full_slug": "luis-oliveira-4g1l0jqze3",
+                "affiliation_full_slug": "university-of-pittsburgh-28nboreo"
+              },
+              {
+                "display_name": "David Wilkinson",
+                "id": 2808642333,
+                "slug": "david-wilkinson",
+                "unique_id": "56k5z0mmga",
+                "full_slug": "david-wilkinson-56k5z0mmga",
+                "affiliation_full_slug": "university-of-pittsburgh-28nboreo"
+              },
+              {
+                "display_name": "Daniel Mosse",
+                "id": 1868245429,
+                "slug": "daniel-mosse",
+                "unique_id": "5bopsmheea",
+                "full_slug": "daniel-mosse-5bopsmheea",
+                "affiliation_full_slug": "university-of-pittsburgh-28nboreo"
+              },
+              {
+                "display_name": "Bruce R. Childers",
+                "id": 2155043613,
+                "slug": "bruce-r-childers",
+                "unique_id": "1pdr1hgak5",
+                "full_slug": "bruce-r-childers-1pdr1hgak5",
+                "affiliation_full_slug": "university-of-pittsburgh-28nboreo"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "University of Pittsburgh",
+                "city": "Pittsburgh",
+                "region": "Pennsylvania",
+                "country": "United States",
+                "id": 170201317,
+                "slug": "university-of-pittsburgh",
+                "unique_id": "28nboreo",
+                "full_slug": "university-of-pittsburgh-28nboreo"
+              }
+            ]
+          },
+          "fulltext_url": "https://dl.acm.org/doi/pdf/10.1145/3214239.3214245",
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://dl.acm.org/doi/10.1145/3214239.3214245"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 10
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4051588260,
+          "title": "Continuous Analysis: Evolution of Software Engineering and Reproducibility for Science",
+          "is_archived": false,
+          "full_slug": "continuous-analysis-evolution-of-software-engineering-and-3824al07oq81",
+          "journal": {
+            "display_name": "arXiv.org",
+            "official_page": null,
+            "issn": "2331-8422",
+            "alias": [
+              "ArXiv"
+            ],
+            "id": 4000147193,
+            "slug": "arxiv-org",
+            "unique_id": "bl5k1ptr",
+            "full_slug": "arxiv-org-bl5k1ptr"
+          },
+          "conference_series": null,
+          "date": "2024-11-04T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.48550/arxiv.2411.02283",
+          "unique_id": "3824al07oq81",
+          "authors": {
+            "total": 4,
+            "data": [
+              {
+                "display_name": "Venkat S. Malladi",
+                "id": 2000847112,
+                "slug": "venkat-s-malladi",
+                "unique_id": "19mhwas7c2",
+                "full_slug": "venkat-s-malladi-19mhwas7c2",
+                "affiliation_full_slug": "university-of-texas-southwestern-medical-center-4u9txnf7"
+              },
+              {
+                "display_name": "Maria Yazykova",
+                "full_slug": null
+              },
+              {
+                "display_name": "Olesya Melnichenko",
+                "full_slug": null
+              },
+              {
+                "display_name": "Yulia Dubinina",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "University of Texas Southwestern Medical Center",
+                "city": "Dallas",
+                "region": "Texas",
+                "country": "United States",
+                "id": 867280407,
+                "slug": "university-of-texas-southwestern-medical-center",
+                "unique_id": "4u9txnf7",
+                "full_slug": "university-of-texas-southwestern-medical-center-4u9txnf7"
+              }
+            ]
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4001927959,
+          "title": "Towards a Framework Based on Open Science Practices for Promoting Reproducibility of Software Engineering Controlled Experiments",
+          "is_archived": false,
+          "full_slug": "towards-a-framework-based-on-open-science-practices-for-11pmjx94",
+          "journal": null,
+          "conference_series": {
+            "display_name": "Conferencia Iberoamericana de Software Engineering",
+            "id": 1131440322,
+            "slug": "conferencia-iberoamericana-de-software-engineering",
+            "unique_id": "3kbvvczb",
+            "full_slug": "conferencia-iberoamericana-de-software-engineering-3kbvvczb"
+          },
+          "date": "2023-04-24T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": "10.5753/cibse.2023.24707",
+          "unique_id": "11pmjx94",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "André F. R. Cordeiro",
+                "id": 2337664174,
+                "slug": "andre-f-r-cordeiro",
+                "unique_id": "fjt7zsqj4g",
+                "full_slug": "andre-f-r-cordeiro-fjt7zsqj4g"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "/pdf/towards-a-framework-based-on-open-science-practices-for-11pmjx94.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://sol.sbc.org.br/index.php/cibse/article/download/24707/24528"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 1
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2015235228,
+          "title": "Software Development for Reproducible Research",
+          "is_archived": false,
+          "full_slug": "software-development-for-reproducible-research-4tgt1ohfcc",
+          "journal": {
+            "display_name": "Computing in Science and Engineering",
+            "official_page": "http://books.google.com/books?id=AVtVAAAAMAAJ",
+            "issn": "1521-9615",
+            "alias": null,
+            "id": 107923245,
+            "slug": "computing-in-science-and-engineering",
+            "unique_id": "3vavypxm",
+            "full_slug": "computing-in-science-and-engineering-3vavypxm"
+          },
+          "conference_series": null,
+          "date": "2013-07-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Journal Article",
+          "doi": "10.1109/MCSE.2013.91",
+          "unique_id": "4tgt1ohfcc",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Konrad Hinsen",
+                "id": 306386534,
+                "slug": "konrad-hinsen",
+                "unique_id": "6t9x2mwiea",
+                "full_slug": "konrad-hinsen-6t9x2mwiea"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": null,
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://hal.archives-ouvertes.fr/hal-02070857",
+                "https://dblp.uni-trier.de/db/journals/cse/cse15.html#Hinsen13a"
+              ],
+              "Others": [
+                "https://aip.scitation.org/doi/full/10.1109/MCSE.2013.91"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7f7f0b20b5495c08b4a30f7cb98233c6",
+  "retrieved_utc": "2026-10-05T05:45:09.462Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "7f7f0b20b5495c08b4a30f7cb98233c6",
+        "title": "Investigating replication challenges through multiple replications of an experiment",
+        "url": "https://consensus.app/papers/investigating-replication-challenges-through-multiple-santos-almeida/7f7f0b20b5495c08b4a30f7cb98233c6/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Daniel Amador dos Santos, E. D. de Almeida, Iftekhar Ahmed",
+          "publish_year": "2022",
+          "journal": "Inf. Softw. Technol.",
+          "volume": "147",
+          "pages": "106870",
+          "citation_count": "6"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

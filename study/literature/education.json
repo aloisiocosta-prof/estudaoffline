@@ -1,0 +1,376 @@
+[
+  {
+    "key": "education_wolters2017",
+    "title": "Examining the relations of time management and procrastination within a model of self-regulated learning",
+    "authors": [
+      "C. Wolters",
+      "Sungjun Won",
+      "M. Hussain"
+    ],
+    "year": 2017,
+    "doi": "10.1007/s11409-017-9174-1",
+    "url": "https://doi.org/10.1007/s11409-017-9174-1",
+    "kind": "Estudo observacional",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em levantamento com 446 universitários, gestão do tempo contribuiu à predição de procrastinação além de variáveis motivacionais e estratégicas.",
+    "limitation_pt": "Autorrelato e regressão não estabelecem efeito causal de um aplicativo.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Metacognition and Learning"
+  },
+  {
+    "key": "education_limone2020",
+    "title": "Examining Procrastination among University Students through the Lens of the Self-Regulated Learning Model",
+    "authors": [
+      "P. Limone",
+      "M. Sinatra",
+      "F. Ceglie",
+      "L. Monacis"
+    ],
+    "year": 2020,
+    "doi": "10.3390/bs10120184",
+    "url": "https://doi.org/10.3390/bs10120184",
+    "kind": "Estudo transversal",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em 450 universitários, estratégias metacognitivas e gestão do tempo foram examinadas como preditores de procrastinação.",
+    "limitation_pt": "Desenho transversal não estabelece causalidade; contexto universitário específico.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Behavioral Sciences"
+  },
+  {
+    "key": "education_tao2025",
+    "title": "The effects of self-regulated learning strategies on academic procrastination and academic success among college EFL students in China",
+    "authors": [
+      "Xue Tao",
+      "H. Hanif",
+      "Lie-Qin Wang"
+    ],
+    "year": 2025,
+    "doi": "10.3389/fpsyg.2025.1562980",
+    "url": "https://doi.org/10.3389/fpsyg.2025.1562980",
+    "kind": "Estudo quantitativo com SEM",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em 239 universitários de inglês como língua estrangeira, gestão do tempo e regulação do esforço associaram-se negativamente à procrastinação.",
+    "limitation_pt": "Modelo de associações não demonstra eficácia de um planejador; população específica.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Frontiers in Psychology"
+  },
+  {
+    "key": "education_brahma2023",
+    "title": "Influence of self-regulated learning on the academic procrastination of college students",
+    "authors": [
+      "B. Brahma",
+      "P. Saikia"
+    ],
+    "year": 2023,
+    "doi": "10.4103/jehp.jehp_1106_22",
+    "url": "https://doi.org/10.4103/jehp.jehp_1106_22",
+    "kind": "Levantamento descritivo",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Levantamento com 142 universitários encontrou associação negativa entre autorregulação e procrastinação acadêmica.",
+    "limitation_pt": "Questionários e regressão não demonstram causalidade nem validade local para alunos do ADS.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Journal of Education and Health Promotion"
+  },
+  {
+    "key": "education_forstervold2022",
+    "title": "Students’ time management and procrastination in the wake of the pandemic",
+    "authors": [
+      "Knut Inge Forstervold",
+      "S. Ludvigsen",
+      "Helge I. Strømsø"
+    ],
+    "year": 2022,
+    "doi": "10.1080/01443410.2022.2102582",
+    "url": "https://doi.org/10.1080/01443410.2022.2102582",
+    "kind": "Estudo observacional com SEM",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em 8.907 universitários durante a pandemia, motivação e procrastinação relacionaram-se à gestão do tempo e regulação do esforço.",
+    "limitation_pt": "Contexto de emergência e relações observacionais não generalizam automaticamente para ensino técnico.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Educational Psychology"
+  },
+  {
+    "key": "education_taghavi2024",
+    "title": "Mindfulness and Procrastination Among University EFL Learners: The Role of Attention Control and Self-Regulated Learning",
+    "authors": [
+      "Fatemeh Sadat Taghavi-Nejad",
+      "Nasser Fallah",
+      "Behruz Lotfi Gaskaree"
+    ],
+    "year": 2024,
+    "doi": "10.1177/00332941241287423",
+    "url": "https://doi.org/10.1177/00332941241287423",
+    "kind": "Estudo observacional com SEM",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em 272 universitários iranianos de inglês, maior autorregulação e controle atencional associaram-se a menor procrastinação.",
+    "limitation_pt": "Amostra por conveniência e autorrelato; registro Consensus omitiu terceiro autor, corrigido pelo editor; 2024 online e 2026 fascículo.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Psychological Reports"
+  },
+  {
+    "key": "education_han2023",
+    "title": "College students’ self-regulation in asynchronous online courses during COVID-19",
+    "authors": [
+      "Jaeyun Han",
+      "D. DiGiacomo",
+      "Ellen L. Usher"
+    ],
+    "year": 2023,
+    "doi": "10.1080/03075079.2023.2201608",
+    "url": "https://doi.org/10.1080/03075079.2023.2201608",
+    "kind": "Estudo de métodos mistos",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em 1.216 universitários, autoeficácia autorregulatória e procrastinação apresentaram relações recíprocas; gestão do tempo foi dificuldade recorrente.",
+    "limitation_pt": "Cursos assíncronos durante COVID-19; não testa aplicativo offline.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Studies in Higher Education"
+  },
+  {
+    "key": "education_xu2022",
+    "title": "A meta-analysis of the efficacy of self-regulated learning interventions on academic achievement in online and blended environments in K-12 and higher education",
+    "authors": [
+      "Zhi-Hong Xu",
+      "Yingying Zhao",
+      "Bingsheng Zhang",
+      "J. Liew",
+      "Ashlynn Kogut"
+    ],
+    "year": 2022,
+    "doi": "10.1080/0144929X.2022.2151935",
+    "url": "https://doi.org/10.1080/0144929X.2022.2151935",
+    "kind": "Meta-análise",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Meta-análise encontrou efeito positivo moderado de intervenções de autorregulação no desempenho em ambientes online e híbridos.",
+    "limitation_pt": "Intervenções e níveis escolares heterogêneos; efeito agrupado não valida EstudaOffline; 2022 online e 2023 fascículo.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Behaviour & Information Technology"
+  },
+  {
+    "key": "education_palalas2020",
+    "title": "The relationship between mobile learning and self-regulated learning: A systematic review",
+    "authors": [
+      "A. Palalas",
+      "Norine Wark"
+    ],
+    "year": 2020,
+    "doi": "10.14742/ajet.5650",
+    "url": "https://doi.org/10.14742/ajet.5650",
+    "kind": "Revisão sistemática",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Revisão de 38 estudos descreveu relação complexa entre aprendizagem móvel e autorregulação e recomendou integração curricular intencional.",
+    "limitation_pt": "Síntese heterogênea de 2007–2019 não demonstra efeito de todo app móvel.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Australasian Journal of Educational Technology"
+  },
+  {
+    "key": "education_baars2022",
+    "title": "Mobile Learning to Support Self-Regulated Learning: A Theoretical Review",
+    "authors": [
+      "Martine Baars",
+      "Olga Viberg"
+    ],
+    "year": 2022,
+    "doi": "10.4018/IJMBL.315628",
+    "url": "https://doi.org/10.4018/IJMBL.315628",
+    "kind": "Revisão teórica",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Revisão teórica discute suporte móvel oportuno a planejamento, monitoramento, reflexão e estratégias de aprendizagem.",
+    "limitation_pt": "Não é ensaio de um planejador; oportunidades conceituais não são eficácia demonstrada.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Int. J. Mob. Blended Learn."
+  },
+  {
+    "key": "education_chen2024",
+    "title": "Motivating students to become self-regulatory learners: A gamified mobile self-regulated learning approach",
+    "authors": [
+      "Yi-Chun Chen",
+      "Gwo-Jen Hwang",
+      "Chiu-Lin Lai"
+    ],
+    "year": 2024,
+    "doi": "10.1007/s10639-024-12462-z",
+    "url": "https://doi.org/10.1007/s10639-024-12462-z",
+    "kind": "Experimento educacional",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em duas turmas de 22 participantes, abordagem móvel gamificada melhorou desempenho, definição de metas e reflexão, mas não monitoramento.",
+    "limitation_pt": "Amostra pequena; gamificação e instrução diferem de organizador local de tarefas.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Education and Information Technologies"
+  },
+  {
+    "key": "education_broadbent2020",
+    "title": "Effects of mobile-app learning diaries vs online training on specific self-regulated learning components",
+    "authors": [
+      "Jaclyn Broadbent",
+      "E. Panadero",
+      "M. Fuller-Tyszkiewicz"
+    ],
+    "year": 2020,
+    "doi": "10.1007/s11423-020-09781-6",
+    "url": "https://doi.org/10.1007/s11423-020-09781-6",
+    "kind": "Estudo randomizado controlado",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Em 73 universitários, condição combinando treinamento online e diários móveis apresentou maiores melhorias em componentes autorregulatórios.",
+    "limitation_pt": "Intervenção combinada impede atribuir o resultado ao diário isolado ou a qualquer aplicativo.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Educational Technology Research and Development"
+  },
+  {
+    "key": "education_zheng2016",
+    "title": "Effects of a mobile self-regulated learning approach on students’ learning achievements and self-regulated learning skills",
+    "authors": [
+      "Lanqin Zheng",
+      "Xin Li",
+      "Fengying Chen"
+    ],
+    "year": 2016,
+    "doi": "10.1080/14703297.2016.1259080",
+    "url": "https://doi.org/10.1080/14703297.2016.1259080",
+    "kind": "Experimento educacional",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Experimento com 60 graduandos encontrou melhores resultados e autorregulação em leitura de inglês apoiada por mecanismo móvel autorregulatório.",
+    "limitation_pt": "Intervenção específica de leitura; 2016 online e 2018 fascículo; não transfere efeito ao EstudaOffline.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Innovations in Education and Teaching International"
+  },
+  {
+    "key": "education_prasse2024",
+    "title": "Challenges in Promoting Self-Regulated Learning in Technology Supported Learning Environments: An Umbrella Review of Systematic Reviews and Meta-Analyses",
+    "authors": [
+      "Doreen Prasse",
+      "Mary Webb",
+      "Michelle Deschênes",
+      "Séverine Parent",
+      "Franziska Aeschlimann",
+      "Yoshiko Goda",
+      "Masanori Yamada",
+      "Audrey Raynault"
+    ],
+    "year": 2024,
+    "doi": "10.1007/s10758-024-09772-z",
+    "url": "https://doi.org/10.1007/s10758-024-09772-z",
+    "kind": "Revisão guarda-chuva",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Síntese de 31 revisões e meta-análises recomenda suportes autorregulatórios integrados ao longo do ciclo de aprendizagem.",
+    "limitation_pt": "Revisões com contextos diversos; recomendação de desenho não constitui validação deste MVP.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Technology, Knowledge and Learning"
+  },
+  {
+    "key": "education_araka2020",
+    "title": "Research trends in measurement and intervention tools for self-regulated learning for e-learning environments—systematic review (2008–2018)",
+    "authors": [
+      "Eric Araka",
+      "E. Maina",
+      "Rhoda Gitonga",
+      "Robert O. Oboko"
+    ],
+    "year": 2020,
+    "doi": "10.1186/s41039-020-00129-5",
+    "url": "https://doi.org/10.1186/s41039-020-00129-5",
+    "kind": "Revisão sistemática",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Revisão identificou uso continuado de instrumentos de sala presencial para medir autorregulação em ambientes digitais e lacunas em análises de registros.",
+    "limitation_pt": "Período 2008–2018; medir atividades digitais não equivale a medir aprendizagem.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Research and Practice in Technology Enhanced Learning"
+  },
+  {
+    "key": "education_wong2026",
+    "title": "Student engagement profiles in a mobile app: Links to self-regulated learning and performance",
+    "authors": [
+      "Jacqueline Wong",
+      "Mohammad Khalil",
+      "Vsevolod Suschevskiy",
+      "Martine Baars",
+      "Bjorn de Koning",
+      "Fred Paas"
+    ],
+    "year": 2026,
+    "doi": "10.1007/s11423-026-10586-2",
+    "url": "https://doi.org/10.1007/s11423-026-10586-2",
+    "kind": "Estudo de learning analytics",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Estudo identificou perfis ativo, desengajado e utilitário em app de prática de recuperação; autoeficácia e gestão do tempo predisseram notas.",
+    "limitation_pt": "Perfis e associações não são efeito causal de uso de aplicativo; app inclui prática de recuperação ausente neste MVP.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Educational Technology Research and Development",
+    "publication_date": "2026-01-21",
+    "publication_date_source_url": "https://link.springer.com/article/10.1007/s11423-026-10586-2",
+    "publication_date_verification": "publisher page directly read; Published field",
+    "available_by_search_cutoff": true,
+    "publication_date_audit": "study/literature/publication-date-audit-2026.json"
+  },
+  {
+    "key": "education_lim2019",
+    "title": "The regulation of learning and co-creation of new knowledge in mobile learning",
+    "authors": [
+      "Genevieve Lim",
+      "A. Shelley",
+      "Dongcheol Heo"
+    ],
+    "year": 2019,
+    "doi": "10.34105/j.kmel.2019.11.024",
+    "url": "https://doi.org/10.34105/j.kmel.2019.11.024",
+    "kind": "Pesquisa-ação qualitativa",
+    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "claim_pt": "Duas pesquisas-ação descrevem regulação não linear e construção compartilhada de conhecimento em aprendizagem móvel colaborativa.",
+    "limitation_pt": "Contexto colaborativo qualitativo não valida planejador individual nem produz estimativa causal.",
+    "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
+    "journal": "Knowledge Management & E-Learning: An International Journal"
+  },
+  {
+    "key": "education_wolters2021",
+    "title": "College Students’ Time Management: a Self-Regulated Learning Perspective",
+    "authors": [
+      "Christopher A. Wolters",
+      "Anna C. Brady"
+    ],
+    "year": 2021,
+    "doi": "10.1007/s10648-020-09519-z",
+    "url": "https://doi.org/10.1007/s10648-020-09519-z",
+    "kind": "Revisão teórica",
+    "access_level": "abstract recuperado no SciSpace; texto integral não avaliado sistematicamente",
+    "claim_pt": "Revisão situa a gestão do tempo nas fases de antecipação, execução e avaliação da aprendizagem autorregulada.",
+    "limitation_pt": "Síntese conceitual não comprova eficácia de aplicativo específico.",
+    "source_service": "SciSpace pergunta natural; confirmação de DOI/editor pela web",
+    "journal": "Educational Psychology Review"
+  },
+  {
+    "key": "education_hartley2022",
+    "title": "Smartphone as a Self-regulatory Planning Tool: Promise or Peril",
+    "authors": [
+      "Kendall Hartley",
+      "Emily Shreve",
+      "Dan Gianoutsos",
+      "Lisa D. Bendixen"
+    ],
+    "year": 2022,
+    "doi": "10.3991/ijim.v16i14.28783",
+    "url": "https://doi.org/10.3991/ijim.v16i14.28783",
+    "kind": "Estudo observacional",
+    "access_level": "abstract recuperado no SciSpace; texto integral não avaliado sistematicamente",
+    "claim_pt": "Planejamento por smartphone e agenda associou-se a habilidades autorregulatórias; modelos apresentaram associações diferentes com notas.",
+    "limitation_pt": "Associação negativa de smartphone e positiva de agenda sob controle estatístico não é causalidade nem avalia este aplicativo.",
+    "source_service": "SciSpace pergunta natural; confirmação de DOI/editor pela web",
+    "journal": "International journal of interactive mobile technologies"
+  },
+  {
+    "key": "education_patzak2025",
+    "title": "Boosting productivity and wellbeing through time management: evidence-based strategies for higher education and workforce development",
+    "authors": [
+      "Alexandra Patzak",
+      "Xiaorong Zhang",
+      "Jovita Vytasek"
+    ],
+    "year": 2025,
+    "doi": "10.3389/feduc.2025.1623228",
+    "url": "https://doi.org/10.3389/feduc.2025.1623228",
+    "kind": "Revisão sistemática",
+    "access_level": "abstract recuperado no SciSpace; texto integral não avaliado sistematicamente",
+    "claim_pt": "Revisão de 107 estudos identificou planejamento, metas, priorização e organização de tarefas entre estratégias relevantes.",
+    "limitation_pt": "Inclui educação e trabalho, artigos e dissertações; não demonstra efeito do MVP nem padroniza medida universal.",
+    "source_service": "SciSpace pergunta natural; confirmação de DOI/editor pela web",
+    "journal": "Frontiers in Education"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "5ae6b7c6272d5279a652d22c19975475",
+  "retrieved_utc": "2026-10-05T05:45:08.987Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "5ae6b7c6272d5279a652d22c19975475",
+        "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
+        "url": "https://consensus.app/papers/resources-for-reproducibility-of-experiments-in-anchundia-c/5ae6b7c6272d5279a652d22c19975475/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Carlos E. Anchundia, E. Fonseca C.",
+          "publish_year": "2020",
+          "journal": "IEEE Access",
+          "volume": "8",
+          "pages": "8992-9004",
+          "citation_count": "19"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

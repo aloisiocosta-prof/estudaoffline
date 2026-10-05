@@ -1,0 +1,364 @@
+[
+  {
+    "key": "bong2021",
+    "title": "Increasing faculty’s competence in digital accessibility for inclusive education: a systematic literature review",
+    "authors": [
+      "W. K. Bong",
+      "Wei-Qin Chen"
+    ],
+    "year": 2021,
+    "doi": "10.1080/13603116.2021.1937344",
+    "url": "https://consensus.app/papers/increasing-faculty’s-competence-in-digital-bong-chen/45c46bb67a1d505089e4162bce9ba538/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "International Journal of Inclusive Education",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "A revisão examina a formação docente para produção de materiais e ambientes digitais inclusivos; adotar apoio institucional no EstudaOffline é uma proposta de projeto.",
+    "limitation_pt": "Revisão de 16 estudos; predominam entrevistas e surveys, com poucos indicadores objetivos. Não avalia EstudaOffline.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "choi2024",
+    "title": "Accessibility, Usability, and Universal Design for Learning: Discussion of Three Key LX/UX Elements for Inclusive Learning Design",
+    "authors": [
+      "Gi Woong Choi",
+      "JooYoung Seo"
+    ],
+    "year": 2024,
+    "doi": "10.1007/s11528-024-00987-6",
+    "url": "https://consensus.app/papers/accessibility-usability-and-universal-design-for-choi-seo/5bb8be07397e553c828fdfdff8a9f558/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "TechTrends",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Acessibilidade, usabilidade e desenho universal para aprendizagem devem ser considerados em conjunto.",
+    "limitation_pt": "Artigo conceitual com exemplos; não estima efeito causal nem certifica acessibilidade de um aplicativo.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "cinquin2019",
+    "title": "Online e-learning and cognitive disabilities: A systematic review",
+    "authors": [
+      "Pierre-Antoine Cinquin",
+      "P. Guitton",
+      "H. Sauzéon"
+    ],
+    "year": 2019,
+    "doi": "10.1016/j.compedu.2018.12.004",
+    "url": "https://consensus.app/papers/online-elearning-and-cognitive-disabilities-a-systematic-cinquin-guitton/fae165555004598dbf69bcc5ee4fc855/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Comput. Educ.",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Há lacunas na avaliação de efetividade de e-learning acessível a pessoas com dificuldades cognitivas.",
+    "limitation_pt": "Revisão de estudos heterogêneos; resumo do editor consultado, texto integral não inspecionado.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "gobbo2023",
+    "title": "Emerging Themes for Digital Accessibility in Education",
+    "authors": [
+      "José Alcides Gobbo",
+      "B. Bezerra"
+    ],
+    "year": 2023,
+    "doi": "10.3390/su151411392",
+    "url": "https://consensus.app/papers/emerging-themes-for-digital-accessibility-in-education-gobbo-bezerra/79370d5712d254d89158f3fd9f1acfcc/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Sustainability",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "A avaliação de acessibilidade educacional deve considerar barreiras atitudinais além de aspectos técnicos.",
+    "limitation_pt": "A síntese não permite afirmar que melhorias técnicas removem discriminação ou todas as barreiras.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "batanero2021",
+    "title": "Improving Accessibility in Online Education: Comparative Analysis of Attitudes of Blind and Deaf Students Toward an Adapted Learning Platform",
+    "authors": [
+      "Concepción Batanero-Ochaíta",
+      "Luis de-Marcos",
+      "Luis Felipe Rivera",
+      "J. Holvikivi",
+      "J. Hilera",
+      "Salvador Otón Tortosa"
+    ],
+    "year": 2021,
+    "doi": null,
+    "url": "https://consensus.app/papers/improving-accessibility-in-online-education-comparative-batanero-ochaíta-de-marcos/712b36a1a68d5154a8474f08f721f788/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "IEEE Access",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Avaliação por pessoas cegas e surdas pode revelar diferenças na facilidade de uso de uma plataforma adaptada.",
+    "limitation_pt": "Protótipo e população específicos; percepções não demonstram eficácia pedagógica ou acessibilidade universal.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "farhan2020",
+    "title": "A comparative study of an assistive e-learning interface among students with and without visual and hearing impairments",
+    "authors": [
+      "Wejdan Farhan",
+      "Jamil Razmak"
+    ],
+    "year": 2020,
+    "doi": null,
+    "url": "https://consensus.app/papers/a-comparative-study-of-an-assistive-elearning-interface-farhan-razmak/ddcdf278f30c576aae0d46ba235fdcf6/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Disability and Rehabilitation: Assistive Technology",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "O estudo avaliou recursos de voz e língua de sinais com estudantes e docentes; propor avaliação participativa do EstudaOffline é uma inferência de projeto.",
+    "limitation_pt": "Estudo de métodos mistos de satisfação; não transfere resultados ao EstudaOffline nem à educação técnica brasileira.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "guo2022",
+    "title": "The digital divide in online learning in China during the COVID-19 pandemic",
+    "authors": [
+      "Congbin Guo",
+      "Boshen Wan"
+    ],
+    "year": 2022,
+    "doi": "10.1016/j.techsoc.2022.102122",
+    "url": "https://consensus.app/papers/the-digital-divide-in-online-learning-in-china-during-the-guo-wan/d636c7759aa15654bca8a56e9dad3d20/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Technology in Society",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Qualidade da conexão e condições de acesso integram a divisão digital no ensino online.",
+    "limitation_pt": "Survey de estudantes chineses no contexto pandêmico; não autoriza inferência causal nem generalização direta ao Piauí.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "werfhorst2022",
+    "title": "The digital divide in online education: Inequality in digital readiness of students and schools",
+    "authors": [
+      "H. G. van de Werfhorst",
+      "Emma Kessenich",
+      "Sara Geven"
+    ],
+    "year": 2022,
+    "doi": null,
+    "url": "https://consensus.app/papers/the-digital-divide-in-online-education-inequality-in-werfhorst-kessenich/e49c1494c3a757608599a52c6e9b4374/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Computers and Education Open",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Prontidão digital dos estudantes e das escolas são dimensões distintas da desigualdade educacional.",
+    "limitation_pt": "Dados e contextos internacionais; não demonstra que uma PWA resolve desigualdade estrutural.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "mathrani2021",
+    "title": "Digital divide framework: online learning in developing countries during the COVID-19 lockdown",
+    "authors": [
+      "A. Mathrani",
+      "Tarushikha Sarvesh",
+      "R. Umer"
+    ],
+    "year": 2021,
+    "doi": null,
+    "url": "https://consensus.app/papers/digital-divide-framework-online-learning-in-developing-mathrani-sarvesh/851d21a0596c547db106657fc2fa6c51/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Globalisation, Societies and Education",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Acesso, práticas culturais e agência devem compor a análise de aprendizagem com conectividade limitada.",
+    "limitation_pt": "Estudo em cinco países e no lockdown; gênero e responsabilidades domésticas dependem do contexto.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "azionya2021",
+    "title": "THE DIGITAL DIVIDE AND HIGHER EDUCATION CHALLENGE WITH EMERGENCY ONLINE LEARNING: ANALYSIS OF TWEETS IN THE WAKE OF THE COVID-19 LOCKDOWN",
+    "authors": [
+      "C. Azionya",
+      "Abyshey Nhedzi"
+    ],
+    "year": 2021,
+    "doi": null,
+    "url": "https://consensus.app/papers/the-digital-divide-and-higher-education-challenge-with-azionya-nhedzi/7ee97159a4ea582bac1d7d50692fd0ec/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Turkish Online Journal of Distance Education",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Cobertura de rede, dispositivo e condições socioeconômicas afetam participação em ensino síncrono.",
+    "limitation_pt": "Netnografia de tweets, com seleção de usuários de rede social; não representa todos os estudantes.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "jamil2023",
+    "title": "The COVID-19 Pandemic and E-Learning: The Digital Divide and Educational Crises in Pakistan’s Universities",
+    "authors": [
+      "S. Jamil",
+      "G. Muschert"
+    ],
+    "year": 2023,
+    "doi": null,
+    "url": "https://consensus.app/papers/the-covid19-pandemic-and-elearning-the-digital-divide-and-jamil-muschert/0c47f8b26df453b78335dedb3551abcf/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "The American Behavioral Scientist",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Acesso à internet e habilidades digitais podem limitar continuidade educacional em universidades.",
+    "limitation_pt": "Entrevistas por email podem excluir as pessoas com pior acesso; contexto paquistanês e pandêmico.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "kumiyeboah2023",
+    "title": "Strategies for overcoming the digital divide during the COVID-19 pandemic in higher education institutions in Ghana",
+    "authors": [
+      "Alex Kumi-Yeboah",
+      "YangHyun Kim",
+      "Yaa Essah Armah"
+    ],
+    "year": 2023,
+    "doi": null,
+    "url": "https://consensus.app/papers/strategies-for-overcoming-the-digital-divide-during-the-kumi-yeboah-kim/967c7df48228548cb51021274702d9a5/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Br. J. Educ. Technol.",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Entrevistas com docentes e administradores descrevem estratégias de enfrentamento da divisão digital; combinar conectividade acessível, suporte e formação no projeto é uma proposta informada por esses relatos.",
+    "limitation_pt": "35 entrevistas em cinco universidades de Gana; relato de estratégias não é ensaio de eficácia causal.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "martin2024",
+    "title": "From digital divide to digital equity: Systematic review of two decades of research on educational digital divide factors, dimensions, and interventions",
+    "authors": [
+      "Florence Martin",
+      "E. Ceviker",
+      "T. Gezer"
+    ],
+    "year": 2024,
+    "doi": null,
+    "url": "https://consensus.app/papers/from-digital-divide-to-digital-equity-systematic-review-of-martin-ceviker/35f2fb00391a5c6b8b1ad3c73891775c/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Journal of Research on Technology in Education",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Inclusão digital educacional depende de acesso, uso, fatores sociais e suporte organizacional.",
+    "limitation_pt": "Revisão de 77 estudos em duas décadas; heterogeneidade e publicação online/volume posterior impedem uma estimativa única.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "kumar2017",
+    "title": "Usability of mobile learning applications: a systematic literature review",
+    "authors": [
+      "B. Kumar",
+      "P. Mohite"
+    ],
+    "year": 2017,
+    "doi": "10.1007/s40692-017-0093-6",
+    "url": "https://consensus.app/papers/usability-of-mobile-learning-applications-a-systematic-kumar-mohite/88e88528a9215b5da2e3aad5dbdbf4ef/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Journal of Computers in Education",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Usabilidade de aplicações de aprendizagem móvel exige avaliação explícita e não pode ser presumida pela tecnologia.",
+    "limitation_pt": "23 publicações relevantes na revisão; publicado online em 2017, edição de 2018; não mede EstudaOffline.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "naveed2023",
+    "title": "Mobile Learning in Higher Education: A Systematic Literature Review",
+    "authors": [
+      "Q. Naveed",
+      "Heena Choudhary",
+      "Naim Ahmad",
+      "Jarallah Alqahtani",
+      "A. Qahmash"
+    ],
+    "year": 2023,
+    "doi": null,
+    "url": "https://consensus.app/papers/mobile-learning-in-higher-education-a-systematic-naveed-choudhary/acb83e94541852779b0ca87547d4e199/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Sustainability",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Facilidade de uso e acessibilidade integram fatores considerados na adoção de aprendizagem móvel.",
+    "limitation_pt": "Revisão de 161 artigos, majoritariamente quantitativos; adoção e aprendizagem não são equivalentes.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "kumarmapping2024",
+    "title": "Usability testing of mobile learning applications: a systematic mapping study",
+    "authors": [
+      "B. Kumar",
+      "S. Chand",
+      "M. S. Goundar"
+    ],
+    "year": 2024,
+    "doi": "10.1108/IJILT-03-2023-0029",
+    "url": "https://consensus.app/papers/usability-testing-of-mobile-learning-applications-a-kumar-chand/c6e163934efc52ed9d825f92ac3b98bc/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "The International Journal of Information and Learning Technology",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Testes com usuários, observação e questionários são utilizados na avaliação de aprendizagem móvel.",
+    "limitation_pt": "Mapeamento de 51 trabalhos de uma base; muitos testes controlados, limitando transferência para uso real.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "cob2023",
+    "title": "Investigating the User Interface Design Frameworks of Current Mobile Learning Applications: A Systematic Review",
+    "authors": [
+      "Zaihisma Che Cob",
+      "Ridha Omar",
+      "Sharul Azim Sharudin",
+      "Masitah Ghazali"
+    ],
+    "year": 2023,
+    "doi": null,
+    "url": "https://consensus.app/papers/investigating-the-user-interface-design-frameworks-of-cob-omar/0832d843386a5ec3ac5587ce6430bf87/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Education Sciences",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "A revisão organiza critérios de interface e sua relação com carga cognitiva; considerar tamanho de tela e desenho da interface no EstudaOffline é uma inferência de projeto.",
+    "limitation_pt": "Revisão limitada a 2020–2022; não prova redução de carga cognitiva por uma interface específica.",
+    "source_service": "Consensus search + fetch"
+  },
+  {
+    "key": "kumarguideline2019",
+    "title": "Usability guideline for Mobile learning applications: an update",
+    "authors": [
+      "B. Kumar",
+      "M. S. Goundar",
+      "S. Chand"
+    ],
+    "year": 2019,
+    "doi": "10.1007/s10639-019-09937-9",
+    "url": "https://consensus.app/papers/usability-guideline-for-mobile-learning-applications-an-kumar-goundar/583bc1f7101d501e9691c662b92029b0/?utm_source=chatgpt",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Education and Information Technologies",
+    "access_level": "abstract_and_metadata_only; full_text_not_assessed",
+    "claim_pt": "Diretrizes de usabilidade móvel devem ser atualizadas a partir de problemas observados.",
+    "limitation_pt": "Síntese de 17 estudos e validação das diretrizes; condições e efeitos não podem ser transportados automaticamente.",
+    "source_service": "Consensus search + fetch; publisher/search DOI metadata corroboration"
+  },
+  {
+    "key": "punchoojit2017",
+    "title": "Usability Studies on Mobile User Interface Design Patterns: A Systematic Literature Review",
+    "authors": [
+      "Lumpapun Punchoojit",
+      "Nuttanont Hongwarittorrn"
+    ],
+    "year": 2017,
+    "doi": "10.1155/2017/6787504",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1155/2017/6787504",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Advances in Human-Computer Interaction",
+    "access_level": "publisher_open_access_page; metadata_and_relevant_sections_inspected",
+    "claim_pt": "O artigo revisa padrões de interfaces móveis; aplicar sua discussão ao planejamento escolar do EstudaOffline é uma inferência de projeto.",
+    "limitation_pt": "Revisão de interfaces móveis em geral; sua aplicação a planejamento escolar é uma inferência, não resultado direto.",
+    "source_service": "Publisher primary page (Wiley)"
+  },
+  {
+    "key": "linhalis2026",
+    "title": "Educa Offline: concepción de un Ambiente Virtual de Aprendizaje (AVA) en contextos de baja conectividad y vulnerabilidad social",
+    "authors": [
+      "Flávia Linhalis",
+      "Thiago Máximo Pavão",
+      "André Constantino da Silva"
+    ],
+    "year": 2026,
+    "doi": "10.17398/1695-288X.25.1.59",
+    "url": "https://relatec.unex.es/index.php/relatec/article/view/4851?articlesBySimilarityPage=17",
+    "kind": "peer_reviewed_journal_article",
+    "journal": "Revista Latinoamericana de Tecnología Educativa - RELATEC",
+    "access_level": "SciSpace abstract plus publisher indexed metadata; direct publisher fetch 403",
+    "claim_pt": "Existe pesquisa anterior sobre AVA com operação offline e uso em baixa conectividade, tornando inadequada uma alegação genérica de novidade de aplicativo offline educacional.",
+    "limitation_pt": "Educa Offline é um AVA distinto de um planejador; o resumo e metadados não sustentam equivalência arquitetural, comparação de desempenho ou eficácia do EstudaOffline. SciSpace omitiu terceiro autor, corrigido com fonte primária.",
+    "source_service": "SciSpace natural-language search + RELATEC publisher indexed metadata",
+    "publication_date": "2026-01-20",
+    "publication_date_source_url": "https://relatec.unex.es/index.php/relatec/article/view/4851",
+    "publication_date_verification": "publisher indexed page explicitly shows Publicado; direct fetch403",
+    "available_by_search_cutoff": true,
+    "publication_date_audit": "study/literature/publication-date-audit-2026.json"
+  }
+]

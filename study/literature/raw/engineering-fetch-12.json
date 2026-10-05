@@ -1,0 +1,22 @@
+{
+  "id": "382200bb6a9e5c1ca121622ac145f436",
+  "retrieved_utc": "2026-10-05T05:45:09.925Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "382200bb6a9e5c1ca121622ac145f436",
+        "title": "The role and value of replication in empirical software engineering results",
+        "url": "https://consensus.app/papers/the-role-and-value-of-replication-in-empirical-software-shepperd-ajienka/382200bb6a9e5c1ca121622ac145f436/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "M. Shepperd, N. Ajienka, S. Counsell",
+          "publish_year": "2018",
+          "journal": "Inf. Softw. Technol.",
+          "volume": "99",
+          "pages": "120-132",
+          "citation_count": "63"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

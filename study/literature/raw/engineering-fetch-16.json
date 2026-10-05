@@ -1,0 +1,22 @@
+{
+  "id": "62e9e81d258f5122a19eee0521478d38",
+  "retrieved_utc": "2026-10-05T05:45:31.381Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "62e9e81d258f5122a19eee0521478d38",
+        "title": "FEDS: a Framework for Evaluation in Design Science Research",
+        "url": "https://consensus.app/papers/feds-a-framework-for-evaluation-in-design-science-research-venable-pries-heje/62e9e81d258f5122a19eee0521478d38/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "J. Venable, J. Pries-Heje, R. Baskerville",
+          "publish_year": "2016",
+          "journal": "European Journal of Information Systems",
+          "volume": "25",
+          "pages": "77-89",
+          "citation_count": "1089"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "retrieved_date_utc": "2026-10-05",
+  "review_type": "targeted exploratory literature search; not a completed systematic review",
+  "research_question": "Which scientific methods for software testing, reproducible artifacts and design science evaluation can inform the EstudaOffline MVP without claiming its educational efficacy?",
+  "inclusion": [
+    "Software engineering testing, reproducibility or design science evaluation",
+    "2016–2026 issue/publication year",
+    "Abstract consulted and bibliographic metadata fetched when Consensus",
+    "Scientific journal or conference publication; explicit uncertainty retained"
+  ],
+  "exclusion": [
+    "Preprints without confirmed reviewed version",
+    "Theses",
+    "Duplicate repository versions",
+    "Unclear venue or irrelevant domain",
+    "No fabrication to meet numerical target"
+  ],
+  "search_execution": [
+    {
+      "service": "Consensus",
+      "query": "software engineering empirical reproducibility replication packages artifacts year:2016-2026 domain:cs",
+      "raw": "raw/engineering-search-0.json",
+      "status": "rate limit error; preserved"
+    },
+    {
+      "service": "Consensus",
+      "query": "software testing mobile applications automated testing systematic review year:2016-2026 domain:cs",
+      "raw": "raw/engineering-search-1.json",
+      "status": "success; 10 records"
+    },
+    {
+      "service": "Consensus",
+      "query": "design science research software engineering evaluation artifacts year:2016-2026",
+      "raw": "raw/engineering-search-2.json",
+      "status": "rate limit error; preserved"
+    },
+    {
+      "service": "Consensus",
+      "query": "continuous integration software testing empirical study year:2016-2026 domain:cs",
+      "raw": "raw/engineering-search-3.json",
+      "status": "rate limit error; preserved"
+    },
+    {
+      "service": "Consensus",
+      "query": "progressive web applications offline storage reliability testing year:2016-2026 domain:cs",
+      "raw": "raw/engineering-search-4.json",
+      "status": "rate limit error; preserved"
+    },
+    {
+      "service": "Consensus",
+      "query": "reproducibility artifact availability empirical software engineering replication year:2016-2026 domain:cs",
+      "raw": "raw/engineering-search-5.json",
+      "status": "success; 10 records"
+    },
+    {
+      "service": "Consensus",
+      "query": "continuous integration continuous delivery empirical software engineering benefits testing year:2016-2026 domain:cs",
+      "raw": "raw/engineering-search-6.json",
+      "status": "success; 10 records"
+    },
+    {
+      "service": "Consensus",
+      "query": "design science research evaluation software engineering artifacts guidelines year:2016-2026",
+      "raw": "raw/engineering-search-7.json",
+      "status": "success; 10 records"
+    },
+    {
+      "service": "SciSpace",
+      "query": "What peer-reviewed research from 2016 to 2026 supports reproducible software engineering experiments, artifact evaluation, design science evaluation, and continuous integration testing?",
+      "raw": "raw/engineering-scispace-search.json",
+      "status": "success; 10 records"
+    }
+  ],
+  "pagination": "Each successful service search returned 10 records; no second page requested; no claim of exhaustive coverage",
+  "screening": "Single AI screener selected targeted relevance; no independent double screening or risk-of-bias appraisal completed",
+  "deduplication": "DOI when retrieved; then normalized title. Multiple Zenodo/repository representations excluded; ArXiv version excluded in favor of ACM published Liu2022.",
+  "retained_records": 20,
+  "reviewed_venue_records": 19,
+  "review_status_unconfirmed_records": [
+    "eng19: Occam ACM proceedings retrieved; specific review policy not independently inspected"
+  ],
+  "metadata_pending": [
+    "eng09 publisher online publication day not recovered; primary author arXiv supplies DOI final",
+    "eng19 proceedings review policy not independently inspected",
+    "SU08 DOI/IEEE direct access failed; venue verified via official program",
+    "Some Consensus author names remain initialed"
+  ],
+  "year_conflicts": [
+    "eng03: Consensus2018 online; volume27 printed2019; retained2018 and limitation",
+    "eng15: Consensus2021; publisher journal citation2022 retained",
+    "eng16: Consensus2021 online; IEEEvolume48 issue2022; retained online2021",
+    "eng17: FEDS journalissue2016; online2014 foundation noted; issueyear retained"
+  ],
+  "abstract_access": "Some Consensus fetch records lack abstracts; search structuredContent contains consulted abstract. These are marked abstract_from_search rather than full-text access.",
+  "excluded_named": [
+    {
+      "title": "Requirements-Driven Automated Software Testing: A Systematic Review",
+      "reason": "Consensus lists ACM venue but primary journal metadata not recovered; preprint versions found; not counted to avoid assuming reviewed status."
+    },
+    {
+      "title": "Towards a Framework Based on Open Science Practices for Promoting Reproducibility of Software Engineering Controlled Experiments",
+      "reason": "Doctoral symposium proposal; excluded from final20, raw retained."
+    },
+    {
+      "title": "Reproducibility by Construction: Open Algorithms, Public Benchmarks, and Cloud-Native Artifact Pipelines",
+      "reason": "Venue unclear; no independent peer-review confirmation."
+    },
+    {
+      "title": "Toward Metadata-Driven Experimentation in Software Engineering",
+      "reason": "Zenodo version and duplicate repository records; no reviewed venue established."
+    },
+    {
+      "title": "TraceLab: Reproducing Empirical Software Engineering Research",
+      "reason": "Thesis2013; outside window and no journal/conference record verified."
+    },
+    {
+      "title": "Continuous Analysis: Evolution of Software Engineering and Reproducibility for Science",
+      "reason": "ArXiv preprint; peer-review not confirmed."
+    }
+  ],
+  "claim_boundary": "All claim_pt paraphrases support methodological choices only. No included source tests EstudaOffline or establishes its pedagogical efficacy.",
+  "primary_verification_raw_files": [
+    "raw/engineering-web-1.json",
+    "raw/engineering-web-2.json",
+    "raw/engineering-web-3.json",
+    "raw/engineering-web-4.json",
+    "raw/engineering-web-5.json",
+    "raw/engineering-web-6.json"
+  ],
+  "primary_url_for_ICSE": "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/285/The-State-of-Open-Science-in-Software-Engineering-Research-A-Case-Study-of-ICSE-Arti",
+  "raw_access_note": "Raw outputs retained for internal provenance. Abstracts are copyrighted source text; public-facing synthesis should quote sparingly and use paraphrases.",
+  "date_venue_followup": {
+    "cutoff": "2026-10-05",
+    "records": {
+      "eng09": {
+        "doi": "10.1145/3744916.3787813",
+        "authors": [
+          "Al Muttakin",
+          "Saikat Mondal",
+          "Chanchal K. Roy"
+        ],
+        "conference_presentation_date": "2026-04-15",
+        "preprint_first_public_date": "2026-01-05",
+        "preprint_latest_version_date": "2026-03-23",
+        "publisher_online_date": null,
+        "available_before_cutoff": true,
+        "date_cutoff": "2026-10-05",
+        "primary_verification_urls": [
+          "https://arxiv.org/abs/2601.02066",
+          "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/285/The-State-of-Open-Science-in-Software-Engineering-Research-A-Case-Study-of-ICSE-Arti"
+        ],
+        "metadata_verification_note": "DOI final indicado pelo registro primário dos autores no arXiv; editora ACM não retornou conteúdo. Programa oficial confirma apresentação em 15 abr. 2026. Histórico registra versão v3 retirada e versão atual v5 com comentário Requires modification; não interpretar como retirada do artigo inteiro."
+      },
+      "eng20": {
+        "publication_date": "2026-02-12",
+        "accepted_date": "2026-01-31",
+        "date_cutoff": "2026-10-05",
+        "available_before_cutoff": true,
+        "primary_verification_urls": [
+          "https://www.tandfonline.com/doi/full/10.1080/0960085X.2026.2627280"
+        ],
+        "metadata_verification_note": "Data publicada no conteúdo indexado da própria editora: Published online12Feb2026. A abertura direta retornou403; não houve leitura integral."
+      },
+      "SU08": {
+        "journal": "2021 Joint 10th International Conference on Informatics, Electronics & Vision (ICIEV) and 2021 5th International Conference on Imaging, Vision & Pattern Recognition (icIVPR)",
+        "venue_verified": true,
+        "conference_presentation_date": "2021-08-16",
+        "conference_start_date": "2021-08-16",
+        "conference_end_date": "2021-08-19",
+        "primary_verification_urls": [
+          "https://cennser.org/IVPR21/program.pdf"
+        ],
+        "author_software_url": "https://github.com/dipongkor/PlagiarismChecker",
+        "author_software_access": "Não recuperado; URL indicada no artigo via índice secundário, sem conferência do código ou licença nesta sessão.",
+        "metadata_verification_note": "Programa oficial PDF página3 lista AcPgChecker e os seis autores; página1 identifica evento16–19ago2021 e envio dos artigos aoIEEE Xplore condicionado à apresentação. DOI permanece metadado SciSpace; aberturaIEEE eDOI não retornaram conteúdo. Não afirmar política de revisão específica conferida."
+      }
+    },
+    "raw_files": [
+      "raw/date-venue-check-1.json",
+      "raw/date-venue-check-2.json",
+      "raw/date-venue-check-3.json",
+      "raw/date-venue-check-4.json"
+    ],
+    "limits": "Datas de existência pública e apresentação distintas da data de publicação online da editora; nenhum texto integral foi acessado."
+  }
+}

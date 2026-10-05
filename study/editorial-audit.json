@@ -1,0 +1,50 @@
+{
+  "sources": {
+    "artigo": {
+      "scientific_publications_cited": 80,
+      "bibliography_entries": 85,
+      "undefined_keys": [],
+      "uncited_bibliography_entries": []
+    },
+    "entrega-escolar": {
+      "scientific_publications_cited": 80,
+      "bibliography_entries": 85,
+      "undefined_keys": [],
+      "uncited_bibliography_entries": []
+    },
+    "poster": {
+      "scientific_publications_cited": 80,
+      "bibliography_entries": 85,
+      "undefined_keys": [],
+      "uncited_bibliography_entries": []
+    }
+  },
+  "limitations": [
+    "Source count is not validation of eighty instruments or eighty independent experiments.",
+    "Abstract-based paraphrases do not imply full-text review or source retraction screening.",
+    "The 50% line-width threshold is an editorial requirement, not a validated scientific quality metric."
+  ],
+  "pdf_lines": {
+    "artigo": {
+      "pages": 19,
+      "text_lines": 776,
+      "lines_below_half_width": 95,
+      "literal_every_line_requirement_met": false,
+      "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
+    },
+    "entrega-escolar": {
+      "pages": 26,
+      "text_lines": 812,
+      "lines_below_half_width": 110,
+      "literal_every_line_requirement_met": false,
+      "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
+    },
+    "poster": {
+      "pages": 9,
+      "text_lines": 451,
+      "lines_below_half_width": 74,
+      "literal_every_line_requirement_met": false,
+      "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
+    }
+  }
+}

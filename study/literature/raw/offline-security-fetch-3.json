@@ -1,0 +1,19 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "retrieved_metadata": [
+      {
+        "id": "0b2708e82c5f524991c4680b66daf423",
+        "title": "Augmenting SQLite for Local-First Software",
+        "url": "https://consensus.app/papers/augmenting-sqlite-for-localfirst-software-tomter-yu/0b2708e82c5f524991c4680b66daf423/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Iver Toft Tomter, Weihai Yu",
+          "publish_year": "2021",
+          "pages": "247-257",
+          "citation_count": "0"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

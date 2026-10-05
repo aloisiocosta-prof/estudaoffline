@@ -1,0 +1,22 @@
+{
+  "id": "b2248c07cbd85da0815cea955d9d718c",
+  "retrieved_utc": "2026-10-05T05:45:32.139Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "b2248c07cbd85da0815cea955d9d718c",
+        "title": "Research artifacts for human-oriented experiments in software engineering: An ACM badges-driven structure proposal",
+        "url": "https://consensus.app/papers/research-artifacts-for-humanoriented-experiments-in-guevara-vega-bernárdez/b2248c07cbd85da0815cea955d9d718c/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "C. Guevara-Vega, B. Bernárdez, Margarita Cruz, A. Durán, Antonio Ruiz-Cortés, Martin Solari",
+          "publish_year": "2024",
+          "journal": "J. Syst. Softw.",
+          "volume": "218",
+          "pages": "112187",
+          "citation_count": "6"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

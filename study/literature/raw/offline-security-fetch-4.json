@@ -1,0 +1,21 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "retrieved_metadata": [
+      {
+        "id": "5e76e5ed22bf5103921b0fec6663d83d",
+        "title": "Approaches to Conflict-free Replicated Data Types",
+        "url": "https://consensus.app/papers/approaches-to-conflictfree-replicated-data-types-almeida/5e76e5ed22bf5103921b0fec6663d83d/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Paulo Sérgio Almeida",
+          "publish_year": "2023",
+          "journal": "ACM Computing Surveys",
+          "volume": "57",
+          "pages": "1 - 36",
+          "citation_count": "30"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

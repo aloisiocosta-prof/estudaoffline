@@ -1,0 +1,21 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "retrieved_metadata": [
+      {
+        "id": "45ce5e2c80db5f4f9456593ce846988c",
+        "title": "Consistent Local-First Software: Enforcing Safety and Invariants for Local-First Applications",
+        "url": "https://consensus.app/papers/consistent-localfirst-software-enforcing-safety-and-köhler-zakhour/45ce5e2c80db5f4f9456593ce846988c/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Mirko Köhler, George Zakhour, P. Weisenburger, Guido Salvaneschi",
+          "publish_year": "2025",
+          "journal": "IEEE Transactions on Software Engineering",
+          "volume": "51",
+          "pages": "53-65",
+          "citation_count": "3"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

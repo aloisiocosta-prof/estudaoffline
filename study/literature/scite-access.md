@@ -1,0 +1,1 @@
+Consulta em 5 de outubro de 2026: scite search_literature retornou INVALID_ARGUMENT, exigindo plano pago ou teste ativo. Não foram obtidos contexto de citações, avisos de retratação ou leitura integral por esse serviço. Nenhuma dessas verificações é declarada concluída.

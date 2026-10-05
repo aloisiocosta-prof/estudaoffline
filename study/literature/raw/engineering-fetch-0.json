@@ -1,0 +1,22 @@
+{
+  "id": "b84fb4d035f4509e84e4375427919690",
+  "retrieved_utc": "2026-10-05T05:45:04.328Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "b84fb4d035f4509e84e4375427919690",
+        "title": "Automated Testing of Android Apps: A Systematic Literature Review",
+        "url": "https://consensus.app/papers/automated-testing-of-android-apps-a-systematic-literature-kong-li/b84fb4d035f4509e84e4375427919690/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Pingfan Kong, Li Li, Jun Gao, Kui Liu, Tegawendé F. Bissyandé, Jacques Klein",
+          "publish_year": "2019",
+          "journal": "IEEE Transactions on Reliability",
+          "volume": "68",
+          "pages": "45-66",
+          "citation_count": "197"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

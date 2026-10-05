@@ -1,0 +1,403 @@
+[
+  {
+    "key": "OS01",
+    "title": "The Remote on the Local: Exacerbating Web Attacks Via Service Workers Caches",
+    "authors": [
+      "Marco Squarcina",
+      "Stefano Calzavara",
+      "Matteo Maffei"
+    ],
+    "year": 2021,
+    "doi": "10.1109/SPW53761.2021.00062",
+    "url": "https://doi.org/10.1109/SPW53761.2021.00062",
+    "kind": "Proceedings Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O estudo mostra que XSS na mesma origem pode manipular Cache API e ampliar o impacto sobre conteúdo armazenado.",
+    "limitation_pt": "Cenários de ataque específicos; não demonstra vulnerabilidade no EstudaOffline nem estado atual de todos os navegadores.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "journal": "2021 IEEE Security and Privacy Workshops (SPW)",
+    "primary_metadata_url": "https://repositum.tuwien.at/handle/20.500.12708/58476?mode=full"
+  },
+  {
+    "key": "OS02",
+    "title": "SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations",
+    "authors": [
+      "Karthika Subramani",
+      "Jordan Jueckstock",
+      "Alexandros Kapravelos",
+      "Roberto Perdisci"
+    ],
+    "year": 2022,
+    "doi": "10.1109/EuroSP53844.2022.00041",
+    "url": "https://doi.org/10.1109/EuroSP53844.2022.00041",
+    "kind": "Proceedings Article",
+    "access_level": "abstract and first-page primary metadata read; full paper not evaluated",
+    "claim_pt": "A sistematização reproduz ataques ligados a service workers e analisa medidas de mitigação dos navegadores.",
+    "limitation_pt": "Panorama de 2022; mitigação atual exige consulta e teste específico.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "journal": "2022 IEEE 7th European Symposium on Security and Privacy (EuroS&P)",
+    "primary_metadata_url": "https://oaklandsok.github.io/papers/subramani2022.pdf"
+  },
+  {
+    "key": "OS03",
+    "title": "Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage.",
+    "authors": [
+      "Soroush Karami",
+      "Panagiotis Ilia",
+      "Jason Polakis"
+    ],
+    "year": 2021,
+    "doi": "10.14722/NDSS.2021.23104",
+    "url": "https://doi.org/10.14722/NDSS.2021.23104",
+    "kind": "Proceedings Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Os autores demonstram ataques de inferência de histórico explorando isolamento de service workers e cache.",
+    "limitation_pt": "Resultados relativos às versões investigadas; não presumir que os ataques persistem em navegadores atuais.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "journal": "Network and Distributed System Security Symposium (NDSS), 2021",
+    "primary_metadata_url": "https://www.ndss-symposium.org/ndss-paper/awakening-the-webs-sleeper-agents-misusing-service-workers-for-privacy-leakage/"
+  },
+  {
+    "key": "OS04",
+    "title": "SPARE: Securing Progressive Web Applications Against Unauthorized Replications",
+    "authors": [
+      "Sajib Talukder",
+      "Nur Imtiazul Haque",
+      "Khandakar Ashrafi Akbar"
+    ],
+    "year": 2025,
+    "doi": "10.48550/arxiv.2508.07053",
+    "url": "https://doi.org/10.48550/arxiv.2508.07053",
+    "kind": "preprint",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O preprint propõe proteção contra replicação não autorizada de PWAs em aplicativos WebView e avalia um protótipo.",
+    "limitation_pt": "Preprint; contexto WebView/TWA diferente de aplicação Pages; identificadores têm implicações próprias de privacidade.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "journal": "arXiv.org"
+  },
+  {
+    "key": "OS05",
+    "title": "GuardianPWA: Enhancing Security Throughout the Progressive Web App Installation Lifecycle",
+    "authors": [
+      "Wang Mengxiao",
+      "Gu Guofei"
+    ],
+    "year": 2025,
+    "doi": "10.48550/arxiv.2509.13561",
+    "url": "https://doi.org/10.48550/arxiv.2509.13561",
+    "kind": "preprint",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O preprint examina inconsistências de segurança no ciclo de instalação de PWAs e propõe análise de manifests.",
+    "limitation_pt": "Preprint de 2025; achados são relativos aos navegadores e critérios estudados, não prova de falha deste app.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?"
+  },
+  {
+    "key": "OS06",
+    "title": "Rotten Cellar: Security and Privacy of the Browser Cache Revisited",
+    "authors": [
+      "Florian Dehling",
+      "Tobias Mengel",
+      "Luigi Lo Iacono"
+    ],
+    "year": 2019,
+    "doi": "10.1007/978-3-030-35055-0_2",
+    "url": "https://doi.org/10.1007/978-3-030-35055-0_2",
+    "kind": "conference paper in LNCS proceedings",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Experimentos mostram limitações dos controles e salvaguardas de cache nos navegadores examinados.",
+    "limitation_pt": "Cache HTTP não equivale à Cache API; resultados históricos não certificam navegadores atuais.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "journal": "Secure IT Systems: 24th Nordic Conference, NordSec 2019, pp.20–36",
+    "primary_metadata_url": "https://pub.h-brs.de/frontdoor/index/index/year/2021/docId/5609"
+  },
+  {
+    "key": "OS07",
+    "title": "LoRe: A Programming Model for Verifiably Safe Local-First Software",
+    "authors": [
+      "Julian Haas",
+      "Ragnar Mogk",
+      "Elena Yanakieva",
+      "Annette Bieniusa",
+      "Mira Mezini"
+    ],
+    "year": 2023,
+    "doi": "10.1145/3633769",
+    "url": "https://doi.org/10.1145/3633769",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "LoRe combina programação reativa e verificação para identificar interações que violam invariantes e coordená-las quando necessário.",
+    "limitation_pt": "Garantias dependem do modelo, das propriedades especificadas e do compilador; não se transferem ao Flutter localStorage.",
+    "source_service": "SciSpace",
+    "source_query": "What peer-reviewed studies investigate local-first software and browser storage privacy and reliability under intermittent connectivity?",
+    "journal": "ACM Transactions on Programming Languages and Systems"
+  },
+  {
+    "key": "OS08",
+    "title": "Merge what you can, fork what you can't: managing data integrity in local-first software",
+    "authors": [
+      "Geoffrey Litt",
+      "B. Jackson"
+    ],
+    "year": 2022,
+    "doi": "10.1145/3517209.3524041",
+    "url": "https://doi.org/10.1145/3517209.3524041",
+    "kind": "Proceedings Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Forking histories preserva restrições por histórico e expõe conflitos para reconciliação pelo usuário.",
+    "limitation_pt": "Proposta de sincronização; não é resultado de adoção educacional nem regra necessária para app sem colaboração.",
+    "source_service": "SciSpace",
+    "source_query": "What peer-reviewed studies investigate local-first software and browser storage privacy and reliability under intermittent connectivity?",
+    "journal": "9th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC), 2022",
+    "primary_metadata_url": "https://dspace.mit.edu/entities/publication/fb8f7e29-d8d8-4058-a963-41bf6b5ccba1"
+  },
+  {
+    "key": "OS09",
+    "title": "Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy",
+    "authors": [
+      "Michael MacFadden",
+      "Meikang Qiu"
+    ],
+    "year": 2022,
+    "doi": "10.1109/SmartCloud55982.2022.00037",
+    "url": "https://doi.org/10.1109/SmartCloud55982.2022.00037",
+    "kind": "Proceedings Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O trabalho compara opções de criptografia para Web Storage e relata alternativas com impacto de desempenho limitado no cenário avaliado.",
+    "limitation_pt": "Criptografia local não elimina XSS nem valida gestão de chaves; dados e implementação do MVP não foram avaliados.",
+    "source_service": "SciSpace",
+    "source_query": "What peer-reviewed studies investigate local-first software and browser storage privacy and reliability under intermittent connectivity?",
+    "journal": "IEEE SmartCloud 2022",
+    "primary_metadata_url": "https://cloud-conf.net/smartcloud/2022/program.html"
+  },
+  {
+    "key": "OS10",
+    "title": "BeauForT: Robust Byzantine Fault Tolerance for Client-Centric Mobile Web Applications",
+    "authors": [
+      "Kristof Jannes",
+      "Emad Heydari Beni",
+      "Bert Lagaisse",
+      "Wouter Joosen"
+    ],
+    "year": 2023,
+    "doi": "10.1109/TPDS.2023.3241963",
+    "url": "https://doi.org/10.1109/TPDS.2023.3241963",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "BeauForT propõe consenso e sincronização no navegador para tolerar réplicas bizantinas e redes instáveis.",
+    "limitation_pt": "Sistema descentralizado com múltiplas partes; não constitui proteção pronta para aplicativo local sem sincronização.",
+    "source_service": "SciSpace",
+    "source_query": "What peer-reviewed studies investigate local-first software and browser storage privacy and reliability under intermittent connectivity?",
+    "journal": "IEEE Transactions on Parallel and Distributed Systems"
+  },
+  {
+    "key": "OS11",
+    "title": "Research on the Current State of Privacy Risks in Children’s Mobile Applications",
+    "authors": [
+      "Xinrui Geng",
+      "Tao Liu",
+      "Chong Shang",
+      "Jianxiang Chen",
+      "Yueran Lu",
+      "Yan Zhang",
+      "Yan Wang"
+    ],
+    "year": 2024,
+    "doi": "10.1109/isctis63324.2024.10699019",
+    "url": "https://doi.org/10.1109/isctis63324.2024.10699019",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O estudo analisa estaticamente e dinamicamente 70 aplicativos infantis e compara práticas de privacidade em diferentes países.",
+    "limitation_pt": "Amostra selecionada e aplicativos móveis; resumo não fornece estimativas completas nem avaliação deste produto.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?"
+  },
+  {
+    "key": "OS12",
+    "title": "Mobile apps and children’s privacy: a traffic analysis of data sharing practices among children’s mobile iOS apps",
+    "authors": [
+      "J. Rocha Pimienta",
+      "J. Brandt",
+      "Timme Bethe",
+      "Ralph Holz",
+      "Andrea Continella",
+      "L. Jibb",
+      "Quinn Grundy"
+    ],
+    "year": 2023,
+    "doi": "10.1136/archdischild-2023-325960",
+    "url": "https://doi.org/10.1136/archdischild-2023-325960",
+    "kind": "article; subtype_not_verified",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Na amostra intencional de 25 apps iOS infantis, todos compartilharam dados fora do aplicativo e parte enviou dados pessoais a terceiros.",
+    "limitation_pt": "Amostra pequena e intencional de 2022; não generalizar prevalência para todos os apps ou PWAs.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "Archives of Disease in Childhood"
+  },
+  {
+    "key": "OS13",
+    "title": "Navigating the Data Avalanche",
+    "authors": [
+      "Anirudh Ekambaranathan",
+      "Jun Zhao",
+      "George Chalhoub"
+    ],
+    "year": 2023,
+    "doi": "10.1145/3596267",
+    "url": "https://doi.org/10.1145/3596267",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "A análise de 137 apps infantis e entrevistas com 12 desenvolvedores identificaram barreiras ao uso de SDKs favoráveis à privacidade.",
+    "limitation_pt": "Estudo qualitativo e ferramenta de apoio; não demonstra que remover SDKs garante segurança integral.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies"
+  },
+  {
+    "key": "OS14",
+    "title": "\"We may share the number of diaper changes\": A Privacy and Security Analysis of Mobile Child Care Applications",
+    "authors": [
+      "Moritz Gruber",
+      "Christian Höfig",
+      "Maximilian Golla",
+      "Tobias Urban",
+      "Matteo Große-Kampmann"
+    ],
+    "year": 2022,
+    "doi": "10.56553/popets-2022-0078",
+    "url": "https://doi.org/10.56553/popets-2022-0078",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "A análise de 42 apps Android de cuidado infantil e seus backends identificou rastreadores e riscos de exposição de dados.",
+    "limitation_pt": "Contexto de creches e backends móveis; não extrapolar vulnerabilidades para app local com dados sintéticos.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "Proceedings on Privacy Enhancing Technologies"
+  },
+  {
+    "key": "OS15",
+    "title": "KOALA Hero: Inform Children of Privacy Risks of Mobile Apps",
+    "authors": [
+      "Jun Zhao",
+      "Blanche Duron",
+      "Ge Wang"
+    ],
+    "year": 2022,
+    "doi": "10.1145/3501712.3535278",
+    "url": "https://doi.org/10.1145/3501712.3535278",
+    "kind": "Proceedings Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Oficinas de codesign orientaram KOALA Hero para tornar riscos de tratamento de dados compreensíveis a crianças.",
+    "limitation_pt": "Os autores deixam avaliação empírica futura em aberto; não evidencia mudança comprovada de comportamento.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "Interaction Design and Children, 2022",
+    "primary_metadata_url": "https://www.cs.ox.ac.uk/publications/publication15692-abstract.html"
+  },
+  {
+    "key": "OS16",
+    "title": "Digitales Lernen - Welche Rolle spielt die Privatheit der Daten von Schüler: innen bei der Nutzung von Lernsoftware?",
+    "authors": [
+      "Judith Meinert",
+      "Nicole C. Krämer"
+    ],
+    "year": 2022,
+    "doi": "10.1007/978-3-658-33306-5_10",
+    "url": "https://doi.org/10.1007/978-3-658-33306-5_10",
+    "kind": "Book Chapter",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O capítulo investiga percepção e medidas de proteção de dados por estudantes, professores e pais diante de software de aprendizagem.",
+    "limitation_pt": "Resumo descreve investigação, sem quantificar resultados; não permite inferir prevalência nem eficácia.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?"
+  },
+  {
+    "key": "OS17",
+    "title": "Not Seen, Not Heard in the Digital World! Measuring Privacy Practices in Children’s Apps",
+    "authors": [
+      "Ruoxi Sun",
+      "Minhui Xue",
+      "Gareth Tyson",
+      "Shuang Wang",
+      "Seyit Camtepe",
+      "Surya Nepal"
+    ],
+    "year": 2023,
+    "doi": "10.1145/3543507.3583327",
+    "url": "https://doi.org/10.1145/3543507.3583327",
+    "kind": "Proceedings Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Análise estática e dinâmica de 20.195 apps identificou práticas de rastreamento e permissões que divergiam de políticas de proteção infantil.",
+    "limitation_pt": "Amostra Google Play e políticas do período; não mede riscos de uma PWA específica nem todos os ecossistemas.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "ACM Web Conference 2023, pp.2166–2177",
+    "primary_metadata_url": "https://researchportal.hkust.edu.hk/en/publications/not-seen-not-heard-in-the-digital-world-measuring-privacy-practic-2/"
+  },
+  {
+    "key": "OS18",
+    "title": "Security Issues in the Use of Mobile Educational Apps: A Review",
+    "authors": [
+      "Emmanuel O.C. Mkpojiogu",
+      "Azham Hussain",
+      "Monday Onah Agbudu"
+    ],
+    "year": 2021,
+    "doi": "10.3991/IJIM.V15I06.20631",
+    "url": "https://doi.org/10.3991/IJIM.V15I06.20631",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "A revisão selecionou 21 de 64 trabalhos e apontou lacunas na literatura sobre segurança de apps educacionais.",
+    "limitation_pt": "Revisão secundária; apenas resumo consultado, sem auditoria de busca ou qualidade de cada estudo.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "International Journal of Interactive Mobile Technologies (ijim)"
+  },
+  {
+    "key": "OS19",
+    "title": "Consistent Local-First Software: Enforcing Safety and Invariants for Local-First Applications",
+    "authors": [
+      "Mirko Köhler",
+      "George Zakhour",
+      "P. Weisenburger",
+      "Guido Salvaneschi"
+    ],
+    "year": 2025,
+    "doi": null,
+    "url": "https://consensus.app/papers/consistent-localfirst-software-enforcing-safety-and-köhler-zakhour/45ce5e2c80db5f4f9456593ce846988c/?utm_source=chatgpt",
+    "kind": "journal_article",
+    "access_level": "abstract_and_full_record_read; full_text_not_read",
+    "claim_pt": "ConLoc propõe verificação e sincronização automática para preservar invariantes em programas com dados replicados.",
+    "limitation_pt": "Garantias vinculadas a CRDTs e ao sistema proposto; não comprovam segurança do MVP localStorage. DOI não fornecido no registro recuperado.",
+    "source_service": "Consensus search+fetch",
+    "source_query": "local first software conflict free replicated data types offline",
+    "journal": "IEEE Transactions on Software Engineering"
+  },
+  {
+    "key": "OS20",
+    "title": "CAMS F Edge DTN: Context-Aware Offline-First Synchronization and Local Reasoning Using CRDTs and MQTT-SN",
+    "authors": [
+      "Nelson Iván Herrera",
+      "E. Gómez-Torres",
+      "E. E. González",
+      "R. Toasa",
+      "Paúl Baldeón"
+    ],
+    "year": 2026,
+    "doi": null,
+    "url": "https://consensus.app/papers/cams-f-edge-dtn-contextaware-offlinefirst-herrera-gómez-torres/4642726948f551448ebb909d08f3a8b4/?utm_source=chatgpt",
+    "kind": "journal_article",
+    "access_level": "abstract_and_full_record_read; full_text_not_read",
+    "claim_pt": "CAMS F Edge DTN combina execução local e sincronização oportunista e relata disponibilidade elevada nos experimentos de logística e saúde rurais.",
+    "limitation_pt": "Contextos experimentais específicos, distintos de educação e Flutter Web; percentuais não devem ser adotados como metas comprovadas do MVP. DOI não fornecido no registro recuperado.",
+    "source_service": "Consensus search+fetch",
+    "source_query": "local first software conflict free replicated data types offline",
+    "journal": "Future Internet"
+  }
+]

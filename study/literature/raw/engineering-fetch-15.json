@@ -1,0 +1,22 @@
+{
+  "id": "d8b765ef358f59708eee6a3a606ee9d9",
+  "retrieved_utc": "2026-10-05T05:45:30.624Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "d8b765ef358f59708eee6a3a606ee9d9",
+        "title": "Uncovering the Benefits and Challenges of Continuous Integration Practices",
+        "url": "https://consensus.app/papers/uncovering-the-benefits-and-challenges-of-continuous-elazhary-werner/d8b765ef358f59708eee6a3a606ee9d9/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Omar Elazhary, Colin M. Werner, Ze-Shi Li, Derek Lowlind, Neil A. Ernst, M. Storey",
+          "publish_year": "2021",
+          "journal": "IEEE Transactions on Software Engineering",
+          "volume": "48",
+          "pages": "2570-2583",
+          "citation_count": "71"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

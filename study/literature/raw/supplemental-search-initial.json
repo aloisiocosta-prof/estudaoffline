@@ -1,0 +1,743 @@
+{
+  "structuredContent": {
+    "searchTerm": "Which peer-reviewed studies and reporting guidelines provide evidence about reproducibility, academic plagiarism detection and citation integrity in scientific writing?",
+    "papers": [
+      {
+        "id": 2073844458,
+        "title": "Use of Reporting Guidelines in Scientific Writing: PRISMA, CONSORT, STROBE, STARD and Other Resources",
+        "is_archived": false,
+        "full_slug": "use-of-reporting-guidelines-in-scientific-writing-prisma-4hfv8oudph",
+        "journal": {
+          "display_name": "Brain Impairment",
+          "official_page": null,
+          "issn": "1839-5252",
+          "alias": null,
+          "id": 192318099,
+          "slug": "brain-impairment",
+          "unique_id": "2248fpi6",
+          "full_slug": "brain-impairment-2248fpi6"
+        },
+        "conference_series": null,
+        "date": "2011-05-01T00:00:00Z",
+        "is_oa": true,
+        "publication_type": "Journal Article",
+        "doi": "10.1375/BRIM.12.1.1",
+        "unique_id": "4hfv8oudph",
+        "authors": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "Robyn L. Tate",
+              "id": 2158796070,
+              "slug": "robyn-l-tate",
+              "unique_id": "39tkmeo5fk",
+              "full_slug": "robyn-l-tate-39tkmeo5fk",
+              "affiliation_full_slug": "university-of-sydney-34hirb5f"
+            },
+            {
+              "display_name": "Jacinta Douglas",
+              "id": 2228915682,
+              "slug": "jacinta-douglas",
+              "unique_id": "4w2ln0k32u",
+              "full_slug": "jacinta-douglas-4w2ln0k32u",
+              "affiliation_full_slug": "la-trobe-university-jiipsrz5"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "University of Sydney",
+              "city": "Sydney",
+              "region": "New South Wales",
+              "country": "Australia",
+              "id": 129604602,
+              "slug": "university-of-sydney",
+              "unique_id": "34hirb5f",
+              "full_slug": "university-of-sydney-34hirb5f"
+            },
+            {
+              "display_name": "La Trobe University",
+              "city": "Melbourne",
+              "region": "Victoria",
+              "country": "Australia",
+              "id": 196829312,
+              "slug": "la-trobe-university",
+              "unique_id": "jiipsrz5",
+              "full_slug": "la-trobe-university-jiipsrz5"
+            }
+          ]
+        },
+        "fulltext_url": "/pdf/use-of-reporting-guidelines-in-scientific-writing-prisma-4hfv8oudph.pdf",
+        "fulltext_url_no_follow": false,
+        "paper_urls": {
+          "order": [
+            "Pdf",
+            "Html",
+            "Others"
+          ],
+          "data": {
+            "Html": [
+              "https://www.cambridge.org/core/journals/brain-impairment/article/use-of-reporting-guidelines-in-scientific-writing-prisma-consort-strobe-stard-and-other-resources/F823FDF8123BEBA55FB042B634A6C86B"
+            ],
+            "Pdf": [
+              "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1443964600002217"
+            ],
+            "Others": [
+              "http://journals.cambridge.org/abstract_S1443964600002217"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": 27
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 4073182519,
+        "title": "Reframing turnitin: from plagiarism detector to formative tool for academic writing and integrity",
+        "is_archived": false,
+        "full_slug": "reframing-turnitin-from-plagiarism-detector-to-formative-hv1qxmz1yos1",
+        "journal": {
+          "display_name": "European Journal of Open Education and E-Learning Studies",
+          "official_page": null,
+          "issn": "2501-9120",
+          "alias": null,
+          "id": 4000032226,
+          "slug": "european-journal-of-open-education-and-e-learning-studies",
+          "unique_id": "3r8mnuiz",
+          "full_slug": "european-journal-of-open-education-and-e-learning-studies-3r8mnuiz"
+        },
+        "conference_series": null,
+        "date": "2025-08-15T00:00:00Z",
+        "is_oa": null,
+        "publication_type": "Journal Article",
+        "doi": "10.46827/ejoe.v10i3.6210",
+        "unique_id": "hv1qxmz1yos1",
+        "authors": {
+          "total": 1,
+          "data": [
+            {
+              "display_name": "C. H. G. Oldham",
+              "full_slug": null
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 0,
+          "data": []
+        },
+        "metrics": {
+          "citations": {
+            "total": null
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 3197262732,
+        "title": "Scholarly Publishing and Scientific Reproducibility",
+        "is_archived": false,
+        "full_slug": "scholarly-publishing-and-scientific-reproducibility-ur56h5oz0l",
+        "journal": null,
+        "conference_series": null,
+        "date": "2021-01-01T00:00:00Z",
+        "is_oa": false,
+        "publication_type": "Book Chapter",
+        "doi": "10.1007/978-3-030-66147-2_9",
+        "unique_id": "ur56h5oz0l",
+        "authors": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "Arieh Bomzon",
+              "id": 3198641345,
+              "slug": "arieh-bomzon",
+              "unique_id": "28x9mc5xzf",
+              "full_slug": "arieh-bomzon-28x9mc5xzf"
+            },
+            {
+              "display_name": "Graham Tobin",
+              "id": 3197924437,
+              "slug": "graham-tobin",
+              "unique_id": "4c9rnv9u4u",
+              "full_slug": "graham-tobin-4c9rnv9u4u"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 0,
+          "data": []
+        },
+        "fulltext_url": null,
+        "fulltext_url_no_follow": true,
+        "paper_urls": {
+          "order": [
+            "Html"
+          ],
+          "data": {
+            "Html": [
+              "https://link.springer.com/chapter/10.1007/978-3-030-66147-2_9"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": 4
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 2770403520,
+        "title": "Addressing Reproducibility: Peer Review, Impact Factors, Checklists, Guidelines, and Reproducibility Initiatives",
+        "is_archived": false,
+        "full_slug": "addressing-reproducibility-peer-review-impact-factors-3q6990540z",
+        "journal": null,
+        "conference_series": null,
+        "date": "2018-01-01T00:00:00Z",
+        "is_oa": false,
+        "publication_type": "Book Chapter",
+        "doi": "10.1016/B978-0-12-804725-5.00005-7",
+        "unique_id": "3q6990540z",
+        "authors": {
+          "total": 3,
+          "data": [
+            {
+              "display_name": "Michael Williams",
+              "id": 2317953165,
+              "slug": "michael-williams",
+              "unique_id": "x5v9o1ew19",
+              "full_slug": "michael-williams-x5v9o1ew19",
+              "affiliation_full_slug": "northwestern-university-7jein5u2"
+            },
+            {
+              "display_name": "Kevin Mullane",
+              "id": 2695365487,
+              "slug": "kevin-mullane",
+              "unique_id": "6xj6z07gk2",
+              "full_slug": "kevin-mullane-6xj6z07gk2",
+              "affiliation_full_slug": "gladstone-institutes-1qeeerjj"
+            },
+            {
+              "display_name": "Michael J. Curtis",
+              "id": 2153472654,
+              "slug": "michael-j-curtis",
+              "unique_id": "257yatgqtu",
+              "full_slug": "michael-j-curtis-257yatgqtu"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "Northwestern University",
+              "city": "Evanston",
+              "region": "Illinois",
+              "country": "United States",
+              "id": 111979921,
+              "slug": "northwestern-university",
+              "unique_id": "7jein5u2",
+              "full_slug": "northwestern-university-7jein5u2"
+            },
+            {
+              "display_name": "Gladstone Institutes",
+              "city": "San Francisco",
+              "region": "California",
+              "country": "United States",
+              "id": 1321430492,
+              "slug": "gladstone-institutes",
+              "unique_id": "1qeeerjj",
+              "full_slug": "gladstone-institutes-1qeeerjj"
+            }
+          ]
+        },
+        "fulltext_url": null,
+        "fulltext_url_no_follow": true,
+        "paper_urls": {
+          "order": [
+            "Html"
+          ],
+          "data": {
+            "Html": [
+              "https://www.sciencedirect.com/science/article/pii/B9780128047255000057"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": null
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 3208286080,
+        "title": "AcPgChecker: Detection of Plagiarism among Academic and Scientific Writings",
+        "is_archived": false,
+        "full_slug": "acpgchecker-detection-of-plagiarism-among-academic-and-96974hlxog",
+        "journal": null,
+        "conference_series": {
+          "display_name": "International Conference on Informatics, Electronics and Vision",
+          "id": 2755562339,
+          "slug": "international-conference-on-informatics-electronics-and",
+          "unique_id": "11ezxnmn",
+          "full_slug": "international-conference-on-informatics-electronics-and-11ezxnmn"
+        },
+        "date": "2021-08-16T00:00:00Z",
+        "is_oa": true,
+        "publication_type": "Proceedings Article",
+        "doi": "10.1109/ICIEVICIVPR52578.2021.9564123",
+        "unique_id": "96974hlxog",
+        "authors": {
+          "total": 6,
+          "data": [
+            {
+              "display_name": "Atish Kumar Dipongkor",
+              "id": 2913420620,
+              "slug": "atish-kumar-dipongkor",
+              "unique_id": "19ue9jwjhc",
+              "full_slug": "atish-kumar-dipongkor-19ue9jwjhc",
+              "affiliation_full_slug": "jessore-university-of-science-technology-8xnv9iig"
+            },
+            {
+              "display_name": "Rayhanul Islam",
+              "id": 3209876348,
+              "slug": "rayhanul-islam",
+              "unique_id": "4xw71easty",
+              "full_slug": "rayhanul-islam-4xw71easty",
+              "affiliation_full_slug": "university-of-dhaka-e5srooe4"
+            },
+            {
+              "display_name": "Md. Shafiuzzaman",
+              "id": 3187345652,
+              "slug": "md-shafiuzzaman",
+              "unique_id": "2xdgwb3hi2",
+              "full_slug": "md-shafiuzzaman-2xdgwb3hi2",
+              "affiliation_full_slug": "jessore-university-of-science-technology-8xnv9iig"
+            },
+            {
+              "display_name": "Asif Nashiry",
+              "id": 2507222006,
+              "slug": "asif-nashiry",
+              "unique_id": "j5lzvkl7jg",
+              "full_slug": "asif-nashiry-j5lzvkl7jg",
+              "affiliation_full_slug": "jessore-university-of-science-technology-8xnv9iig"
+            },
+            {
+              "display_name": "Syed Md. Galib",
+              "id": 2419823924,
+              "slug": "syed-md-galib",
+              "unique_id": "1f2bo85h5l",
+              "full_slug": "syed-md-galib-1f2bo85h5l",
+              "affiliation_full_slug": "jessore-university-of-science-technology-8xnv9iig"
+            },
+            {
+              "display_name": "Khaza Moinuddin Mazumder",
+              "id": 3208743500,
+              "slug": "khaza-moinuddin-mazumder",
+              "unique_id": "e6f1v4dp0b",
+              "full_slug": "khaza-moinuddin-mazumder-e6f1v4dp0b",
+              "affiliation_full_slug": "university-of-dhaka-e5srooe4"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "Jessore University of Science & Technology",
+              "city": null,
+              "region": null,
+              "country": null,
+              "id": 923003605,
+              "slug": "jessore-university-of-science-technology",
+              "unique_id": "8xnv9iig",
+              "full_slug": "jessore-university-of-science-technology-8xnv9iig"
+            },
+            {
+              "display_name": "University of Dhaka",
+              "city": "Dhaka",
+              "region": "Dhaka",
+              "country": "Bangladesh",
+              "id": 205746353,
+              "slug": "university-of-dhaka",
+              "unique_id": "e5srooe4",
+              "full_slug": "university-of-dhaka-e5srooe4"
+            }
+          ]
+        },
+        "fulltext_url": null,
+        "fulltext_url_no_follow": true,
+        "paper_urls": {
+          "order": [],
+          "data": {
+            "Unknown": [
+              "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=9564123"
+            ]
+          }
+        },
+        "metrics": {
+          "citations": {
+            "total": 4
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 2996181552,
+        "title": "Plagiarism and academic integrity in science",
+        "is_archived": false,
+        "full_slug": "plagiarism-and-academic-integrity-in-science-43ox95spv8",
+        "journal": null,
+        "conference_series": null,
+        "date": "2017-06-16T00:00:00Z",
+        "is_oa": true,
+        "publication_type": "Journal Article",
+        "doi": "10.15690/VRAMN788",
+        "unique_id": "43ox95spv8",
+        "authors": {
+          "total": 10,
+          "data": [
+            {
+              "display_name": "Vadim A. Byvaltsev",
+              "id": 1890405619,
+              "slug": "vadim-a-byvaltsev",
+              "unique_id": "5dk04ysozu",
+              "full_slug": "vadim-a-byvaltsev-5dk04ysozu",
+              "affiliation_full_slug": "russian-railways-psn1djoi"
+            },
+            {
+              "display_name": "Бывальцев Вадим Анатольевич",
+              "id": 2275856365,
+              "slug": "byvaltsev-vadim-anatolevich",
+              "unique_id": "4lgpn9tryu",
+              "full_slug": "byvaltsev-vadim-anatolevich-4lgpn9tryu"
+            },
+            {
+              "display_name": "I. A. Stepanov",
+              "id": 2493502798,
+              "slug": "i-a-stepanov",
+              "unique_id": "2x4d5cfptg",
+              "full_slug": "i-a-stepanov-2x4d5cfptg"
+            },
+            {
+              "display_name": "Степанов Иван Андреевич",
+              "id": 2288015606,
+              "slug": "stepanov-ivan-andreevich",
+              "unique_id": "10g9zo343u",
+              "full_slug": "stepanov-ivan-andreevich-10g9zo343u"
+            },
+            {
+              "display_name": "Evgenii Belykh",
+              "id": 2144111535,
+              "slug": "evgenii-belykh",
+              "unique_id": "1pp7xkl8nf",
+              "full_slug": "evgenii-belykh-1pp7xkl8nf"
+            },
+            {
+              "display_name": "Белых Евгений Георгиевич",
+              "id": 2278700519,
+              "slug": "belykh-evgenii-georgievich",
+              "unique_id": "25y5k3mrn9",
+              "full_slug": "belykh-evgenii-georgievich-25y5k3mrn9"
+            },
+            {
+              "display_name": "Andrey A. Kalinin",
+              "id": 2481652191,
+              "slug": "andrey-a-kalinin",
+              "unique_id": "4ptlhpzt4b",
+              "full_slug": "andrey-a-kalinin-4ptlhpzt4b",
+              "affiliation_full_slug": "russian-railways-psn1djoi"
+            },
+            {
+              "display_name": "Калинин Андрей Андреевич",
+              "id": 2313478979,
+              "slug": "kalinin-andrei-andreevich",
+              "unique_id": "6da3uad4a7",
+              "full_slug": "kalinin-andrei-andreevich-6da3uad4a7"
+            },
+            {
+              "display_name": "L. A. Bardonova",
+              "id": 2025555866,
+              "slug": "l-a-bardonova",
+              "unique_id": "116mn6wyyb",
+              "full_slug": "l-a-bardonova-116mn6wyyb"
+            },
+            {
+              "display_name": "Бардонова Людмила Андреевна",
+              "id": 2995576004,
+              "slug": "bardonova-liudmila-andreevna",
+              "unique_id": "1w2gnc4u1o",
+              "full_slug": "bardonova-liudmila-andreevna-1w2gnc4u1o"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 1,
+          "data": [
+            {
+              "display_name": "Russian Railways",
+              "city": "Moscow",
+              "region": null,
+              "country": "Russia",
+              "id": 2799351582,
+              "slug": "russian-railways",
+              "unique_id": "psn1djoi",
+              "full_slug": "russian-railways-psn1djoi"
+            }
+          ]
+        },
+        "fulltext_url": "/pdf/plagiarism-and-academic-integrity-in-science-43ox95spv8.pdf",
+        "fulltext_url_no_follow": false,
+        "paper_urls": {
+          "order": [
+            "Pdf",
+            "Html"
+          ],
+          "data": {
+            "Pdf": [
+              "https://vestnikramn.spr-journal.ru/jour/article/download/788/831"
+            ],
+            "Html": [
+              "https://vestnikramn.spr-journal.ru/jour/article/view/788"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": 5
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 4087928804,
+        "title": "A Review of Plagiarism Detection Tools and Their Role in Research Integrity",
+        "is_archived": false,
+        "full_slug": "a-review-of-plagiarism-detection-tools-and-their-role-in-dp6o0xar6y9v",
+        "journal": null,
+        "conference_series": null,
+        "date": "2025-11-05T00:00:00Z",
+        "is_oa": null,
+        "publication_type": "Repository",
+        "doi": "10.5281/zenodo.17529678",
+        "unique_id": "dp6o0xar6y9v",
+        "metrics": {
+          "citations": {
+            "total": null
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 2289824360,
+        "title": "Guidelines on What Constitutes Plagiarism and Electronic Tools to Detect it",
+        "is_archived": false,
+        "full_slug": "guidelines-on-what-constitutes-plagiarism-and-electronic-15kehamv07",
+        "journal": {
+          "display_name": "Clinical spine surgery",
+          "official_page": "http://journals.lww.com/jspinaldisorders/pages/default.aspx",
+          "issn": "2380-0186",
+          "alias": null,
+          "id": 2764663100,
+          "slug": "clinical-spine-surgery",
+          "unique_id": "5e6m0jmj",
+          "full_slug": "clinical-spine-surgery-5e6m0jmj"
+        },
+        "conference_series": null,
+        "date": "2016-04-01T00:00:00Z",
+        "is_oa": false,
+        "publication_type": "Journal Article",
+        "doi": "10.1097/BSD.0000000000000371",
+        "unique_id": "15kehamv07",
+        "authors": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "Panya Luksanapruksa",
+              "id": 1812816593,
+              "slug": "panya-luksanapruksa",
+              "unique_id": "59yik3wdy3",
+              "full_slug": "panya-luksanapruksa-59yik3wdy3",
+              "affiliation_full_slug": "mahidol-university-9xd2xa0y"
+            },
+            {
+              "display_name": "Paul W. Millhouse",
+              "id": 1994778902,
+              "slug": "paul-w-millhouse",
+              "unique_id": "39jdfy9f6v",
+              "full_slug": "paul-w-millhouse-39jdfy9f6v"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 1,
+          "data": [
+            {
+              "display_name": "Mahidol University",
+              "city": "Bangkok",
+              "region": "Nakhon Pathom",
+              "country": "Thailand",
+              "id": 25399158,
+              "slug": "mahidol-university",
+              "unique_id": "9xd2xa0y",
+              "full_slug": "mahidol-university-9xd2xa0y"
+            }
+          ]
+        },
+        "fulltext_url": null,
+        "fulltext_url_no_follow": true,
+        "paper_urls": {
+          "order": [
+            "Html"
+          ],
+          "data": {
+            "Html": [
+              "https://pubmed.ncbi.nlm.nih.gov/26925859/",
+              "https://www.ncbi.nlm.nih.gov/pubmed/26925859"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": 11
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 100524220,
+        "title": "Qualität und Integrität bei der Erstellung und Veröffentlichung wissenschaftlicher Ergebnisse",
+        "is_archived": false,
+        "full_slug": "qualitat-und-integritat-bei-der-erstellung-und-4ejdj6igic",
+        "journal": {
+          "display_name": "Herz",
+          "official_page": "https://link.springer.com/journal/59",
+          "issn": "0340-9937",
+          "alias": null,
+          "id": 154908413,
+          "slug": "herz",
+          "unique_id": "x0ae0kym",
+          "full_slug": "herz-x0ae0kym"
+        },
+        "conference_series": null,
+        "date": "2014-06-26T00:00:00Z",
+        "is_oa": true,
+        "publication_type": "Journal Article",
+        "doi": "10.1007/S00059-014-4120-3",
+        "unique_id": "4ejdj6igic",
+        "authors": {
+          "total": 1,
+          "data": [
+            {
+              "display_name": "Thomas F. Lüscher",
+              "id": 2232937115,
+              "slug": "thomas-f-luscher",
+              "unique_id": "2i2u3ztwn5",
+              "full_slug": "thomas-f-luscher-2i2u3ztwn5"
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 0,
+          "data": []
+        },
+        "fulltext_url": null,
+        "fulltext_url_no_follow": true,
+        "paper_urls": {
+          "order": [
+            "Html",
+            "Others"
+          ],
+          "data": {
+            "Html": [
+              "https://link.springer.com/article/10.1007/s00059-014-4120-3",
+              "https://www.ncbi.nlm.nih.gov/pubmed/24962254"
+            ],
+            "Others": [
+              "https://link.springer.com/article/10.1007/s00059-014-4120-3/fulltext.html"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": 1
+          }
+        },
+        "entity_type": "PAPER"
+      },
+      {
+        "id": 4035900126,
+        "title": "Plagiarism in Academic Writing in Higher Education Institutions: A Bibliometric Analysis",
+        "is_archived": false,
+        "full_slug": "plagiarism-in-academic-writing-in-higher-education-30lh4eygn5",
+        "journal": {
+          "display_name": "International journal on social and education sciences",
+          "official_page": null,
+          "issn": "2688-7061",
+          "alias": [
+            "IJonSES"
+          ],
+          "id": 4000045722,
+          "slug": "international-journal-on-social-and-education-sciences",
+          "unique_id": "2znordcx",
+          "full_slug": "international-journal-on-social-and-education-sciences-2znordcx"
+        },
+        "conference_series": null,
+        "date": "2024-02-15T00:00:00Z",
+        "is_oa": null,
+        "publication_type": "Journal Article",
+        "doi": "10.46328/ijonses.623",
+        "unique_id": "30lh4eygn5",
+        "authors": {
+          "total": 2,
+          "data": [
+            {
+              "display_name": "Hadijah Ahmad",
+              "full_slug": null
+            },
+            {
+              "display_name": "Muhammad Ashraf Fauzi",
+              "full_slug": null
+            }
+          ]
+        },
+        "affiliations": {
+          "total": 0,
+          "data": []
+        },
+        "fulltext_url": "pdf/plagiarism-in-academic-writing-in-higher-education-30lh4eygn5.pdf",
+        "fulltext_url_no_follow": false,
+        "paper_urls": {
+          "order": [
+            "Pdf"
+          ],
+          "data": {
+            "Pdf": [
+              "https://ijonses.net/index.php/ijonses/article/download/623/pdf"
+            ]
+          },
+          "is_show": true
+        },
+        "metrics": {
+          "citations": {
+            "total": null
+          }
+        },
+        "entity_type": "PAPER"
+      }
+    ]
+  },
+  "isError": false
+}

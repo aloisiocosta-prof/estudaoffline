@@ -1,0 +1,19 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "retrieved_metadata": [
+      {
+        "id": "4642726948f551448ebb909d08f3a8b4",
+        "title": "CAMS F Edge DTN: Context-Aware Offline-First Synchronization and Local Reasoning Using CRDTs and MQTT-SN",
+        "url": "https://consensus.app/papers/cams-f-edge-dtn-contextaware-offlinefirst-herrera-gómez-torres/4642726948f551448ebb909d08f3a8b4/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Nelson Iván Herrera, E. Gómez-Torres, E. E. González, R. Toasa, Paúl Baldeón",
+          "publish_year": "2026",
+          "journal": "Future Internet",
+          "citation_count": "1"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

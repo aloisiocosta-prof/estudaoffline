@@ -1,0 +1,904 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "searchTerm": "What recommendations are reported in the 2017 Manifesto for reproducible science by Munafò and colleagues and the 2019 systematic review Academic plagiarism detection by Foltýnek, Meuschke and Gipp?",
+      "papers": [
+        {
+          "id": 2570760970,
+          "title": "A manifesto for reproducible science",
+          "is_archived": false,
+          "full_slug": "a-manifesto-for-reproducible-science-4muga1l76m",
+          "journal": {
+            "display_name": "Nature Human Behaviour",
+            "official_page": "https://www.nature.com/nathumbehav/",
+            "issn": "2397-3374",
+            "alias": null,
+            "id": 2764866340,
+            "slug": "nature-human-behaviour",
+            "unique_id": "euj52fpl",
+            "full_slug": "nature-human-behaviour-euj52fpl"
+          },
+          "conference_series": null,
+          "date": "2017-01-10T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1038/S41562-016-0021",
+          "unique_id": "4muga1l76m",
+          "authors": {
+            "total": 11,
+            "data": [
+              {
+                "display_name": "Marcus R. Munafò",
+                "id": 2303040408,
+                "slug": "marcus-r-munafo",
+                "unique_id": "4vhuty0g4p",
+                "full_slug": "marcus-r-munafo-4vhuty0g4p",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "Brian A. Nosek",
+                "id": 2238366779,
+                "slug": "brian-a-nosek",
+                "unique_id": "1p0fwflgb0",
+                "full_slug": "brian-a-nosek-1p0fwflgb0",
+                "affiliation_full_slug": "university-of-virginia-281v1o4c"
+              },
+              {
+                "display_name": "Brian A. Nosek",
+                "id": 2238366779,
+                "slug": "brian-a-nosek",
+                "unique_id": "1p0fwflgb0",
+                "full_slug": "brian-a-nosek-1p0fwflgb0",
+                "affiliation_full_slug": "center-for-open-science-30dmh81s"
+              },
+              {
+                "display_name": "Dorothy V. M. Bishop",
+                "id": 2099935653,
+                "slug": "dorothy-v-m-bishop",
+                "unique_id": "53sep4p1m0",
+                "full_slug": "dorothy-v-m-bishop-53sep4p1m0",
+                "affiliation_full_slug": "university-of-oxford-359i25ny"
+              },
+              {
+                "display_name": "Katherine S. Button",
+                "id": 2114514134,
+                "slug": "katherine-s-button",
+                "unique_id": "tm0vaf3idu",
+                "full_slug": "katherine-s-button-tm0vaf3idu"
+              },
+              {
+                "display_name": "Christopher D. Chambers",
+                "id": 2114586246,
+                "slug": "christopher-d-chambers",
+                "unique_id": "4e2bbsh605",
+                "full_slug": "christopher-d-chambers-4e2bbsh605",
+                "affiliation_full_slug": "cardiff-university-2f7ohzue"
+              },
+              {
+                "display_name": "Nathalie Percie du Sert",
+                "id": 270965378,
+                "slug": "nathalie-percie-du-sert",
+                "unique_id": "13purzcb3l",
+                "full_slug": "nathalie-percie-du-sert-13purzcb3l"
+              },
+              {
+                "display_name": "Uri Simonsohn",
+                "id": 2042265428,
+                "slug": "uri-simonsohn",
+                "unique_id": "4o530kebpa",
+                "full_slug": "uri-simonsohn-4o530kebpa",
+                "affiliation_full_slug": "university-of-pennsylvania-32r68p8r"
+              },
+              {
+                "display_name": "Eric-Jan Wagenmakers",
+                "id": 2047428607,
+                "slug": "eric-jan-wagenmakers",
+                "unique_id": "4okhklr7j3",
+                "full_slug": "eric-jan-wagenmakers-4okhklr7j3",
+                "affiliation_full_slug": "amsterdam-university-college-2mgp9vrr"
+              },
+              {
+                "display_name": "Jennifer J. Ware",
+                "id": 2106097632,
+                "slug": "jennifer-j-ware",
+                "unique_id": "1nvbnojol4",
+                "full_slug": "jennifer-j-ware-1nvbnojol4"
+              },
+              {
+                "display_name": "John P. A. Ioannidis",
+                "id": 2097265366,
+                "slug": "john-p-a-ioannidis",
+                "unique_id": "8e0j68y3sr",
+                "full_slug": "john-p-a-ioannidis-8e0j68y3sr",
+                "affiliation_full_slug": "stanford-university-24e5cwqm"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 8,
+            "data": [
+              {
+                "display_name": "University of Bristol",
+                "city": "Bristol",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 36234482,
+                "slug": "university-of-bristol",
+                "unique_id": "15r1lwmd",
+                "full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "University of Virginia",
+                "city": "Charlottesville",
+                "region": "Virginia",
+                "country": "United States",
+                "id": 51556381,
+                "slug": "university-of-virginia",
+                "unique_id": "281v1o4c",
+                "full_slug": "university-of-virginia-281v1o4c"
+              },
+              {
+                "display_name": "Center for Open Science",
+                "city": "Charlottesville",
+                "region": "Virginia",
+                "country": "United States",
+                "id": 2799848540,
+                "slug": "center-for-open-science",
+                "unique_id": "30dmh81s",
+                "full_slug": "center-for-open-science-30dmh81s"
+              },
+              {
+                "display_name": "University of Oxford",
+                "city": "Oxford",
+                "region": "Oxfordshire",
+                "country": "United Kingdom",
+                "id": 40120149,
+                "slug": "university-of-oxford",
+                "unique_id": "359i25ny",
+                "full_slug": "university-of-oxford-359i25ny"
+              },
+              {
+                "display_name": "Cardiff University",
+                "city": "Cardiff",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 79510175,
+                "slug": "cardiff-university",
+                "unique_id": "2f7ohzue",
+                "full_slug": "cardiff-university-2f7ohzue"
+              },
+              {
+                "display_name": "University of Pennsylvania",
+                "city": "Philadelphia",
+                "region": "Pennsylvania",
+                "country": "United States",
+                "id": 79576946,
+                "slug": "university-of-pennsylvania",
+                "unique_id": "32r68p8r",
+                "full_slug": "university-of-pennsylvania-32r68p8r"
+              },
+              {
+                "display_name": "Amsterdam University College",
+                "city": "Amsterdam",
+                "region": null,
+                "country": "Netherlands",
+                "id": 13089092,
+                "slug": "amsterdam-university-college",
+                "unique_id": "2mgp9vrr",
+                "full_slug": "amsterdam-university-college-2mgp9vrr"
+              },
+              {
+                "display_name": "Stanford University",
+                "city": "Stanford",
+                "region": "California",
+                "country": "United States",
+                "id": 97018004,
+                "slug": "stanford-university",
+                "unique_id": "24e5cwqm",
+                "full_slug": "stanford-university-24e5cwqm"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/a-manifesto-for-reproducible-science-4muga1l76m.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://nature.com/articles/s41562-016-0021",
+                "https://orca.cardiff.ac.uk/97336/"
+              ],
+              "Others": [
+                "https://www.nature.com/articles/s41562-016-0021.pdf",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610724"
+              ],
+              "Pdf": [
+                "https://pure.uva.nl/ws/files/25988092/A_manifesto.pdf",
+                "https://research-information.bris.ac.uk/ws/files/143484775/Full_text_PDF_final_published_version_.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 2990
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4092222903,
+          "title": "Making Science Transparent By Default; Introducing the TOP Statement",
+          "is_archived": false,
+          "full_slug": "making-science-transparent-by-default-introducing-the-top-craj6l6ov5h8",
+          "journal": null,
+          "conference_series": null,
+          "date": "2018-02-15T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.17605/osf.io/sm78t",
+          "unique_id": "craj6l6ov5h8",
+          "authors": {
+            "total": 23,
+            "data": [
+              {
+                "display_name": "Clarke, Michael",
+                "full_slug": null
+              },
+              {
+                "display_name": "Curry, Stephen",
+                "full_slug": null
+              },
+              {
+                "display_name": "Dahl Josh",
+                "full_slug": null
+              },
+              {
+                "display_name": "Franko, Maryrose",
+                "full_slug": null
+              },
+              {
+                "display_name": "Grant, Sean",
+                "full_slug": null
+              },
+              {
+                "display_name": "Hanson Brooks",
+                "full_slug": null
+              },
+              {
+                "display_name": "Joseph Heather",
+                "full_slug": null
+              },
+              {
+                "display_name": "Kramer, Bianca",
+                "full_slug": null
+              },
+              {
+                "display_name": "MacFarlane Aki",
+                "full_slug": null
+              },
+              {
+                "display_name": "Martone Maryann",
+                "full_slug": null
+              },
+              {
+                "display_name": "Mayo-Wilson Evan",
+                "full_slug": null
+              },
+              {
+                "display_name": "McNutt Marcia",
+                "full_slug": null
+              },
+              {
+                "display_name": "Mellor David",
+                "full_slug": null
+              },
+              {
+                "display_name": "Moher, David",
+                "full_slug": null
+              },
+              {
+                "display_name": "Nosek Brian",
+                "full_slug": null
+              },
+              {
+                "display_name": "Parker, Timothy",
+                "full_slug": null
+              },
+              {
+                "display_name": "Parsons, Mark",
+                "full_slug": null
+              },
+              {
+                "display_name": "Patterson Mark",
+                "full_slug": null
+              },
+              {
+                "display_name": "Santos Solange",
+                "full_slug": null
+              },
+              {
+                "display_name": "Simons Daniel",
+                "full_slug": null
+              },
+              {
+                "display_name": "Spies Jeffrey",
+                "full_slug": null
+              },
+              {
+                "display_name": "Stodden Victoria",
+                "full_slug": null
+              },
+              {
+                "display_name": "Swaminathan, Sowmya",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2996181552,
+          "title": "Plagiarism and academic integrity in science",
+          "is_archived": false,
+          "full_slug": "plagiarism-and-academic-integrity-in-science-43ox95spv8",
+          "journal": null,
+          "conference_series": null,
+          "date": "2017-06-16T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.15690/VRAMN788",
+          "unique_id": "43ox95spv8",
+          "authors": {
+            "total": 10,
+            "data": [
+              {
+                "display_name": "Vadim A. Byvaltsev",
+                "id": 1890405619,
+                "slug": "vadim-a-byvaltsev",
+                "unique_id": "5dk04ysozu",
+                "full_slug": "vadim-a-byvaltsev-5dk04ysozu",
+                "affiliation_full_slug": "russian-railways-psn1djoi"
+              },
+              {
+                "display_name": "Бывальцев Вадим Анатольевич",
+                "id": 2275856365,
+                "slug": "byvaltsev-vadim-anatolevich",
+                "unique_id": "4lgpn9tryu",
+                "full_slug": "byvaltsev-vadim-anatolevich-4lgpn9tryu"
+              },
+              {
+                "display_name": "I. A. Stepanov",
+                "id": 2493502798,
+                "slug": "i-a-stepanov",
+                "unique_id": "2x4d5cfptg",
+                "full_slug": "i-a-stepanov-2x4d5cfptg"
+              },
+              {
+                "display_name": "Степанов Иван Андреевич",
+                "id": 2288015606,
+                "slug": "stepanov-ivan-andreevich",
+                "unique_id": "10g9zo343u",
+                "full_slug": "stepanov-ivan-andreevich-10g9zo343u"
+              },
+              {
+                "display_name": "Evgenii Belykh",
+                "id": 2144111535,
+                "slug": "evgenii-belykh",
+                "unique_id": "1pp7xkl8nf",
+                "full_slug": "evgenii-belykh-1pp7xkl8nf"
+              },
+              {
+                "display_name": "Белых Евгений Георгиевич",
+                "id": 2278700519,
+                "slug": "belykh-evgenii-georgievich",
+                "unique_id": "25y5k3mrn9",
+                "full_slug": "belykh-evgenii-georgievich-25y5k3mrn9"
+              },
+              {
+                "display_name": "Andrey A. Kalinin",
+                "id": 2481652191,
+                "slug": "andrey-a-kalinin",
+                "unique_id": "4ptlhpzt4b",
+                "full_slug": "andrey-a-kalinin-4ptlhpzt4b",
+                "affiliation_full_slug": "russian-railways-psn1djoi"
+              },
+              {
+                "display_name": "Калинин Андрей Андреевич",
+                "id": 2313478979,
+                "slug": "kalinin-andrei-andreevich",
+                "unique_id": "6da3uad4a7",
+                "full_slug": "kalinin-andrei-andreevich-6da3uad4a7"
+              },
+              {
+                "display_name": "L. A. Bardonova",
+                "id": 2025555866,
+                "slug": "l-a-bardonova",
+                "unique_id": "116mn6wyyb",
+                "full_slug": "l-a-bardonova-116mn6wyyb"
+              },
+              {
+                "display_name": "Бардонова Людмила Андреевна",
+                "id": 2995576004,
+                "slug": "bardonova-liudmila-andreevna",
+                "unique_id": "1w2gnc4u1o",
+                "full_slug": "bardonova-liudmila-andreevna-1w2gnc4u1o"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Russian Railways",
+                "city": "Moscow",
+                "region": null,
+                "country": "Russia",
+                "id": 2799351582,
+                "slug": "russian-railways",
+                "unique_id": "psn1djoi",
+                "full_slug": "russian-railways-psn1djoi"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/plagiarism-and-academic-integrity-in-science-43ox95spv8.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html"
+            ],
+            "data": {
+              "Pdf": [
+                "https://vestnikramn.spr-journal.ru/jour/article/download/788/831"
+              ],
+              "Html": [
+                "https://vestnikramn.spr-journal.ru/jour/article/view/788"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 5
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4049488473,
+          "title": "Evolution and Analysis of Modern Plagiarism Detection Methods: A Systematic Review",
+          "is_archived": false,
+          "full_slug": "evolution-and-analysis-of-modern-plagiarism-detection-5ipqq7t90agd",
+          "journal": null,
+          "conference_series": null,
+          "date": "2024-11-01T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.48001/978-81-980647-5-2-10",
+          "unique_id": "5ipqq7t90agd",
+          "authors": {
+            "total": 4,
+            "data": [
+              {
+                "display_name": "S. Pandikumar",
+                "full_slug": null
+              },
+              {
+                "display_name": "C. Menaka",
+                "full_slug": null
+              },
+              {
+                "display_name": "T Kiran",
+                "full_slug": null
+              },
+              {
+                "display_name": "T John Paul Antony",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2944196828,
+          "title": "Reproducibility and Replicability in Science",
+          "is_archived": false,
+          "full_slug": "reproducibility-and-replicability-in-science-5c5aq4v879",
+          "journal": null,
+          "conference_series": null,
+          "date": "2019-05-07T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Book",
+          "doi": "10.17226/25303",
+          "unique_id": "5c5aq4v879",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Division on Earth",
+                "id": 2150253893,
+                "slug": "division-on-earth",
+                "unique_id": "kovj87vjtb",
+                "full_slug": "division-on-earth-kovj87vjtb"
+              },
+              {
+                "display_name": "Cognitive Board on Behavioral",
+                "id": 970782105,
+                "slug": "cognitive-board-on-behavioral",
+                "unique_id": "29pb8htq6h",
+                "full_slug": "cognitive-board-on-behavioral-29pb8htq6h"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": null,
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://pubmed.ncbi.nlm.nih.gov/31596559/",
+                "https://www.ncbi.nlm.nih.gov/books/NBK547537/"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 797
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2980420460,
+          "title": "Academic Plagiarism Detection: A Systematic Literature Review",
+          "is_archived": false,
+          "full_slug": "academic-plagiarism-detection-a-systematic-literature-review-3hj4u5amvg",
+          "journal": {
+            "display_name": "ACM Computing Surveys",
+            "official_page": "http://csur.acm.org/",
+            "issn": "0360-0300",
+            "alias": [
+              "Computing Surveys",
+              "ACM Comp. Surveys",
+              "ACM Comput. Surv.",
+              "CSUR"
+            ],
+            "id": 157921468,
+            "slug": "acm-computing-surveys",
+            "unique_id": "32i2aemk",
+            "full_slug": "acm-computing-surveys-32i2aemk"
+          },
+          "conference_series": null,
+          "date": "2019-10-16T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1145/3345317",
+          "unique_id": "3hj4u5amvg",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Tomáš Foltýnek",
+                "id": 176911937,
+                "slug": "tomas-foltynek",
+                "unique_id": "4xvoeacnh0",
+                "full_slug": "tomas-foltynek-4xvoeacnh0",
+                "affiliation_full_slug": "mendel-university-3n2oskxy"
+              },
+              {
+                "display_name": "Norman Meuschke",
+                "id": 297103318,
+                "slug": "norman-meuschke",
+                "unique_id": "51wc2yu8yq",
+                "full_slug": "norman-meuschke-51wc2yu8yq",
+                "affiliation_full_slug": "university-of-wuppertal-2fkyats1"
+              },
+              {
+                "display_name": "Bela Gipp",
+                "id": 72611330,
+                "slug": "bela-gipp",
+                "unique_id": "2t96x7uz4z",
+                "full_slug": "bela-gipp-2t96x7uz4z",
+                "affiliation_full_slug": "university-of-wuppertal-2fkyats1"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Mendel University",
+                "city": "Brno",
+                "region": null,
+                "country": "Czechia",
+                "id": 56081889,
+                "slug": "mendel-university",
+                "unique_id": "3n2oskxy",
+                "full_slug": "mendel-university-3n2oskxy"
+              },
+              {
+                "display_name": "University of Wuppertal",
+                "city": "Wuppertal",
+                "region": "Nordrhein-Westfalen",
+                "country": "Germany",
+                "id": 167360494,
+                "slug": "university-of-wuppertal",
+                "unique_id": "2fkyats1",
+                "full_slug": "university-of-wuppertal-2fkyats1"
+              }
+            ]
+          },
+          "fulltext_url": "https://dl.acm.org/doi/pdf/10.1145/3345317",
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Others": [
+                "https://dl.acm.org/citation.cfm?id=3345317"
+              ],
+              "Html": [
+                "https://dl.acm.org/doi/10.1145/3345317",
+                "https://dblp.uni-trier.de/db/journals/csur/csur52.html#FoltynekMG20"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 162
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4092905760,
+          "title": "State of the Art in Detecting Academic Plagiarism",
+          "is_archived": false,
+          "full_slug": "state-of-the-art-in-detecting-academic-plagiarism-rdahfbgdx8b3",
+          "journal": null,
+          "conference_series": null,
+          "date": "2019-10-11T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.5281/zenodo.3482940",
+          "unique_id": "rdahfbgdx8b3",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Meuschke, Norman",
+                "full_slug": null
+              },
+              {
+                "display_name": "Gipp, Bela",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4042972775,
+          "title": "Analyzing Mathematical Content for Plagiarism and Recommendations",
+          "is_archived": false,
+          "full_slug": "analyzing-mathematical-content-for-plagiarism-and-51megzobdj",
+          "journal": {
+            "display_name": "Lecture Notes in Computer Science",
+            "official_page": "http://www.springer.com/lncs",
+            "issn": "0302-9743",
+            "alias": [
+              "LNCS",
+              "0302-9743",
+              "Springer Series-ID 558",
+              "Springer Series 558",
+              "Springer Lecture Notes in Computer Science"
+            ],
+            "id": 106296714,
+            "slug": "lecture-notes-in-computer-science",
+            "unique_id": "toobp8l4",
+            "full_slug": "lecture-notes-in-computer-science-toobp8l4"
+          },
+          "conference_series": null,
+          "date": "2024-01-01T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Book Chapter",
+          "doi": "10.1007/978-3-031-56069-9_42",
+          "unique_id": "51megzobdj",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Ankit Satpute",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4019488950,
+          "title": "Plagiarism at crossroads",
+          "is_archived": false,
+          "full_slug": "plagiarism-at-crossroads-1w6sihei4g",
+          "journal": {
+            "display_name": "Bolgoda Plains",
+            "official_page": null,
+            "issn": "2815-0066",
+            "alias": [
+              "Bolgoda Plain"
+            ],
+            "id": 4000149130,
+            "slug": "bolgoda-plains",
+            "unique_id": "257dc8a0",
+            "full_slug": "bolgoda-plains-257dc8a0"
+          },
+          "conference_series": null,
+          "date": "2023-08-01T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.31705/bprm.v3(1).2023.13",
+          "unique_id": "1w6sihei4g",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "P. Rathnayake",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2096194908,
+          "title": "State-of-the-art in detecting academic plagiarism",
+          "is_archived": false,
+          "full_slug": "state-of-the-art-in-detecting-academic-plagiarism-mx3y1hp229",
+          "journal": {
+            "display_name": "The International Journal for Educational Integrity",
+            "official_page": null,
+            "issn": null,
+            "alias": null,
+            "id": 2764635195,
+            "slug": "the-international-journal-for-educational-integrity",
+            "unique_id": "q02669nz",
+            "full_slug": "the-international-journal-for-educational-integrity-q02669nz"
+          },
+          "conference_series": null,
+          "date": "2013-06-06T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.21913/IJEI.V9I1.847",
+          "unique_id": "mx3y1hp229",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Norman Meuschke",
+                "id": 297103318,
+                "slug": "norman-meuschke",
+                "unique_id": "51wc2yu8yq",
+                "full_slug": "norman-meuschke-51wc2yu8yq",
+                "affiliation_full_slug": "university-of-california-berkeley-24veh4gb"
+              },
+              {
+                "display_name": "Bela Gipp",
+                "id": 72611330,
+                "slug": "bela-gipp",
+                "unique_id": "2t96x7uz4z",
+                "full_slug": "bela-gipp-2t96x7uz4z"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "University of California, Berkeley",
+                "city": "Berkeley",
+                "region": "California",
+                "country": "United States",
+                "id": 95457486,
+                "slug": "university-of-california-berkeley",
+                "unique_id": "24veh4gb",
+                "full_slug": "university-of-california-berkeley-24veh4gb"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/state-of-the-art-in-detecting-academic-plagiarism-mx3y1hp229.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://zenodo.org/record/3482941",
+                "https://www.ojs.unisa.edu.au/index.php/IJEI/article/view/847"
+              ],
+              "Pdf": [
+                "https://ojs.unisa.edu.au/index.php/IJEI/article/download/847/610",
+                "https://www.gipp.com/wp-content/papercite-data/pdf/meuschke13.pdf"
+              ],
+              "Others": [
+                "https://www.ojs.unisa.edu.au/index.php/IJEI/article/viewFile/847/610",
+                "http://www.ojs.unisa.edu.au/index.php/IJEI/article/viewFile/847/610"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

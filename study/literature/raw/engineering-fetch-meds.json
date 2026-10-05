@@ -1,0 +1,21 @@
+{
+  "id": "edadc3f0c01b5227a0d2d501f94bc545",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "edadc3f0c01b5227a0d2d501f94bc545",
+        "title": "MEDS: Methodology for Evaluation in Design Science",
+        "url": "https://consensus.app/papers/meds-methodology-for-evaluation-in-design-science-baskerville-pries-heje/edadc3f0c01b5227a0d2d501f94bc545/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "R. Baskerville, J. Pries-Heje, J. Venable",
+          "publish_year": "2026",
+          "journal": "European Journal of Information Systems",
+          "volume": "35",
+          "pages": "830 - 847",
+          "citation_count": "3"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

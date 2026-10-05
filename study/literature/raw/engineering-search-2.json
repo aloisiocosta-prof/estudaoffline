@@ -1,0 +1,13 @@
+{
+  "query": "design science research software engineering evaluation artifacts year:2016-2026",
+  "retrieved_utc": "2026-10-05T05:43:55.043Z",
+  "response": {
+    "status": "fulfilled",
+    "value": {
+      "structuredContent": {
+        "error_code": "INVALID_ARGUMENT"
+      },
+      "isError": true
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "retrieved_metadata": [
+      {
+        "id": "43a5eb055d555552b79e9189e384784c",
+        "title": "High Rates of Fabricated and Inaccurate References in ChatGPT-Generated Medical Content",
+        "url": "https://consensus.app/papers/high-rates-of-fabricated-and-inaccurate-references-in-bhattacharyya-miller/43a5eb055d555552b79e9189e384784c/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "M. Bhattacharyya, Valerie M. Miller, D. Bhattacharyya, Larry Miller",
+          "publish_year": "2023",
+          "journal": "Cureus",
+          "volume": "15",
+          "citation_count": "295"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

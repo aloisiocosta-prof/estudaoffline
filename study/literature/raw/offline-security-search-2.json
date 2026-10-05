@@ -1,0 +1,9 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "error_code": "INVALID_ARGUMENT"
+    },
+    "isError": true
+  }
+}
