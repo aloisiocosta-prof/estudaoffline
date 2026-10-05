@@ -12,7 +12,7 @@
     "doi": "10.1186/s41039-020-00129-5",
     "url": "https://doi.org/10.1186/s41039-020-00129-5",
     "kind": "Revisão sistemática",
-    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "access_level": "seções Introdução, Methodology, Quality assessment and selection criteria e Results consultadas no texto editorial aberto; avaliação dirigida, não integral uniforme",
     "claim_pt": "Revisão identificou uso continuado de instrumentos de sala presencial para medir autorregulação em ambientes digitais e lacunas em análises de registros.",
     "limitation_pt": "Período 2008–2018; medir atividades digitais não equivale a medir aprendizagem.",
     "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
@@ -201,7 +201,7 @@
     "doi": "10.14742/ajet.5650",
     "url": "https://doi.org/10.14742/ajet.5650",
     "kind": "Revisão sistemática",
-    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "access_level": "PDF editorial: seções Research design, Discussion, Review limitations e recomendações consultadas; avaliação dirigida",
     "claim_pt": "Revisão de 38 estudos descreveu relação complexa entre aprendizagem móvel e autorregulação e recomendou integração curricular intencional.",
     "limitation_pt": "Síntese heterogênea de 2007–2019 não demonstra efeito de todo app móvel.",
     "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
@@ -244,7 +244,7 @@
     "doi": "10.1007/s10758-024-09772-z",
     "url": "https://doi.org/10.1007/s10758-024-09772-z",
     "kind": "Revisão guarda-chuva",
-    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "access_level": "seções Methods, Results, Discussion e lista de revisões incluídas consultadas no texto editorial aberto; avaliação dirigida, sem novo escore de viés",
     "claim_pt": "Síntese de 31 revisões e meta-análises recomenda suportes autorregulatórios integrados ao longo do ciclo de aprendizagem.",
     "limitation_pt": "Revisões com contextos diversos; recomendação de desenho não constitui validação deste MVP.",
     "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
@@ -1178,7 +1178,7 @@
     "kind": "peer-reviewed journal article",
     "journal": "ACM Computing Surveys (CSUR)",
     "citation_count": 21,
-    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "access_level": "resumo e seções Methods, Background, Discussion e Threats to Validity recuperadas na página ACM; avaliação dirigida",
     "claim_pt": "O mapeamento de 56 estudos caracteriza técnicas e ferramentas de teste dinâmico de requisitos não funcionais.",
     "limitation_pt": "Classifica trabalhos existentes; segurança e confiabilidade do MVP exigem testes específicos.",
     "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
@@ -1381,27 +1381,6 @@
     "limitation_pt": "Três empresas; generalização limitada e ausência de avaliação deste pipeline.",
     "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
     "raw_fetch": "raw/engineering-fetch-15.json",
-    "group": "engineering"
-  },
-  {
-    "key": "eng17",
-    "title": "FEDS: a Framework for Evaluation in Design Science Research",
-    "authors": [
-      "J. Venable",
-      "J. Pries-Heje",
-      "R. Baskerville"
-    ],
-    "year": 2016,
-    "doi": "10.1057/ejis.2014.36",
-    "url": "https://consensus.app/papers/feds-a-framework-for-evaluation-in-design-science-research-venable-pries-heje/62e9e81d258f5122a19eee0521478d38/?utm_source=chatgpt",
-    "kind": "peer-reviewed journal article",
-    "journal": "European Journal of Information Systems",
-    "citation_count": 1089,
-    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
-    "claim_pt": "O FEDS separa avaliações formativas e somativas, artificiais e naturalistas, e orienta o planejamento dos episódios.",
-    "limitation_pt": "Framework metodológico com exemplos; não certifica o artefato nem substitui avaliação com usuários.",
-    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
-    "raw_fetch": "raw/engineering-fetch-16.json",
     "group": "engineering"
   },
   {
@@ -1691,23 +1670,37 @@
     "group": "supplemental"
   },
   {
-    "key": "SU09",
-    "title": "Preparing and Presenting Effective Research Posters",
+    "key": "SU10",
+    "title": "A Review of Self-regulated Learning: Six Models and Four Directions for Research",
     "authors": [
-      "Jane E. Miller"
+      "Ernesto Panadero"
     ],
-    "year": 2007,
-    "doi": "10.1111/j.1475-6773.2006.00588.x",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1955747/",
-    "journal": "Health Services Research, 42(1 Pt 1), 311–328",
-    "kind": "journal methodology article",
-    "access_level": "primary publisher and institutional abstract/metadata consulted; direct PMC blocked by CAPTCHA",
-    "claim_pt": "A orientação metodológica organiza pôsteres em mensagem central, apresentação visual e comunicação oral ajustadas ao público, em vez de reproduzir todo o artigo no painel principal.",
-    "limitation_pt": "Guia voltado à pesquisa em saúde, não experimento de validação de um template universal; usado como fundamento editorial anterior à janela de 2016–2026, sem inferir eficácia educacional.",
-    "source_service": "Primary Wiley publisher and Rutgers institutional abstract/metadata; direct PMC CAPTCHA",
-    "publication_date": "2007-02",
-    "selection_exception": "Foundational poster communication guidance retained outside recent-search window.",
-    "primary_metadata_url": "https://www.researchwithrutgers.org/en/publications/preparing-and-presenting-effective-research-posters/",
+    "year": 2017,
+    "doi": "10.3389/fpsyg.2017.00422",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/full",
+    "kind": "peer-reviewed theoretical review",
+    "journal": "Frontiers in Psychology",
+    "access_level": "seções de definição, modelo cíclico e instrumentos consultadas no texto editorial aberto; avaliação dirigida, não leitura crítica integral uniforme",
+    "source_service": "Consensus search+fetch; Frontiers texto aberto, 5 out. 2026",
+    "claim_pt": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos.",
+    "limitation_pt": "Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico.",
+    "group": "supplemental"
+  },
+  {
+    "key": "SU11",
+    "title": "Literature review as a research methodology: An overview and guidelines",
+    "authors": [
+      "Hannah Snyder"
+    ],
+    "year": 2019,
+    "doi": "10.1016/j.jbusres.2019.07.039",
+    "url": "https://doi.org/10.1016/j.jbusres.2019.07.039",
+    "kind": "peer-reviewed methodological review",
+    "journal": "Journal of Business Research",
+    "access_level": "seções de tipos, desenho, seleção, análise e relato consultadas em PDF do artigo depositado na Universidade de Lisboa",
+    "source_service": "Artigo editorial em PDF institucional, 5 out. 2026",
+    "claim_pt": "O artigo relaciona a escolha e execução do tipo de revisão à pergunta, ao propósito e à transparência da seleção e síntese.",
+    "limitation_pt": "Diretrizes discutidas em pesquisa de negócios não certificam esta síntese narrativa nem dispensam adaptação ao problema educacional.",
     "group": "supplemental"
   }
 ]

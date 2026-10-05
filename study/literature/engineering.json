@@ -121,7 +121,7 @@
     "kind": "peer-reviewed journal article",
     "journal": "ACM Computing Surveys (CSUR)",
     "citation_count": 21,
-    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "access_level": "resumo e seções Methods, Background, Discussion e Threats to Validity recuperadas na página ACM; avaliação dirigida",
     "claim_pt": "O mapeamento de 56 estudos caracteriza técnicas e ferramentas de teste dinâmico de requisitos não funcionais.",
     "limitation_pt": "Classifica trabalhos existentes; segurança e confiabilidade do MVP exigem testes específicos.",
     "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",

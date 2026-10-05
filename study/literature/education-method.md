@@ -9,3 +9,8 @@ Foram selecionados 20 artigos com DOI distintos: 17 a partir de search+fetch Con
 Autores podem aparecer abreviados conforme registro. Houve correção explícita da autoria Taghavi-Nejad: página editorial apresenta terceiro autor Behruz Lotfi Gaskaree, omitido pelo Consensus. Ano adotado é publicação online quando difere do fascículo: Taghavi 2024/2026, Xu 2022/2023 e Zheng 2016/2018. A revisão Prasse inclui Audrey Raynault no registro autoral; nomes adicionais na seção de contribuições não foram inseridos automaticamente como autores.
 
 claim_pt contém paráfrase curta estritamente apoiada pelo abstract; abstract_or_support preserva a paráfrase de suporte, enquanto os resumos recuperados completos ficam no log bruto. Não houve leitura crítica integral de todos os trabalhos, avaliação independente de viés, investigação de retratações ou validação educacional do EstudaOffline. Correlação, efeito agrupado e eficácia de outra intervenção não comprovam benefício do MVP. Citações em cada parágrafo devem sustentar afirmações reais, e nunca servir somente para atingir quantidade mínima.
+
+
+## Atualização de5outubro2026
+
+O relato acima descreve a coleta inicial. Nesta correção foram consultadas seções dirigidas de Prasse, Araka e o PDF editorial de Palalas; seus níveis de acesso foram atualizados. Resumos integrais não são republicados nos JSON públicos. A avaliação central e as ressalvas atuais estão em core-source-appraisal.json e quality-audit.md, sem alegar julgamento de viés de todo o corpus.

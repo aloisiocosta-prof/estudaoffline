@@ -2,19 +2,19 @@
   "sources": {
     "artigo": {
       "scientific_publications_cited": 80,
-      "bibliography_entries": 85,
+      "bibliography_entries": 86,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "entrega-escolar": {
       "scientific_publications_cited": 80,
-      "bibliography_entries": 85,
+      "bibliography_entries": 86,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "poster": {
       "scientific_publications_cited": 80,
-      "bibliography_entries": 85,
+      "bibliography_entries": 86,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     }
@@ -26,25 +26,31 @@
   ],
   "pdf_lines": {
     "artigo": {
-      "pages": 25,
-      "text_lines": 997,
-      "lines_below_half_width": 114,
+      "pages": 26,
+      "text_lines": 1059,
+      "lines_below_half_width": 148,
+      "lines_below_half_character_width": 157,
       "literal_every_line_requirement_met": false,
-      "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
+      "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
+      "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "entrega-escolar": {
-      "pages": 33,
-      "text_lines": 1029,
-      "lines_below_half_width": 128,
+      "pages": 35,
+      "text_lines": 1092,
+      "lines_below_half_width": 163,
+      "lines_below_half_character_width": 183,
       "literal_every_line_requirement_met": false,
-      "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
+      "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
+      "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "poster": {
       "pages": 9,
-      "text_lines": 451,
-      "lines_below_half_width": 75,
+      "text_lines": 475,
+      "lines_below_half_width": 88,
+      "lines_below_half_character_width": 88,
       "literal_every_line_requirement_met": false,
-      "definition": "horizontal text bounding box / usable page width; single-column layout; all extracted text lines included"
+      "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
+      "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     }
   }
 }

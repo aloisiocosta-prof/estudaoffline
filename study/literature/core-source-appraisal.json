@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-05",
+  "scope": "conferência dirigida de sustentação e aplicabilidade; não ROBIS/AMSTAR/SANRA nem instrumento validado",
+  "reviewer": "agente de IA; sem segundo avaliador humano independente",
+  "core_sources": [
+    {
+      "key": "SU10",
+      "claim": "Modelo organizador escolhido: descrição do ciclo de Zimmerman por Panadero",
+      "judgement": "Sustenta a descrição; aplicação ao MVP é proposta",
+      "location": "Texto editorial, Zimmerman’s Cyclical Phases Model",
+      "methods_observed": "Três fases e componentes cognitivos, motivacionais e afetivos",
+      "limit": "Revisão teórica; não é validação do organizador local"
+    },
+    {
+      "key": "SU11",
+      "claim": "Seleção narrativa focal precisa de propósito e transparência",
+      "judgement": "Sustenta orientação metodológica; não certifica esta seleção",
+      "location": "PDF institucional, seções 2.2 e 3, páginas físicas 4–5",
+      "methods_observed": "Tipo de revisão, seleção, extração e relato orientados à pergunta",
+      "limit": "Discussão em negócios; adaptação local e cobertura não exaustiva"
+    },
+    {
+      "key": "education_prasse2024",
+      "claim": "Apoio integrado ao ciclo autorregulatório e limites de indicadores",
+      "judgement": "Sustenta síntese delimitada; não eficácia do MVP",
+      "location": "Editor, §§2, 3, 4 e referências ID2",
+      "methods_observed": "27 revisões e quatro meta-análises; avaliação pelos autores; inclui Araka2020",
+      "limit": "Sobreposição confirmada; predominância de ensino superior; sem novo julgamento formal de viés"
+    },
+    {
+      "key": "education_araka2020",
+      "claim": "Registros de tarefas não são medidas validadas de autorregulação",
+      "judgement": "Sustenta crítica de mensuração; não recarga desconectada",
+      "location": "Editor, Previous review studies, Methodology e Results",
+      "methods_observed": "30 artigos selecionados; foco de perguntas e elegibilidade em ensino superior",
+      "limit": "Offline refere-se à posição temporal da medida; instrumentos não transferidos automaticamente ao curso técnico"
+    },
+    {
+      "key": "education_palalas2020",
+      "claim": "Integração curricular e interpretação de achados divergentes",
+      "judgement": "Sustenta relação complexa; não benefício universal de dispositivo",
+      "location": "PDF editorial, Discussion e Review limitations, físicas14–15/impressas164–165",
+      "methods_observed": "38 estudos; seis bases; inglês; contextos formais; falhas de relato e resultados neutros/desfavoráveis",
+      "limit": "Não combinar relatos positivos em novo efeito causal; amostras e contextos diferentes"
+    },
+    {
+      "key": "education_wolters2021",
+      "claim": "Gestão do tempo relacionada a fases autorregulatórias",
+      "judgement": "Sustenta quadro conceitual",
+      "location": "Resumo editorial, §Abstract",
+      "methods_observed": "Revisão teórica; ensino pós-secundário",
+      "limit": "Texto integral sob acesso institucional; sem avaliação uniforme de métodos"
+    },
+    {
+      "key": "martin2024",
+      "claim": "Desigualdade digital multidimensional",
+      "judgement": "Sustenta descrição geral; interpretação local é proposta",
+      "location": "Resumo editorial Taylor & Francis",
+      "methods_observed": "77 estudos; fatores, dimensões e intervenções",
+      "limit": "Não mede conectividade da escola; sem leitura integral nesta correção"
+    },
+    {
+      "key": "bong2021",
+      "claim": "Competência docente em acessibilidade",
+      "judgement": "Sustenta foco da revisão; critérios de teclado exigem fonte normativa",
+      "location": "Resumo editorial",
+      "methods_observed": "Revisão sobre docentes e ambientes inclusivos de ensino superior",
+      "limit": "Não valida instrumentos locais nem descreve diretamente esta interface"
+    },
+    {
+      "key": "gobbo2023",
+      "claim": "Barreiras educacionais não apenas técnicas",
+      "judgement": "Parcial: restringir à paráfrase do resumo",
+      "location": "Resumo/metadados do corpus anterior",
+      "methods_observed": "Revisão sobre acessibilidade digital na educação",
+      "limit": "Não quantificar melhoria inclusiva; texto completo não avaliado nesta correção"
+    },
+    {
+      "key": "kumar2017",
+      "claim": "Usabilidade de aprendizagem móvel merece avaliação específica",
+      "judgement": "Sustenta pertinência do tópico; procedimentos locais são proposta",
+      "location": "Resumo/metadados e DOI editorial do corpus",
+      "methods_observed": "Revisão de usabilidade, online2017/fascículo2018",
+      "limit": "Sem leitura crítica integral; não prova usabilidade do Flutter web"
+    },
+    {
+      "key": "kumarmapping2024",
+      "claim": "Práticas de teste de usabilidade em aprendizagem móvel",
+      "judgement": "Sustenta descrição do mapeamento",
+      "location": "Resumo editorial Emerald, Design/methodology/approach",
+      "methods_observed": "51 artigos de Scopus,2005–2022",
+      "limit": "Uma base e contextos distintos; não valida rubrica do projeto"
+    },
+    {
+      "key": "OS18",
+      "claim": "Problemas de segurança em aplicativos educacionais",
+      "judgement": "Sustenta motivação de análise de riscos",
+      "location": "Resumo editorial iJIM",
+      "methods_observed": "21 estudos selecionados; revisão declarada pelos autores",
+      "limit": "Texto completo não julgado; não implica vulnerabilidade encontrada no MVP"
+    },
+    {
+      "key": "OS01",
+      "claim": "Ataques envolvendo service worker e cache",
+      "judgement": "Sustenta ameaça geral; presença no MVP não demonstrada",
+      "location": "Metadados e resumo primários recuperados no corpus anterior",
+      "methods_observed": "Estudo de ataque web",
+      "limit": "Não houve novo pen-test nem leitura integral nesta correção"
+    },
+    {
+      "key": "OS02",
+      "claim": "Taxonomia de ataques e mitigação de service workers",
+      "judgement": "Sustenta delimitação de ameaças",
+      "location": "PDF primário e metadados recuperados no corpus anterior",
+      "methods_observed": "Systematization of Knowledge",
+      "limit": "Não representa auditoria de segurança do EstudaOffline"
+    },
+    {
+      "key": "eng04",
+      "claim": "Engenharia móvel possui problemas além da construção da UI",
+      "judgement": "Sustenta panorama",
+      "location": "Resumo no repositório Monash",
+      "methods_observed": "Estudo terciário de24 estudos secundários",
+      "limit": "Não transfere resultados de aplicações móveis automaticamente a Flutter web"
+    },
+    {
+      "key": "eng06",
+      "claim": "Atributos não funcionais demandam testes específicos",
+      "judgement": "Sustenta diferenciação; cenários e limiares são locais",
+      "location": "Página ACM, Methods, Background e Discussion recuperados",
+      "methods_observed": "Mapeamento de56 estudos; plataformas e estratégias distintas",
+      "limit": "Predomínio de Android; não valida ferramentas para este build web"
+    },
+    {
+      "key": "eng15",
+      "claim": "CI tem benefícios e desafios e não elimina defeitos",
+      "judgement": "Sustenta síntese restrita ao resumo",
+      "location": "Editor, Abstract",
+      "methods_observed": "101 estudos empíricos; seis bibliotecas; síntese temática",
+      "limit": "Texto integral indisponível nesta consulta; CI não é ensaio educacional"
+    },
+    {
+      "key": "eng11",
+      "claim": "Reprodução experimental depende de recursos e contexto",
+      "judgement": "Sustenta princípio; lista exata de campos é proposta",
+      "location": "Resumo/registro institucional EPN e IEEE",
+      "methods_observed": "Estudo secundário sobre recursos de reprodução",
+      "limit": "Texto integral não avaliado; sem comprovar reproduzibilidade universal"
+    }
+  ],
+  "overlap_confirmed": [
+    {
+      "review": "education_prasse2024",
+      "included_review": "education_araka2020",
+      "location": "References, ID2"
+    }
+  ],
+  "retraction_screening": "não concluído; scite bloqueado por plano; não inferir ausência de retratação"
+}

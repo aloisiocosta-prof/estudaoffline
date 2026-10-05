@@ -11,7 +11,7 @@ GROUPS = {
     'engineering': 'Engenharia, testes e reprodutibilidade',
     'supplemental': 'Integridade, atribuição e revisão da escrita',
 }
-EXCLUDED = {'OS04', 'OS05', 'OS11', 'OS12', 'OS16', 'OS19', 'OS20', 'eng19', 'eng09'}
+EXCLUDED = {'OS04', 'OS05', 'OS11', 'OS12', 'OS16', 'OS19', 'OS20', 'eng19', 'eng09', 'SU09', 'eng17'}
 
 def tex(s):
     return ''.join({'&': r'\&', '%': r'\%', '$': r'\$', '#': r'\#', '_': r'\_',
@@ -36,8 +36,8 @@ def main():
     selected.sort(key=lambda s: (list(GROUPS).index(s['group']), s['key']))
     (ROOT / 'study/literature/selected.json').write_text(json.dumps(selected, ensure_ascii=False, indent=2))
     (ROOT / 'study/literature/excluded.json').write_text(json.dumps(excluded, ensure_ascii=False, indent=2))
-    synthesis = [r'\section{Fundamentação rastreável e limites de transferência}',
-        r'Esta síntese exploratória relaciona planejamento, interfaces, funcionamento local, engenharia e integridade da escrita. Foram consultados principalmente resumos e metadados; não foi realizada avaliação sistemática do risco de viés de cada estudo. As fontes sustentam os enunciados delimitados abaixo, sem validar o EstudaOffline nem comprovar aprendizagem. O registro de busca e seleção integra o protocolo do projeto \citep{projeto}.']
+    synthesis = [r'\section{Apêndice bibliográfico: fichas e limites de uso}',
+        r'As fichas abaixo registram o corpus ampliado e não constituem, sozinhas, uma revisão crítica integrada \citep{SU11}. O referencial utiliza um subconjunto explicitamente relacionado às decisões do MVP, enquanto as demais fichas permanecem material de consulta \citep{projeto}. Critérios técnicos de acessibilidade são tratados separadamente das publicações científicas \citep{wcag}. As consultas têm níveis de acesso diferentes e não incluem uma avaliação uniforme de risco de viés de todas as publicações \citep{projeto}.']
     bib = [r'\begin{thebibliography}{99}']
     rows = ['# Matriz de afirmações e fontes', '',
             '| Chave | Afirmação indireta | Limite | Tipo | Acesso | Fonte |',
@@ -53,7 +53,8 @@ def main():
         if current != s['group']:
             current = s['group']
             synthesis.append(r'\subsection{' + GROUPS[current] + '}')
-        synthesis.append(tex(s['claim_pt']) + ' ' + tex(s['limitation_pt']) + r' \citep{' + s['key'] + '}.\n')
+        sentences = re.split(r'(?<=[.!?])\s+(?=[A-ZÀ-Ý])', s['claim_pt'] + ' ' + s['limitation_pt'])
+        synthesis.append(' '.join(tex(sentence.rstrip('.!?')) + r' \citep{' + s['key'] + '}.' for sentence in sentences))
         label = author_label(s)
         pair = (label, s['year'])
         suffix = chr(97+label_index[pair]) if label_counts[pair] > 1 else ''
@@ -62,17 +63,19 @@ def main():
         bib.append(r'\bibitem[' + tex(label) + '(' + str(s['year']) + suffix + ')]{' + s['key'] + '} ' +
                    tex('; '.join(s['authors'])) + '. ' + tex(s['title']) + '. ' + tex(venue) + ', ' + str(s['year']) + '. ' +
                    (r'DOI: \url{https://doi.org/' + s['doi'] + '}.' if s.get('doi') else r'URL: \url{' + s['url'].split('?')[0] + '}.') +
-                   ' Metadados e resumo consultados em 5 out. 2026.')
+                   ' Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.')
         rows.append('| ' + ' | '.join(str(s.get(k, '')).replace('|','/').replace('\n',' ') for k in ['key','claim_pt','limitation_pt','kind','access_level','url']) + ' |')
     for key, label, title, url in [
         ('flutter','Flutter','Web FAQ','https://docs.flutter.dev/platform-integration/web/faq'),
         ('local','MDN','Window: localStorage property','https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage'),
         ('quota','MDN','Storage quotas and eviction criteria','https://developer.mozilla.org/en-US/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria'),
         ('sw','MDN','Service Worker API','https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API'),
+        ('wcag','W3C','Web Content Accessibility Guidelines 2.2, Recommendation de 12 dezembro 2024','https://www.w3.org/TR/2024/REC-WCAG22-20241212/'),
         ('projeto','EstudaOffline','Protocolo, buscas e observações técnicas do projeto','https://github.com/aloisiocosta-prof/estudaoffline/tree/main/study'),
     ]:
         suffix = {'local':'a','quota':'b','sw':'c'}.get(key,'')
-        bib.append(r'\bibitem['+label+'(2026'+suffix+')]{'+key+'} '+label+'. '+tex(title)+r'. \url{'+url+'}. Acesso em 5 out. 2026. Registro técnico, fora da contagem de fontes científicas.')
+        year = '2024' if key == 'wcag' else '2026'
+        bib.append(r'\bibitem['+label+'('+year+suffix+')]{'+key+'} '+label+'. '+tex(title)+r'. \url{'+url+'}. Acesso em 5 out. 2026. Registro técnico, fora da contagem de fontes científicas.')
     bib.append(r'\end{thebibliography}')
     (ROOT/'paper/literature.tex').write_text('\n\n'.join(synthesis).replace('\\n','\n'))
     (ROOT/'paper/bibliography.tex').write_text('\n\n'.join(bib))

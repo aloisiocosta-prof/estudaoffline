@@ -10,10 +10,15 @@ Apud somente quando o original não foi consultado e uma fonte secundária ident
 
 ## Ocupação das linhas
 
-A medida operacional é a largura horizontal do texto extraído de uma linha dividida pela largura útil de sua coluna, no PDF compilado. A meta é pelo menos 50% para linhas de prosa. Espaços adicionados, letras esticadas e citações artificiais não contam como correção. Verificar também últimas linhas dos parágrafos. Identificação, títulos, equações, legendas, tabelas, bibliografia e links são relatados separadamente; uma exceção não pode ser apresentada como atendimento literal à regra universal. O relatório deve revelar todas as linhas abaixo do limiar, inclusive as exceções.
+A medida operacional revisada é a união das caixas horizontais dos caracteres não brancos dividida pela largura útil da coluna, no PDF compilado. A extensão total da linha também é informada, mas inclui espaçamento e não mede sozinha ocupação por caracteres. As caixas representam avanço tipográfico, não cobertura de tinta em pixels; PDFs vazios ou sem texto extraível não são aprovados. A meta é pelo menos 50% para linhas de prosa. Espaços adicionados, letras esticadas e citações artificiais não contam como correção. Verificar também últimas linhas dos parágrafos. Identificação, títulos, equações, legendas, tabelas, bibliografia e links são relatados separadamente; uma exceção não pode ser apresentada como atendimento literal à regra universal. O relatório deve revelar todas as linhas abaixo do limiar, inclusive as exceções.
 
 Reescrever e reorganizar parágrafos para resolver linhas curtas sem mudar o significado. Manter tamanho de fonte e legibilidade, sobretudo no pôster. A ocupação é um requisito editorial local, não um instrumento científico validado. Não declarar conformidade total enquanto houver violações sem decisão registrada do orientador.
 
 ## Entrega
 
 Compilar com XeLaTeX até estabilizar referências; não permitir citação indefinida. Auditar contagem de fontes efetivamente citadas, duplicatas e ocupação das linhas. O pôster com 80 fontes terá painéis adicionais de fundamentação e bibliografia em A1, explicitamente identificado como conjunto de painéis. O painel principal deve continuar legível. Não reduzir o texto a microtipografia para acomodar a bibliografia.
+
+
+## Conferência científica
+
+Quantidade e paginação não validam instrumentos, teoria ou aprendizagem. Usar o modelo explicitamente escolhido e a matriz central de fontes, incluindo resultados contrários, sobreposição de revisões, população e limites de transferência. Uma seleção narrativa não vira revisão sistemática por citar PRISMA; uma conferência dirigida não recebe nome de instrumento validado. Registrar restrições de acesso por fonte e não confundir offline temporal de mensuração com execução sem internet (Snyder,2019; Panadero,2017; Araka et al.,2020).

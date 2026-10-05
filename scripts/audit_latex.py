@@ -2,6 +2,7 @@
 import argparse
 import json
 import re
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -19,6 +20,8 @@ def audit_sources():
     selected = json.loads((ROOT/'study/literature/selected.json').read_text())
     keys = {s['key'] for s in selected}
     assert len(keys) == len(selected) >= 80
+    current_year = date.today().year
+    assert all(current_year - 10 <= s['year'] <= current_year for s in selected), 'Source outside the required year window'
     result = {}
     for name in ['artigo', 'entrega-escolar', 'poster']:
         text = expand(ROOT/'paper'/f'{name}.tex')
@@ -34,14 +37,15 @@ def audit_sources():
 def audit_pdf(directory):
     import fitz
     results = {}
-    short_rows = ['document,page,line,width_ratio,text']
     import csv, io
     output = io.StringIO()
     writer = csv.writer(output)
-    writer.writerow(['document','page','line','width_ratio','text'])
+    writer.writerow(['document','page','line','bounding_width_ratio','nonspace_character_width_ratio','text'])
     for name in ['artigo','entrega-escolar','poster']:
         doc = fitz.open(directory / (name+'.pdf'))
-        total = short = 0
+        if len(doc) == 0:
+            raise ValueError(f'{name}: PDF has no pages; cannot pass an occupancy audit')
+        total = short = character_short = 0
         for page_no,page in enumerate(doc,1):
             # A1 margin30mm; A4 article25mm; school30mm left20mm right.
             margin_mm = 60 if name == 'poster' else 50
@@ -49,9 +53,10 @@ def audit_pdf(directory):
             # Links and citation runs can be separate extraction blocks on the
             # same printed line. Reassemble by baseline before measuring.
             physical = []
-            for block in page.get_text('dict')['blocks']:
+            for block in page.get_text('rawdict')['blocks']:
                 for line in block.get('lines',[]):
                     for span in line['spans']:
+                        span['text'] = ''.join(char['c'] for char in span['chars'])
                         if span['text'].strip():
                             physical.append(span)
             bands = []
@@ -66,12 +71,28 @@ def audit_pdf(directory):
                 text = ' '.join(s['text'] for s in spans).strip()
                 total += 1
                 ratio = (max(s['bbox'][2] for s in spans)-min(s['bbox'][0] for s in spans))/width
+                # Merge character boxes; exclude whitespace so justification is
+                # not mistaken for width occupied by characters.
+                intervals = sorted((c['bbox'][0], c['bbox'][2]) for s in spans for c in s['chars'] if not c['c'].isspace())
+                occupied = 0.0
+                end = float('-inf')
+                for left, right in intervals:
+                    occupied += max(0.0, right - max(left, end))
+                    end = max(end, right)
+                character_ratio = occupied / width
                 if ratio < .5:
                     short += 1
-                    writer.writerow([name,page_no,total,round(ratio,4),text])
+                if character_ratio < .5:
+                    character_short += 1
+                if ratio < .5 or character_ratio < .5:
+                    writer.writerow([name,page_no,total,round(ratio,4),round(character_ratio,4),text])
+        if total == 0:
+            raise ValueError(f'{name}: PDF has no extractable text; manual inspection is required')
         results[name] = {'pages':len(doc),'text_lines':total,'lines_below_half_width':short,
-            'literal_every_line_requirement_met':short == 0,
-            'definition':'horizontal text bounding box / usable page width; single-column layout; all extracted text lines included'}
+            'lines_below_half_character_width':character_short,
+            'literal_every_line_requirement_met':character_short == 0,
+            'definition':'Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.',
+            'measurement_limit':'Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved.'}
     (ROOT/'study/line-occupancy.csv').write_text(output.getvalue())
     return results
 

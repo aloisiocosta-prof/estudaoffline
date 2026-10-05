@@ -1,0 +1,7 @@
+criterion,source,procedure,expected_evidence,state,inference_limit
+2.1.1,WCAG2.2/2024,Operar funções essenciais por teclado,Registrar sequência e resultado por controle,pendente,Não comprova todos os critérios
+2.4.7,WCAG2.2/2024,Inspecionar foco ao navegar,Indicação visível em cada controle examinado,pendente,Não comprova experiência de todos os usuários
+3.3.1,WCAG2.2/2024,Submeter dados inválidos,Erro identificado em texto no cenário,pendente,Não comprova usabilidade populacional
+3.3.2,WCAG2.2/2024,Inspecionar campos de entrada,Rótulo ou instrução pertinente identificado,pendente,Seleção parcial de conformidade
+1.4.3,WCAG2.2/2024,Medir contraste dos textos,Registrar cores e razão contra o limiar aplicável,pendente,Verificar tamanhos e exceções normativas
+4.1.2,WCAG2.2/2024,Inspecionar semântica com ferramenta assistiva,Registrar nome função e valor dos controles,pendente,Não substitui usuários e processos completos
