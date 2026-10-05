@@ -1,16 +1,18 @@
 id,tipo,requisito,criterio_aceitacao,teste,evidencia,estado,origem
-R01,funcional,Catálogo sintético,Exibir materiais com identificadores únicos,unitário e navegador,,pendente,escopo MVP
-R02,funcional,Abrir material,Abrir conteúdo selecionado com título correspondente,funcional e navegador,,pendente,escopo MVP
+R01,funcional,Lista sintética,Exibir tarefas com identificadores únicos,unitário e navegador,,pendente,escopo MVP
+R02,funcional,Criar e remover tarefa,Tarefa válida aparece e exclusão remove item correto,funcional e navegador,,pendente,escopo MVP
 R03,funcional,Marcar progresso,Alternar conclusão sem afetar outros itens,unitário e funcional,,pendente,escopo MVP
 R04,persistencia,Restaurar progresso,Após recarga recuperar última gravação confirmada,navegador,,pendente,S3
-R05,offline,Preparação explícita,Indicar sucesso apenas após recursos necessários armazenados,funcional e navegador,,pendente,S1
-R06,offline,Recarga sem rede,Abrir aplicativo e material preparado após recarga offline,navegador com rede desabilitada,,pendente,S1
+R05,offline,Cache de execução,Comprovar service worker controlador e recursos necessários armazenados,funcional e navegador,,pendente,S1
+R06,offline,Recarga sem rede,Abrir aplicativo e tarefas locais após recarga offline,navegador com rede desabilitada,,pendente,S1
 R07,robustez,Falha de armazenamento,Erro ou quota não gera falsa confirmação e informa limite,teste de falha controlada,,pendente,S2 e S3
-R08,robustez,Conteúdo não preparado,Informar indisponibilidade sem travamento quando falta recurso,funcional offline,,pendente,contrato MVP
+R08,robustez,Backup inválido,Rejeitar data inexistente e ID duplicado preservando tarefas atuais,unitário e navegador,,pendente,lib/model.dart
 R09,privacidade,Dados sintéticos,Ausência de nomes alunos credenciais telemetria e dados pessoais,revisão dos arquivos e tráfego,,pendente,escopo autorizado
 R10,deploy,Subrota GitHub Pages,Recursos e service worker respeitam base URL do projeto,build e navegador na URL publicada,,pendente,escopo autorizado
 R11,release,Versão semântica,Tag versão pacote e documentação correspondem à release,conferência do release,,pendente,escopo autorizado
 R12,documentacao,PDFs técnicos,PDFs abrem e distinguem resultado observado de proposta,inspeção PDF,,pendente,escopo autorizado
 R13,qualidade,Evidências técnicas,Registrar comandos versões commit e saídas sem resultados fabricados,conferência de relatório,,pendente,protocolo técnico
 R14,seguranca,Escopo local do cache,Service worker não controla rotas externas ao aplicativo,revisão e navegador,,pendente,S1
+R16,funcional,Backup válido,Exportação e importação preservam campos das tarefas sintéticas,unitário e navegador,,pendente,lib/model.dart
+R17,funcional,Filtros,Mostrar tarefas corretas em Todas Pendentes e Concluídas,funcional e navegador,,pendente,escopo MVP
 R15,integridade,Limite científico,Nenhuma afirmação de melhoria de aprendizagem sem estudo próprio,revisão documental,,pendente,S4

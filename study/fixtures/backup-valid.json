@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "tasks": [
+    {"id":"sintetica-001","title":"Revisar requisitos do protótipo","subject":"Engenharia de Software","deadline":"2026-10-10","minutes":30,"done":false},
+    {"id":"sintetica-002","title":"Executar cenário de persistência","subject":"Testes de Software","deadline":"2026-10-11","minutes":45,"done":true}
+  ]
+}

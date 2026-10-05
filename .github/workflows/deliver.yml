@@ -26,9 +26,9 @@ jobs:
       - run: flutter test --reporter expanded
       - run: python3 scripts/test_version.py
       - run: flutter build web --release --base-href /estudaoffline/ --no-web-resources-cdn
-      - run: python3 scripts/prepare_web.py
       - run: sudo apt-get update && sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-lang-portuguese fonts-liberation latexmk
       - run: mkdir -p build/web/pdfs && cd paper && latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex && cp artigo.pdf entrega-escolar.pdf poster.pdf ../build/web/pdfs/
+      - run: python3 scripts/prepare_web.py
       - uses: actions/upload-artifact@v4
         with:
           name: deliverables
