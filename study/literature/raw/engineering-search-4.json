@@ -1,0 +1,13 @@
+{
+  "query": "progressive web applications offline storage reliability testing year:2016-2026 domain:cs",
+  "retrieved_utc": "2026-10-05T05:43:55.986Z",
+  "response": {
+    "status": "fulfilled",
+    "value": {
+      "structuredContent": {
+        "error_code": "INVALID_ARGUMENT"
+      },
+      "isError": true
+    }
+  }
+}

@@ -7,6 +7,9 @@
 \usepackage{babel}
 \babelprovide[main,import]{portuguese}
 \usepackage{hyperref,booktabs,array,xcolor}
+\usepackage[authoryear,round]{natbib}
+\usepackage{xurl}
+\hypersetup{citecolor=black}
 \hypersetup{colorlinks=true,urlcolor=blue,linkcolor=black}
 \usepackage[paperwidth=594mm,paperheight=841mm,margin=30mm]{geometry}
 \pagestyle{empty}\setlength{\parindent}{0pt}\setlength{\parskip}{12pt}
@@ -15,10 +18,17 @@
 {\color{blue}\fontsize{52}{60}\selectfont\bfseries EstudaOffline}\par
 {\fontsize{32}{40}\selectfont Planejamento de estudos com dados locais}\par
 Estudantes — identificação omitida nesta demonstração\\Professor/orientador: Aloisio (revisão pendente)\\CETI Lucas Meireles Alves — Técnico em ADS\\Teresina — Chapadinha Sul
-\bloco{Pergunta técnica}Um MVP em Flutter web consegue preservar tarefas e carregar sem rede no ambiente testado?
-\bloco{Artefato e método}Tarefas sintéticas; cadastro e conclusão; persistência local; backup em JSON. Sem contas e sem participantes humanos. Cenários verificam regras, recarga, backup e acesso offline após preparação do cache. Persistência de dados e cache da aplicação são critérios diferentes.
+\bloco{Pergunta técnica}Um MVP em Flutter web consegue preservar tarefas e carregar sem rede no ambiente testado? A pergunta e seus critérios são os do protocolo técnico \citep{projeto}.
+\bloco{Artefato e método}Tarefas sintéticas; cadastro e conclusão; persistência local; backup em JSON. Sem contas e sem participantes humanos. Cenários verificam regras, recarga, backup e acesso offline após preparação do cache. Persistência de dados e cache da aplicação são critérios diferentes no protocolo de verificação \citep{projeto,sw}.
 \bloco{Resultados documentados}\begin{minipage}{\linewidth}\input{results.tex}\end{minipage}
-\bloco{Limites e conclusão}A evidência vale para os cenários executados. Não demonstra aprendizagem nem usabilidade em uma população. Dados locais podem ser apagados e exigem backup. Flutter não fornece atualmente cache offline automático por padrão. Primeira visita sem rede e atualização entre versões exigem verificação própria.
-\bloco{Transparência}MVP técnico, sem revisão por pares ou aprovação institucional. IA auxiliou código e texto; estudantes devem revisar e assumir suas contribuições. Não se presume autoria do orientador.
-\vfill{\fontsize{15}{19}\selectfont\textbf{Fontes:} Flutter, Web FAQ (docs.flutter.dev/platform-integration/web/faq); MDN, localStorage, Storage quotas e Service Worker API (developer.mozilla.org). Acesso: 5 out. 2026. Miller, J. E. (2007), Preparing and Presenting Effective Research Posters, PMC1955747. O desenho prioriza leitura rápida e mensagem técnica, conforme orientação de Miller; não transfere resultados de saúde para educação.}\par
+\bloco{Limites e conclusão}A evidência vale para os cenários executados. Não demonstra aprendizagem nem usabilidade em uma população. Dados locais podem ser apagados e exigem backup. Flutter não fornece atualmente cache offline automático por padrão. Primeira visita sem rede e atualização entre versões exigem verificação própria, conforme os critérios do projeto e a documentação do Flutter \citep{projeto,flutter,local,quota}.
+\bloco{Transparência}MVP técnico, sem revisão por pares ou aprovação institucional. IA auxiliou código e texto; estudantes devem revisar e assumir suas contribuições. Não se presume autoria do orientador; as responsabilidades estão no registro do projeto \citep{projeto}.
+
+\clearpage
+{\fontsize{40}{48}\selectfont\bfseries EstudaOffline — painéis de fundamentação}\par
+{\fontsize{24}{31}\selectfont
+Conjunto de painéis A1: o primeiro apresenta o MVP; os seguintes documentam as fontes científicas e seus limites. A síntese é exploratória, principalmente a partir de resumos, e não certifica aprendizagem, acessibilidade ou segurança. A estrutura amplia o pôster para cumprir o requisito editorial de 80 fontes sem reduzir a bibliografia a microtexto; o protocolo registra essa decisão \citep{projeto}.
+\input{literature.tex}
+\clearpage\input{bibliography.tex}
+}
 \end{document}

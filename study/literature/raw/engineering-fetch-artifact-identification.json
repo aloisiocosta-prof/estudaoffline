@@ -1,0 +1,20 @@
+{
+  "id": "c46c009344655534bbdd563b6dc61215",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "c46c009344655534bbdd563b6dc61215",
+        "title": "How to Identify your Design Science Research Artifact",
+        "url": "https://consensus.app/papers/how-to-identify-your-design-science-research-artifact-weigand-johannesson/c46c009344655534bbdd563b6dc61215/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "H. Weigand, P. Johannesson",
+          "publish_year": "2023",
+          "journal": "2023 IEEE 25th Conference on Business Informatics (CBI)",
+          "pages": "1-10",
+          "citation_count": "6"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

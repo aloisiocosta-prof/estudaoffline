@@ -1,0 +1,200 @@
+[
+  {
+    "key": "OS04",
+    "title": "SPARE: Securing Progressive Web Applications Against Unauthorized Replications",
+    "authors": [
+      "Sajib Talukder",
+      "Nur Imtiazul Haque",
+      "Khandakar Ashrafi Akbar"
+    ],
+    "year": 2025,
+    "doi": "10.48550/arxiv.2508.07053",
+    "url": "https://doi.org/10.48550/arxiv.2508.07053",
+    "kind": "preprint",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O preprint propõe proteção contra replicação não autorizada de PWAs em aplicativos WebView e avalia um protótipo.",
+    "limitation_pt": "Preprint; contexto WebView/TWA diferente de aplicação Pages; identificadores têm implicações próprias de privacidade.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "journal": "arXiv.org",
+    "group": "offline-security"
+  },
+  {
+    "key": "OS05",
+    "title": "GuardianPWA: Enhancing Security Throughout the Progressive Web App Installation Lifecycle",
+    "authors": [
+      "Wang Mengxiao",
+      "Gu Guofei"
+    ],
+    "year": 2025,
+    "doi": "10.48550/arxiv.2509.13561",
+    "url": "https://doi.org/10.48550/arxiv.2509.13561",
+    "kind": "preprint",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O preprint examina inconsistências de segurança no ciclo de instalação de PWAs e propõe análise de manifests.",
+    "limitation_pt": "Preprint de 2025; achados são relativos aos navegadores e critérios estudados, não prova de falha deste app.",
+    "source_service": "SciSpace",
+    "source_query": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+    "group": "offline-security"
+  },
+  {
+    "key": "OS11",
+    "title": "Research on the Current State of Privacy Risks in Children’s Mobile Applications",
+    "authors": [
+      "Xinrui Geng",
+      "Tao Liu",
+      "Chong Shang",
+      "Jianxiang Chen",
+      "Yueran Lu",
+      "Yan Zhang",
+      "Yan Wang"
+    ],
+    "year": 2024,
+    "doi": "10.1109/isctis63324.2024.10699019",
+    "url": "https://doi.org/10.1109/isctis63324.2024.10699019",
+    "kind": "Journal Article",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O estudo analisa estaticamente e dinamicamente 70 aplicativos infantis e compara práticas de privacidade em diferentes países.",
+    "limitation_pt": "Amostra selecionada e aplicativos móveis; resumo não fornece estimativas completas nem avaliação deste produto.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "group": "offline-security"
+  },
+  {
+    "key": "OS12",
+    "title": "Mobile apps and children’s privacy: a traffic analysis of data sharing practices among children’s mobile iOS apps",
+    "authors": [
+      "J. Rocha Pimienta",
+      "J. Brandt",
+      "Timme Bethe",
+      "Ralph Holz",
+      "Andrea Continella",
+      "L. Jibb",
+      "Quinn Grundy"
+    ],
+    "year": 2023,
+    "doi": "10.1136/archdischild-2023-325960",
+    "url": "https://doi.org/10.1136/archdischild-2023-325960",
+    "kind": "article; subtype_not_verified",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "Na amostra intencional de 25 apps iOS infantis, todos compartilharam dados fora do aplicativo e parte enviou dados pessoais a terceiros.",
+    "limitation_pt": "Amostra pequena e intencional de 2022; não generalizar prevalência para todos os apps ou PWAs.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "journal": "Archives of Disease in Childhood",
+    "group": "offline-security"
+  },
+  {
+    "key": "OS16",
+    "title": "Digitales Lernen - Welche Rolle spielt die Privatheit der Daten von Schüler: innen bei der Nutzung von Lernsoftware?",
+    "authors": [
+      "Judith Meinert",
+      "Nicole C. Krämer"
+    ],
+    "year": 2022,
+    "doi": "10.1007/978-3-658-33306-5_10",
+    "url": "https://doi.org/10.1007/978-3-658-33306-5_10",
+    "kind": "Book Chapter",
+    "access_level": "abstract_read; full_text_not_read",
+    "claim_pt": "O capítulo investiga percepção e medidas de proteção de dados por estudantes, professores e pais diante de software de aprendizagem.",
+    "limitation_pt": "Resumo descreve investigação, sem quantificar resultados; não permite inferir prevalência nem eficácia.",
+    "source_service": "SciSpace",
+    "source_query": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+    "group": "offline-security"
+  },
+  {
+    "key": "OS19",
+    "title": "Consistent Local-First Software: Enforcing Safety and Invariants for Local-First Applications",
+    "authors": [
+      "Mirko Köhler",
+      "George Zakhour",
+      "P. Weisenburger",
+      "Guido Salvaneschi"
+    ],
+    "year": 2025,
+    "doi": null,
+    "url": "https://consensus.app/papers/consistent-localfirst-software-enforcing-safety-and-köhler-zakhour/45ce5e2c80db5f4f9456593ce846988c/?utm_source=chatgpt",
+    "kind": "journal_article",
+    "access_level": "abstract_and_full_record_read; full_text_not_read",
+    "claim_pt": "ConLoc propõe verificação e sincronização automática para preservar invariantes em programas com dados replicados.",
+    "limitation_pt": "Garantias vinculadas a CRDTs e ao sistema proposto; não comprovam segurança do MVP localStorage. DOI não fornecido no registro recuperado.",
+    "source_service": "Consensus search+fetch",
+    "source_query": "local first software conflict free replicated data types offline",
+    "journal": "IEEE Transactions on Software Engineering",
+    "group": "offline-security"
+  },
+  {
+    "key": "OS20",
+    "title": "CAMS F Edge DTN: Context-Aware Offline-First Synchronization and Local Reasoning Using CRDTs and MQTT-SN",
+    "authors": [
+      "Nelson Iván Herrera",
+      "E. Gómez-Torres",
+      "E. E. González",
+      "R. Toasa",
+      "Paúl Baldeón"
+    ],
+    "year": 2026,
+    "doi": null,
+    "url": "https://consensus.app/papers/cams-f-edge-dtn-contextaware-offlinefirst-herrera-gómez-torres/4642726948f551448ebb909d08f3a8b4/?utm_source=chatgpt",
+    "kind": "journal_article",
+    "access_level": "abstract_and_full_record_read; full_text_not_read",
+    "claim_pt": "CAMS F Edge DTN combina execução local e sincronização oportunista e relata disponibilidade elevada nos experimentos de logística e saúde rurais.",
+    "limitation_pt": "Contextos experimentais específicos, distintos de educação e Flutter Web; percentuais não devem ser adotados como metas comprovadas do MVP. DOI não fornecido no registro recuperado.",
+    "source_service": "Consensus search+fetch",
+    "source_query": "local first software conflict free replicated data types offline",
+    "journal": "Future Internet",
+    "group": "offline-security"
+  },
+  {
+    "key": "eng09",
+    "title": "The State of Open Science in Software Engineering Research: A Case Study of ICSE Artifacts",
+    "authors": [
+      "Al Muttakin",
+      "Saikat Mondal",
+      "Chanchal K. Roy"
+    ],
+    "year": 2026,
+    "doi": "10.1145/3744916.3787813",
+    "url": "https://consensus.app/papers/the-state-of-open-science-in-software-engineering-research-muttakin-mondal/2eb53089652951ef908ee81a95b60524/?utm_source=chatgpt",
+    "kind": "peer-reviewed conference paper",
+    "journal": "Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering",
+    "citation_count": 5,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A avaliação de 100 pacotes ICSE distingue disponibilidade, executabilidade e reprodução dos resultados.",
+    "limitation_pt": "Amostra ICSE2015–2024; percentuais não são previsões para este projeto. DOI final indicado no arXiv, editoraACM não recuperada. Histórico arXiv contémv3 retirada e comentário atual Requires modification; requer conferência antes de extrapolar conclusões.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-8.json",
+    "conference_presentation_date": "2026-04-15",
+    "preprint_first_public_date": "2026-01-05",
+    "preprint_latest_version_date": "2026-03-23",
+    "publisher_online_date": null,
+    "available_before_cutoff": true,
+    "date_cutoff": "2026-10-05",
+    "primary_verification_urls": [
+      "https://arxiv.org/abs/2601.02066",
+      "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/285/The-State-of-Open-Science-in-Software-Engineering-Research-A-Case-Study-of-ICSE-Arti"
+    ],
+    "metadata_verification_note": "DOI final indicado pelo registro primário dos autores no arXiv; editora ACM não retornou conteúdo. Programa oficial confirma apresentação em 15 abr. 2026. Histórico registra versão v3 retirada e versão atual v5 com comentário Requires modification; não interpretar como retirada do artigo inteiro.",
+    "group": "engineering"
+  },
+  {
+    "key": "eng19",
+    "title": "Supporting Long-term Reproducible Software Execution",
+    "authors": [
+      "Luis Oliveira",
+      "David Wilkinson",
+      "Daniel Mosse",
+      "Bruce R. Childers"
+    ],
+    "year": 2018,
+    "doi": "10.1145/3214239.3214245",
+    "url": "https://dl.acm.org/doi/10.1145/3214239.3214245",
+    "kind": "conference proceedings article; peer-review not independently inspected",
+    "access_level": "SciSpace abstract and metadata; full_text_not_read",
+    "claim_pt": "O trabalho apresenta requisitos de preservação da execução e um framework que preserva software e dependências da fonte à execução.",
+    "limitation_pt": "Proposta demonstrada com Occam; não comprova reprodutibilidade de qualquer aplicativo. Política de revisão específica dos anais não foi conferida.",
+    "source_service": "SciSpace search; publisher URL supplied in retrieved record",
+    "raw_fetch": "raw/engineering-scispace-search.json",
+    "group": "engineering"
+  }
+]

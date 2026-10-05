@@ -1,0 +1,77 @@
+{
+  "question": "Quais estudos revisados por pares de 2016–2026 examinam acessibilidade/usabilidade de interfaces educacionais e barreiras de divisão digital/conectividade limitada relevantes ao planejamento escolar local?",
+  "design": "Pesquisa exploratória e matriz de apoio; não revisão sistemática concluída.",
+  "date_utc": "2026-10-05",
+  "criteria": {
+    "include": "Artigo em periódico identificado, 2016–2026, acessibilidade/usabilidade educacional ou divisão digital/conectividade em educação; abstracts e metadata recuperados.",
+    "exclude": "Preprint, documentação, registro sem periódico verificável nesta execução, duplicata, baixa pertinência ou fonte insuficiente; não se infere qualidade a partir de número de citações."
+  },
+  "searches": [
+    {
+      "service": "SciSpace",
+      "query": "What peer-reviewed studies published from 2016 to 2026 examine accessibility and usability of educational digital interfaces or barriers to learning caused by limited internet connectivity?",
+      "interface": "search_papers",
+      "retrieved": 10,
+      "selected": 1,
+      "notes": "Três registros aparentemente duplicados do mesmo título com variantes de DOI não selecionados; SSRN e Zenodo não contados como peer review."
+    },
+    {
+      "service": "Consensus",
+      "query": "educational interfaces accessibility usability digital learning disability year:2016-2026",
+      "interface": "search",
+      "retrieved": 10,
+      "selected": 6
+    },
+    {
+      "service": "Consensus",
+      "query": "digital divide online learning internet connectivity education year:2016-2026",
+      "interface": "search",
+      "retrieved": 10,
+      "selected": 7,
+      "notes": "Primeira execução paralela retornou rate limit; repetição sequencial bem-sucedida."
+    },
+    {
+      "service": "Consensus",
+      "query": "mobile learning low connectivity offline education usability year:2016-2026",
+      "interface": "search",
+      "retrieved": 0,
+      "notes": "Rate limit; não contou registros."
+    },
+    {
+      "service": "Consensus",
+      "query": "usability mobile learning applications systematic review accessibility year:2016-2026",
+      "interface": "search",
+      "retrieved": 10,
+      "selected": 5
+    }
+  ],
+  "counts": {
+    "consensus_successful_search_records": 30,
+    "scispace_search_records": 10,
+    "consensus_full_records_fetched": 19,
+    "selected_consensus": 18,
+    "selected_publisher_primary": 1,
+    "selected_scispace_with_publisher_metadata": 1,
+    "final_unique_articles": 20
+  },
+  "verification": "Todos os 18 registros Consensus selecionados foram fetch antes da inclusão. Dois fetches não continham resumo (Cinquin e Guo), supridos por resumo do editor; Werfhorst fetch sem resumo, conferido no editor e PMC. DOI não verificado fica null. Publication year é ano online do índice; Kumar online2017/issue2018 e Farhan online2020/issue2022. Revisão humana e avaliações formais de viés/retração pendentes.",
+  "limitations": "Não foi lido texto integral de todos os estudos; nenhuma avaliação formal de viés, meta-análise, comparação com EstudaOffline ou validação de aprendizado foi realizada. SciSpace omitiu terceiro autor de EducaOffline, corrigido por metadados do periódico.",
+  "decisions": [
+    {
+      "title": "Systematic review on usability of mobile learning applications for children",
+      "decision": "excluded",
+      "reason": "Fetch não identificou periódico; não contado como artigo de periódico verificado."
+    },
+    {
+      "title": "The Digital Divide Revisited: Connectivity, Devices, and the Hidden Barriers to Global EdTech Equity",
+      "decision": "excluded",
+      "reason": "SSRN preprint não contado como revisão por pares."
+    },
+    {
+      "title": "Digital Equity Solutions: Addressing Technology Access Disparities in Remote and Hybrid Learning Environments",
+      "decision": "excluded",
+      "reason": "DOI Zenodo e revisão por pares não corroborada."
+    }
+  ],
+  "ai_usage": "IA auxiliou consulta, seleção exploratória e paráfrases; fontes e limites registrados, com responsabilidade de revisão humana."
+}

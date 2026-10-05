@@ -1,0 +1,20 @@
+{
+  "id": "2eb53089652951ef908ee81a95b60524",
+  "retrieved_utc": "2026-10-05T05:45:08.044Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "2eb53089652951ef908ee81a95b60524",
+        "title": "The State of Open Science in Software Engineering Research: A Case Study of ICSE Artifacts",
+        "url": "https://consensus.app/papers/the-state-of-open-science-in-software-engineering-research-muttakin-mondal/2eb53089652951ef908ee81a95b60524/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Al Muttakin, Saikat Mondal, C. Roy",
+          "publish_year": "2026",
+          "journal": "Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering",
+          "citation_count": "5"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

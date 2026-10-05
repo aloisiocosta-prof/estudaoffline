@@ -1,0 +1,22 @@
+{
+  "id": "f135b7aa5ed2569391340a45fc5dea3b",
+  "retrieved_utc": "2026-10-05T05:45:04.793Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "f135b7aa5ed2569391340a45fc5dea3b",
+        "title": "The Applicability of Automated Testing Frameworks for Mobile Application Testing: A Systematic Literature Review",
+        "url": "https://consensus.app/papers/the-applicability-of-automated-testing-frameworks-for-berihun-dongmo/f135b7aa5ed2569391340a45fc5dea3b/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Natnael Gonfa Berihun, Cyrille Dongmo, J. A. van der Poll",
+          "publish_year": "2023",
+          "journal": "Comput.",
+          "volume": "12",
+          "pages": "97",
+          "citation_count": "16"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

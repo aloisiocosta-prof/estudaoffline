@@ -1,0 +1,13 @@
+{
+  "query": "continuous integration software testing empirical study year:2016-2026 domain:cs",
+  "retrieved_utc": "2026-10-05T05:43:55.515Z",
+  "response": {
+    "status": "fulfilled",
+    "value": {
+      "structuredContent": {
+        "error_code": "INVALID_ARGUMENT"
+      },
+      "isError": true
+    }
+  }
+}

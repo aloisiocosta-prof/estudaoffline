@@ -1,0 +1,22 @@
+{
+  "id": "b4bb68b4c9e75b5e9b9b0b1f2d29f3e8",
+  "retrieved_utc": "2026-10-05T05:45:07.578Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "b4bb68b4c9e75b5e9b9b0b1f2d29f3e8",
+        "title": "Revisiting the reproducibility of empirical software engineering studies based on data retrieved from development repositories",
+        "url": "https://consensus.app/papers/revisiting-the-reproducibility-of-empirical-software-gonzalez-barahona-robles/b4bb68b4c9e75b5e9b9b0b1f2d29f3e8/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Jesus M. Gonzalez-Barahona, G. Robles",
+          "publish_year": "2023",
+          "journal": "Inf. Softw. Technol.",
+          "volume": "164",
+          "pages": "107318",
+          "citation_count": "21"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

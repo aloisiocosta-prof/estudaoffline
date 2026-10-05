@@ -1,0 +1,20 @@
+{
+  "id": "9f9a8da6c79555189a8ad4482dda1712",
+  "retrieved_utc": "2026-10-05T05:45:07.114Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "9f9a8da6c79555189a8ad4482dda1712",
+        "title": "Requirements-Driven Automated Software Testing: A Systematic Review",
+        "url": "https://consensus.app/papers/requirementsdriven-automated-software-testing-a-wang-arora/9f9a8da6c79555189a8ad4482dda1712/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Fan-Yu Wang, Chetan Arora, C. Tantithamthavorn, Kaicheng Huang, A. Aleti",
+          "publish_year": "2025",
+          "journal": "ACM Transactions on Software Engineering and Methodology",
+          "citation_count": "9"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

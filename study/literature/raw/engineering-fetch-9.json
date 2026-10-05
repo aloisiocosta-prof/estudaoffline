@@ -1,0 +1,22 @@
+{
+  "id": "eb445326b4015835bf8ea354d382ed51",
+  "retrieved_utc": "2026-10-05T05:45:08.508Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "eb445326b4015835bf8ea354d382ed51",
+        "title": "On the Reproducibility and Replicability of Deep Learning in Software Engineering",
+        "url": "https://consensus.app/papers/on-the-reproducibility-and-replicability-of-deep-learning-liu-gao/eb445326b4015835bf8ea354d382ed51/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Chao Liu, Cui-Yun Gao, Xin Xia, David Lo, John C. Grundy, Xiao-Hu Yang",
+          "publish_year": "2022",
+          "journal": "ACM Trans. Softw. Eng. Methodol.",
+          "volume": "31",
+          "pages": "15:1-15:46",
+          "citation_count": "32"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

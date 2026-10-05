@@ -1,0 +1,19 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "retrieved_metadata": [
+      {
+        "id": "2faffa56036656a5a2840c7106c801ed",
+        "title": "Local-first software: you own your data, in spite of the cloud",
+        "url": "https://consensus.app/papers/localfirst-software-you-own-your-data-in-spite-of-the-cloud-kleppmann-wiggins/2faffa56036656a5a2840c7106c801ed/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Martin Kleppmann, Adam Wiggins, M. McGranaghan",
+          "publish_year": "2019",
+          "journal": "Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software",
+          "citation_count": "141"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

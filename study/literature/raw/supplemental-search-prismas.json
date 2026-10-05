@@ -1,0 +1,645 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "searchTerm": "What does PRISMA-S an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews by Rethlefsen and colleagues recommend?",
+      "papers": [
+        {
+          "id": 3123497531,
+          "title": "PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.",
+          "is_archived": false,
+          "full_slug": "prisma-s-an-extension-to-the-prisma-statement-for-reporting-1spjlm3u95",
+          "journal": {
+            "display_name": "Systematic Reviews",
+            "official_page": "http://www.systematicreviewsjournal.com/",
+            "issn": "2046-4053",
+            "alias": null,
+            "id": 82452678,
+            "slug": "systematic-reviews",
+            "unique_id": "v6nh5k1c",
+            "full_slug": "systematic-reviews-v6nh5k1c"
+          },
+          "conference_series": null,
+          "date": "2021-01-26T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1186/S13643-020-01542-Z",
+          "unique_id": "1spjlm3u95",
+          "authors": {
+            "total": 7,
+            "data": [
+              {
+                "display_name": "Melissa L. Rethlefsen",
+                "id": 2012666671,
+                "slug": "melissa-l-rethlefsen",
+                "unique_id": "5captq00xs",
+                "full_slug": "melissa-l-rethlefsen-5captq00xs",
+                "affiliation_full_slug": "university-of-florida-10mwfd5s"
+              },
+              {
+                "display_name": "Shona Kirtley",
+                "id": 2082434325,
+                "slug": "shona-kirtley",
+                "unique_id": "16swx2xwzw",
+                "full_slug": "shona-kirtley-16swx2xwzw",
+                "affiliation_full_slug": "university-of-oxford-359i25ny"
+              },
+              {
+                "display_name": "Siw Waffenschmidt",
+                "id": 1993858114,
+                "slug": "siw-waffenschmidt",
+                "unique_id": "58wpc7pmfb",
+                "full_slug": "siw-waffenschmidt-58wpc7pmfb"
+              },
+              {
+                "display_name": "Ana Patricia Ayala",
+                "id": 2286514037,
+                "slug": "ana-patricia-ayala",
+                "unique_id": "4hbvcqhfci",
+                "full_slug": "ana-patricia-ayala-4hbvcqhfci",
+                "affiliation_full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "David Moher",
+                "id": 204361474,
+                "slug": "david-moher",
+                "unique_id": "1ku4vb8ptn",
+                "full_slug": "david-moher-1ku4vb8ptn",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Matthew J. Page",
+                "id": 2558517594,
+                "slug": "matthew-j-page",
+                "unique_id": "2nc8ml21yc",
+                "full_slug": "matthew-j-page-2nc8ml21yc",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Jonathan Koffel",
+                "id": 2020403763,
+                "slug": "jonathan-koffel",
+                "unique_id": "4trinrx738",
+                "full_slug": "jonathan-koffel-4trinrx738",
+                "affiliation_full_slug": "university-of-minnesota-2bv8nbl3"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "University of Florida",
+                "city": "Gainesville",
+                "region": "Florida",
+                "country": "United States",
+                "id": 33213144,
+                "slug": "university-of-florida",
+                "unique_id": "10mwfd5s",
+                "full_slug": "university-of-florida-10mwfd5s"
+              },
+              {
+                "display_name": "University of Oxford",
+                "city": "Oxford",
+                "region": "Oxfordshire",
+                "country": "United Kingdom",
+                "id": 40120149,
+                "slug": "university-of-oxford",
+                "unique_id": "359i25ny",
+                "full_slug": "university-of-oxford-359i25ny"
+              },
+              {
+                "display_name": "University of Toronto",
+                "city": "Toronto",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 185261750,
+                "slug": "university-of-toronto",
+                "unique_id": "3dwwuuvf",
+                "full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "Ottawa Hospital Research Institute",
+                "city": null,
+                "region": null,
+                "country": null,
+                "id": 114257568,
+                "slug": "ottawa-hospital-research-institute",
+                "unique_id": "3dl0mlv2",
+                "full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Monash University",
+                "city": "Melbourne",
+                "region": "Victoria",
+                "country": "Australia",
+                "id": 56590836,
+                "slug": "monash-university",
+                "unique_id": "9fqvckub",
+                "full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "University of Minnesota",
+                "city": "Minneapolis",
+                "region": "Minnesota",
+                "country": "United States",
+                "id": 130238516,
+                "slug": "university-of-minnesota",
+                "unique_id": "2bv8nbl3",
+                "full_slug": "university-of-minnesota-2bv8nbl3"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/prisma-s-an-extension-to-the-prisma-statement-for-reporting-1spjlm3u95.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-020-01542-z",
+                "https://pubmed.ncbi.nlm.nih.gov/33499930/"
+              ],
+              "Others": [
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7839230",
+                "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC7839230"
+              ],
+              "Pdf": [
+                "https://link.springer.com/content/pdf/10.1186/s13643-020-01542-z.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 1675
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3127164948,
+          "title": "PRISMA-S: an extension to the PRISMA statement for reporting literature searches in systematic reviews",
+          "is_archived": false,
+          "full_slug": "prisma-s-an-extension-to-the-prisma-statement-for-reporting-343wa5vgp2",
+          "journal": {
+            "display_name": "Journal of The Medical Library Association",
+            "official_page": "http://jmla.mlanet.org/ojs/jmla",
+            "issn": "1536-5050",
+            "alias": [
+              "JMLA",
+              "J Med Libr Assoc"
+            ],
+            "id": 146304353,
+            "slug": "journal-of-the-medical-library-association",
+            "unique_id": "dyegpciy",
+            "full_slug": "journal-of-the-medical-library-association-dyegpciy"
+          },
+          "conference_series": null,
+          "date": "2021-07-20T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.5195/JMLA.2021.962",
+          "unique_id": "343wa5vgp2",
+          "authors": {
+            "total": 7,
+            "data": [
+              {
+                "display_name": "Melissa L. Rethlefsen",
+                "id": 2012666671,
+                "slug": "melissa-l-rethlefsen",
+                "unique_id": "5captq00xs",
+                "full_slug": "melissa-l-rethlefsen-5captq00xs",
+                "affiliation_full_slug": "university-of-new-mexico-3fikxehf"
+              },
+              {
+                "display_name": "Shona Kirtley",
+                "id": 2082434325,
+                "slug": "shona-kirtley",
+                "unique_id": "16swx2xwzw",
+                "full_slug": "shona-kirtley-16swx2xwzw",
+                "affiliation_full_slug": "university-of-oxford-359i25ny"
+              },
+              {
+                "display_name": "Siw Waffenschmidt",
+                "id": 1993858114,
+                "slug": "siw-waffenschmidt",
+                "unique_id": "58wpc7pmfb",
+                "full_slug": "siw-waffenschmidt-58wpc7pmfb"
+              },
+              {
+                "display_name": "Ana Patricia Ayala",
+                "id": 2286514037,
+                "slug": "ana-patricia-ayala",
+                "unique_id": "4hbvcqhfci",
+                "full_slug": "ana-patricia-ayala-4hbvcqhfci",
+                "affiliation_full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "David Moher",
+                "id": 204361474,
+                "slug": "david-moher",
+                "unique_id": "1ku4vb8ptn",
+                "full_slug": "david-moher-1ku4vb8ptn",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Matthew J. Page",
+                "id": 2558517594,
+                "slug": "matthew-j-page",
+                "unique_id": "2nc8ml21yc",
+                "full_slug": "matthew-j-page-2nc8ml21yc",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Jonathan Koffel",
+                "id": 2020403763,
+                "slug": "jonathan-koffel",
+                "unique_id": "4trinrx738",
+                "full_slug": "jonathan-koffel-4trinrx738",
+                "affiliation_full_slug": "university-of-minnesota-2bv8nbl3"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "University of New Mexico",
+                "city": "Albuquerque",
+                "region": "New Mexico",
+                "country": "United States",
+                "id": 169521973,
+                "slug": "university-of-new-mexico",
+                "unique_id": "3fikxehf",
+                "full_slug": "university-of-new-mexico-3fikxehf"
+              },
+              {
+                "display_name": "University of Oxford",
+                "city": "Oxford",
+                "region": "Oxfordshire",
+                "country": "United Kingdom",
+                "id": 40120149,
+                "slug": "university-of-oxford",
+                "unique_id": "359i25ny",
+                "full_slug": "university-of-oxford-359i25ny"
+              },
+              {
+                "display_name": "University of Toronto",
+                "city": "Toronto",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 185261750,
+                "slug": "university-of-toronto",
+                "unique_id": "3dwwuuvf",
+                "full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "Ottawa Hospital Research Institute",
+                "city": null,
+                "region": null,
+                "country": null,
+                "id": 114257568,
+                "slug": "ottawa-hospital-research-institute",
+                "unique_id": "3dl0mlv2",
+                "full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Monash University",
+                "city": "Melbourne",
+                "region": "Victoria",
+                "country": "Australia",
+                "id": 56590836,
+                "slug": "monash-university",
+                "unique_id": "9fqvckub",
+                "full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "University of Minnesota",
+                "city": "Minneapolis",
+                "region": "Minnesota",
+                "country": "United States",
+                "id": 130238516,
+                "slug": "university-of-minnesota",
+                "unique_id": "2bv8nbl3",
+                "full_slug": "university-of-minnesota-2bv8nbl3"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/prisma-s-an-extension-to-the-prisma-statement-for-reporting-343wa5vgp2.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "http://jmla.pitt.edu/ojs/jmla/article/view/962",
+                "https://pubmed.ncbi.nlm.nih.gov/34285662/"
+              ],
+              "Pdf": [
+                "https://ruor.uottawa.ca/bitstream/10393/41734/1/13643_2020_Article_1542.pdf",
+                "https://jmla.pitt.edu/ojs/jmla/article/viewFile/962/1274"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 268
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4020769415,
+          "title": "PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews",
+          "is_archived": false,
+          "full_slug": "prisma-s-an-extension-to-the-prisma-statement-for-reporting-159f0qfu6d",
+          "journal": null,
+          "conference_series": null,
+          "date": "2019-03-20T00:00:00Z",
+          "is_oa": null,
+          "publication_type": null,
+          "doi": "10.31219/osf.io/sfc38",
+          "unique_id": "159f0qfu6d",
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4110446434,
+          "title": "How can I use PRISMA-S in a literature search?",
+          "is_archived": false,
+          "full_slug": "how-can-i-use-prisma-s-in-a-literature-search-aylv7pcg3bf7",
+          "journal": null,
+          "conference_series": null,
+          "date": "2026-01-16T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.5281/zenodo.18267319",
+          "unique_id": "aylv7pcg3bf7",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Tripdatabase",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4110604530,
+          "title": "How can I use PRISMA-S in a literature search?",
+          "is_archived": false,
+          "full_slug": "how-can-i-use-prisma-s-in-a-literature-search-qhf97g8ib80t",
+          "journal": null,
+          "conference_series": null,
+          "date": "2026-01-16T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.5281/zenodo.18267320",
+          "unique_id": "qhf97g8ib80t",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Tripdatabase",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4054403667,
+          "title": "PRISMA 2020 and PRISMA-S: Common Questions on Tracking Records and the Flow Diagram",
+          "is_archived": false,
+          "full_slug": "prisma-2020-and-prisma-s-common-questions-on-tracking-qqvb3kdqjql7",
+          "journal": null,
+          "conference_series": null,
+          "date": null,
+          "is_oa": null,
+          "publication_type": null,
+          "doi": "10.5195/jmla.2022.1449",
+          "unique_id": "qqvb3kdqjql7",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Melissa L. Rethlefsen",
+                "full_slug": null
+              },
+              {
+                "display_name": "Matthew J. Page",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4085443682,
+          "title": "PRISMA-S: PRISMA Search Reporting Extension (Checklist in R Markdown)",
+          "is_archived": false,
+          "full_slug": "prisma-s-prisma-search-reporting-extension-checklist-in-r-zi9wu1e3gzeu",
+          "journal": null,
+          "conference_series": null,
+          "date": "2020-06-16T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.17605/osf.io/h6syk",
+          "unique_id": "zi9wu1e3gzeu",
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4090742602,
+          "title": "Additional file 1 of PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews",
+          "is_archived": false,
+          "full_slug": "additional-file-1-of-prisma-s-an-extension-to-the-prisma-98ebeitm3yqj",
+          "journal": null,
+          "conference_series": null,
+          "date": "2021-01-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.6084/m9.figshare.13646921",
+          "unique_id": "98ebeitm3yqj",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Waffenschmidt, Siw",
+                "full_slug": null
+              },
+              {
+                "display_name": "Moher, David",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4098335662,
+          "title": "Additional file 1 of PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews",
+          "is_archived": false,
+          "full_slug": "additional-file-1-of-prisma-s-an-extension-to-the-prisma-pf4ax1zg9bmf",
+          "journal": null,
+          "conference_series": null,
+          "date": "2021-01-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.6084/m9.figshare.13646921.v1",
+          "unique_id": "pf4ax1zg9bmf",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Waffenschmidt, Siw",
+                "full_slug": null
+              },
+              {
+                "display_name": "Moher, David",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4049089928,
+          "title": "Extension of the PRISMA 2020 statement for living systematic reviews (PRISMA-LSR): checklist and explanation",
+          "is_archived": false,
+          "full_slug": "extension-of-the-prisma-2020-statement-for-living-systematic-2j6q5ogdvw1p",
+          "journal": {
+            "display_name": "BMJ",
+            "official_page": null,
+            "issn": "1756-1833",
+            "alias": null,
+            "id": 4000214673,
+            "slug": "bmj",
+            "unique_id": "oo6g2o3sab",
+            "full_slug": "bmj-oo6g2o3sab"
+          },
+          "conference_series": null,
+          "date": "2024-11-19T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.1136/bmj-2024-079183",
+          "unique_id": "2j6q5ogdvw1p",
+          "authors": {
+            "total": 9,
+            "data": [
+              {
+                "display_name": "Elie A. Akl",
+                "full_slug": null
+              },
+              {
+                "display_name": "Joanne Khabsa",
+                "full_slug": null
+              },
+              {
+                "display_name": "Claire Iannizzi",
+                "full_slug": null
+              },
+              {
+                "display_name": "Vanessa Piechotta",
+                "full_slug": null
+              },
+              {
+                "display_name": "Lara A Kahale",
+                "full_slug": null
+              },
+              {
+                "display_name": "James M. Barker",
+                "full_slug": null
+              },
+              {
+                "display_name": "Joanne E. McKenzie",
+                "full_slug": null
+              },
+              {
+                "display_name": "Matthew J. Page",
+                "full_slug": null
+              },
+              {
+                "display_name": "Nicole Skoetz",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": 3
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

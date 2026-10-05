@@ -1,0 +1,15 @@
+{
+  "cutoff": "2026-10-05",
+  "wong_publisher": {
+    "isError": false
+  },
+  "linhalis_direct": {
+    "isError": false
+  },
+  "linhalis_verify": {
+    "isError": false
+  },
+  "linhalis_publisher_indexed": {
+    "isError": false
+  }
+}

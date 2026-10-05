@@ -21,3 +21,9 @@ GitHub Actions valida, compila PDFs, publica Web no Pages e gera Releases SemVer
 ## Limites
 
 Sem avaliação com participantes. Sem garantia contra perda por quota/limpeza do navegador. Sem sincronização entre dispositivos. Conformidade escolar precisa de conferência do modelo e aprovação do orientador; Liberation Sans é substituta métrica de Arial, não a fonte Arial exata.
+
+## Escrita e auditoria editorial
+
+Artigo, entrega escolar e conjunto de painéis A1 incluem 80 publicações científicas distintas, citadas indiretamente em uma fundamentação com limites por fonte. Foram excluídos preprints e registros com classificação ou histórico editorial pendentes. A síntese é exploratória, principalmente baseada em resumos, sem avaliação integral de risco de viés nem confirmação scite de retratações. O pôster expandido tem painel principal e painéis de fundamentação/bibliografia; não é um único banner com 80 microreferências.
+
+Ver política em `docs/editorial/politica-latex.md`, matriz em `study/literature/claim-source-matrix.md` e auditoria em `study/editorial-audit.json`. `python scripts/build_literature.py` gera os textos comuns; `python scripts/audit_latex.py --pdf-dir build/editorial` verifica fontes e linhas físicas (PyMuPDF1.26.6). A regra literal de todas as linhas ocuparem50% não está cumprida: o relatório revela linhas curtas, inclusive títulos, identificação, referências e finais de parágrafo; não são preenchidas com citações ou espaços artificiais. Esses PDFs são versões de revisão, não artigos aprovados para publicação.

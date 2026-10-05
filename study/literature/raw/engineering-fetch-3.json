@@ -1,0 +1,22 @@
+{
+  "id": "39e49b9960a25831b3b7e52683ef7ce4",
+  "retrieved_utc": "2026-10-05T05:45:05.721Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "39e49b9960a25831b3b7e52683ef7ce4",
+        "title": "Systematic reviews in mobile app software engineering: A tertiary study",
+        "url": "https://consensus.app/papers/systematic-reviews-in-mobile-app-software-engineering-a-zein-salleh/39e49b9960a25831b3b7e52683ef7ce4/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Samer Zein, Norsaremah Salleh, John C. Grundy",
+          "publish_year": "2023",
+          "journal": "Inf. Softw. Technol.",
+          "volume": "164",
+          "pages": "107323",
+          "citation_count": "10"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

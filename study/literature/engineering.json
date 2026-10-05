@@ -1,0 +1,434 @@
+[
+  {
+    "key": "eng01",
+    "title": "Automated Testing of Android Apps: A Systematic Literature Review",
+    "authors": [
+      "Pingfan Kong",
+      "Li Li",
+      "Jun Gao",
+      "Kui Liu",
+      "Tegawendé F. Bissyandé",
+      "Jacques Klein"
+    ],
+    "year": 2019,
+    "doi": "10.1109/TR.2018.2865733",
+    "url": "https://consensus.app/papers/automated-testing-of-android-apps-a-systematic-literature-kong-li/b84fb4d035f4509e84e4375427919690/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "IEEE Transactions on Reliability",
+    "citation_count": 197,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A revisão de 103 estudos distingue testes funcionais e não funcionais e identifica desafios do ecossistema Android.",
+    "limitation_pt": "Foco Android e literatura até 2016; não valida Flutter web nem este aplicativo.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-0.json"
+  },
+  {
+    "key": "eng02",
+    "title": "The Applicability of Automated Testing Frameworks for Mobile Application Testing: A Systematic Literature Review",
+    "authors": [
+      "Natnael Gonfa Berihun",
+      "Cyrille Dongmo",
+      "J. A. van der Poll"
+    ],
+    "year": 2023,
+    "doi": "10.3390/computers12050097",
+    "url": "https://consensus.app/papers/the-applicability-of-automated-testing-frameworks-for-berihun-dongmo/f135b7aa5ed2569391340a45fc5dea3b/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Comput.",
+    "citation_count": 16,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A revisão de 56 artigos identifica necessidades de adaptação dos frameworks de automação ao domínio móvel.",
+    "limitation_pt": "Arquitetura MATF proposta, com implementação futura; não comprova eficácia do MVP.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-1.json"
+  },
+  {
+    "key": "eng03",
+    "title": "Automated functional testing of mobile applications: a systematic mapping study",
+    "authors": [
+      "Porfirio Tramontana",
+      "Domenico Amalfitano",
+      "Nicola Amatucci",
+      "A. Fasolino"
+    ],
+    "year": 2018,
+    "doi": "10.1007/s11219-018-9418-6",
+    "url": "https://consensus.app/papers/automated-functional-testing-of-mobile-applications-a-tramontana-amalfitano/6d574fdd4c7253c2bcaeabaca56b305b/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Software Quality Journal",
+    "citation_count": 70,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O mapeamento de 131 artigos organiza técnicas, atividades de teste e formas de avaliação, com predominância de Android.",
+    "limitation_pt": "Estudo secundário; o ano online 2018 difere do volume de 2019. Não transferir resultados Android diretamente à web.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-2.json"
+  },
+  {
+    "key": "eng04",
+    "title": "Systematic reviews in mobile app software engineering: A tertiary study",
+    "authors": [
+      "Samer Zein",
+      "Norsaremah Salleh",
+      "John C. Grundy"
+    ],
+    "year": 2023,
+    "doi": "10.1016/j.infsof.2023.107323",
+    "url": "https://consensus.app/papers/systematic-reviews-in-mobile-app-software-engineering-a-zein-salleh/39e49b9960a25831b3b7e52683ef7ce4/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Inf. Softw. Technol.",
+    "citation_count": 10,
+    "access_level": "abstract_from_search; fetch_metadata_only",
+    "claim_pt": "O estudo terciário organiza 24 revisões sobre engenharia de aplicativos e identifica lacunas em manutenção e plataformas cruzadas.",
+    "limitation_pt": "Síntese de revisões; não demonstra qualidade ou efeito pedagógico do aplicativo.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-3.json"
+  },
+  {
+    "key": "eng05",
+    "title": "A systematic mapping study of mobile application testing techniques",
+    "authors": [
+      "Samer Zein",
+      "Norsaremah Salleh",
+      "J. Grundy"
+    ],
+    "year": 2016,
+    "doi": "10.1016/j.jss.2016.03.065",
+    "url": "https://consensus.app/papers/a-systematic-mapping-study-of-mobile-application-testing-zein-salleh/86ccb09feefb513ea0692f2aa3e8894d/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "J. Syst. Softw.",
+    "citation_count": 147,
+    "access_level": "abstract_from_search; fetch_metadata_only",
+    "claim_pt": "O mapeamento de 79 estudos identifica necessidade de elicitar requisitos de teste cedo e avaliar em contextos reais.",
+    "limitation_pt": "Mapeamento secundário de literatura anterior; não substitui ensaios atuais no navegador.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-4.json"
+  },
+  {
+    "key": "eng06",
+    "title": "Dynamic Testing Techniques of Non-functional Requirements in Mobile Apps: A Systematic Mapping Study",
+    "authors": [
+      "Misael C. Júnior",
+      "Domenico Amalfitano",
+      "Lina Garcés",
+      "A. Fasolino",
+      "Stevão A. Andrade",
+      "M. Delamaro"
+    ],
+    "year": 2022,
+    "doi": "10.1145/3507903",
+    "url": "https://consensus.app/papers/dynamic-testing-techniques-of-nonfunctional-júnior-amalfitano/053ae4e9874f52eeac92221a51485231/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "ACM Computing Surveys (CSUR)",
+    "citation_count": 21,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O mapeamento de 56 estudos caracteriza técnicas e ferramentas de teste dinâmico de requisitos não funcionais.",
+    "limitation_pt": "Classifica trabalhos existentes; segurança e confiabilidade do MVP exigem testes específicos.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-5.json"
+  },
+  {
+    "key": "eng07",
+    "title": "How to Identify your Design Science Research Artifact",
+    "authors": [
+      "H. Weigand",
+      "P. Johannesson"
+    ],
+    "year": 2023,
+    "doi": "10.1109/CBI58679.2023.10187511",
+    "url": "https://consensus.app/papers/how-to-identify-your-design-science-research-artifact-weigand-johannesson/c46c009344655534bbdd563b6dc61215/?utm_source=chatgpt",
+    "kind": "peer-reviewed conference paper",
+    "journal": "2023 IEEE 25th Conference on Business Informatics (CBI)",
+    "citation_count": 6,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O artigo propõe explicitar o artefato e o objetivo de pesquisa para tornar mais precisa a investigação em design science.",
+    "limitation_pt": "Validação metodológica em artigos DSR; não é medida de eficácia educacional.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-artifact-identification.json"
+  },
+  {
+    "key": "eng08",
+    "title": "Revisiting the reproducibility of empirical software engineering studies based on data retrieved from development repositories",
+    "authors": [
+      "Jesus M. Gonzalez-Barahona",
+      "G. Robles"
+    ],
+    "year": 2023,
+    "doi": "10.1016/j.infsof.2023.107318",
+    "url": "https://consensus.app/papers/revisiting-the-reproducibility-of-empirical-software-gonzalez-barahona-robles/b4bb68b4c9e75b5e9b9b0b1f2d29f3e8/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Inf. Softw. Technol.",
+    "citation_count": 21,
+    "access_level": "abstract_from_search; fetch_metadata_only",
+    "claim_pt": "A reavaliação de um método para estudos de repositórios mostra utilidade de caracterizar a reprodutibilidade além da disponibilidade.",
+    "limitation_pt": "Escopo de mineração de repositórios; não garante reprodução do MVP.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-7.json"
+  },
+  {
+    "key": "eng09",
+    "title": "The State of Open Science in Software Engineering Research: A Case Study of ICSE Artifacts",
+    "authors": [
+      "Al Muttakin",
+      "Saikat Mondal",
+      "Chanchal K. Roy"
+    ],
+    "year": 2026,
+    "doi": "10.1145/3744916.3787813",
+    "url": "https://consensus.app/papers/the-state-of-open-science-in-software-engineering-research-muttakin-mondal/2eb53089652951ef908ee81a95b60524/?utm_source=chatgpt",
+    "kind": "peer-reviewed conference paper",
+    "journal": "Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering",
+    "citation_count": 5,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A avaliação de 100 pacotes ICSE distingue disponibilidade, executabilidade e reprodução dos resultados.",
+    "limitation_pt": "Amostra ICSE2015–2024; percentuais não são previsões para este projeto. DOI final indicado no arXiv, editoraACM não recuperada. Histórico arXiv contémv3 retirada e comentário atual Requires modification; requer conferência antes de extrapolar conclusões.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-8.json",
+    "conference_presentation_date": "2026-04-15",
+    "preprint_first_public_date": "2026-01-05",
+    "preprint_latest_version_date": "2026-03-23",
+    "publisher_online_date": null,
+    "available_before_cutoff": true,
+    "date_cutoff": "2026-10-05",
+    "primary_verification_urls": [
+      "https://arxiv.org/abs/2601.02066",
+      "https://conf.researchr.org/details/icse-2026/icse-2026-research-track/285/The-State-of-Open-Science-in-Software-Engineering-Research-A-Case-Study-of-ICSE-Arti"
+    ],
+    "metadata_verification_note": "DOI final indicado pelo registro primário dos autores no arXiv; editora ACM não retornou conteúdo. Programa oficial confirma apresentação em 15 abr. 2026. Histórico registra versão v3 retirada e versão atual v5 com comentário Requires modification; não interpretar como retirada do artigo inteiro."
+  },
+  {
+    "key": "eng10",
+    "title": "On the Reproducibility and Replicability of Deep Learning in Software Engineering",
+    "authors": [
+      "Chao Liu",
+      "Cui-Yun Gao",
+      "Xin Xia",
+      "David Lo",
+      "John C. Grundy",
+      "Xiao-Hu Yang"
+    ],
+    "year": 2022,
+    "doi": "10.1145/3477535",
+    "url": "https://consensus.app/papers/on-the-reproducibility-and-replicability-of-deep-learning-liu-gao/eb445326b4015835bf8ea354d382ed51/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "ACM Trans. Softw. Eng. Methodol.",
+    "citation_count": 32,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A revisão e reexecução de modelos de deep learning mostram que compartilhar código não basta para reproduzir resultados.",
+    "limitation_pt": "Escopo deep learning; o aplicativo não usa IA. Relevância limitada a documentação e pacotes reprodutíveis.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-9.json"
+  },
+  {
+    "key": "eng11",
+    "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
+    "authors": [
+      "Carlos E. Anchundia",
+      "E. Fonseca C."
+    ],
+    "year": 2020,
+    "doi": "10.1109/ACCESS.2020.2964587",
+    "url": "https://consensus.app/papers/resources-for-reproducibility-of-experiments-in-anchundia-c/5ae6b7c6272d5279a652d22c19975475/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "IEEE Access",
+    "citation_count": 19,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O mapeamento de 40 estudos identifica dependência do domínio nas ferramentas e práticas de reprodução experimental.",
+    "limitation_pt": "Ferramentas dependem do domínio; não autoriza generalização direta para estudantes.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-10.json"
+  },
+  {
+    "key": "eng12",
+    "title": "Investigating replication challenges through multiple replications of an experiment",
+    "authors": [
+      "Daniel Amador dos Santos",
+      "E. D. de Almeida",
+      "Iftekhar Ahmed"
+    ],
+    "year": 2022,
+    "doi": "10.1016/j.infsof.2022.106870",
+    "url": "https://consensus.app/papers/investigating-replication-challenges-through-multiple-santos-almeida/7f7f0b20b5495c08b4a30f7cb98233c6/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Inf. Softw. Technol.",
+    "citation_count": 6,
+    "access_level": "abstract_from_search; fetch_metadata_only",
+    "claim_pt": "Sete replicações externas identificam dificuldades relacionadas a instruções pouco claras e defeitos nos artefatos.",
+    "limitation_pt": "Experimento em sistemas configuráveis; aplicar como orientação de documentação, não como resultado do MVP.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-11.json"
+  },
+  {
+    "key": "eng13",
+    "title": "The role and value of replication in empirical software engineering results",
+    "authors": [
+      "M. Shepperd",
+      "N. Ajienka",
+      "S. Counsell"
+    ],
+    "year": 2018,
+    "doi": "10.1016/j.infsof.2018.01.006",
+    "url": "https://consensus.app/papers/the-role-and-value-of-replication-in-empirical-software-shepperd-ajienka/382200bb6a9e5c1ca121622ac145f436/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Inf. Softw. Technol.",
+    "citation_count": 63,
+    "access_level": "abstract_from_search; fetch_metadata_only",
+    "claim_pt": "A revisão de replicações identifica relato incompleto e problemas para interpretar resultados confirmatórios.",
+    "limitation_pt": "Escopo previsão de esforço e pair programming; relato do resumo não estabelece validade de qualquer replicação.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-12.json"
+  },
+  {
+    "key": "eng14",
+    "title": "Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices",
+    "authors": [
+      "Mojtaba Shahin",
+      "Muhammad Ali Babar",
+      "Li-Ming Zhu"
+    ],
+    "year": 2017,
+    "doi": "10.1109/ACCESS.2017.2685629",
+    "url": "https://consensus.app/papers/continuous-integration-delivery-and-deployment-a-shahin-babar/10f0a2f9123d5ea4ac5af9c8d85b1f43/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "IEEE Access",
+    "citation_count": 667,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A revisão de 69 artigos organiza ferramentas e desafios de integração, entrega e implantação contínuas.",
+    "limitation_pt": "Revisão até junho de 2016; resultados exigem contextualização em pipelines atuais.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-13.json"
+  },
+  {
+    "key": "eng15",
+    "title": "The effects of continuous integration on software development: a systematic literature review",
+    "authors": [
+      "Eliezio Soares",
+      "Gustavo Sizílio",
+      "Jadson Santos",
+      "Daniel Alencar da Costa",
+      "U. Kulesza"
+    ],
+    "year": 2022,
+    "doi": "10.1007/s10664-021-10114-1",
+    "url": "https://consensus.app/papers/the-effects-of-continuous-integration-on-software-soares-sizílio/3635e9cdff23561b8f16add780d45048/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "Empirical Software Engineering",
+    "citation_count": 49,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "A revisão de 101 estudos empíricos identifica benefícios e desafios técnicos associados à integração contínua.",
+    "limitation_pt": "Estudos heterogêneos; benefícios de CI não equivalem a ausência de bugs ou eficácia pedagógica.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-14.json"
+  },
+  {
+    "key": "eng16",
+    "title": "Uncovering the Benefits and Challenges of Continuous Integration Practices",
+    "authors": [
+      "Omar Elazhary",
+      "Colin M. Werner",
+      "Ze-Shi Li",
+      "Derek Lowlind",
+      "Neil A. Ernst",
+      "M. Storey"
+    ],
+    "year": 2021,
+    "doi": "10.1109/TSE.2021.3064953",
+    "url": "https://consensus.app/papers/uncovering-the-benefits-and-challenges-of-continuous-elazhary-werner/d8b765ef358f59708eee6a3a606ee9d9/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "IEEE Transactions on Software Engineering",
+    "citation_count": 71,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O estudo de três empresas mostra que a implementação de CI varia com o contexto e pode criar restrições ao feedback.",
+    "limitation_pt": "Três empresas; generalização limitada e ausência de avaliação deste pipeline.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-15.json"
+  },
+  {
+    "key": "eng17",
+    "title": "FEDS: a Framework for Evaluation in Design Science Research",
+    "authors": [
+      "J. Venable",
+      "J. Pries-Heje",
+      "R. Baskerville"
+    ],
+    "year": 2016,
+    "doi": "10.1057/ejis.2014.36",
+    "url": "https://consensus.app/papers/feds-a-framework-for-evaluation-in-design-science-research-venable-pries-heje/62e9e81d258f5122a19eee0521478d38/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "European Journal of Information Systems",
+    "citation_count": 1089,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O FEDS separa avaliações formativas e somativas, artificiais e naturalistas, e orienta o planejamento dos episódios.",
+    "limitation_pt": "Framework metodológico com exemplos; não certifica o artefato nem substitui avaliação com usuários.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-16.json"
+  },
+  {
+    "key": "eng18",
+    "title": "Research artifacts for human-oriented experiments in software engineering: An ACM badges-driven structure proposal",
+    "authors": [
+      "C. Guevara-Vega",
+      "B. Bernárdez",
+      "Margarita Cruz",
+      "A. Durán",
+      "Antonio Ruiz-Cortés",
+      "Martin Solari"
+    ],
+    "year": 2024,
+    "doi": "10.1016/j.jss.2024.112187",
+    "url": "https://consensus.app/papers/research-artifacts-for-humanoriented-experiments-in-guevara-vega-bernárdez/b2248c07cbd85da0815cea955d9d718c/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "J. Syst. Softw.",
+    "citation_count": 6,
+    "access_level": "abstract_from_search; fetch_metadata_only",
+    "claim_pt": "A proposta de estrutura de artefatos para experimentos humanos organiza elementos alinhados às políticas de badges ACM.",
+    "limitation_pt": "Exige validação externa adicional; um repositório estruturado não recebe automaticamente badge ACM.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-17.json"
+  },
+  {
+    "key": "eng19",
+    "title": "Supporting Long-term Reproducible Software Execution",
+    "authors": [
+      "Luis Oliveira",
+      "David Wilkinson",
+      "Daniel Mosse",
+      "Bruce R. Childers"
+    ],
+    "year": 2018,
+    "doi": "10.1145/3214239.3214245",
+    "url": "https://dl.acm.org/doi/10.1145/3214239.3214245",
+    "kind": "conference proceedings article; peer-review not independently inspected",
+    "access_level": "SciSpace abstract and metadata; full_text_not_read",
+    "claim_pt": "O trabalho apresenta requisitos de preservação da execução e um framework que preserva software e dependências da fonte à execução.",
+    "limitation_pt": "Proposta demonstrada com Occam; não comprova reprodutibilidade de qualquer aplicativo. Política de revisão específica dos anais não foi conferida.",
+    "source_service": "SciSpace search; publisher URL supplied in retrieved record",
+    "raw_fetch": "raw/engineering-scispace-search.json"
+  },
+  {
+    "key": "eng20",
+    "title": "MEDS: Methodology for Evaluation in Design Science",
+    "authors": [
+      "Richard Baskerville",
+      "Jan Pries-Heje",
+      "John R. Venable"
+    ],
+    "year": 2026,
+    "doi": "10.1080/0960085X.2026.2627280",
+    "url": "https://consensus.app/papers/meds-methodology-for-evaluation-in-design-science-baskerville-pries-heje/edadc3f0c01b5227a0d2d501f94bc545/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "European Journal of Information Systems",
+    "access_level": "Consensus fetched abstract + publisher metadata; full_text_not_read",
+    "claim_pt": "O MEDS propõe planejar objetivos, estratégias, propriedades e episódios de avaliação para ajustar rigor e recursos em DSR.",
+    "limitation_pt": "Método orientador; não demonstra qualidade do MVP nem efeitos nos estudantes.",
+    "source_service": "Consensus search + mandatory fetch; Taylor & Francis primary metadata",
+    "raw_fetch": "raw/engineering-fetch-meds.json",
+    "publication_date": "2026-02-12",
+    "accepted_date": "2026-01-31",
+    "date_cutoff": "2026-10-05",
+    "available_before_cutoff": true,
+    "primary_verification_urls": [
+      "https://www.tandfonline.com/doi/full/10.1080/0960085X.2026.2627280"
+    ],
+    "metadata_verification_note": "Data publicada no conteúdo indexado da própria editora: Published online12Feb2026. A abertura direta retornou403; não houve leitura integral."
+  }
+]

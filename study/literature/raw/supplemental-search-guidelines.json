@@ -1,0 +1,1749 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "searchTerm": "What do the PRISMA 2020 statement, PRISMA-S literature search guideline, Manifesto for reproducible science and Academic plagiarism detection systematic literature review recommend for transparent scientific reporting?",
+      "papers": [
+        {
+          "id": 4102982201,
+          "title": "The prisma 2020 statement: a comprehensive guideline for systematic review-based perspectives",
+          "is_archived": false,
+          "full_slug": "the-prisma-2020-statement-a-comprehensive-guideline-for-aise0p7adqt6",
+          "journal": {
+            "display_name": "International Journal of Pharmacy & Integrated Health Sciences",
+            "official_page": null,
+            "issn": "2789-2840",
+            "alias": [
+              "Int J Pharm  Integr Health Sci"
+            ],
+            "id": 4000174990,
+            "slug": "international-journal-of-pharmacy-integrated-health-sciences",
+            "unique_id": "3088lfcz",
+            "full_slug": "international-journal-of-pharmacy-integrated-health-sciences-3088lfcz"
+          },
+          "conference_series": null,
+          "date": "2025-09-01T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.56536/ijpihs.v6i2.304",
+          "unique_id": "aise0p7adqt6",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Abubakar Munir",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "pdf/the-prisma-2020-statement-a-comprehensive-guideline-for-aise0p7adqt6.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://www.ijpihs.pk/index.php/IJPIHS/article/download/304/126"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3123893780,
+          "title": "PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews.",
+          "is_archived": false,
+          "full_slug": "prisma-2020-explanation-and-elaboration-updated-guidance-and-4ugr6x9xhv",
+          "journal": {
+            "display_name": "BMJ",
+            "official_page": "http://www.bmj.com/thebmj",
+            "issn": "0959-8138",
+            "alias": null,
+            "id": 192814187,
+            "slug": "bmj",
+            "unique_id": "35aeizhp",
+            "full_slug": "bmj-35aeizhp"
+          },
+          "conference_series": null,
+          "date": "2021-03-29T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1136/BMJ.N160",
+          "unique_id": "4ugr6x9xhv",
+          "authors": {
+            "total": 26,
+            "data": [
+              {
+                "display_name": "Matthew J. Page",
+                "id": 2558517594,
+                "slug": "matthew-j-page",
+                "unique_id": "2nc8ml21yc",
+                "full_slug": "matthew-j-page-2nc8ml21yc",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "David Moher",
+                "id": 3053551482,
+                "slug": "david-moher",
+                "unique_id": "4ryl5kdrpt",
+                "full_slug": "david-moher-4ryl5kdrpt",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Patrick M.M. Bossuyt",
+                "id": 2096445528,
+                "slug": "patrick-m-m-bossuyt",
+                "unique_id": "2leiic9uuj",
+                "full_slug": "patrick-m-m-bossuyt-2leiic9uuj",
+                "affiliation_full_slug": "university-of-amsterdam-2zr0utpp"
+              },
+              {
+                "display_name": "Isabelle Boutron",
+                "id": 108308545,
+                "slug": "isabelle-boutron",
+                "unique_id": "2s86lxykpx",
+                "full_slug": "isabelle-boutron-2s86lxykpx",
+                "affiliation_full_slug": "university-of-paris-3fpqqchm"
+              },
+              {
+                "display_name": "Tammy Hoffmann",
+                "id": 2128797988,
+                "slug": "tammy-hoffmann",
+                "unique_id": "3zz0cf6xk4",
+                "full_slug": "tammy-hoffmann-3zz0cf6xk4",
+                "affiliation_full_slug": "bond-university-3m4k619x"
+              },
+              {
+                "display_name": "Cynthia D. Mulrow",
+                "id": 547405418,
+                "slug": "cynthia-d-mulrow",
+                "unique_id": "1giulm2rxb",
+                "full_slug": "cynthia-d-mulrow-1giulm2rxb",
+                "affiliation_full_slug": "university-of-texas-health-science-center-at-san-antonio-3v7iquut"
+              },
+              {
+                "display_name": "Larissa Shamseer",
+                "id": 1433102634,
+                "slug": "larissa-shamseer",
+                "unique_id": "4xrdc1z7d9",
+                "full_slug": "larissa-shamseer-4xrdc1z7d9",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Jennifer Tetzlaff",
+                "id": 2950205958,
+                "slug": "jennifer-tetzlaff",
+                "unique_id": "3qab6n1sag",
+                "full_slug": "jennifer-tetzlaff-3qab6n1sag"
+              },
+              {
+                "display_name": "Elie A. Akl",
+                "id": 1817415791,
+                "slug": "elie-a-akl",
+                "unique_id": "tq9jsi7pfs",
+                "full_slug": "elie-a-akl-tq9jsi7pfs",
+                "affiliation_full_slug": "american-university-of-beirut-3fpna7xp"
+              },
+              {
+                "display_name": "Sue E. Brennan",
+                "id": 2311713464,
+                "slug": "sue-e-brennan",
+                "unique_id": "2ln86g3qsw",
+                "full_slug": "sue-e-brennan-2ln86g3qsw",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Roger Chou",
+                "id": 2112892034,
+                "slug": "roger-chou",
+                "unique_id": "2onlki18w5",
+                "full_slug": "roger-chou-2onlki18w5",
+                "affiliation_full_slug": "oregon-health-science-university-wxogfhhg"
+              },
+              {
+                "display_name": "Julie Glanville",
+                "id": 1821501360,
+                "slug": "julie-glanville",
+                "unique_id": "l2bbtxconu",
+                "full_slug": "julie-glanville-l2bbtxconu",
+                "affiliation_full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "Jeremy M. Grimshaw",
+                "id": 2407176465,
+                "slug": "jeremy-m-grimshaw",
+                "unique_id": "1bbo59q8zs",
+                "full_slug": "jeremy-m-grimshaw-1bbo59q8zs",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Asbjørn Hróbjartsson",
+                "id": 2123712403,
+                "slug": "asbjorn-hrobjartsson",
+                "unique_id": "33rfit9kz4",
+                "full_slug": "asbjorn-hrobjartsson-33rfit9kz4",
+                "affiliation_full_slug": "university-of-southern-denmark-2lb737x5"
+              },
+              {
+                "display_name": "Manoj M. Lalu",
+                "id": 1866010088,
+                "slug": "manoj-m-lalu",
+                "unique_id": "z3ay1qvwsa",
+                "full_slug": "manoj-m-lalu-z3ay1qvwsa",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Tianjing Li",
+                "id": 2128841092,
+                "slug": "tianjing-li",
+                "unique_id": "47ss9tnl24",
+                "full_slug": "tianjing-li-47ss9tnl24",
+                "affiliation_full_slug": "johns-hopkins-university-gbw0p3kc"
+              },
+              {
+                "display_name": "Elizabeth Loder",
+                "id": 863620381,
+                "slug": "elizabeth-loder",
+                "unique_id": "2b8jym0zbo",
+                "full_slug": "elizabeth-loder-2b8jym0zbo",
+                "affiliation_full_slug": "brigham-and-women-s-hospital-17vm92sb"
+              },
+              {
+                "display_name": "Evan Mayo-Wilson",
+                "id": 2128495519,
+                "slug": "evan-mayo-wilson",
+                "unique_id": "3fwuwg73bx",
+                "full_slug": "evan-mayo-wilson-3fwuwg73bx",
+                "affiliation_full_slug": "indiana-university-2d1ug4jd"
+              },
+              {
+                "display_name": "Steve McDonald",
+                "id": 2122147782,
+                "slug": "steve-mcdonald",
+                "unique_id": "447l4ngs5i",
+                "full_slug": "steve-mcdonald-447l4ngs5i",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Luke A McGuinness",
+                "id": 2714185379,
+                "slug": "luke-a-mcguinness",
+                "unique_id": "1n495g9q39",
+                "full_slug": "luke-a-mcguinness-1n495g9q39",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "Lesley A. Stewart",
+                "id": 2146381240,
+                "slug": "lesley-a-stewart",
+                "unique_id": "40tg6iapt3",
+                "full_slug": "lesley-a-stewart-40tg6iapt3",
+                "affiliation_full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "James Thomas",
+                "id": 2952883491,
+                "slug": "james-thomas",
+                "unique_id": "1srt5xs72e",
+                "full_slug": "james-thomas-1srt5xs72e",
+                "affiliation_full_slug": "university-college-london-269wra00"
+              },
+              {
+                "display_name": "Andrea C. Tricco",
+                "id": 2309799991,
+                "slug": "andrea-c-tricco",
+                "unique_id": "581xdgy7ax",
+                "full_slug": "andrea-c-tricco-581xdgy7ax",
+                "affiliation_full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "Vivian Welch",
+                "id": 1969245441,
+                "slug": "vivian-welch",
+                "unique_id": "3lfmmm42fo",
+                "full_slug": "vivian-welch-3lfmmm42fo",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Penny Whiting",
+                "id": 2166825315,
+                "slug": "penny-whiting",
+                "unique_id": "1d5gtrbfy7",
+                "full_slug": "penny-whiting-1d5gtrbfy7",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "Joanne E. McKenzie",
+                "id": 2105660056,
+                "slug": "joanne-e-mckenzie",
+                "unique_id": "by24t7hc2e",
+                "full_slug": "joanne-e-mckenzie-by24t7hc2e",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 17,
+            "data": [
+              {
+                "display_name": "Monash University",
+                "city": "Melbourne",
+                "region": "Victoria",
+                "country": "Australia",
+                "id": 56590836,
+                "slug": "monash-university",
+                "unique_id": "9fqvckub",
+                "full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "University of Ottawa",
+                "city": "Ottawa",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 153718931,
+                "slug": "university-of-ottawa",
+                "unique_id": "g1yqgocj",
+                "full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "University of Amsterdam",
+                "city": "Amsterdam",
+                "region": "Noord-Holland",
+                "country": "Netherlands",
+                "id": 887064364,
+                "slug": "university-of-amsterdam",
+                "unique_id": "2zr0utpp",
+                "full_slug": "university-of-amsterdam-2zr0utpp"
+              },
+              {
+                "display_name": "University of Paris",
+                "city": "Paris",
+                "region": null,
+                "country": "France",
+                "id": 204730241,
+                "slug": "university-of-paris",
+                "unique_id": "3fpqqchm",
+                "full_slug": "university-of-paris-3fpqqchm"
+              },
+              {
+                "display_name": "Bond University",
+                "city": "Gold Coast",
+                "region": "Queensland",
+                "country": "Australia",
+                "id": 120125038,
+                "slug": "bond-university",
+                "unique_id": "3m4k619x",
+                "full_slug": "bond-university-3m4k619x"
+              },
+              {
+                "display_name": "University of Texas Health Science Center at San Antonio",
+                "city": "San Antonio",
+                "region": "Texas",
+                "country": "United States",
+                "id": 165951966,
+                "slug": "university-of-texas-health-science-center-at-san-antonio",
+                "unique_id": "3v7iquut",
+                "full_slug": "university-of-texas-health-science-center-at-san-antonio-3v7iquut"
+              },
+              {
+                "display_name": "American University of Beirut",
+                "city": "Beirut",
+                "region": null,
+                "country": "Lebanon",
+                "id": 98635879,
+                "slug": "american-university-of-beirut",
+                "unique_id": "3fpna7xp",
+                "full_slug": "american-university-of-beirut-3fpna7xp"
+              },
+              {
+                "display_name": "Oregon Health & Science University",
+                "city": "Portland",
+                "region": "Oregon",
+                "country": "United States",
+                "id": 165690674,
+                "slug": "oregon-health-science-university",
+                "unique_id": "wxogfhhg",
+                "full_slug": "oregon-health-science-university-wxogfhhg"
+              },
+              {
+                "display_name": "University of York",
+                "city": "York",
+                "region": "York",
+                "country": "United Kingdom",
+                "id": 52099693,
+                "slug": "university-of-york",
+                "unique_id": "2jfbo9md",
+                "full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "Ottawa Hospital Research Institute",
+                "city": null,
+                "region": null,
+                "country": null,
+                "id": 114257568,
+                "slug": "ottawa-hospital-research-institute",
+                "unique_id": "3dl0mlv2",
+                "full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "University of Southern Denmark",
+                "city": "Odense",
+                "region": "Syddanmark",
+                "country": "Denmark",
+                "id": 177969490,
+                "slug": "university-of-southern-denmark",
+                "unique_id": "2lb737x5",
+                "full_slug": "university-of-southern-denmark-2lb737x5"
+              },
+              {
+                "display_name": "Johns Hopkins University",
+                "city": "Baltimore",
+                "region": "Maryland",
+                "country": "United States",
+                "id": 145311948,
+                "slug": "johns-hopkins-university",
+                "unique_id": "gbw0p3kc",
+                "full_slug": "johns-hopkins-university-gbw0p3kc"
+              },
+              {
+                "display_name": "Brigham and Women's Hospital",
+                "city": "Boston",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 1283280774,
+                "slug": "brigham-and-women-s-hospital",
+                "unique_id": "17vm92sb",
+                "full_slug": "brigham-and-women-s-hospital-17vm92sb"
+              },
+              {
+                "display_name": "Indiana University",
+                "city": "Bloomington",
+                "region": "Indiana",
+                "country": "United States",
+                "id": 592451,
+                "slug": "indiana-university",
+                "unique_id": "2d1ug4jd",
+                "full_slug": "indiana-university-2d1ug4jd"
+              },
+              {
+                "display_name": "University of Bristol",
+                "city": "Bristol",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 36234482,
+                "slug": "university-of-bristol",
+                "unique_id": "15r1lwmd",
+                "full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "University College London",
+                "city": "London",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 45129253,
+                "slug": "university-college-london",
+                "unique_id": "269wra00",
+                "full_slug": "university-college-london-269wra00"
+              },
+              {
+                "display_name": "University of Toronto",
+                "city": "Toronto",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 185261750,
+                "slug": "university-of-toronto",
+                "unique_id": "3dwwuuvf",
+                "full_slug": "university-of-toronto-3dwwuuvf"
+              }
+            ]
+          },
+          "fulltext_url": "https://www.bmj.com/content/bmj/372/bmj.n160.full.pdf",
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://www.bmj.com/content/372/bmj.n160",
+                "https://pubmed.ncbi.nlm.nih.gov/33781993/"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 6046
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4069586949,
+          "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "is_archived": false,
+          "full_slug": "the-prisma-2020-statement-an-updated-guideline-for-reporting-4xnn01w6ecnd",
+          "journal": null,
+          "conference_series": null,
+          "date": "2020-09-14T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.31222/osf.io/v7gm2_v1",
+          "unique_id": "4xnn01w6ecnd",
+          "authors": {
+            "total": 26,
+            "data": [
+              {
+                "display_name": "Matthew J. Page",
+                "full_slug": null
+              },
+              {
+                "display_name": "Joanne E. McKenzie",
+                "full_slug": null
+              },
+              {
+                "display_name": "Patrick M. Bossuyt",
+                "full_slug": null
+              },
+              {
+                "display_name": "Isabelle Boutron",
+                "full_slug": null
+              },
+              {
+                "display_name": "Tammy Hoffmann",
+                "full_slug": null
+              },
+              {
+                "display_name": "cindy mulrow",
+                "full_slug": null
+              },
+              {
+                "display_name": "Larissa Shamseer",
+                "full_slug": null
+              },
+              {
+                "display_name": "Jennifer Tetzlaff",
+                "full_slug": null
+              },
+              {
+                "display_name": "Elie A. Akl",
+                "full_slug": null
+              },
+              {
+                "display_name": "Sue Brennan",
+                "full_slug": null
+              },
+              {
+                "display_name": "Roger Chou",
+                "full_slug": null
+              },
+              {
+                "display_name": "Julie Glanville",
+                "full_slug": null
+              },
+              {
+                "display_name": "Jeremy Grimshaw",
+                "full_slug": null
+              },
+              {
+                "display_name": "Asbjørn Hróbjartsson",
+                "full_slug": null
+              },
+              {
+                "display_name": "Manoj M. Lalu",
+                "full_slug": null
+              },
+              {
+                "display_name": "Tianjing Li",
+                "full_slug": null
+              },
+              {
+                "display_name": "Elizabeth Loder",
+                "full_slug": null
+              },
+              {
+                "display_name": "Evan Mayo‐Wilson",
+                "full_slug": null
+              },
+              {
+                "display_name": "Steve McDonald",
+                "full_slug": null
+              },
+              {
+                "display_name": "Luke A. McGuinness",
+                "full_slug": null
+              },
+              {
+                "display_name": "Lesley Stewart",
+                "full_slug": null
+              },
+              {
+                "display_name": "James Thomas",
+                "full_slug": null
+              },
+              {
+                "display_name": "Andrea C. Tricco",
+                "full_slug": null
+              },
+              {
+                "display_name": "Vivian Welch",
+                "full_slug": null
+              },
+              {
+                "display_name": "Penny Whiting",
+                "full_slug": null
+              },
+              {
+                "display_name": "David Moher",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": 7
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3118615836,
+          "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "is_archived": false,
+          "full_slug": "the-prisma-2020-statement-an-updated-guideline-for-reporting-pyy4md30ze",
+          "journal": {
+            "display_name": "BMJ",
+            "official_page": "http://www.bmj.com/thebmj",
+            "issn": "0959-8138",
+            "alias": null,
+            "id": 192814187,
+            "slug": "bmj",
+            "unique_id": "35aeizhp",
+            "full_slug": "bmj-35aeizhp"
+          },
+          "conference_series": null,
+          "date": "2021-03-29T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1136/BMJ.N71",
+          "unique_id": "pyy4md30ze",
+          "authors": {
+            "total": 26,
+            "data": [
+              {
+                "display_name": "Matthew J. Page",
+                "id": 2558517594,
+                "slug": "matthew-j-page",
+                "unique_id": "2nc8ml21yc",
+                "full_slug": "matthew-j-page-2nc8ml21yc",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Joanne E. McKenzie",
+                "id": 2105660056,
+                "slug": "joanne-e-mckenzie",
+                "unique_id": "by24t7hc2e",
+                "full_slug": "joanne-e-mckenzie-by24t7hc2e",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Patrick M.M. Bossuyt",
+                "id": 2096445528,
+                "slug": "patrick-m-m-bossuyt",
+                "unique_id": "2leiic9uuj",
+                "full_slug": "patrick-m-m-bossuyt-2leiic9uuj",
+                "affiliation_full_slug": "university-of-amsterdam-2zr0utpp"
+              },
+              {
+                "display_name": "Isabelle Boutron",
+                "id": 108308545,
+                "slug": "isabelle-boutron",
+                "unique_id": "2s86lxykpx",
+                "full_slug": "isabelle-boutron-2s86lxykpx",
+                "affiliation_full_slug": "university-of-paris-3fpqqchm"
+              },
+              {
+                "display_name": "Tammy Hoffmann",
+                "id": 2128797988,
+                "slug": "tammy-hoffmann",
+                "unique_id": "3zz0cf6xk4",
+                "full_slug": "tammy-hoffmann-3zz0cf6xk4",
+                "affiliation_full_slug": "bond-university-3m4k619x"
+              },
+              {
+                "display_name": "Cynthia D. Mulrow",
+                "id": 3143933860,
+                "slug": "cynthia-d-mulrow",
+                "unique_id": "3dkyv3zahc",
+                "full_slug": "cynthia-d-mulrow-3dkyv3zahc",
+                "affiliation_full_slug": "university-of-texas-health-science-center-at-san-antonio-3v7iquut"
+              },
+              {
+                "display_name": "Larissa Shamseer",
+                "id": 1433102634,
+                "slug": "larissa-shamseer",
+                "unique_id": "4xrdc1z7d9",
+                "full_slug": "larissa-shamseer-4xrdc1z7d9",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Jennifer Tetzlaff",
+                "id": 2950205958,
+                "slug": "jennifer-tetzlaff",
+                "unique_id": "3qab6n1sag",
+                "full_slug": "jennifer-tetzlaff-3qab6n1sag"
+              },
+              {
+                "display_name": "Elie A. Akl",
+                "id": 1817415791,
+                "slug": "elie-a-akl",
+                "unique_id": "tq9jsi7pfs",
+                "full_slug": "elie-a-akl-tq9jsi7pfs",
+                "affiliation_full_slug": "american-university-of-beirut-3fpna7xp"
+              },
+              {
+                "display_name": "Sue E. Brennan",
+                "id": 2311713464,
+                "slug": "sue-e-brennan",
+                "unique_id": "2ln86g3qsw",
+                "full_slug": "sue-e-brennan-2ln86g3qsw",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Roger Chou",
+                "id": 2112892034,
+                "slug": "roger-chou",
+                "unique_id": "2onlki18w5",
+                "full_slug": "roger-chou-2onlki18w5",
+                "affiliation_full_slug": "oregon-health-science-university-wxogfhhg"
+              },
+              {
+                "display_name": "Julie Glanville",
+                "id": 1821501360,
+                "slug": "julie-glanville",
+                "unique_id": "l2bbtxconu",
+                "full_slug": "julie-glanville-l2bbtxconu",
+                "affiliation_full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "Jeremy M. Grimshaw",
+                "id": 2407176465,
+                "slug": "jeremy-m-grimshaw",
+                "unique_id": "1bbo59q8zs",
+                "full_slug": "jeremy-m-grimshaw-1bbo59q8zs",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Asbjørn Hróbjartsson",
+                "id": 2123712403,
+                "slug": "asbjorn-hrobjartsson",
+                "unique_id": "33rfit9kz4",
+                "full_slug": "asbjorn-hrobjartsson-33rfit9kz4",
+                "affiliation_full_slug": "university-of-southern-denmark-2lb737x5"
+              },
+              {
+                "display_name": "Manoj M. Lalu",
+                "id": 1866010088,
+                "slug": "manoj-m-lalu",
+                "unique_id": "z3ay1qvwsa",
+                "full_slug": "manoj-m-lalu-z3ay1qvwsa",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Tianjing Li",
+                "id": 2128841092,
+                "slug": "tianjing-li",
+                "unique_id": "47ss9tnl24",
+                "full_slug": "tianjing-li-47ss9tnl24",
+                "affiliation_full_slug": "johns-hopkins-university-gbw0p3kc"
+              },
+              {
+                "display_name": "Elizabeth Loder",
+                "id": 863620381,
+                "slug": "elizabeth-loder",
+                "unique_id": "2b8jym0zbo",
+                "full_slug": "elizabeth-loder-2b8jym0zbo",
+                "affiliation_full_slug": "brigham-and-women-s-hospital-17vm92sb"
+              },
+              {
+                "display_name": "Evan Mayo-Wilson",
+                "id": 2128495519,
+                "slug": "evan-mayo-wilson",
+                "unique_id": "3fwuwg73bx",
+                "full_slug": "evan-mayo-wilson-3fwuwg73bx",
+                "affiliation_full_slug": "indiana-university-2d1ug4jd"
+              },
+              {
+                "display_name": "Steve McDonald",
+                "id": 2122147782,
+                "slug": "steve-mcdonald",
+                "unique_id": "447l4ngs5i",
+                "full_slug": "steve-mcdonald-447l4ngs5i",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Luke A McGuinness",
+                "id": 2714185379,
+                "slug": "luke-a-mcguinness",
+                "unique_id": "1n495g9q39",
+                "full_slug": "luke-a-mcguinness-1n495g9q39",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "Lesley A. Stewart",
+                "id": 2146381240,
+                "slug": "lesley-a-stewart",
+                "unique_id": "40tg6iapt3",
+                "full_slug": "lesley-a-stewart-40tg6iapt3",
+                "affiliation_full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "James Thomas",
+                "id": 2952883491,
+                "slug": "james-thomas",
+                "unique_id": "1srt5xs72e",
+                "full_slug": "james-thomas-1srt5xs72e",
+                "affiliation_full_slug": "university-college-london-269wra00"
+              },
+              {
+                "display_name": "Andrea C. Tricco",
+                "id": 2309799991,
+                "slug": "andrea-c-tricco",
+                "unique_id": "581xdgy7ax",
+                "full_slug": "andrea-c-tricco-581xdgy7ax",
+                "affiliation_full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "Vivian Welch",
+                "id": 1969245441,
+                "slug": "vivian-welch",
+                "unique_id": "3lfmmm42fo",
+                "full_slug": "vivian-welch-3lfmmm42fo",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Penny Whiting",
+                "id": 2166825315,
+                "slug": "penny-whiting",
+                "unique_id": "1d5gtrbfy7",
+                "full_slug": "penny-whiting-1d5gtrbfy7",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "David Moher",
+                "id": 3071555975,
+                "slug": "david-moher",
+                "unique_id": "42klhmzurt",
+                "full_slug": "david-moher-42klhmzurt",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 17,
+            "data": [
+              {
+                "display_name": "Monash University",
+                "city": "Melbourne",
+                "region": "Victoria",
+                "country": "Australia",
+                "id": 56590836,
+                "slug": "monash-university",
+                "unique_id": "9fqvckub",
+                "full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "University of Amsterdam",
+                "city": "Amsterdam",
+                "region": "Noord-Holland",
+                "country": "Netherlands",
+                "id": 887064364,
+                "slug": "university-of-amsterdam",
+                "unique_id": "2zr0utpp",
+                "full_slug": "university-of-amsterdam-2zr0utpp"
+              },
+              {
+                "display_name": "University of Paris",
+                "city": "Paris",
+                "region": null,
+                "country": "France",
+                "id": 204730241,
+                "slug": "university-of-paris",
+                "unique_id": "3fpqqchm",
+                "full_slug": "university-of-paris-3fpqqchm"
+              },
+              {
+                "display_name": "Bond University",
+                "city": "Gold Coast",
+                "region": "Queensland",
+                "country": "Australia",
+                "id": 120125038,
+                "slug": "bond-university",
+                "unique_id": "3m4k619x",
+                "full_slug": "bond-university-3m4k619x"
+              },
+              {
+                "display_name": "University of Texas Health Science Center at San Antonio",
+                "city": "San Antonio",
+                "region": "Texas",
+                "country": "United States",
+                "id": 165951966,
+                "slug": "university-of-texas-health-science-center-at-san-antonio",
+                "unique_id": "3v7iquut",
+                "full_slug": "university-of-texas-health-science-center-at-san-antonio-3v7iquut"
+              },
+              {
+                "display_name": "University of Ottawa",
+                "city": "Ottawa",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 153718931,
+                "slug": "university-of-ottawa",
+                "unique_id": "g1yqgocj",
+                "full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "American University of Beirut",
+                "city": "Beirut",
+                "region": null,
+                "country": "Lebanon",
+                "id": 98635879,
+                "slug": "american-university-of-beirut",
+                "unique_id": "3fpna7xp",
+                "full_slug": "american-university-of-beirut-3fpna7xp"
+              },
+              {
+                "display_name": "Oregon Health & Science University",
+                "city": "Portland",
+                "region": "Oregon",
+                "country": "United States",
+                "id": 165690674,
+                "slug": "oregon-health-science-university",
+                "unique_id": "wxogfhhg",
+                "full_slug": "oregon-health-science-university-wxogfhhg"
+              },
+              {
+                "display_name": "University of York",
+                "city": "York",
+                "region": "York",
+                "country": "United Kingdom",
+                "id": 52099693,
+                "slug": "university-of-york",
+                "unique_id": "2jfbo9md",
+                "full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "Ottawa Hospital Research Institute",
+                "city": null,
+                "region": null,
+                "country": null,
+                "id": 114257568,
+                "slug": "ottawa-hospital-research-institute",
+                "unique_id": "3dl0mlv2",
+                "full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "University of Southern Denmark",
+                "city": "Odense",
+                "region": "Syddanmark",
+                "country": "Denmark",
+                "id": 177969490,
+                "slug": "university-of-southern-denmark",
+                "unique_id": "2lb737x5",
+                "full_slug": "university-of-southern-denmark-2lb737x5"
+              },
+              {
+                "display_name": "Johns Hopkins University",
+                "city": "Baltimore",
+                "region": "Maryland",
+                "country": "United States",
+                "id": 145311948,
+                "slug": "johns-hopkins-university",
+                "unique_id": "gbw0p3kc",
+                "full_slug": "johns-hopkins-university-gbw0p3kc"
+              },
+              {
+                "display_name": "Brigham and Women's Hospital",
+                "city": "Boston",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 1283280774,
+                "slug": "brigham-and-women-s-hospital",
+                "unique_id": "17vm92sb",
+                "full_slug": "brigham-and-women-s-hospital-17vm92sb"
+              },
+              {
+                "display_name": "Indiana University",
+                "city": "Bloomington",
+                "region": "Indiana",
+                "country": "United States",
+                "id": 592451,
+                "slug": "indiana-university",
+                "unique_id": "2d1ug4jd",
+                "full_slug": "indiana-university-2d1ug4jd"
+              },
+              {
+                "display_name": "University of Bristol",
+                "city": "Bristol",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 36234482,
+                "slug": "university-of-bristol",
+                "unique_id": "15r1lwmd",
+                "full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "University College London",
+                "city": "London",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 45129253,
+                "slug": "university-college-london",
+                "unique_id": "269wra00",
+                "full_slug": "university-college-london-269wra00"
+              },
+              {
+                "display_name": "University of Toronto",
+                "city": "Toronto",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 185261750,
+                "slug": "university-of-toronto",
+                "unique_id": "3dwwuuvf",
+                "full_slug": "university-of-toronto-3dwwuuvf"
+              }
+            ]
+          },
+          "fulltext_url": "https://www.bmj.com/content/bmj/372/bmj.n71.full.pdf",
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://www.bmj.com/content/372/bmj.n71",
+                "https://pubmed.ncbi.nlm.nih.gov/33782057/"
+              ],
+              "Pdf": [
+                "https://ruor.uottawa.ca/bitstream/10393/41938/1/13643_2021_Article_1626.pdf"
+              ],
+              "Others": [
+                "http://pubmed.ncbi.nlm.nih.gov/33782057/"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 46292
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3144543375,
+          "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "is_archived": false,
+          "full_slug": "the-prisma-2020-statement-an-updated-guideline-for-reporting-137rnghtc1",
+          "journal": {
+            "display_name": "Systematic Reviews",
+            "official_page": "http://www.systematicreviewsjournal.com/",
+            "issn": "2046-4053",
+            "alias": null,
+            "id": 82452678,
+            "slug": "systematic-reviews",
+            "unique_id": "v6nh5k1c",
+            "full_slug": "systematic-reviews-v6nh5k1c"
+          },
+          "conference_series": null,
+          "date": "2021-03-29T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1186/S13643-021-01626-4",
+          "unique_id": "137rnghtc1",
+          "authors": {
+            "total": 26,
+            "data": [
+              {
+                "display_name": "Matthew J. Page",
+                "id": 2558517594,
+                "slug": "matthew-j-page",
+                "unique_id": "2nc8ml21yc",
+                "full_slug": "matthew-j-page-2nc8ml21yc",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Joanne E. McKenzie",
+                "id": 2105660056,
+                "slug": "joanne-e-mckenzie",
+                "unique_id": "by24t7hc2e",
+                "full_slug": "joanne-e-mckenzie-by24t7hc2e",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Patrick M.M. Bossuyt",
+                "id": 2096445528,
+                "slug": "patrick-m-m-bossuyt",
+                "unique_id": "2leiic9uuj",
+                "full_slug": "patrick-m-m-bossuyt-2leiic9uuj",
+                "affiliation_full_slug": "university-of-amsterdam-2zr0utpp"
+              },
+              {
+                "display_name": "Isabelle Boutron",
+                "id": 108308545,
+                "slug": "isabelle-boutron",
+                "unique_id": "2s86lxykpx",
+                "full_slug": "isabelle-boutron-2s86lxykpx",
+                "affiliation_full_slug": "university-of-paris-3fpqqchm"
+              },
+              {
+                "display_name": "Tammy Hoffmann",
+                "id": 2128797988,
+                "slug": "tammy-hoffmann",
+                "unique_id": "3zz0cf6xk4",
+                "full_slug": "tammy-hoffmann-3zz0cf6xk4",
+                "affiliation_full_slug": "bond-university-3m4k619x"
+              },
+              {
+                "display_name": "Cynthia D. Mulrow",
+                "id": 3143933860,
+                "slug": "cynthia-d-mulrow",
+                "unique_id": "3dkyv3zahc",
+                "full_slug": "cynthia-d-mulrow-3dkyv3zahc",
+                "affiliation_full_slug": "university-of-texas-health-science-center-at-san-antonio-3v7iquut"
+              },
+              {
+                "display_name": "Larissa Shamseer",
+                "id": 1433102634,
+                "slug": "larissa-shamseer",
+                "unique_id": "4xrdc1z7d9",
+                "full_slug": "larissa-shamseer-4xrdc1z7d9",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Jennifer Tetzlaff",
+                "id": 2950205958,
+                "slug": "jennifer-tetzlaff",
+                "unique_id": "3qab6n1sag",
+                "full_slug": "jennifer-tetzlaff-3qab6n1sag"
+              },
+              {
+                "display_name": "Elie A. Akl",
+                "id": 1817415791,
+                "slug": "elie-a-akl",
+                "unique_id": "tq9jsi7pfs",
+                "full_slug": "elie-a-akl-tq9jsi7pfs",
+                "affiliation_full_slug": "american-university-of-beirut-3fpna7xp"
+              },
+              {
+                "display_name": "Sue E. Brennan",
+                "id": 2311713464,
+                "slug": "sue-e-brennan",
+                "unique_id": "2ln86g3qsw",
+                "full_slug": "sue-e-brennan-2ln86g3qsw",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Roger Chou",
+                "id": 2112892034,
+                "slug": "roger-chou",
+                "unique_id": "2onlki18w5",
+                "full_slug": "roger-chou-2onlki18w5",
+                "affiliation_full_slug": "oregon-health-science-university-wxogfhhg"
+              },
+              {
+                "display_name": "Julie Glanville",
+                "id": 1821501360,
+                "slug": "julie-glanville",
+                "unique_id": "l2bbtxconu",
+                "full_slug": "julie-glanville-l2bbtxconu",
+                "affiliation_full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "Jeremy M. Grimshaw",
+                "id": 2407176465,
+                "slug": "jeremy-m-grimshaw",
+                "unique_id": "1bbo59q8zs",
+                "full_slug": "jeremy-m-grimshaw-1bbo59q8zs",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Asbjørn Hróbjartsson",
+                "id": 2123712403,
+                "slug": "asbjorn-hrobjartsson",
+                "unique_id": "33rfit9kz4",
+                "full_slug": "asbjorn-hrobjartsson-33rfit9kz4",
+                "affiliation_full_slug": "university-of-southern-denmark-2lb737x5"
+              },
+              {
+                "display_name": "Manoj M. Lalu",
+                "id": 1866010088,
+                "slug": "manoj-m-lalu",
+                "unique_id": "z3ay1qvwsa",
+                "full_slug": "manoj-m-lalu-z3ay1qvwsa",
+                "affiliation_full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "Tianjing Li",
+                "id": 2128841092,
+                "slug": "tianjing-li",
+                "unique_id": "47ss9tnl24",
+                "full_slug": "tianjing-li-47ss9tnl24",
+                "affiliation_full_slug": "johns-hopkins-university-gbw0p3kc"
+              },
+              {
+                "display_name": "Elizabeth Loder",
+                "id": 863620381,
+                "slug": "elizabeth-loder",
+                "unique_id": "2b8jym0zbo",
+                "full_slug": "elizabeth-loder-2b8jym0zbo",
+                "affiliation_full_slug": "brigham-and-women-s-hospital-17vm92sb"
+              },
+              {
+                "display_name": "Evan Mayo-Wilson",
+                "id": 2128495519,
+                "slug": "evan-mayo-wilson",
+                "unique_id": "3fwuwg73bx",
+                "full_slug": "evan-mayo-wilson-3fwuwg73bx",
+                "affiliation_full_slug": "indiana-university-2d1ug4jd"
+              },
+              {
+                "display_name": "Steve McDonald",
+                "id": 2122147782,
+                "slug": "steve-mcdonald",
+                "unique_id": "447l4ngs5i",
+                "full_slug": "steve-mcdonald-447l4ngs5i",
+                "affiliation_full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "Luke A McGuinness",
+                "id": 2714185379,
+                "slug": "luke-a-mcguinness",
+                "unique_id": "1n495g9q39",
+                "full_slug": "luke-a-mcguinness-1n495g9q39",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "Lesley A. Stewart",
+                "id": 2146381240,
+                "slug": "lesley-a-stewart",
+                "unique_id": "40tg6iapt3",
+                "full_slug": "lesley-a-stewart-40tg6iapt3",
+                "affiliation_full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "James Thomas",
+                "id": 2952883491,
+                "slug": "james-thomas",
+                "unique_id": "1srt5xs72e",
+                "full_slug": "james-thomas-1srt5xs72e",
+                "affiliation_full_slug": "university-college-london-269wra00"
+              },
+              {
+                "display_name": "Andrea C. Tricco",
+                "id": 2309799991,
+                "slug": "andrea-c-tricco",
+                "unique_id": "581xdgy7ax",
+                "full_slug": "andrea-c-tricco-581xdgy7ax",
+                "affiliation_full_slug": "university-of-toronto-3dwwuuvf"
+              },
+              {
+                "display_name": "Vivian Welch",
+                "id": 1969245441,
+                "slug": "vivian-welch",
+                "unique_id": "3lfmmm42fo",
+                "full_slug": "vivian-welch-3lfmmm42fo",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "Penny Whiting",
+                "id": 2166825315,
+                "slug": "penny-whiting",
+                "unique_id": "1d5gtrbfy7",
+                "full_slug": "penny-whiting-1d5gtrbfy7",
+                "affiliation_full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "David Moher",
+                "id": 3071555975,
+                "slug": "david-moher",
+                "unique_id": "42klhmzurt",
+                "full_slug": "david-moher-42klhmzurt",
+                "affiliation_full_slug": "university-of-ottawa-g1yqgocj"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 17,
+            "data": [
+              {
+                "display_name": "Monash University",
+                "city": "Melbourne",
+                "region": "Victoria",
+                "country": "Australia",
+                "id": 56590836,
+                "slug": "monash-university",
+                "unique_id": "9fqvckub",
+                "full_slug": "monash-university-9fqvckub"
+              },
+              {
+                "display_name": "University of Amsterdam",
+                "city": "Amsterdam",
+                "region": "Noord-Holland",
+                "country": "Netherlands",
+                "id": 887064364,
+                "slug": "university-of-amsterdam",
+                "unique_id": "2zr0utpp",
+                "full_slug": "university-of-amsterdam-2zr0utpp"
+              },
+              {
+                "display_name": "University of Paris",
+                "city": "Paris",
+                "region": null,
+                "country": "France",
+                "id": 204730241,
+                "slug": "university-of-paris",
+                "unique_id": "3fpqqchm",
+                "full_slug": "university-of-paris-3fpqqchm"
+              },
+              {
+                "display_name": "Bond University",
+                "city": "Gold Coast",
+                "region": "Queensland",
+                "country": "Australia",
+                "id": 120125038,
+                "slug": "bond-university",
+                "unique_id": "3m4k619x",
+                "full_slug": "bond-university-3m4k619x"
+              },
+              {
+                "display_name": "University of Texas Health Science Center at San Antonio",
+                "city": "San Antonio",
+                "region": "Texas",
+                "country": "United States",
+                "id": 165951966,
+                "slug": "university-of-texas-health-science-center-at-san-antonio",
+                "unique_id": "3v7iquut",
+                "full_slug": "university-of-texas-health-science-center-at-san-antonio-3v7iquut"
+              },
+              {
+                "display_name": "University of Ottawa",
+                "city": "Ottawa",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 153718931,
+                "slug": "university-of-ottawa",
+                "unique_id": "g1yqgocj",
+                "full_slug": "university-of-ottawa-g1yqgocj"
+              },
+              {
+                "display_name": "American University of Beirut",
+                "city": "Beirut",
+                "region": null,
+                "country": "Lebanon",
+                "id": 98635879,
+                "slug": "american-university-of-beirut",
+                "unique_id": "3fpna7xp",
+                "full_slug": "american-university-of-beirut-3fpna7xp"
+              },
+              {
+                "display_name": "Oregon Health & Science University",
+                "city": "Portland",
+                "region": "Oregon",
+                "country": "United States",
+                "id": 165690674,
+                "slug": "oregon-health-science-university",
+                "unique_id": "wxogfhhg",
+                "full_slug": "oregon-health-science-university-wxogfhhg"
+              },
+              {
+                "display_name": "University of York",
+                "city": "York",
+                "region": "York",
+                "country": "United Kingdom",
+                "id": 52099693,
+                "slug": "university-of-york",
+                "unique_id": "2jfbo9md",
+                "full_slug": "university-of-york-2jfbo9md"
+              },
+              {
+                "display_name": "Ottawa Hospital Research Institute",
+                "city": null,
+                "region": null,
+                "country": null,
+                "id": 114257568,
+                "slug": "ottawa-hospital-research-institute",
+                "unique_id": "3dl0mlv2",
+                "full_slug": "ottawa-hospital-research-institute-3dl0mlv2"
+              },
+              {
+                "display_name": "University of Southern Denmark",
+                "city": "Odense",
+                "region": "Syddanmark",
+                "country": "Denmark",
+                "id": 177969490,
+                "slug": "university-of-southern-denmark",
+                "unique_id": "2lb737x5",
+                "full_slug": "university-of-southern-denmark-2lb737x5"
+              },
+              {
+                "display_name": "Johns Hopkins University",
+                "city": "Baltimore",
+                "region": "Maryland",
+                "country": "United States",
+                "id": 145311948,
+                "slug": "johns-hopkins-university",
+                "unique_id": "gbw0p3kc",
+                "full_slug": "johns-hopkins-university-gbw0p3kc"
+              },
+              {
+                "display_name": "Brigham and Women's Hospital",
+                "city": "Boston",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 1283280774,
+                "slug": "brigham-and-women-s-hospital",
+                "unique_id": "17vm92sb",
+                "full_slug": "brigham-and-women-s-hospital-17vm92sb"
+              },
+              {
+                "display_name": "Indiana University",
+                "city": "Bloomington",
+                "region": "Indiana",
+                "country": "United States",
+                "id": 592451,
+                "slug": "indiana-university",
+                "unique_id": "2d1ug4jd",
+                "full_slug": "indiana-university-2d1ug4jd"
+              },
+              {
+                "display_name": "University of Bristol",
+                "city": "Bristol",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 36234482,
+                "slug": "university-of-bristol",
+                "unique_id": "15r1lwmd",
+                "full_slug": "university-of-bristol-15r1lwmd"
+              },
+              {
+                "display_name": "University College London",
+                "city": "London",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 45129253,
+                "slug": "university-college-london",
+                "unique_id": "269wra00",
+                "full_slug": "university-college-london-269wra00"
+              },
+              {
+                "display_name": "University of Toronto",
+                "city": "Toronto",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 185261750,
+                "slug": "university-of-toronto",
+                "unique_id": "3dwwuuvf",
+                "full_slug": "university-of-toronto-3dwwuuvf"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/the-prisma-2020-statement-an-updated-guideline-for-reporting-137rnghtc1.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://systematicreviewsjournal.biomedcentral.com/articles/10.1186/s13643-021-01626-4",
+                "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008539/"
+              ],
+              "Pdf": [
+                "https://link.springer.com/content/pdf/10.1186/s13643-021-01626-4.pdf",
+                "https://findresearcher.sdu.dk:8443/ws/files/181336143/s13643_021_01626_4.pdf"
+              ],
+              "Others": [
+                "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008539/"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 7377
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4110446434,
+          "title": "How can I use PRISMA-S in a literature search?",
+          "is_archived": false,
+          "full_slug": "how-can-i-use-prisma-s-in-a-literature-search-aylv7pcg3bf7",
+          "journal": null,
+          "conference_series": null,
+          "date": "2026-01-16T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.5281/zenodo.18267319",
+          "unique_id": "aylv7pcg3bf7",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Tripdatabase",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4110604530,
+          "title": "How can I use PRISMA-S in a literature search?",
+          "is_archived": false,
+          "full_slug": "how-can-i-use-prisma-s-in-a-literature-search-qhf97g8ib80t",
+          "journal": null,
+          "conference_series": null,
+          "date": "2026-01-16T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.5281/zenodo.18267320",
+          "unique_id": "qhf97g8ib80t",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Tripdatabase",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3193329895,
+          "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews.",
+          "is_archived": false,
+          "full_slug": "the-prisma-2020-statement-an-updated-guideline-for-reporting-83grm7w2dl",
+          "journal": {
+            "display_name": "Revista Espanola De Cardiologia",
+            "official_page": "https://www.journals.elsevier.com/revista-espanola-de-cardiologia",
+            "issn": "0300-8932",
+            "alias": null,
+            "id": 69770752,
+            "slug": "revista-espanola-de-cardiologia",
+            "unique_id": "3dtpde3d",
+            "full_slug": "revista-espanola-de-cardiologia-3dtpde3d"
+          },
+          "conference_series": null,
+          "date": "2021-09-01T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.1016/J.REC.2021.07.010",
+          "unique_id": "83grm7w2dl",
+          "authors": {
+            "total": 4,
+            "data": [
+              {
+                "display_name": "Juan José Yepes-Nuñez",
+                "id": 1618447592,
+                "slug": "juan-jose-yepes-nunez",
+                "unique_id": "2ldliv1ka8",
+                "full_slug": "juan-jose-yepes-nunez-2ldliv1ka8",
+                "affiliation_full_slug": "university-of-los-andes-38cnheag"
+              },
+              {
+                "display_name": "Gerard Urrútia",
+                "id": 2687386171,
+                "slug": "gerard-urrutia",
+                "unique_id": "1ab836odlk",
+                "full_slug": "gerard-urrutia-1ab836odlk",
+                "affiliation_full_slug": "cochrane-collaboration-1k6ksv0h"
+              },
+              {
+                "display_name": "Marta Romero-García",
+                "id": 2041370064,
+                "slug": "marta-romero-garcia",
+                "unique_id": "2lgltc0zr3",
+                "full_slug": "marta-romero-garcia-2lgltc0zr3",
+                "affiliation_full_slug": "university-of-barcelona-1a08l35y"
+              },
+              {
+                "display_name": "Sergio Alonso-Fernández",
+                "id": 2996109083,
+                "slug": "sergio-alonso-fernandez",
+                "unique_id": "a8mtehptme",
+                "full_slug": "sergio-alonso-fernandez-a8mtehptme",
+                "affiliation_full_slug": "university-of-barcelona-1a08l35y"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "University of Los Andes",
+                "city": "Bogotá",
+                "region": null,
+                "country": "Colombia",
+                "id": 162096671,
+                "slug": "university-of-los-andes",
+                "unique_id": "38cnheag",
+                "full_slug": "university-of-los-andes-38cnheag"
+              },
+              {
+                "display_name": "Cochrane Collaboration",
+                "city": "Oxford",
+                "region": null,
+                "country": "United Kingdom",
+                "id": 72054575,
+                "slug": "cochrane-collaboration",
+                "unique_id": "1k6ksv0h",
+                "full_slug": "cochrane-collaboration-1k6ksv0h"
+              },
+              {
+                "display_name": "University of Barcelona",
+                "city": "Barcelona",
+                "region": null,
+                "country": "Spain",
+                "id": 71999127,
+                "slug": "university-of-barcelona",
+                "unique_id": "1a08l35y",
+                "full_slug": "university-of-barcelona-1a08l35y"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/the-prisma-2020-statement-an-updated-guideline-for-reporting-83grm7w2dl.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://www.revespcardiol.org/en-pdf-S1885585721002401",
+                "https://pubmed.ncbi.nlm.nih.gov/34446261/"
+              ],
+              "Others": [
+                "http://pubmed.ncbi.nlm.nih.gov/34446261/"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 699
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4087582110,
+          "title": "The prisma 2020 statement: an instrument for the appropriate reporting of systematic reviews with annotated examples",
+          "is_archived": false,
+          "full_slug": "the-prisma-2020-statement-an-instrument-for-the-appropriate-ycz9aqud5ows",
+          "journal": null,
+          "conference_series": null,
+          "date": "2024-09-15T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.5281/zenodo.13765704",
+          "unique_id": "ycz9aqud5ows",
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4017625124,
+          "title": "A declaração PRISMA 2020: diretriz atualizada para relatar revisões sistemáticas",
+          "is_archived": false,
+          "full_slug": "a-declaracao-prisma-2020-diretriz-atualizada-para-relatar-7foatk0j",
+          "journal": {
+            "display_name": "Revista panamericana de salud pública (Impresa)",
+            "official_page": "http://www.paho.org/journal/",
+            "issn": "1020-4989",
+            "alias": [
+              "Pan American journal of public health",
+              "RPSP/PAJPH",
+              "Pan American journal of public health (Impresa)"
+            ],
+            "id": 4000084316,
+            "slug": "revista-panamericana-de-salud-publica-impresa",
+            "unique_id": "10lx5dmy",
+            "full_slug": "revista-panamericana-de-salud-publica-impresa-10lx5dmy"
+          },
+          "conference_series": null,
+          "date": "2022-12-30T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.26633/rpsp.2022.112",
+          "unique_id": "7foatk0j",
+          "fulltext_url": "/pdf/a-declaracao-prisma-2020-diretriz-atualizada-para-relatar-7foatk0j.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://iris.paho.org/bitstream/10665.2/56882/5/v46e1122022.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 395
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

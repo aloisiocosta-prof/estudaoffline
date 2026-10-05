@@ -1,0 +1,22 @@
+{
+  "id": "10f0a2f9123d5ea4ac5af9c8d85b1f43",
+  "retrieved_utc": "2026-10-05T05:45:29.164Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "10f0a2f9123d5ea4ac5af9c8d85b1f43",
+        "title": "Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices",
+        "url": "https://consensus.app/papers/continuous-integration-delivery-and-deployment-a-shahin-babar/10f0a2f9123d5ea4ac5af9c8d85b1f43/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Mojtaba Shahin, Muhammad Ali Babar, Li-Ming Zhu",
+          "publish_year": "2017",
+          "journal": "IEEE Access",
+          "volume": "5",
+          "pages": "3909-3943",
+          "citation_count": "667"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

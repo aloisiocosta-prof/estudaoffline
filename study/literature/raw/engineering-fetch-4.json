@@ -1,0 +1,22 @@
+{
+  "id": "86ccb09feefb513ea0692f2aa3e8894d",
+  "retrieved_utc": "2026-10-05T05:45:06.186Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "86ccb09feefb513ea0692f2aa3e8894d",
+        "title": "A systematic mapping study of mobile application testing techniques",
+        "url": "https://consensus.app/papers/a-systematic-mapping-study-of-mobile-application-testing-zein-salleh/86ccb09feefb513ea0692f2aa3e8894d/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Samer Zein, Norsaremah Salleh, J. Grundy",
+          "publish_year": "2016",
+          "journal": "J. Syst. Softw.",
+          "volume": "117",
+          "pages": "334-356",
+          "citation_count": "147"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

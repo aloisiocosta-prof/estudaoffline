@@ -1,0 +1,21 @@
+{
+  "id": "3635e9cdff23561b8f16add780d45048",
+  "retrieved_utc": "2026-10-05T05:45:29.897Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "3635e9cdff23561b8f16add780d45048",
+        "title": "The effects of continuous integration on software development: a systematic literature review",
+        "url": "https://consensus.app/papers/the-effects-of-continuous-integration-on-software-soares-sizílio/3635e9cdff23561b8f16add780d45048/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Eliezio Soares, Gustavo Sizílio, Jadson Santos, Daniel Alencar da Costa, U. Kulesza",
+          "publish_year": "2021",
+          "journal": "Empirical Software Engineering",
+          "volume": "27",
+          "citation_count": "49"
+        }
+      }
+    ],
+    "isError": false
+  }
+}

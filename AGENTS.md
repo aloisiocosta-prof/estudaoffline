@@ -1,1 +1,3 @@
 # EstudaOffline — instruções
+
+Ler README.md, docs/SPEC.md, docs/research-protocol.md e docs/editorial/politica-latex.md. Preservar a rastreabilidade entre afirmações, fontes e testes. Não inventar citações, dados, aprovação, autoria nem efeitos pedagógicos. Aplicar a política de citação indireta por parágrafo e mínimo de 80 fontes científicas distintas por documento LaTeX. Apud exige fonte secundária realmente consultada. Verificar ocupação das linhas no PDF e relatar exceções, sem alegar cumprimento universal sem prova. Publicar mudanças em branch e PR, observando a proteção remota de main. Usar CI para Flutter neste ambiente; não executar o SDK local cujo bootstrap foi bloqueado pela revisão automática.

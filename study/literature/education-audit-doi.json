@@ -1,0 +1,54 @@
+{
+  "groups": [
+    [
+      "\"Students’ time management and procrastination in the wake\" doi",
+      "\"Mindfulness and Procrastination Among University EFL Learners\" doi",
+      "\"College students’ self-regulation in asynchronous online courses\" doi",
+      "\"meta-analysis of the efficacy of self-regulated learning interventions\" Xu Zhao doi"
+    ],
+    [
+      "\"relationship between mobile learning and self-regulated learning\" Palalas Wark doi",
+      "\"Mobile Learning to Support Self-Regulated Learning\" Baars Viberg doi",
+      "\"Motivating students to become self-regulatory learners\" doi",
+      "\"Effects of mobile-app learning diaries vs online training\" doi"
+    ],
+    [
+      "\"Effects of a mobile self-regulated learning approach\" Zheng Li Chen doi",
+      "\"Challenges in Promoting Self-Regulated Learning\" Prasse Webb doi",
+      "\"Research trends in measurement and intervention tools\" Araka doi",
+      "\"Student engagement profiles in a mobile app\" Wong doi"
+    ],
+    [
+      "\"The regulation of learning and co-creation of new knowledge\" doi",
+      "\"College Students’ Time Management\" Wolters Brady doi",
+      "\"Smartphone as a Self-regulatory Planning Tool\" doi",
+      "\"Boosting productivity and wellbeing through time management\" doi"
+    ]
+  ],
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "isError": false
+      }
+    }
+  ]
+}

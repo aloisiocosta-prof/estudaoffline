@@ -1,0 +1,474 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "searchTerm": "What peer-reviewed studies investigate local-first software and browser storage privacy and reliability under intermittent connectivity?",
+      "papers": [
+        {
+          "id": 4004230082,
+          "title": "Programming Support for Local-First Software: Enabling the Design of Privacy-Preserving Distributed Software without Relying on the Cloud",
+          "is_archived": false,
+          "full_slug": "programming-support-for-local-first-software-enabling-the-2jcxh5tw",
+          "journal": null,
+          "conference_series": null,
+          "date": "2022-11-29T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1145/3563768.3565546",
+          "unique_id": "2jcxh5tw",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Julian Haas",
+                "id": 4001326395,
+                "slug": "julian-haas",
+                "unique_id": "97vluv16",
+                "full_slug": "julian-haas-97vluv16"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4000634736,
+          "title": "LoRe: Local-First Reactive Programming with Verified Safety Guarantees",
+          "is_archived": false,
+          "full_slug": "lore-local-first-reactive-programming-with-verified-safety-iucdw6km",
+          "journal": null,
+          "conference_series": null,
+          "date": "2022-11-29T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1145/3563768.3563952",
+          "unique_id": "iucdw6km",
+          "authors": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Julian Haas",
+                "id": 4001326395,
+                "slug": "julian-haas",
+                "unique_id": "97vluv16",
+                "full_slug": "julian-haas-97vluv16"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4040680338,
+          "title": "LoRe: A Programming Model for Verifiably Safe Local-First Software",
+          "is_archived": false,
+          "full_slug": "lore-a-programming-model-for-verifiably-safe-local-first-3u690b0mut",
+          "journal": {
+            "display_name": "ACM Transactions on Programming Languages and Systems",
+            "official_page": "http://toplas.acm.org/",
+            "issn": "0164-0925",
+            "alias": [
+              "TOPLAS"
+            ],
+            "id": 41449414,
+            "slug": "acm-transactions-on-programming-languages-and-systems",
+            "unique_id": "sjymo6nn",
+            "full_slug": "acm-transactions-on-programming-languages-and-systems-sjymo6nn"
+          },
+          "conference_series": null,
+          "date": "2023-12-01T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.1145/3633769",
+          "unique_id": "3u690b0mut",
+          "authors": {
+            "total": 5,
+            "data": [
+              {
+                "display_name": "Julian Haas",
+                "full_slug": null
+              },
+              {
+                "display_name": "Ragnar Mogk",
+                "full_slug": null
+              },
+              {
+                "display_name": "Elena Yanakieva",
+                "full_slug": null
+              },
+              {
+                "display_name": "Annette Bieniusa",
+                "full_slug": null
+              },
+              {
+                "display_name": "Mira Mezini",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4006010204,
+          "title": "LoRe: A Programming Model for Verifiably Safe Local-First Software",
+          "is_archived": false,
+          "full_slug": "lore-a-programming-model-for-verifiably-safe-local-first-1c7c5q7w",
+          "journal": null,
+          "conference_series": null,
+          "date": "2023-04-14T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Journal Article",
+          "doi": "10.48550/arXiv.2304.07133",
+          "unique_id": "1c7c5q7w",
+          "authors": {
+            "total": 5,
+            "data": [
+              {
+                "display_name": "Julian Haas",
+                "id": 4001326395,
+                "slug": "julian-haas",
+                "unique_id": "97vluv16",
+                "full_slug": "julian-haas-97vluv16"
+              },
+              {
+                "display_name": "Ragnar Mogk",
+                "id": 2231297244,
+                "slug": "ragnar-mogk",
+                "unique_id": "dl3wck31su",
+                "full_slug": "ragnar-mogk-dl3wck31su"
+              },
+              {
+                "display_name": "Elena Yanakieva",
+                "full_slug": null
+              },
+              {
+                "display_name": "Annette Bieniusa",
+                "id": 2663929759,
+                "slug": "annette-bieniusa",
+                "unique_id": "1nj3dcpzjx",
+                "full_slug": "annette-bieniusa-1nj3dcpzjx"
+              },
+              {
+                "display_name": "Mira Mezini",
+                "id": 93690356,
+                "slug": "mira-mezini",
+                "unique_id": "2oqximhr1g",
+                "full_slug": "mira-mezini-2oqximhr1g"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4016040433,
+          "title": "LoRe: A Programming Model for Verifiably Safe Local-First Software",
+          "is_archived": false,
+          "full_slug": "lore-a-programming-model-for-verifiably-safe-local-first-10662ank",
+          "journal": null,
+          "conference_series": null,
+          "date": "2023-04-14T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Posted Content",
+          "doi": "10.48550/arxiv.2304.07133",
+          "unique_id": "10662ank",
+          "fulltext_url": "/pdf/lore-a-programming-model-for-verifiably-safe-local-first-10662ank.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "http://arxiv.org/pdf/2304.07133"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 2
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4102092368,
+          "title": "LoRe: A Programming Model for Verifiably Safe Local-First Software (Artifact)",
+          "is_archived": false,
+          "full_slug": "lore-a-programming-model-for-verifiably-safe-local-first-2y4j48x4nqo2",
+          "journal": null,
+          "conference_series": null,
+          "date": "2023-07-11T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.4230/darts.9.2.11",
+          "unique_id": "2y4j48x4nqo2",
+          "authors": {
+            "total": 5,
+            "data": [
+              {
+                "display_name": "Haas, Julian",
+                "full_slug": null
+              },
+              {
+                "display_name": "Mogk, Ragnar",
+                "full_slug": null
+              },
+              {
+                "display_name": "Yanakieva, Elena",
+                "full_slug": null
+              },
+              {
+                "display_name": "Bieniusa Annette",
+                "full_slug": null
+              },
+              {
+                "display_name": "Mezini, Mira",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4004857859,
+          "title": "Merge what you can, fork what you can't: managing data integrity in local-first software",
+          "is_archived": false,
+          "full_slug": "merge-what-you-can-fork-what-you-can-t-managing-data-12ger5il",
+          "journal": null,
+          "conference_series": null,
+          "date": "2022-04-05T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1145/3517209.3524041",
+          "unique_id": "12ger5il",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Geoffrey Litt",
+                "id": 3047581098,
+                "slug": "geoffrey-litt",
+                "unique_id": "3hrajni5j3",
+                "full_slug": "geoffrey-litt-3hrajni5j3"
+              },
+              {
+                "display_name": "B. Jackson",
+                "id": 2158599186,
+                "slug": "b-jackson",
+                "unique_id": "3aacy4cyjl",
+                "full_slug": "b-jackson-3aacy4cyjl"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": null,
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://doi.org/10.1145/3517209.3524041"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4000749215,
+          "title": "Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy",
+          "is_archived": false,
+          "full_slug": "performance-impacts-of-javascript-based-encryption-of-html5-2j6gocw0",
+          "journal": null,
+          "conference_series": {
+            "display_name": "International Conference on Smart Cloud",
+            "id": 4000004197,
+            "slug": "international-conference-on-smart-cloud",
+            "unique_id": "1aw5kpzg",
+            "full_slug": "international-conference-on-smart-cloud-1aw5kpzg"
+          },
+          "date": "2022-10-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1109/SmartCloud55982.2022.00037",
+          "unique_id": "2j6gocw0",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Michael MacFadden",
+                "id": 2594634975,
+                "slug": "michael-macfadden",
+                "unique_id": "2buzvlgzjr",
+                "full_slug": "michael-macfadden-2buzvlgzjr"
+              },
+              {
+                "display_name": "Meikang Qiu",
+                "id": 2223949044,
+                "slug": "meikang-qiu",
+                "unique_id": "2o2qof62us",
+                "full_slug": "meikang-qiu-2o2qof62us"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": 1
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4018390283,
+          "title": "Performance Impacts of JavaScript-Based Encryption of HTML5 Web Storage for Enhanced Privacy",
+          "is_archived": false,
+          "full_slug": "performance-impacts-of-javascript-based-encryption-of-html5-2uzmnx05",
+          "journal": null,
+          "conference_series": null,
+          "date": "2022-10-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1109/smartcloud55982.2022.00037",
+          "unique_id": "2uzmnx05",
+          "metrics": {
+            "citations": {
+              "total": 2
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4007667065,
+          "title": "BeauForT: Robust Byzantine Fault Tolerance for Client-Centric Mobile Web Applications",
+          "is_archived": false,
+          "full_slug": "beaufort-robust-byzantine-fault-tolerance-for-client-centric-sc4ecetr",
+          "journal": {
+            "display_name": "IEEE Transactions on Parallel and Distributed Systems",
+            "official_page": "http://www.computer.org/tpds",
+            "issn": "1045-9219",
+            "alias": [
+              "Transactions on parallel distributed systems",
+              "ITPDS",
+              "Transactions on parallel and distributed systems",
+              "Institute of Electrical and Electronics Engineers transactions on parallel and distributed systems",
+              "Parallel and distributed systems",
+              "TPDS"
+            ],
+            "id": 97130795,
+            "slug": "ieee-transactions-on-parallel-and-distributed-systems",
+            "unique_id": "1rg5f5po",
+            "full_slug": "ieee-transactions-on-parallel-and-distributed-systems-1rg5f5po"
+          },
+          "conference_series": null,
+          "date": "2023-04-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Journal Article",
+          "doi": "10.1109/TPDS.2023.3241963",
+          "unique_id": "sc4ecetr",
+          "authors": {
+            "total": 4,
+            "data": [
+              {
+                "display_name": "Kristof Jannes",
+                "id": 2923586613,
+                "slug": "kristof-jannes",
+                "unique_id": "1y1pvrk8ix",
+                "full_slug": "kristof-jannes-1y1pvrk8ix"
+              },
+              {
+                "display_name": "Emad Heydari Beni",
+                "id": 2342595679,
+                "slug": "emad-heydari-beni",
+                "unique_id": "377a16kdm9",
+                "full_slug": "emad-heydari-beni-377a16kdm9"
+              },
+              {
+                "display_name": "Bert Lagaisse",
+                "id": 313561675,
+                "slug": "bert-lagaisse",
+                "unique_id": "31wn3yy69e",
+                "full_slug": "bert-lagaisse-31wn3yy69e"
+              },
+              {
+                "display_name": "Wouter Joosen",
+                "id": 1969876091,
+                "slug": "wouter-joosen",
+                "unique_id": "3x6lkan676",
+                "full_slug": "wouter-joosen-3x6lkan676"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

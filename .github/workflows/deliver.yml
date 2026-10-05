@@ -39,9 +39,13 @@ jobs:
       - run: python3 scripts/test_version.py 2>&1 | tee study/raw/semver-tests.txt
         shell: bash
       - run: flutter build web --release --base-href /estudaoffline/ --no-web-resources-cdn
+      - run: python3 scripts/build_literature.py
+      - run: python3 scripts/audit_latex.py
       - run: python3 scripts/write_ci_results.py
       - run: sudo apt-get update && sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-lang-portuguese fonts-liberation latexmk
       - run: mkdir -p build/web/pdfs && cd paper && latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex && cp artigo.pdf entrega-escolar.pdf poster.pdf ../build/web/pdfs/
+      - run: python3 -m pip install PyMuPDF==1.26.6
+      - run: python3 scripts/audit_latex.py --pdf-dir build/web/pdfs
       - run: python3 scripts/prepare_web.py
       - uses: actions/upload-artifact@v4
         with:

@@ -1,0 +1,738 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "searchTerm": "What empirical studies examine privacy and security risks in educational mobile apps that collect children's data?",
+      "papers": [
+        {
+          "id": 4047594335,
+          "title": "Research on the Current State of Privacy Risks in Children’s Mobile Applications",
+          "is_archived": false,
+          "full_slug": "research-on-the-current-state-of-privacy-risks-in-childrens-44f7rbhtlcvm",
+          "journal": null,
+          "conference_series": null,
+          "date": "2024-07-12T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.1109/isctis63324.2024.10699019",
+          "unique_id": "44f7rbhtlcvm",
+          "authors": {
+            "total": 7,
+            "data": [
+              {
+                "display_name": "Xinrui Geng",
+                "full_slug": null
+              },
+              {
+                "display_name": "Tao Liu",
+                "full_slug": null
+              },
+              {
+                "display_name": "Chong Shang",
+                "full_slug": null
+              },
+              {
+                "display_name": "Jianxiang Chen",
+                "full_slug": null
+              },
+              {
+                "display_name": "Yueran Lu",
+                "full_slug": null
+              },
+              {
+                "display_name": "Yan Zhang",
+                "full_slug": null
+              },
+              {
+                "display_name": "Yan Wang",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4020131262,
+          "title": "Mobile apps and children’s privacy: a traffic analysis of data sharing practices among children’s mobile iOS apps",
+          "is_archived": false,
+          "full_slug": "mobile-apps-and-childrens-privacy-a-traffic-analysis-of-data-1ayuhvnneo",
+          "journal": {
+            "display_name": "Archives of Disease in Childhood",
+            "official_page": "http://adc.bmj.com/",
+            "issn": "0003-9888",
+            "alias": [
+              "ADC",
+              "eADC"
+            ],
+            "id": 207294652,
+            "slug": "archives-of-disease-in-childhood",
+            "unique_id": "2nkh5tw6",
+            "full_slug": "archives-of-disease-in-childhood-2nkh5tw6"
+          },
+          "conference_series": null,
+          "date": "2023-08-27T00:00:00Z",
+          "is_oa": null,
+          "publication_type": null,
+          "doi": "10.1136/archdischild-2023-325960",
+          "unique_id": "1ayuhvnneo",
+          "authors": {
+            "total": 7,
+            "data": [
+              {
+                "display_name": "J. Rocha Pimienta",
+                "id": 3116547242,
+                "slug": "j-rocha-pimienta",
+                "unique_id": "1ilhbuavcs",
+                "full_slug": "j-rocha-pimienta-1ilhbuavcs"
+              },
+              {
+                "display_name": "J. Brandt",
+                "full_slug": null
+              },
+              {
+                "display_name": "Timme Bethe",
+                "full_slug": null
+              },
+              {
+                "display_name": "Ralph Holz",
+                "id": 1991272191,
+                "slug": "ralph-holz",
+                "unique_id": "3h6k90474q",
+                "full_slug": "ralph-holz-3h6k90474q",
+                "affiliation_full_slug": "university-of-sydney-34hirb5f"
+              },
+              {
+                "display_name": "Andrea Continella",
+                "id": 2563313917,
+                "slug": "andrea-continella",
+                "unique_id": "e1a02i4vnq",
+                "full_slug": "andrea-continella-e1a02i4vnq",
+                "affiliation_full_slug": "university-of-twente-2jhelcx1"
+              },
+              {
+                "display_name": "L. Jibb",
+                "full_slug": null
+              },
+              {
+                "display_name": "Quinn Grundy",
+                "id": 108372,
+                "slug": "quinn-grundy",
+                "unique_id": "5fxi86mbop",
+                "full_slug": "quinn-grundy-5fxi86mbop",
+                "affiliation_full_slug": "university-of-toronto-3dwwuuvf"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "University of Sydney",
+                "city": "Sydney",
+                "region": "New South Wales",
+                "country": "Australia",
+                "id": 129604602,
+                "slug": "university-of-sydney",
+                "unique_id": "34hirb5f",
+                "full_slug": "university-of-sydney-34hirb5f"
+              },
+              {
+                "display_name": "University of Twente",
+                "city": "Enschede",
+                "region": "Overijssel",
+                "country": "Netherlands",
+                "id": 94624287,
+                "slug": "university-of-twente",
+                "unique_id": "2jhelcx1",
+                "full_slug": "university-of-twente-2jhelcx1"
+              },
+              {
+                "display_name": "University of Toronto",
+                "city": "Toronto",
+                "region": "Ontario",
+                "country": "Canada",
+                "id": 185261750,
+                "slug": "university-of-toronto",
+                "unique_id": "3dwwuuvf",
+                "full_slug": "university-of-toronto-3dwwuuvf"
+              }
+            ]
+          },
+          "fulltext_url": null,
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://adc.bmj.com/content/archdischild/early/2023/08/27/archdischild-2023-325960.full.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4006662282,
+          "title": "Navigating the Data Avalanche",
+          "is_archived": false,
+          "full_slug": "navigating-the-data-avalanche-1nf7c7k6",
+          "journal": {
+            "display_name": "Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies",
+            "official_page": "https://imwut.acm.org/",
+            "issn": "2474-9567",
+            "alias": [
+              "ACM IMWUT",
+              "Proceedings of the Association for Computing Machinery on interactive, mobile, wearable and ubiquitous technologies",
+              "IMWUT"
+            ],
+            "id": 4000076631,
+            "slug": "proceedings-of-the-acm-on-interactive-mobile-wearable-and",
+            "unique_id": "153abdyz",
+            "full_slug": "proceedings-of-the-acm-on-interactive-mobile-wearable-and-153abdyz"
+          },
+          "conference_series": null,
+          "date": "2023-06-12T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Journal Article",
+          "doi": "10.1145/3596267",
+          "unique_id": "1nf7c7k6",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Anirudh Ekambaranathan",
+                "id": 3028721813,
+                "slug": "anirudh-ekambaranathan",
+                "unique_id": "3si2c2umhd",
+                "full_slug": "anirudh-ekambaranathan-3si2c2umhd"
+              },
+              {
+                "display_name": "Jun Zhao",
+                "id": 2298185606,
+                "slug": "jun-zhao",
+                "unique_id": "2n4oxcroev",
+                "full_slug": "jun-zhao-2n4oxcroev"
+              },
+              {
+                "display_name": "George Chalhoub",
+                "id": 3014457974,
+                "slug": "george-chalhoub",
+                "unique_id": "55vv9b821t",
+                "full_slug": "george-chalhoub-55vv9b821t"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": 5
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4006522242,
+          "title": "\"We may share the number of diaper changes\": A Privacy and Security Analysis of Mobile Child Care Applications",
+          "is_archived": false,
+          "full_slug": "we-may-share-the-number-of-diaper-changes-a-privacy-and-22z7c1c6",
+          "journal": {
+            "display_name": "Proceedings on Privacy Enhancing Technologies",
+            "official_page": "https://content.sciendo.com/view/journals/popets/popets=overview.xml",
+            "issn": "2299-0984",
+            "alias": [
+              "PoPETs"
+            ],
+            "id": 4000077296,
+            "slug": "proceedings-on-privacy-enhancing-technologies",
+            "unique_id": "mcvk7e6w",
+            "full_slug": "proceedings-on-privacy-enhancing-technologies-mcvk7e6w"
+          },
+          "conference_series": null,
+          "date": "2022-07-01T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.56553/popets-2022-0078",
+          "unique_id": "22z7c1c6",
+          "authors": {
+            "total": 5,
+            "data": [
+              {
+                "display_name": "Moritz Gruber",
+                "id": 2899743331,
+                "slug": "moritz-gruber",
+                "unique_id": "27uryd1e6u",
+                "full_slug": "moritz-gruber-27uryd1e6u"
+              },
+              {
+                "display_name": "Christian Höfig",
+                "id": 4003149863,
+                "slug": "christian-hofig",
+                "unique_id": "2mppjim5",
+                "full_slug": "christian-hofig-2mppjim5"
+              },
+              {
+                "display_name": "Maximilian Golla",
+                "id": 2500237157,
+                "slug": "maximilian-golla",
+                "unique_id": "yot4788fw4",
+                "full_slug": "maximilian-golla-yot4788fw4"
+              },
+              {
+                "display_name": "Tobias Urban",
+                "id": 2885232933,
+                "slug": "tobias-urban",
+                "unique_id": "sxq40ma59k",
+                "full_slug": "tobias-urban-sxq40ma59k"
+              },
+              {
+                "display_name": "Matteo Große-Kampmann",
+                "id": 3086578005,
+                "slug": "matteo-grosse-kampmann",
+                "unique_id": "1xld6mgqbr",
+                "full_slug": "matteo-grosse-kampmann-1xld6mgqbr"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "https://petsymposium.org/popets/2022/popets-2022-0078.pdf",
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [],
+            "data": {}
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4004142075,
+          "title": "KOALA Hero: Inform Children of Privacy Risks of Mobile Apps",
+          "is_archived": false,
+          "full_slug": "koala-hero-inform-children-of-privacy-risks-of-mobile-apps-283l12bx",
+          "journal": null,
+          "conference_series": {
+            "display_name": "Interaction Design and Children",
+            "id": 2627043526,
+            "slug": "interaction-design-and-children",
+            "unique_id": "b2i5kw4a",
+            "full_slug": "interaction-design-and-children-b2i5kw4a"
+          },
+          "date": "2022-06-27T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1145/3501712.3535278",
+          "unique_id": "283l12bx",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Jun Zhao",
+                "id": 2298185606,
+                "slug": "jun-zhao",
+                "unique_id": "2n4oxcroev",
+                "full_slug": "jun-zhao-2n4oxcroev"
+              },
+              {
+                "display_name": "Blanche Duron",
+                "id": 4003339960,
+                "slug": "blanche-duron",
+                "unique_id": "23slbbk1",
+                "full_slug": "blanche-duron-23slbbk1"
+              },
+              {
+                "display_name": "Ge Wang",
+                "id": 2836820782,
+                "slug": "ge-wang",
+                "unique_id": "5c4o9o6llo",
+                "full_slug": "ge-wang-5c4o9o6llo"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "/pdf/koala-hero-inform-children-of-privacy-risks-of-mobile-apps-283l12bx.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://ora.ox.ac.uk/objects/uuid:d300030c-115e-4eeb-92f6-47a11d4583a5/files/sdj52w579m"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4003285934,
+          "title": "Navigating the Data Avalanche: Towards Supporting Developers in Developing Privacy-Friendly Children’s Apps",
+          "is_archived": false,
+          "full_slug": "navigating-the-data-avalanche-towards-supporting-developers-3ljuh15x",
+          "journal": null,
+          "conference_series": null,
+          "date": null,
+          "is_oa": false,
+          "publication_type": null,
+          "doi": null,
+          "unique_id": "3ljuh15x",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Anirudh Ekambaranathan",
+                "id": 3028721813,
+                "slug": "anirudh-ekambaranathan",
+                "unique_id": "3si2c2umhd",
+                "full_slug": "anirudh-ekambaranathan-3si2c2umhd"
+              },
+              {
+                "display_name": "Jun Zhao",
+                "id": 2298185606,
+                "slug": "jun-zhao",
+                "unique_id": "2n4oxcroev",
+                "full_slug": "jun-zhao-2n4oxcroev"
+              },
+              {
+                "display_name": "George Chalhoub",
+                "id": 3014457974,
+                "slug": "george-chalhoub",
+                "unique_id": "55vv9b821t",
+                "full_slug": "george-chalhoub-55vv9b821t"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": 3
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4094453317,
+          "title": "Not Seen, Not Heard in the Digital World! Measuring Privacy Practices in Children's Apps",
+          "is_archived": false,
+          "full_slug": "not-seen-not-heard-in-the-digital-world-measuring-privacy-uicjvtvzo7kk",
+          "journal": null,
+          "conference_series": null,
+          "date": "2023-03-17T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Repository",
+          "doi": "10.48550/arxiv.2303.09008",
+          "unique_id": "uicjvtvzo7kk",
+          "authors": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "Sun, Ruoxi",
+                "full_slug": null
+              },
+              {
+                "display_name": "Xue, Minhui",
+                "full_slug": null
+              },
+              {
+                "display_name": "Tyson Gareth",
+                "full_slug": null
+              },
+              {
+                "display_name": "Wang Shuo",
+                "full_slug": null
+              },
+              {
+                "display_name": "Camtepe, Seyit",
+                "full_slug": null
+              },
+              {
+                "display_name": "Nepal Surya",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4000029885,
+          "title": "Digitales Lernen - Welche Rolle spielt die Privatheit der Daten von Schüler: innen bei der Nutzung von Lernsoftware?",
+          "is_archived": false,
+          "full_slug": "digitales-lernen-welche-rolle-spielt-die-privatheit-der-34i7eghz",
+          "journal": null,
+          "conference_series": null,
+          "date": "2022-01-01T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Book Chapter",
+          "doi": "10.1007/978-3-658-33306-5_10",
+          "unique_id": "34i7eghz",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Judith Meinert",
+                "id": 2806207637,
+                "slug": "judith-meinert",
+                "unique_id": "5ep6401k6x",
+                "full_slug": "judith-meinert-5ep6401k6x"
+              },
+              {
+                "display_name": "Nicole C. Krämer",
+                "id": 1914233969,
+                "slug": "nicole-c-kramer",
+                "unique_id": "512ycmc17k",
+                "full_slug": "nicole-c-kramer-512ycmc17k"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "/pdf/digitales-lernen-welche-rolle-spielt-die-privatheit-der-34i7eghz.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://link.springer.com/content/pdf/10.1007/978-3-658-33306-5_10.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4001512667,
+          "title": "Not Seen, Not Heard in the Digital World! Measuring Privacy Practices in Children’s Apps",
+          "is_archived": false,
+          "full_slug": "not-seen-not-heard-in-the-digital-world-measuring-privacy-1yny7xvx",
+          "journal": null,
+          "conference_series": {
+            "display_name": "The Web Conference",
+            "id": 1135342153,
+            "slug": "the-web-conference",
+            "unique_id": "3mmi2t7u",
+            "full_slug": "the-web-conference-3mmi2t7u"
+          },
+          "date": "2023-03-16T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1145/3543507.3583327",
+          "unique_id": "1yny7xvx",
+          "authors": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "Ruoxi Sun",
+                "id": 3036956033,
+                "slug": "ruoxi-sun",
+                "unique_id": "47ydikdsay",
+                "full_slug": "ruoxi-sun-47ydikdsay"
+              },
+              {
+                "display_name": "Minhui Xue",
+                "id": 2224515071,
+                "slug": "minhui-xue",
+                "unique_id": "x5a2fhkesh",
+                "full_slug": "minhui-xue-x5a2fhkesh"
+              },
+              {
+                "display_name": "Gareth Tyson",
+                "id": 2097861471,
+                "slug": "gareth-tyson",
+                "unique_id": "5704xb5bl9",
+                "full_slug": "gareth-tyson-5704xb5bl9"
+              },
+              {
+                "display_name": "Shuang Wang",
+                "id": 3131025975,
+                "slug": "shuang-wang",
+                "unique_id": "rysu1b6cm2",
+                "full_slug": "shuang-wang-rysu1b6cm2"
+              },
+              {
+                "display_name": "Seyit Camtepe",
+                "id": 2038893255,
+                "slug": "seyit-camtepe",
+                "unique_id": "30ozlag44c",
+                "full_slug": "seyit-camtepe-30ozlag44c"
+              },
+              {
+                "display_name": "Surya Nepal",
+                "id": 4003207405,
+                "slug": "surya-nepal",
+                "unique_id": "2ymhul1u",
+                "full_slug": "surya-nepal-2ymhul1u"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "/pdf/not-seen-not-heard-in-the-digital-world-measuring-privacy-1yny7xvx.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "http://arxiv.org/pdf/2303.09008"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 9
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3145000686,
+          "title": "Security Issues in the Use of Mobile Educational Apps: A Review",
+          "is_archived": false,
+          "full_slug": "security-issues-in-the-use-of-mobile-educational-apps-a-119tcncsfc",
+          "journal": {
+            "display_name": "International Journal of Interactive Mobile Technologies (ijim)",
+            "official_page": null,
+            "issn": null,
+            "alias": null,
+            "id": 10666458,
+            "slug": "international-journal-of-interactive-mobile-technologies",
+            "unique_id": "1l19bvgf",
+            "full_slug": "international-journal-of-interactive-mobile-technologies-1l19bvgf"
+          },
+          "conference_series": null,
+          "date": "2021-03-30T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Journal Article",
+          "doi": "10.3991/IJIM.V15I06.20631",
+          "unique_id": "119tcncsfc",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Emmanuel O.C. Mkpojiogu",
+                "id": 2005254688,
+                "slug": "emmanuel-o-c-mkpojiogu",
+                "unique_id": "sv4sw51uxm",
+                "full_slug": "emmanuel-o-c-mkpojiogu-sv4sw51uxm",
+                "affiliation_full_slug": "universiti-utara-malaysia-2nh22sc6"
+              },
+              {
+                "display_name": "Azham Hussain",
+                "id": 2170310566,
+                "slug": "azham-hussain",
+                "unique_id": "4jh6g1ti76",
+                "full_slug": "azham-hussain-4jh6g1ti76",
+                "affiliation_full_slug": "universiti-utara-malaysia-2nh22sc6"
+              },
+              {
+                "display_name": "Monday Onah Agbudu",
+                "id": 3142575542,
+                "slug": "monday-onah-agbudu",
+                "unique_id": "57m2dea30k",
+                "full_slug": "monday-onah-agbudu-57m2dea30k"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Universiti Utara Malaysia",
+                "city": "Jitra",
+                "region": null,
+                "country": "Malaysia",
+                "id": 94625822,
+                "slug": "universiti-utara-malaysia",
+                "unique_id": "2nh22sc6",
+                "full_slug": "universiti-utara-malaysia-2nh22sc6"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/security-issues-in-the-use-of-mobile-educational-apps-a-119tcncsfc.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://online-journals.org/index.php/i-jim/article/view/20631/8977",
+                "https://dblp.uni-trier.de/db/journals/ijim/ijim15.html#MkpojioguHA21"
+              ],
+              "Pdf": [
+                "https://online-journals.org/index.php/i-jim/article/viewFile/20631/8977"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 12
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

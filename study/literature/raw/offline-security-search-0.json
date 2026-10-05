@@ -1,0 +1,799 @@
+{
+  "status": "fulfilled",
+  "value": {
+    "structuredContent": {
+      "searchTerm": "What research evaluates offline availability and security risks of progressive web applications and service worker caches?",
+      "papers": [
+        {
+          "id": 3181804636,
+          "title": "The Remote on the Local: Exacerbating Web Attacks Via Service Workers Caches",
+          "is_archived": false,
+          "full_slug": "the-remote-on-the-local-exacerbating-web-attacks-via-service-56pbww0svp",
+          "journal": null,
+          "conference_series": {
+            "display_name": "IEEE Symposium on Security and Privacy",
+            "id": 1163618098,
+            "slug": "ieee-symposium-on-security-and-privacy",
+            "unique_id": "tlo3eqjw",
+            "full_slug": "ieee-symposium-on-security-and-privacy-tlo3eqjw"
+          },
+          "date": "2021-05-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1109/SPW53761.2021.00062",
+          "unique_id": "56pbww0svp",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Marco Squarcina",
+                "id": 2349780765,
+                "slug": "marco-squarcina",
+                "unique_id": "3cxoywnflb",
+                "full_slug": "marco-squarcina-3cxoywnflb",
+                "affiliation_full_slug": "vienna-university-of-technology-2d4hwglj"
+              },
+              {
+                "display_name": "Stefano Calzavara",
+                "id": 2089755868,
+                "slug": "stefano-calzavara",
+                "unique_id": "3w08bv3mjn",
+                "full_slug": "stefano-calzavara-3w08bv3mjn",
+                "affiliation_full_slug": "ca-foscari-university-of-venice-1jrbplwg"
+              },
+              {
+                "display_name": "Matteo Maffei",
+                "id": 2114873116,
+                "slug": "matteo-maffei",
+                "unique_id": "tiindjz1hm",
+                "full_slug": "matteo-maffei-tiindjz1hm",
+                "affiliation_full_slug": "vienna-university-of-technology-2d4hwglj"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Vienna University of Technology",
+                "city": "Vienna",
+                "region": null,
+                "country": "Austria",
+                "id": 145847075,
+                "slug": "vienna-university-of-technology",
+                "unique_id": "2d4hwglj",
+                "full_slug": "vienna-university-of-technology-2d4hwglj"
+              },
+              {
+                "display_name": "Ca' Foscari University of Venice",
+                "city": "Venice",
+                "region": null,
+                "country": "Italy",
+                "id": 149461666,
+                "slug": "ca-foscari-university-of-venice",
+                "unique_id": "1jrbplwg",
+                "full_slug": "ca-foscari-university-of-venice-1jrbplwg"
+              }
+            ]
+          },
+          "fulltext_url": null,
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://dblp.uni-trier.de/db/conf/sp/sp2021w.html#SquarcinaCM21"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4017634235,
+          "title": "SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations",
+          "is_archived": false,
+          "full_slug": "sok-workerounds-categorizing-service-worker-attacks-and-3lxxhrwx",
+          "journal": null,
+          "conference_series": null,
+          "date": "2022-06-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1109/eurosp53844.2022.00041",
+          "unique_id": "3lxxhrwx",
+          "metrics": {
+            "citations": {
+              "total": 2
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4003064331,
+          "title": "SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations",
+          "is_archived": false,
+          "full_slug": "sok-workerounds-categorizing-service-worker-attacks-and-2d2dg4uh",
+          "journal": null,
+          "conference_series": {
+            "display_name": "European Symposium on Security and Privacy",
+            "id": 4000002822,
+            "slug": "european-symposium-on-security-and-privacy",
+            "unique_id": "hqi5z6zt",
+            "full_slug": "european-symposium-on-security-and-privacy-hqi5z6zt"
+          },
+          "date": "2022-06-01T00:00:00Z",
+          "is_oa": false,
+          "publication_type": "Proceedings Article",
+          "doi": "10.1109/EuroSP53844.2022.00041",
+          "unique_id": "2d2dg4uh",
+          "authors": {
+            "total": 4,
+            "data": [
+              {
+                "display_name": "Karthika Subramani",
+                "id": 3006228608,
+                "slug": "karthika-subramani",
+                "unique_id": "4f8yqts0o9",
+                "full_slug": "karthika-subramani-4f8yqts0o9"
+              },
+              {
+                "display_name": "Jordan Jueckstock",
+                "id": 2945374386,
+                "slug": "jordan-jueckstock",
+                "unique_id": "1w01toa64u",
+                "full_slug": "jordan-jueckstock-1w01toa64u"
+              },
+              {
+                "display_name": "Alexandros Kapravelos",
+                "id": 2156406900,
+                "slug": "alexandros-kapravelos",
+                "unique_id": "1wzxtmk3yp",
+                "full_slug": "alexandros-kapravelos-1wzxtmk3yp"
+              },
+              {
+                "display_name": "Roberto Perdisci",
+                "id": 140829034,
+                "slug": "roberto-perdisci",
+                "unique_id": "517fn24tk6",
+                "full_slug": "roberto-perdisci-517fn24tk6"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3138855186,
+          "title": "Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage.",
+          "is_archived": false,
+          "full_slug": "awakening-the-web-s-sleeper-agents-misusing-service-workers-8wjkrjc08q",
+          "journal": null,
+          "conference_series": {
+            "display_name": "Network and Distributed System Security Symposium",
+            "id": 1180274659,
+            "slug": "network-and-distributed-system-security-symposium",
+            "unique_id": "2tof58l8",
+            "full_slug": "network-and-distributed-system-security-symposium-2tof58l8"
+          },
+          "date": "2021-01-01T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": "10.14722/NDSS.2021.23104",
+          "unique_id": "8wjkrjc08q",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Soroush Karami",
+                "id": 3008650204,
+                "slug": "soroush-karami",
+                "unique_id": "1rsof6t20l",
+                "full_slug": "soroush-karami-1rsof6t20l"
+              },
+              {
+                "display_name": "Panagiotis Ilia",
+                "id": 2222930076,
+                "slug": "panagiotis-ilia",
+                "unique_id": "340jd96piv",
+                "full_slug": "panagiotis-ilia-340jd96piv",
+                "affiliation_full_slug": "university-of-illinois-at-chicago-2kgm2xd9"
+              },
+              {
+                "display_name": "Jason Polakis",
+                "id": 2532383874,
+                "slug": "jason-polakis",
+                "unique_id": "4t3qf0k2ty",
+                "full_slug": "jason-polakis-4t3qf0k2ty",
+                "affiliation_full_slug": "university-of-illinois-at-chicago-2kgm2xd9"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "University of Illinois at Chicago",
+                "city": "Chicago",
+                "region": "Illinois",
+                "country": "United States",
+                "id": 39422238,
+                "slug": "university-of-illinois-at-chicago",
+                "unique_id": "2kgm2xd9",
+                "full_slug": "university-of-illinois-at-chicago-2kgm2xd9"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/awakening-the-web-s-sleeper-agents-misusing-service-workers-8wjkrjc08q.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Html",
+              "Others"
+            ],
+            "data": {
+              "Html": [
+                "https://dblp.uni-trier.de/db/conf/ndss/ndss2021.html#KaramiIP21",
+                "https://www.ndss-symposium.org/ndss-paper/awakening-the-webs-sleeper-agents-misusing-service-workers-for-privacy-leakage/"
+              ],
+              "Others": [
+                "http://dblp.uni-trier.de/db/conf/ndss/ndss2021.html#KaramiIP21"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 32
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4073269274,
+          "title": "SPARE: Securing Progressive Web Applications Against Unauthorized Replications",
+          "is_archived": false,
+          "full_slug": "spare-securing-progressive-web-applications-against-gxttsjyp7pwk",
+          "journal": {
+            "display_name": "arXiv.org",
+            "official_page": null,
+            "issn": "2331-8422",
+            "alias": [
+              "ArXiv"
+            ],
+            "id": 4000147193,
+            "slug": "arxiv-org",
+            "unique_id": "bl5k1ptr",
+            "full_slug": "arxiv-org-bl5k1ptr"
+          },
+          "conference_series": null,
+          "date": "2025-08-09T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.48550/arxiv.2508.07053",
+          "unique_id": "gxttsjyp7pwk",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Sajib Talukder",
+                "full_slug": null
+              },
+              {
+                "display_name": "Nur Imtiazul Haque",
+                "full_slug": null
+              },
+              {
+                "display_name": "Khandakar Ashrafi Akbar",
+                "id": 2808943593,
+                "slug": "khandakar-ashrafi-akbar",
+                "unique_id": "3w2t6q5svr",
+                "full_slug": "khandakar-ashrafi-akbar-3w2t6q5svr",
+                "affiliation_full_slug": "bangladesh-university-of-engineering-and-technology-3qjqu8px"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Bangladesh University of Engineering and Technology",
+                "city": "Dhaka",
+                "region": null,
+                "country": "Bangladesh",
+                "id": 183697816,
+                "slug": "bangladesh-university-of-engineering-and-technology",
+                "unique_id": "3qjqu8px",
+                "full_slug": "bangladesh-university-of-engineering-and-technology-3qjqu8px"
+              }
+            ]
+          },
+          "fulltext_url": "pdf/spare-securing-progressive-web-applications-against-gxttsjyp7pwk.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://export.arxiv.org/pdf/2508.07053v1.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4090608605,
+          "title": "GuardianPWA: Enhancing Security Throughout the Progressive Web App Installation Lifecycle",
+          "is_archived": false,
+          "full_slug": "guardianpwa-enhancing-security-throughout-the-progressive-tp1d19v4xd5e",
+          "journal": null,
+          "conference_series": null,
+          "date": "2025-09-18T00:00:00Z",
+          "is_oa": null,
+          "publication_type": "Journal Article",
+          "doi": "10.48550/arxiv.2509.13561",
+          "unique_id": "tp1d19v4xd5e",
+          "authors": {
+            "total": 2,
+            "data": [
+              {
+                "display_name": "Wang Mengxiao",
+                "full_slug": null
+              },
+              {
+                "display_name": "Gu Guofei",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "fulltext_url": "pdf/guardianpwa-enhancing-security-throughout-the-progressive-tp1d19v4xd5e.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf"
+            ],
+            "data": {
+              "Pdf": [
+                "https://export.arxiv.org/pdf/2509.13561v1.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2982454974,
+          "title": "Rotten Cellar: Security and Privacy of the Browser Cache Revisited",
+          "is_archived": false,
+          "full_slug": "rotten-cellar-security-and-privacy-of-the-browser-cache-4x4qwrq32f",
+          "journal": null,
+          "conference_series": {
+            "display_name": "Nordic Conference on Secure IT Systems",
+            "id": 2760291156,
+            "slug": "nordic-conference-on-secure-it-systems",
+            "unique_id": "3m49fkbp",
+            "full_slug": "nordic-conference-on-secure-it-systems-3m49fkbp"
+          },
+          "date": "2019-11-18T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Book Chapter",
+          "doi": "10.1007/978-3-030-35055-0_2",
+          "unique_id": "4x4qwrq32f",
+          "authors": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "Florian Dehling",
+                "id": 3048178690,
+                "slug": "florian-dehling",
+                "unique_id": "1brjnzjirr",
+                "full_slug": "florian-dehling-1brjnzjirr",
+                "affiliation_full_slug": "cologne-university-of-applied-sciences-12c9letw"
+              },
+              {
+                "display_name": "Tobias Mengel",
+                "id": 2982685991,
+                "slug": "tobias-mengel",
+                "unique_id": "2z9hbyggxi",
+                "full_slug": "tobias-mengel-2z9hbyggxi",
+                "affiliation_full_slug": "cologne-university-of-applied-sciences-12c9letw"
+              },
+              {
+                "display_name": "Luigi Lo Iacono",
+                "id": 540073433,
+                "slug": "luigi-lo-iacono",
+                "unique_id": "5a8zmendy2",
+                "full_slug": "luigi-lo-iacono-5a8zmendy2",
+                "affiliation_full_slug": "cologne-university-of-applied-sciences-12c9letw"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 1,
+            "data": [
+              {
+                "display_name": "Cologne University of Applied Sciences",
+                "city": "Cologne",
+                "region": null,
+                "country": "Germany",
+                "id": 102520234,
+                "slug": "cologne-university-of-applied-sciences",
+                "unique_id": "12c9letw",
+                "full_slug": "cologne-university-of-applied-sciences-12c9letw"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/rotten-cellar-security-and-privacy-of-the-browser-cache-4x4qwrq32f.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://link.springer.com/chapter/10.1007/978-3-030-35055-0_2",
+                "https://dblp.uni-trier.de/db/conf/nordsec/nordsec2019.html#DehlingMI19"
+              ],
+              "Pdf": [
+                "https://epb.bibl.th-koeln.de/files/1424/Dehling_et_al__Rotten_Cellar.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 3
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 3048918823,
+          "title": "Cached and Confused: Web Cache Deception in the Wild",
+          "is_archived": false,
+          "full_slug": "cached-and-confused-web-cache-deception-in-the-wild-4jk49n5l40",
+          "journal": null,
+          "conference_series": {
+            "display_name": "USENIX Security Symposium",
+            "id": 2537594308,
+            "slug": "usenix-security-symposium",
+            "unique_id": "2nqvgoik",
+            "full_slug": "usenix-security-symposium-2nqvgoik"
+          },
+          "date": "2020-01-01T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Proceedings Article",
+          "doi": null,
+          "unique_id": "4jk49n5l40",
+          "authors": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "Seyed Ali Mirheidari",
+                "id": 2086383268,
+                "slug": "seyed-ali-mirheidari",
+                "unique_id": "3os2hyckrk",
+                "full_slug": "seyed-ali-mirheidari-3os2hyckrk",
+                "affiliation_full_slug": "university-of-trento-26z50udz"
+              },
+              {
+                "display_name": "Sajjad Arshad",
+                "id": 2135713608,
+                "slug": "sajjad-arshad",
+                "unique_id": "4dqa6r1gr7",
+                "full_slug": "sajjad-arshad-4dqa6r1gr7",
+                "affiliation_full_slug": "northeastern-university-2tfxs25d"
+              },
+              {
+                "display_name": "Kaan Onarlioglu",
+                "id": 2055683646,
+                "slug": "kaan-onarlioglu",
+                "unique_id": "4bvsto98f9",
+                "full_slug": "kaan-onarlioglu-4bvsto98f9",
+                "affiliation_full_slug": "akamai-technologies-2z9tpaho"
+              },
+              {
+                "display_name": "Bruno Crispo",
+                "id": 2091485889,
+                "slug": "bruno-crispo",
+                "unique_id": "5fh852n2it",
+                "full_slug": "bruno-crispo-5fh852n2it",
+                "affiliation_full_slug": "university-of-trento-26z50udz"
+              },
+              {
+                "display_name": "Engin Kirda",
+                "id": 59249629,
+                "slug": "engin-kirda",
+                "unique_id": "5bemu3gw8r",
+                "full_slug": "engin-kirda-5bemu3gw8r",
+                "affiliation_full_slug": "northeastern-university-2tfxs25d"
+              },
+              {
+                "display_name": "William Robertson",
+                "id": 2916257583,
+                "slug": "william-robertson",
+                "unique_id": "3iwal1x49w",
+                "full_slug": "william-robertson-3iwal1x49w",
+                "affiliation_full_slug": "northeastern-university-2tfxs25d"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "University of Trento",
+                "city": "Trento",
+                "region": null,
+                "country": "Italy",
+                "id": 193223587,
+                "slug": "university-of-trento",
+                "unique_id": "26z50udz",
+                "full_slug": "university-of-trento-26z50udz"
+              },
+              {
+                "display_name": "Northeastern University",
+                "city": "Boston",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 12912129,
+                "slug": "northeastern-university",
+                "unique_id": "2tfxs25d",
+                "full_slug": "northeastern-university-2tfxs25d"
+              },
+              {
+                "display_name": "Akamai Technologies",
+                "city": "Cambridge",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 10734018,
+                "slug": "akamai-technologies",
+                "unique_id": "2z9tpaho",
+                "full_slug": "akamai-technologies-2z9tpaho"
+              }
+            ]
+          },
+          "fulltext_url": "/pdf/cached-and-confused-web-cache-deception-in-the-wild-4jk49n5l40.pdf",
+          "fulltext_url_no_follow": false,
+          "paper_urls": {
+            "order": [
+              "Pdf",
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://dblp.uni-trier.de/db/conf/uss/uss2020.html#MirheidariAOCK020",
+                "https://www.usenix.org/conference/usenixsecurity20/presentation/mirheidari"
+              ],
+              "Pdf": [
+                "https://www.usenix.org/system/files/sec20-mirheidari.pdf",
+                "https://atc.usenix.org/system/files/sec20summer_mirheidari_prepub.pdf"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 15
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 2996478686,
+          "title": "Cached and Confused: Web Cache Deception in the Wild",
+          "is_archived": false,
+          "full_slug": "cached-and-confused-web-cache-deception-in-the-wild-4zhjecd1h4",
+          "journal": {
+            "display_name": "arXiv: Cryptography and Security",
+            "official_page": null,
+            "issn": null,
+            "alias": null,
+            "id": 2595770078,
+            "slug": "arxiv-cryptography-and-security",
+            "unique_id": "1mk66hgt",
+            "full_slug": "arxiv-cryptography-and-security-1mk66hgt"
+          },
+          "conference_series": null,
+          "date": "2019-12-21T00:00:00Z",
+          "is_oa": true,
+          "publication_type": "Posted Content",
+          "doi": null,
+          "unique_id": "4zhjecd1h4",
+          "authors": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "Seyed Ali Mirheidari",
+                "id": 2086383268,
+                "slug": "seyed-ali-mirheidari",
+                "unique_id": "3os2hyckrk",
+                "full_slug": "seyed-ali-mirheidari-3os2hyckrk",
+                "affiliation_full_slug": "university-of-trento-26z50udz"
+              },
+              {
+                "display_name": "Sajjad Arshad",
+                "id": 2135713608,
+                "slug": "sajjad-arshad",
+                "unique_id": "4dqa6r1gr7",
+                "full_slug": "sajjad-arshad-4dqa6r1gr7",
+                "affiliation_full_slug": "northeastern-university-2tfxs25d"
+              },
+              {
+                "display_name": "Kaan Onarlioglu",
+                "id": 2055683646,
+                "slug": "kaan-onarlioglu",
+                "unique_id": "4bvsto98f9",
+                "full_slug": "kaan-onarlioglu-4bvsto98f9",
+                "affiliation_full_slug": "akamai-technologies-2z9tpaho"
+              },
+              {
+                "display_name": "Bruno Crispo",
+                "id": 2091485889,
+                "slug": "bruno-crispo",
+                "unique_id": "5fh852n2it",
+                "full_slug": "bruno-crispo-5fh852n2it",
+                "affiliation_full_slug": "university-of-trento-26z50udz"
+              },
+              {
+                "display_name": "Engin Kirda",
+                "id": 59249629,
+                "slug": "engin-kirda",
+                "unique_id": "5bemu3gw8r",
+                "full_slug": "engin-kirda-5bemu3gw8r",
+                "affiliation_full_slug": "northeastern-university-2tfxs25d"
+              },
+              {
+                "display_name": "William Robertson",
+                "id": 2916257583,
+                "slug": "william-robertson",
+                "unique_id": "3iwal1x49w",
+                "full_slug": "william-robertson-3iwal1x49w",
+                "affiliation_full_slug": "northeastern-university-2tfxs25d"
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 3,
+            "data": [
+              {
+                "display_name": "University of Trento",
+                "city": "Trento",
+                "region": null,
+                "country": "Italy",
+                "id": 193223587,
+                "slug": "university-of-trento",
+                "unique_id": "26z50udz",
+                "full_slug": "university-of-trento-26z50udz"
+              },
+              {
+                "display_name": "Northeastern University",
+                "city": "Boston",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 12912129,
+                "slug": "northeastern-university",
+                "unique_id": "2tfxs25d",
+                "full_slug": "northeastern-university-2tfxs25d"
+              },
+              {
+                "display_name": "Akamai Technologies",
+                "city": "Cambridge",
+                "region": "Massachusetts",
+                "country": "United States",
+                "id": 10734018,
+                "slug": "akamai-technologies",
+                "unique_id": "2z9tpaho",
+                "full_slug": "akamai-technologies-2z9tpaho"
+              }
+            ]
+          },
+          "fulltext_url": "https://arxiv.org/pdf/1912.10190",
+          "fulltext_url_no_follow": true,
+          "paper_urls": {
+            "order": [
+              "Html"
+            ],
+            "data": {
+              "Html": [
+                "https://arxiv.org/abs/1912.10190v1",
+                "http://ui.adsabs.harvard.edu/abs/2019arXiv191210190M/abstract"
+              ]
+            },
+            "is_show": true
+          },
+          "metrics": {
+            "citations": {
+              "total": 19
+            }
+          },
+          "entity_type": "PAPER"
+        },
+        {
+          "id": 4057560509,
+          "title": "Cached and Confused: Web Cache Deception in the Wild.",
+          "is_archived": false,
+          "full_slug": "cached-and-confused-web-cache-deception-in-the-wild-bnu4uwxjbs09",
+          "journal": null,
+          "conference_series": null,
+          "date": null,
+          "is_oa": null,
+          "publication_type": null,
+          "doi": "10.48550/arxiv.1912.10190",
+          "unique_id": "bnu4uwxjbs09",
+          "authors": {
+            "total": 6,
+            "data": [
+              {
+                "display_name": "Seyed Ali Mirheidari",
+                "full_slug": null
+              },
+              {
+                "display_name": "Sajjad Arshad",
+                "full_slug": null
+              },
+              {
+                "display_name": "Kaan Onarlioglu",
+                "full_slug": null
+              },
+              {
+                "display_name": "Bruno Crispo",
+                "full_slug": null
+              },
+              {
+                "display_name": "Engin Kirda",
+                "full_slug": null
+              },
+              {
+                "display_name": "William Robertson",
+                "full_slug": null
+              }
+            ]
+          },
+          "affiliations": {
+            "total": 0,
+            "data": []
+          },
+          "metrics": {
+            "citations": {
+              "total": null
+            }
+          },
+          "entity_type": "PAPER"
+        }
+      ]
+    },
+    "isError": false
+  }
+}

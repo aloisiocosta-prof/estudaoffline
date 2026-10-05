@@ -1,0 +1,22 @@
+{
+  "id": "053ae4e9874f52eeac92221a51485231",
+  "retrieved_utc": "2026-10-05T05:45:06.651Z",
+  "response": {
+    "retrieved_metadata": [
+      {
+        "id": "053ae4e9874f52eeac92221a51485231",
+        "title": "Dynamic Testing Techniques of Non-functional Requirements in Mobile Apps: A Systematic Mapping Study",
+        "url": "https://consensus.app/papers/dynamic-testing-techniques-of-nonfunctional-júnior-amalfitano/053ae4e9874f52eeac92221a51485231/?utm_source=chatgpt",
+        "metadata": {
+          "authors": "Misael C. Júnior, Domenico Amalfitano, Lina Garcés, A. Fasolino, Stevão A. Andrade, M. Delamaro",
+          "publish_year": "2022",
+          "journal": "ACM Computing Surveys (CSUR)",
+          "volume": "54",
+          "pages": "1 - 38",
+          "citation_count": "21"
+        }
+      }
+    ],
+    "isError": false
+  }
+}
