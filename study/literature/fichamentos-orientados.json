@@ -21,6 +21,7 @@
     "opportunity": "Extrair população, operacionalização, instrumentos e evidências de validade antes de escolher uma medida futura; manter minutes e done como dados de tarefa",
     "paragraphs": [
       "T4",
+      "L1",
       "D1"
     ],
     "status": "conferência dirigida"
@@ -43,7 +44,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L1"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -64,7 +67,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L1"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -86,7 +91,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L1"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -108,7 +115,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L2"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -130,7 +139,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L2"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -152,7 +163,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L2"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -175,7 +188,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L2"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -197,7 +212,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L3"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -220,7 +237,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L3"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -243,6 +262,7 @@
     "opportunity": "Extrair separadamente achados favoráveis, neutros e desfavoráveis e condições de uso; formular hipóteses alternativas antes de atribuir benefício ao organizador",
     "paragraphs": [
       "T2",
+      "L3",
       "D2"
     ],
     "status": "conferência dirigida"
@@ -266,7 +286,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L3"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -295,6 +317,7 @@
     "opportunity": "Mapear funcionalidades propostas às fases do ciclo e registrar sobreposição entre revisões; avaliar separadamente a utilidade de cada suporte em investigação futura",
     "paragraphs": [
       "T3",
+      "L4",
       "D2"
     ],
     "status": "conferência dirigida"
@@ -318,7 +341,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L4"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -340,7 +365,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L4"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -362,7 +389,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L4"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -383,7 +412,9 @@
     "strength": "Sustenta quadro conceitual",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L5"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -408,7 +439,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L5"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -432,7 +465,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L5"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -454,7 +489,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Relacionar suporte ao planejamento com o ciclo autorregulatório, preservando o limite entre registro e aprendizagem",
     "opportunity": "Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L5"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -465,7 +502,7 @@
     ],
     "title": "THE DIGITAL DIVIDE AND HIGHER EDUCATION CHALLENGE WITH EMERGENCY ONLINE LEARNING: ANALYSIS OF TWEETS IN THE WAKE OF THE COVID-19 LOCKDOWN",
     "year": 2021,
-    "url": "https://consensus.app/papers/the-digital-divide-and-higher-education-challenge-with-azionya-nhedzi/7ee97159a4ea582bac1d7d50692fd0ec/?utm_source=chatgpt",
+    "url": "https://doi.org/10.17718/tojde.1002822",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -475,7 +512,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L6"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -490,7 +529,7 @@
     ],
     "title": "Improving Accessibility in Online Education: Comparative Analysis of Attitudes of Blind and Deaf Students Toward an Adapted Learning Platform",
     "year": 2021,
-    "url": "https://consensus.app/papers/improving-accessibility-in-online-education-comparative-batanero-ochaíta-de-marcos/712b36a1a68d5154a8474f08f721f788/?utm_source=chatgpt",
+    "url": "https://doi.org/10.1109/ACCESS.2021.3095041",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -500,7 +539,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L6"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -521,7 +562,9 @@
     "strength": "Sustenta foco da revisão; critérios de teclado exigem fonte normativa",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L6"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -542,7 +585,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L6"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -564,12 +609,15 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L7"
+    ],
     "status": "ficha preliminar"
   },
   {
     "key": "cob2023",
     "reference": [
+      "M. Ahmad Faudzi",
       "Zaihisma Che Cob",
       "Ridha Omar",
       "Sharul Azim Sharudin",
@@ -577,7 +625,7 @@
     ],
     "title": "Investigating the User Interface Design Frameworks of Current Mobile Learning Applications: A Systematic Review",
     "year": 2023,
-    "url": "https://consensus.app/papers/investigating-the-user-interface-design-frameworks-of-cob-omar/0832d843386a5ec3ac5587ce6430bf87/?utm_source=chatgpt",
+    "url": "https://doi.org/10.3390/educsci13010094",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -587,7 +635,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L7"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -598,7 +648,7 @@
     ],
     "title": "A comparative study of an assistive e-learning interface among students with and without visual and hearing impairments",
     "year": 2020,
-    "url": "https://consensus.app/papers/a-comparative-study-of-an-assistive-elearning-interface-farhan-razmak/ddcdf278f30c576aae0d46ba235fdcf6/?utm_source=chatgpt",
+    "url": "https://doi.org/10.1080/17483107.2020.1786733",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -608,7 +658,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L7"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -629,7 +681,9 @@
     "strength": "Parcial: restringir à paráfrase do resumo",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L7"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -650,7 +704,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L8"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -661,7 +717,7 @@
     ],
     "title": "The COVID-19 Pandemic and E-Learning: The Digital Divide and Educational Crises in Pakistan’s Universities",
     "year": 2023,
-    "url": "https://consensus.app/papers/the-covid19-pandemic-and-elearning-the-digital-divide-and-jamil-muschert/0c47f8b26df453b78335dedb3551abcf/?utm_source=chatgpt",
+    "url": "https://doi.org/10.1177/00027642231156779",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -671,7 +727,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L8"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -692,7 +750,9 @@
     "strength": "Sustenta pertinência do tópico; procedimentos locais são proposta",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L8"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -714,7 +774,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L8"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -736,7 +798,9 @@
     "strength": "Sustenta descrição do mapeamento",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L9"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -748,7 +812,7 @@
     ],
     "title": "Strategies for overcoming the digital divide during the COVID-19 pandemic in higher education institutions in Ghana",
     "year": 2023,
-    "url": "https://consensus.app/papers/strategies-for-overcoming-the-digital-divide-during-the-kumi-yeboah-kim/967c7df48228548cb51021274702d9a5/?utm_source=chatgpt",
+    "url": "https://doi.org/10.1111/bjet.13356",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -758,7 +822,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L9"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -780,7 +846,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L9"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -802,7 +870,9 @@
     "strength": "Sustenta descrição geral; interpretação local é proposta",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L9"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -814,7 +884,7 @@
     ],
     "title": "Digital divide framework: online learning in developing countries during the COVID-19 lockdown",
     "year": 2021,
-    "url": "https://consensus.app/papers/digital-divide-framework-online-learning-in-developing-mathrani-sarvesh/851d21a0596c547db106657fc2fa6c51/?utm_source=chatgpt",
+    "url": "https://doi.org/10.1080/14767724.2021.1981253",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -824,7 +894,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L10"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -838,7 +910,7 @@
     ],
     "title": "Mobile Learning in Higher Education: A Systematic Literature Review",
     "year": 2023,
-    "url": "https://consensus.app/papers/mobile-learning-in-higher-education-a-systematic-naveed-choudhary/acb83e94541852779b0ca87547d4e199/?utm_source=chatgpt",
+    "url": "https://doi.org/10.3390/su151813566",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -848,7 +920,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L10"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -869,7 +943,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L10"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -881,7 +957,7 @@
     ],
     "title": "The digital divide in online education: Inequality in digital readiness of students and schools",
     "year": 2022,
-    "url": "https://consensus.app/papers/the-digital-divide-in-online-education-inequality-in-werfhorst-kessenich/e49c1494c3a757608599a52c6e9b4374/?utm_source=chatgpt",
+    "url": "https://doi.org/10.1016/j.caeo.2022.100100",
     "kind": "peer_reviewed_journal_article",
     "access": "abstract_and_metadata_only; full_text_not_assessed",
     "location": "Resumo/metadados: localizar seção e página no texto integral antes de uso metodológico",
@@ -891,7 +967,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Identificar a dimensão de barreira ou usabilidade discutida, sem presumir representatividade da escola",
     "opportunity": "Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional",
-    "paragraphs": [],
+    "paragraphs": [
+      "L10"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -913,7 +991,9 @@
     "strength": "Sustenta ameaça geral; presença no MVP não demonstrada",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L11"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -936,7 +1016,9 @@
     "strength": "Sustenta delimitação de ameaças",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L11"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -958,7 +1040,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L11"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -980,7 +1064,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L11"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1004,7 +1090,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L12"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1025,7 +1113,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L12"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1046,7 +1136,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L12"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1069,7 +1161,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L12"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1091,7 +1185,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L13"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1115,7 +1211,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L13"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1137,7 +1235,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L13"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1162,7 +1262,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L13"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1184,7 +1286,9 @@
     "strength": "Sustenta motivação de análise de riscos",
     "connection": "Distinguir ameaça, mecanismo de armazenamento e comportamento observado no MVP",
     "opportunity": "Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir",
-    "paragraphs": [],
+    "paragraphs": [
+      "L14"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -1209,7 +1313,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L15"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1231,7 +1337,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L15"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1254,7 +1362,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L15"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1276,7 +1386,9 @@
     "strength": "Sustenta panorama",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L15"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -1298,7 +1410,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L16"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1324,7 +1438,8 @@
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Selecionar um atributo não funcional, plataforma e procedimento reproduzível; registrar ambiente, condição de falha e resultado esperado antes do ensaio técnico",
     "paragraphs": [
-      "T5"
+      "T5",
+      "L16"
     ],
     "status": "conferência dirigida"
   },
@@ -1346,7 +1461,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L16"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1367,7 +1484,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L16"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1392,7 +1511,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L17"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1413,7 +1534,9 @@
     "strength": "Sustenta princípio; lista exata de campos é proposta",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L17"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -1435,7 +1558,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L17"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1457,7 +1582,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L17"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1479,7 +1606,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L18"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1503,7 +1632,9 @@
     "strength": "Sustenta síntese restrita ao resumo",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L18"
+    ],
     "status": "conferência dirigida"
   },
   {
@@ -1528,7 +1659,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L18"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1553,7 +1686,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L18"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1575,7 +1710,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Separar tipo de teste, plataforma e requisito observado",
     "opportunity": "Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente",
-    "paragraphs": [],
+    "paragraphs": [
+      "L19"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1620,7 +1757,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L20"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1665,7 +1804,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L20"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1692,7 +1833,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L20"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1721,7 +1864,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L20"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1743,7 +1888,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L21"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1764,7 +1911,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L21"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1787,7 +1936,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L21"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1812,7 +1963,9 @@
     "strength": "Apoio preliminar restrito à paráfrase registrada; não permite inferência causal sobre o MVP",
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada",
-    "paragraphs": [],
+    "paragraphs": [
+      "L21"
+    ],
     "status": "ficha preliminar"
   },
   {
@@ -1834,7 +1987,8 @@
     "opportunity": "Propor um roteiro que separe meta, estratégia, acompanhamento e reflexão; conferir cada componente com o modelo antes de implementar, sem tratar o registro como instrumento validado",
     "paragraphs": [
       "I1",
-      "T1"
+      "T1",
+      "L22"
     ],
     "status": "conferência dirigida"
   },
@@ -1856,6 +2010,7 @@
     "connection": "Distinguir recomendação metodológica, instrumento e evidência de validade",
     "opportunity": "Documentar pergunta, critérios de seleção, acesso e cadeia afirmação–fonte; confirmar no original cada paráfrase usada no manuscrito",
     "paragraphs": [
+      "L22",
       "M2"
     ],
     "status": "conferência dirigida"

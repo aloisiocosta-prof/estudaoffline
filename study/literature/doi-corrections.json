@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-05",
+  "corrections": {
+    "azionya2021": [
+      "10.17718/tojde.1002822",
+      "https://dergipark.org.tr/en/pub/tojde/article/1002822"
+    ],
+    "batanero2021": [
+      "10.1109/ACCESS.2021.3095041",
+      "https://ebuah.uah.es/dspace/handle/10017/55403"
+    ],
+    "cob2023": [
+      "10.3390/educsci13010094",
+      "https://www.mdpi.com/2227-7102/13/1/94"
+    ],
+    "farhan2020": [
+      "10.1080/17483107.2020.1786733",
+      "https://www.tandfonline.com/doi/full/10.1080/17483107.2020.1786733"
+    ],
+    "jamil2023": [
+      "10.1177/00027642231156779",
+      "https://journals.sagepub.com/doi/10.1177/00027642231156779"
+    ],
+    "kumiyeboah2023": [
+      "10.1111/bjet.13356",
+      "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356"
+    ],
+    "mathrani2021": [
+      "10.1080/14767724.2021.1981253",
+      "https://www.tandfonline.com/doi/full/10.1080/14767724.2021.1981253"
+    ],
+    "naveed2023": [
+      "10.3390/su151813566",
+      "https://www.mdpi.com/2071-1050/15/18/13566"
+    ],
+    "werfhorst2022": [
+      "10.1016/j.caeo.2022.100100",
+      "https://www.sciencedirect.com/science/article/pii/S2666557322000295"
+    ]
+  },
+  "limitations": "Nove lacunas de DOI completadas; não se declara nova conferência integral de todos os80 ou rastreio de retratações",
+  "primary_metadata_urls": [
+    "https://irepository.uniten.edu.my/entities/publication/2a81ee5a-6d1b-4b85-80db-71f0c4133a85/full",
+    "https://mro.massey.ac.nz/items/77851925-0c5a-43e3-b561-4b51a6a23e17/full",
+    "https://pure.uj.ac.za/en/publications/the-digital-divide-and-higher-education-challenge-with-emergency-/",
+    "https://ebuah.uah.es/dspace/handle/10017/55403?locale-attribute=en",
+    "https://khazna.ku.ac.ae/en/publications/the-covid-19-pandemic-and-e-learning-the-digital-divide-and-educa/",
+    "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356",
+    "https://www.mdpi.com/2071-1050/15/18/13566/notes",
+    "https://pubmed.ncbi.nlm.nih.gov/32627612/",
+    "https://www.sciencedirect.com/science/article/pii/S2666557322000295"
+  ]
+}

@@ -1,3 +1,5 @@
+> Histórico da versão anterior: seleção de seis fontes e limite de uma página para referências foram revogados. A revisão atual exige80 fontes científicas DOI+URL em cada manuscrito, referências sem limite de páginas e proíbe a referência bibliográfica ao próprio estudo; ver docs/editorial/revisao-80-fontes.md.
+
 # Revisão orientada de coerência — 5 outubro 2026
 
 O problema observado pelo orientador foi a mudança abrupta de assunto entre parágrafos; a revisão usa ABCD como convenção editorial proposta, sem alegação de validação empírica (EstudaOffline,2026, solicitação e mapa editorial).

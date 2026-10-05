@@ -1,26 +1,34 @@
 {
   "sources": {
     "artigo": {
-      "scientific_publications_cited": 6,
-      "bibliography_entries": 8,
+      "scientific_publications_cited": 80,
+      "scientific_entries_with_doi_and_url": 80,
+      "own_study_reference_present": false,
+      "bibliography_entries": 81,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "entrega-escolar": {
-      "scientific_publications_cited": 6,
-      "bibliography_entries": 8,
+      "scientific_publications_cited": 80,
+      "scientific_entries_with_doi_and_url": 80,
+      "own_study_reference_present": false,
+      "bibliography_entries": 81,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "poster": {
       "scientific_publications_cited": 80,
-      "bibliography_entries": 86,
+      "scientific_entries_with_doi_and_url": 80,
+      "own_study_reference_present": false,
+      "bibliography_entries": 85,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "fichamentos": {
       "scientific_publications_cited": 80,
-      "bibliography_entries": 81,
+      "scientific_entries_with_doi_and_url": 80,
+      "own_study_reference_present": false,
+      "bibliography_entries": 80,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     }
@@ -32,28 +40,28 @@
   ],
   "pdf_lines": {
     "artigo": {
-      "pages": 9,
-      "text_lines": 186,
-      "lines_below_half_width": 32,
-      "lines_below_half_character_width": 32,
+      "pages": 31,
+      "text_lines": 924,
+      "lines_below_half_width": 109,
+      "lines_below_half_character_width": 115,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "entrega-escolar": {
-      "pages": 11,
-      "text_lines": 203,
-      "lines_below_half_width": 41,
-      "lines_below_half_character_width": 49,
+      "pages": 33,
+      "text_lines": 954,
+      "lines_below_half_width": 118,
+      "lines_below_half_character_width": 141,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "poster": {
       "pages": 9,
-      "text_lines": 475,
+      "text_lines": 483,
       "lines_below_half_width": 88,
-      "lines_below_half_character_width": 88,
+      "lines_below_half_character_width": 93,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."

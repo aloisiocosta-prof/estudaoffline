@@ -16,8 +16,8 @@ def main():
         starts.append(('Referências',ref));result={}
         for i,(title,start) in enumerate(starts):
             stop=starts[i+1][1]-1 if i+1<len(starts) else len(doc)
-            cap=1 if title in ['Considerações finais','Referências'] else 2
-            assert stop>=start and stop-start+1<=cap,(name,title,start,stop,cap)
+            cap=None if title=='Referências' else (1 if title=='Considerações finais' else 2)
+            assert stop>=start and (cap is None or stop-start+1<=cap),(name,title,start,stop,cap)
             text=' '.join(doc[p-1].get_text() for p in range(start,stop+1))
             assert '(??)' not in text and '(?)' not in text,(name,title,'unresolved citation')
             result[title]={'start_page':start,'end_page':stop,'pages':stop-start+1,'maximum_pages':cap,'passed':True}

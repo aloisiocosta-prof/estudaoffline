@@ -80,14 +80,15 @@
       "Salvador Otón Tortosa"
     ],
     "year": 2021,
-    "doi": null,
-    "url": "https://consensus.app/papers/improving-accessibility-in-online-education-comparative-batanero-ochaíta-de-marcos/712b36a1a68d5154a8474f08f721f788/?utm_source=chatgpt",
+    "doi": "10.1109/ACCESS.2021.3095041",
+    "url": "https://ebuah.uah.es/dspace/handle/10017/55403",
     "kind": "peer_reviewed_journal_article",
     "journal": "IEEE Access",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Avaliação por pessoas cegas e surdas pode revelar diferenças na facilidade de uso de uma plataforma adaptada.",
     "limitation_pt": "Protótipo e população específicos; percepções não demonstram eficácia pedagógica ou acessibilidade universal.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral"
   },
   {
     "key": "farhan2020",
@@ -97,14 +98,16 @@
       "Jamil Razmak"
     ],
     "year": 2020,
-    "doi": null,
-    "url": "https://consensus.app/papers/a-comparative-study-of-an-assistive-elearning-interface-farhan-razmak/ddcdf278f30c576aae0d46ba235fdcf6/?utm_source=chatgpt",
+    "doi": "10.1080/17483107.2020.1786733",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17483107.2020.1786733",
     "kind": "peer_reviewed_journal_article",
     "journal": "Disability and Rehabilitation: Assistive Technology",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "O estudo avaliou recursos de voz e língua de sinais com estudantes e docentes; propor avaliação participativa do EstudaOffline é uma inferência de projeto.",
     "limitation_pt": "Estudo de métodos mistos de satisfação; não transfere resultados ao EstudaOffline nem à educação técnica brasileira.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "publication_history": "Online2020; fascículo2022,17(4),431–441"
   },
   {
     "key": "guo2022",
@@ -132,14 +135,15 @@
       "Sara Geven"
     ],
     "year": 2022,
-    "doi": null,
-    "url": "https://consensus.app/papers/the-digital-divide-in-online-education-inequality-in-werfhorst-kessenich/e49c1494c3a757608599a52c6e9b4374/?utm_source=chatgpt",
+    "doi": "10.1016/j.caeo.2022.100100",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666557322000295",
     "kind": "peer_reviewed_journal_article",
     "journal": "Computers and Education Open",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Prontidão digital dos estudantes e das escolas são dimensões distintas da desigualdade educacional.",
     "limitation_pt": "Dados e contextos internacionais; não demonstra que uma PWA resolve desigualdade estrutural.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral"
   },
   {
     "key": "mathrani2021",
@@ -150,14 +154,16 @@
       "R. Umer"
     ],
     "year": 2021,
-    "doi": null,
-    "url": "https://consensus.app/papers/digital-divide-framework-online-learning-in-developing-mathrani-sarvesh/851d21a0596c547db106657fc2fa6c51/?utm_source=chatgpt",
+    "doi": "10.1080/14767724.2021.1981253",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/14767724.2021.1981253",
     "kind": "peer_reviewed_journal_article",
     "journal": "Globalisation, Societies and Education",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Acesso, práticas culturais e agência devem compor a análise de aprendizagem com conectividade limitada.",
     "limitation_pt": "Estudo em cinco países e no lockdown; gênero e responsabilidades domésticas dependem do contexto.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "publication_history": "Online 2021; fascículo2022,20(5),625–640; DOI editorial confirmado"
   },
   {
     "key": "azionya2021",
@@ -167,14 +173,15 @@
       "Abyshey Nhedzi"
     ],
     "year": 2021,
-    "doi": null,
-    "url": "https://consensus.app/papers/the-digital-divide-and-higher-education-challenge-with-azionya-nhedzi/7ee97159a4ea582bac1d7d50692fd0ec/?utm_source=chatgpt",
+    "doi": "10.17718/tojde.1002822",
+    "url": "https://dergipark.org.tr/en/pub/tojde/article/1002822",
     "kind": "peer_reviewed_journal_article",
     "journal": "Turkish Online Journal of Distance Education",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Cobertura de rede, dispositivo e condições socioeconômicas afetam participação em ensino síncrono.",
     "limitation_pt": "Netnografia de tweets, com seleção de usuários de rede social; não representa todos os estudantes.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral"
   },
   {
     "key": "jamil2023",
@@ -184,14 +191,16 @@
       "G. Muschert"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/the-covid19-pandemic-and-elearning-the-digital-divide-and-jamil-muschert/0c47f8b26df453b78335dedb3551abcf/?utm_source=chatgpt",
+    "doi": "10.1177/00027642231156779",
+    "url": "https://journals.sagepub.com/doi/10.1177/00027642231156779",
     "kind": "peer_reviewed_journal_article",
     "journal": "The American Behavioral Scientist",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Acesso à internet e habilidades digitais podem limitar continuidade educacional em universidades.",
     "limitation_pt": "Entrevistas por email podem excluir as pessoas com pior acesso; contexto paquistanês e pandêmico.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "publication_history": "Online2023; fascículo2024; DOI confirmado em registro editorial e institucional"
   },
   {
     "key": "kumiyeboah2023",
@@ -202,14 +211,15 @@
       "Yaa Essah Armah"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/strategies-for-overcoming-the-digital-divide-during-the-kumi-yeboah-kim/967c7df48228548cb51021274702d9a5/?utm_source=chatgpt",
+    "doi": "10.1111/bjet.13356",
+    "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356",
     "kind": "peer_reviewed_journal_article",
     "journal": "Br. J. Educ. Technol.",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Entrevistas com docentes e administradores descrevem estratégias de enfrentamento da divisão digital; combinar conectividade acessível, suporte e formação no projeto é uma proposta informada por esses relatos.",
     "limitation_pt": "35 entrevistas em cinco universidades de Gana; relato de estratégias não é ensaio de eficácia causal.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral"
   },
   {
     "key": "martin2024",
@@ -257,14 +267,15 @@
       "A. Qahmash"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/mobile-learning-in-higher-education-a-systematic-naveed-choudhary/acb83e94541852779b0ca87547d4e199/?utm_source=chatgpt",
+    "doi": "10.3390/su151813566",
+    "url": "https://www.mdpi.com/2071-1050/15/18/13566",
     "kind": "peer_reviewed_journal_article",
     "journal": "Sustainability",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Facilidade de uso e acessibilidade integram fatores considerados na adoção de aprendizagem móvel.",
     "limitation_pt": "Revisão de 161 artigos, majoritariamente quantitativos; adoção e aprendizagem não são equivalentes.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral"
   },
   {
     "key": "kumarmapping2024",
@@ -288,20 +299,29 @@
     "key": "cob2023",
     "title": "Investigating the User Interface Design Frameworks of Current Mobile Learning Applications: A Systematic Review",
     "authors": [
+      "M. Ahmad Faudzi",
       "Zaihisma Che Cob",
       "Ridha Omar",
       "Sharul Azim Sharudin",
       "Masitah Ghazali"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/investigating-the-user-interface-design-frameworks-of-cob-omar/0832d843386a5ec3ac5587ce6430bf87/?utm_source=chatgpt",
+    "doi": "10.3390/educsci13010094",
+    "url": "https://www.mdpi.com/2227-7102/13/1/94",
     "kind": "peer_reviewed_journal_article",
     "journal": "Education Sciences",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "A revisão organiza critérios de interface e sua relação com carga cognitiva; considerar tamanho de tela e desenho da interface no EstudaOffline é uma inferência de projeto.",
     "limitation_pt": "Revisão limitada a 2020–2022; não prova redução de carga cognitiva por uma interface específica.",
-    "source_service": "Consensus search + fetch"
+    "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "citation_names": [
+      "Ahmad Faudzi",
+      "Che Cob",
+      "Omar",
+      "Sharudin",
+      "Ghazali"
+    ]
   },
   {
     "key": "kumarguideline2019",

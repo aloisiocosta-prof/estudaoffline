@@ -2,7 +2,7 @@
 
 Esta versão substitui o inventário anterior; logs históricos preservam seus estados originais, sem servir como descrição atual da seleção.
 
-Corpus bruto: 91 registros; selecionados: 80 publicações; excluídos: 11. DOI ausente em 9 selecionados; DOI ausente não foi inventado.
+Corpus bruto: 91 registros; selecionados: 80 publicações; excluídos: 11. Todos os80 selecionados têm DOI e URL; nove lacunas foram completadas por conferência editorial/institucional, conforme doi-corrections.json.
 
 | Grupo | Selecionados |
 |---|---:|
@@ -24,11 +24,11 @@ Prasse inclui Araka como ID2; a sobreposição é confirmada. Outras sobreposiç
 
 ## Correções materiais
 
-Modelo explicitado, resultados contrários adicionados, offline temporal separado da rede, origem/perfil separados de identidade e campos de minutos/conclusão limitados a planejamento/estado informado. O teste de widget usa armazenamento em memória; não se apresenta como evidência de recarga real. Critérios WCAG2.2 são normativos, com inspeções propostas pendentes. As80 fichas do apêndice não substituem a síntese crítica do núcleo.
+Modelo explicitado, resultados contrários adicionados, offline temporal separado da rede, origem/perfil separados de identidade e campos de minutos/conclusão limitados a planejamento/estado informado. O teste de widget usa armazenamento em memória; não se apresenta como evidência de recarga real. Critérios WCAG2.2 são normativos, com inspeções propostas pendentes. As80 fichas não demonstram avaliação integral das fontes; o corpo agora articula as80 à síntese temática.
 
 ## Contagem e auditoria
 
-O gerador produz80 fontes científicas e seis referências normativas/técnicas/projeto. Os três documentos citam as80 fontes e não têm chaves indefinidas na verificação estática. Citações indiretas foram acrescentadas também a cada sentença das fichas, preservando seu suporte. A paginação mínima é conferência editorial, não validade científica.
+O gerador produz80 fontes científicas e cinco referências normativas/técnicas, sem o próprio estudo. Os três documentos citam as80 fontes e não têm chaves indefinidas na verificação estática. Citações indiretas foram acrescentadas também a cada sentença das fichas, preservando seu suporte. Os limites atuais de páginas são conferência editorial, não validade científica; Referências não têm limite de páginas.
 
 A auditoria rejeita documento vazio ou sem texto extraível; mede caracteres não brancos separadamente da extensão total, que pode incluir espaços. A medida representa avanço tipográfico, não pixels de tinta. Três testes de regressão verificam os falsos positivos. As violações de50% devem continuar declaradas.
 

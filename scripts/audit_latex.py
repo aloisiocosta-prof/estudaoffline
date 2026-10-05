@@ -20,6 +20,8 @@ def audit_sources():
     selected = json.loads((ROOT/'study/literature/selected.json').read_text())
     keys = {s['key'] for s in selected}
     assert len(keys) == len(selected) >= 80
+    assert all(s.get('doi') and s.get('url') for s in selected), 'Every scientific source requires DOI and URL'
+    assert len({s['doi'].lower() for s in selected})==len(selected), 'Duplicate DOI'
     current_year = date.today().year
     assert all(current_year - 10 <= s['year'] <= current_year for s in selected), 'Source outside the required year window'
     result = {}
@@ -27,10 +29,12 @@ def audit_sources():
         text = expand(ROOT/'paper'/f'{name}.tex')
         cites = {k.strip() for m in re.finditer(r'\\cite(?:p|t)?\{([^}]+)\}', text) for k in m[1].split(',')}
         bibs = set(re.findall(r'\\bibitem(?:\[[^\]]*\])?\{([^}]+)\}',text))
-        required=keys if name in ['poster', 'fichamentos'] else {'SU10','SU11','education_palalas2020','education_prasse2024','education_araka2020','eng06'}
+        required=keys
+        assert 'projeto' not in cites and 'projeto' not in bibs, (name,'own-study bibliography prohibited')
         assert not (required-cites), (name, 'missing science citations', sorted(required-cites))
         assert not (cites-bibs), (name, 'undefined source keys', sorted(cites-bibs))
-        result[name] = {'scientific_publications_cited':len(keys & cites),
+        assert not (bibs-cites), (name, 'uncited references', sorted(bibs-cites))
+        result[name] = {'scientific_publications_cited':len(keys & cites), 'scientific_entries_with_doi_and_url':len(selected), 'own_study_reference_present':False,
             'bibliography_entries':len(bibs), 'undefined_keys':sorted(cites-bibs),
             'uncited_bibliography_entries':sorted(bibs-cites)}
     return result

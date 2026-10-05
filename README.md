@@ -26,7 +26,9 @@ Sem avaliação com participantes. Sem garantia contra perda por quota/limpeza d
 
 Artigo e entrega escolar usam parágrafos ABCD, com planejamento explícito em `study/literature/argumento-abcd.json` e prosa compartilhada em `paper/argumento.tex`. ABCD é convenção editorial do orientador, não instrumento validado. Cada parágrafo retoma um conceito anterior e prepara o seguinte; os rótulos A/B/C/D aparecem no planejamento, não na narração final.
 
-Regra atual: máximo duas páginas físicas por seção; Considerações finais e Referências, máximo uma página cada. Substitui o mínimo anterior de três páginas do referencial. Para preservar referências legíveis, o manuscrito usa seis publicações científicas e duas fontes do projeto/normativas; o corpus de 80 está no caderno complementar `paper/fichamentos.tex`, com força pertinente, limite, oportunidade proposta e tarefa de verificação. Não se declara revisão integral uniforme, ausência de retratações ou avaliação independente humana.
+Regra atual: máximo duas páginas físicas por seção; Considerações finais, máximo uma página. Referências não têm limite de páginas e contêm80 publicações científicas com DOI+URL, além de documentação técnica complementar. Todas as80 são citadas em bases de parágrafos ABCD com achados e limites, no artigo e na entrega escolar. A bibliografia não inclui o próprio estudo; métodos e resultados locais são descritos diretamente. A regra revoga a bibliografia compacta de seis fontes.
+
+O caderno `paper/fichamentos.tex` preserva80 registros,18 com conferência dirigida anterior e62 preliminares; acesso, localizador, achado, limite e oportunidade proposta ficam separados. Não se declara leitura integral uniforme, rastreio completo de retratações ou validação da rubrica editorial.
 
 Reproduzir: `python3 scripts/build_literature.py`, `python3 scripts/build_narrative.py`, `python3 scripts/build_fichamentos.py`; compilar em `paper` com `latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex fichamentos.tex`. O CI inclui o caderno nos PDFs publicados e audita referências e limites por seção.
 

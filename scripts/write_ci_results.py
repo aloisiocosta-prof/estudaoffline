@@ -5,7 +5,7 @@ parts=['A execução automatizada documentada verificou componentes técnicos do
        'O GitHub Actions concluiu análise estática, testes Flutter, quatro testes de versionamento e compilação web; commit '+commit[:7]+', execução '+run,
        'Esses resultados se restringem à execução registrada, e o teste de widget com armazenamento simulado não comprova recarga real do navegador sem conexão',
        'Por isso, os resultados automatizados precisam ser lidos junto às observações disponíveis no navegador']
-Path('paper/results.tex').write_text(' '.join(s+r' \citep{projeto}.' for s in parts)+'\n')
+Path('paper/results.tex').write_text(' '.join(s+'.' for s in parts)+'\n')
 
 import json
 ledger=Path('study/literature/argumento-abcd.json')

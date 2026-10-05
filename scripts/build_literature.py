@@ -37,7 +37,7 @@ def main():
     (ROOT / 'study/literature/selected.json').write_text(json.dumps(selected, ensure_ascii=False, indent=2))
     (ROOT / 'study/literature/excluded.json').write_text(json.dumps(excluded, ensure_ascii=False, indent=2))
     synthesis = [r'\section{Apêndice bibliográfico: fichas e limites de uso}',
-        r'As fichas abaixo registram o corpus ampliado e não constituem, sozinhas, uma revisão crítica integrada \citep{SU11}. O referencial utiliza um subconjunto explicitamente relacionado às decisões do MVP, enquanto as demais fichas permanecem material de consulta \citep{projeto}. Critérios técnicos de acessibilidade são tratados separadamente das publicações científicas \citep{wcag}. As consultas têm níveis de acesso diferentes e não incluem uma avaliação uniforme de risco de viés de todas as publicações \citep{projeto}.']
+        r'As fichas abaixo registram o corpus ampliado e não constituem, sozinhas, uma revisão crítica integrada \citep{SU11}. O corpus relaciona as fontes a decisões e limites do MVP, com acesso registrado por publicação . Critérios técnicos de acessibilidade são tratados separadamente das publicações científicas \citep{wcag}. As consultas têm níveis de acesso diferentes e não incluem uma avaliação uniforme de risco de viés de todas as publicações .']
     bib = [r'\begin{thebibliography}{99}']
     rows = ['# Matriz de afirmações e fontes', '',
             '| Chave | Afirmação indireta | Limite | Tipo | Acesso | Fonte |',
@@ -62,7 +62,7 @@ def main():
         venue = s.get('journal') or s.get('venue') or s.get('publication_venue') or s['kind']
         bib.append(r'\bibitem[' + tex(label) + '(' + str(s['year']) + suffix + ')]{' + s['key'] + '} ' +
                    tex('; '.join(s['authors'])) + '. ' + tex(s['title']) + '. ' + tex(venue) + ', ' + str(s['year']) + '. ' +
-                   (r'DOI: \url{https://doi.org/' + s['doi'] + '}.' if s.get('doi') else r'URL: \url{' + s['url'].split('?')[0] + '}.') +
+                   (r'DOI: ' + tex(s['doi']) + r'. URL: \url{https://doi.org/' + s['doi'] + '}.' if s.get('doi') else r'URL: \url{' + s['url'].split('?')[0] + '}.') +
                    ' Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.')
         rows.append('| ' + ' | '.join(str(s.get(k, '')).replace('|','/').replace('\n',' ') for k in ['key','claim_pt','limitation_pt','kind','access_level','url']) + ' |')
     for key, label, title, url in [
@@ -71,7 +71,6 @@ def main():
         ('quota','MDN','Storage quotas and eviction criteria','https://developer.mozilla.org/en-US/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria'),
         ('sw','MDN','Service Worker API','https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API'),
         ('wcag','W3C','Web Content Accessibility Guidelines 2.2, Recommendation de 12 dezembro 2024','https://www.w3.org/TR/2024/REC-WCAG22-20241212/'),
-        ('projeto','EstudaOffline','Protocolo, buscas e observações técnicas do projeto','https://github.com/aloisiocosta-prof/estudaoffline/tree/main/study'),
     ]:
         suffix = {'local':'a','quota':'b','sw':'c'}.get(key,'')
         year = '2024' if key == 'wcag' else '2026'

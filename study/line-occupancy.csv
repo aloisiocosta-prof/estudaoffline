@@ -1,36 +1,119 @@
 document,page,line,bounding_width_ratio,nonspace_character_width_ratio,text
 artigo,1,4,0.2374,0.2198,Outubro de 2026
 artigo,1,5,0.0949,0.0949,Resumo
-artigo,1,15,0.0147,0.0147,1
-artigo,2,16,0.2552,0.2172,1 Introdução
-artigo,2,24,0.2472,0.2398,"EstudaOffline, 2026)."
-artigo,2,33,0.0147,0.0147,2
-artigo,3,34,0.4008,0.3523,2 Referencial teórico
-artigo,3,50,0.462,0.4254,"apoio oferecido (Palalas e Wark, 2020)."
-artigo,3,60,0.0147,0.0147,3
-artigo,4,77,0.3473,0.3179,"funcional (Júnior et al., 2022)."
-artigo,4,86,0.2472,0.2398,"EstudaOffline, 2026)."
-artigo,4,87,0.0147,0.0147,4
-artigo,5,88,0.2151,0.1771,3 Métodos
-artigo,5,96,0.2559,0.2486,"(EstudaOffline, 2026)."
-artigo,5,105,0.2472,0.2398,"EstudaOffline, 2026)."
-artigo,5,106,0.0147,0.0147,5
-artigo,6,107,0.2637,0.2257,4 Resultados
-artigo,6,123,0.0147,0.0147,6
-artigo,7,124,0.2489,0.211,5 Discussão
-artigo,7,133,0.3629,0.3409,"al., 2020; EstudaOffline, 2026)."
-artigo,7,144,0.3204,0.3058,"2020; EstudaOffline, 2026)."
-artigo,7,145,0.0147,0.0147,7
-artigo,8,146,0.4408,0.3924,6 Considerações finais
-artigo,8,156,0.0147,0.0147,8
-artigo,9,157,0.2152,0.2152,Referências
-artigo,9,162,0.2006,0.1973,39-020-00129-5 .
-artigo,9,171,0.2006,0.1974,58-024-09772-z .
-artigo,9,175,0.4281,0.4281,https://doi.org/10.1145/3507903 .
-artigo,9,178,0.3331,0.3331,10.3389/fpsyg.2017.00422 .
-artigo,9,181,0.3195,0.3195,6/j.jbusres.2019.07.039 .
-artigo,9,183,0.3196,0.3196,//www.w3.org/TR/WCAG22/ .
-artigo,9,186,0.0147,0.0147,9
+artigo,1,14,0.0147,0.0147,1
+artigo,2,15,0.2552,0.2172,1 Introdução
+artigo,2,22,0.0747,0.0747,2017).
+artigo,2,30,0.0147,0.0147,2
+artigo,3,31,0.4008,0.3523,2 Referencial teórico
+artigo,3,47,0.462,0.4254,"apoio oferecido (Palalas e Wark, 2020)."
+artigo,3,56,0.0147,0.0147,3
+artigo,4,72,0.3473,0.3179,"funcional (Júnior et al., 2022)."
+artigo,4,80,0.0147,0.0147,4
+artigo,5,98,0.4352,0.3986,"Saikia, 2023; Broadbent et al., 2020)."
+artigo,5,114,0.1172,0.1099,"al., 2022)."
+artigo,5,115,0.0147,0.0147,5
+artigo,6,149,0.1465,0.1319,"et al., 2017)."
+artigo,6,150,0.0147,0.0147,6
+artigo,7,167,0.0147,0.0147,7
+artigo,8,184,0.3927,0.3487,"e Chen, 2021; Choi e Seo, 2024)."
+artigo,8,200,0.0147,0.0147,8
+artigo,9,217,0.1465,0.1319,"et al., 2019)."
+artigo,9,234,0.0147,0.0147,9
+artigo,10,235,0.5378,0.4682,8 Adoção e prontidão digital
+artigo,10,251,0.3409,0.3116,"2017; Werfhorst et al., 2022)."
+artigo,10,252,0.0293,0.0293,10
+artigo,11,270,0.0747,0.0747,2019).
+artigo,11,287,0.5363,0.485,"MacFadden e Qiu, 2022; Jannes et al., 2023)."
+artigo,11,288,0.0274,0.0274,11
+artigo,12,316,0.0293,0.0293,12
+artigo,13,333,0.2784,0.2491,"2018; Zein et al., 2023)."
+artigo,13,351,0.1714,0.1641,"Robles, 2023)."
+artigo,13,352,0.0293,0.0293,13
+artigo,14,370,0.2682,0.2462,"Shepperd et al., 2018)."
+artigo,14,387,0.0293,0.0293,14
+artigo,15,398,0.0293,0.0293,15
+artigo,16,432,0.0293,0.0293,16
+artigo,17,445,0.0747,0.0747,2019).
+artigo,17,446,0.0293,0.0293,17
+artigo,18,447,0.2362,0.1983,16 Métodos
+artigo,18,454,0.1875,0.1802,cada afirmação.
+artigo,18,461,0.0293,0.0293,18
+artigo,19,462,0.2848,0.2468,17 Resultados
+artigo,19,475,0.482,0.4381,concluir e do que ainda requer avaliação.
+artigo,19,476,0.0293,0.0293,19
+artigo,20,477,0.27,0.2321,18 Discussão
+artigo,20,485,0.2315,0.2095,"(Araka et al., 2020)."
+artigo,20,495,0.1719,0.1573,"e Wark, 2020)."
+artigo,20,496,0.0293,0.0293,20
+artigo,21,497,0.4619,0.4135,19 Considerações finais
+artigo,21,505,0.4614,0.4395,procedimentos e autorizações próprios.
+artigo,21,506,0.0293,0.0293,21
+artigo,22,507,0.2152,0.2152,Referências
+artigo,22,513,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,22,517,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,22,526,0.4835,0.4395,de acesso registrado na matriz de fontes.
+artigo,22,531,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,22,540,0.0791,0.0791,fontes.
+artigo,22,545,0.2315,0.2095,na matriz de fontes.
+artigo,22,550,0.356,0.3267,registrado na matriz de fontes.
+artigo,22,551,0.0293,0.0293,22
+artigo,23,556,0.1157,0.1084,de fontes.
+artigo,23,572,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+artigo,23,582,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,23,587,0.1948,0.1802,matriz de fontes.
+artigo,23,597,0.0293,0.0293,23
+artigo,24,598,0.2315,0.2095,na matriz de fontes.
+artigo,24,604,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+artigo,24,610,0.0791,0.0791,fontes.
+artigo,24,616,0.0791,0.0791,fontes.
+artigo,24,622,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,24,627,0.2315,0.2095,na matriz de fontes.
+artigo,24,632,0.1948,0.1802,matriz de fontes.
+artigo,24,637,0.0791,0.0791,fontes.
+artigo,24,643,0.0293,0.0293,24
+artigo,25,648,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+artigo,25,652,0.1948,0.1802,matriz de fontes.
+artigo,25,657,0.0791,0.0791,fontes.
+artigo,25,665,0.4835,0.4395,de acesso registrado na matriz de fontes.
+artigo,25,674,0.1948,0.1802,matriz de fontes.
+artigo,25,679,0.1157,0.1084,de fontes.
+artigo,25,685,0.356,0.3267,registrado na matriz de fontes.
+artigo,25,688,0.0293,0.0293,25
+artigo,26,696,0.2315,0.2095,na matriz de fontes.
+artigo,26,705,0.1157,0.1084,de fontes.
+artigo,26,710,0.2315,0.2095,na matriz de fontes.
+artigo,26,715,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,26,721,0.0791,0.0791,fontes.
+artigo,26,726,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,26,731,0.356,0.3267,registrado na matriz de fontes.
+artigo,26,733,0.0293,0.0293,26
+artigo,27,737,0.1948,0.1802,matriz de fontes.
+artigo,27,747,0.2315,0.2095,na matriz de fontes.
+artigo,27,763,0.1948,0.1802,matriz de fontes.
+artigo,27,772,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,27,777,0.356,0.3267,registrado na matriz de fontes.
+artigo,27,778,0.0293,0.0293,27
+artigo,28,783,0.356,0.3267,registrado na matriz de fontes.
+artigo,28,788,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,28,793,0.1948,0.1802,matriz de fontes.
+artigo,28,801,0.4835,0.4395,de acesso registrado na matriz de fontes.
+artigo,28,806,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+artigo,28,811,0.0791,0.0791,fontes.
+artigo,28,816,0.356,0.3267,registrado na matriz de fontes.
+artigo,28,821,0.0791,0.0791,fontes.
+artigo,28,823,0.0293,0.0293,28
+artigo,29,827,0.356,0.3267,registrado na matriz de fontes.
+artigo,29,840,0.356,0.3267,registrado na matriz de fontes.
+artigo,29,850,0.4835,0.4395,de acesso registrado na matriz de fontes.
+artigo,29,868,0.356,0.3267,registrado na matriz de fontes.
+artigo,29,869,0.0293,0.0293,29
+artigo,30,884,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,30,890,0.4468,0.4102,acesso registrado na matriz de fontes.
+artigo,30,903,0.1157,0.1084,de fontes.
+artigo,30,911,0.1948,0.1802,matriz de fontes.
+artigo,30,915,0.0293,0.0293,30
+artigo,31,924,0.0293,0.0293,31
 entrega-escolar,1,1,0.3862,0.3643,CETI LUCAS MEIRELES ALVES
 entrega-escolar,1,3,0.3071,0.2998,PROJETO INTEGRADOR
 entrega-escolar,1,5,0.3901,0.369,COM DADOS LOCAIS
@@ -38,48 +121,140 @@ entrega-escolar,1,6,0.3281,0.3062,Teresina — Chapadinha Sul
 entrega-escolar,1,7,0.1978,0.1832,Outubro de 2026
 entrega-escolar,2,9,0.2075,0.1977,Professor: Aloisio
 entrega-escolar,2,11,0.3901,0.369,COM DADOS LOCAIS
-entrega-escolar,2,16,0.5999,0.4805,"2026). IA auxiliou código e texto, com revisão"
-entrega-escolar,2,21,0.2559,0.2486,"(EstudaOffline, 2026)."
-entrega-escolar,2,22,0.3281,0.3062,Teresina — Chapadinha Sul
-entrega-escolar,2,23,0.1978,0.1832,Outubro de 2026
-entrega-escolar,3,24,0.1519,0.1519,Sumário
-entrega-escolar,3,25,1.0,0.1655,1 Introdução 2
-entrega-escolar,3,26,1.0,0.2593,2 Referencial teórico 3
-entrega-escolar,3,27,1.0,0.1377,3 Métodos 5
-entrega-escolar,3,28,1.0,0.1714,4 Resultados 6
-entrega-escolar,3,29,1.0,0.1612,5 Discussão 7
-entrega-escolar,3,30,1.0,0.2871,6 Considerações finais 8
-entrega-escolar,3,31,1.0,0.1641,Referências 9
-entrega-escolar,3,32,0.0147,0.0147,1
-entrega-escolar,4,33,0.2552,0.2172,1 Introdução
-entrega-escolar,4,41,0.2472,0.2398,"EstudaOffline, 2026)."
-entrega-escolar,4,50,0.0147,0.0147,2
-entrega-escolar,5,51,0.4008,0.3523,2 Referencial teórico
-entrega-escolar,5,67,0.462,0.4254,"apoio oferecido (Palalas e Wark, 2020)."
-entrega-escolar,5,77,0.0147,0.0147,3
-entrega-escolar,6,94,0.3473,0.3179,"funcional (Júnior et al., 2022)."
-entrega-escolar,6,103,0.2472,0.2398,"EstudaOffline, 2026)."
-entrega-escolar,6,104,0.0147,0.0147,4
-entrega-escolar,7,105,0.2151,0.1771,3 Métodos
-entrega-escolar,7,113,0.2559,0.2486,"(EstudaOffline, 2026)."
-entrega-escolar,7,122,0.2472,0.2398,"EstudaOffline, 2026)."
-entrega-escolar,7,123,0.0147,0.0147,5
-entrega-escolar,8,124,0.2637,0.2257,4 Resultados
-entrega-escolar,8,140,0.0147,0.0147,6
-entrega-escolar,9,141,0.2489,0.211,5 Discussão
-entrega-escolar,9,150,0.3629,0.3409,"al., 2020; EstudaOffline, 2026)."
-entrega-escolar,9,161,0.3204,0.3058,"2020; EstudaOffline, 2026)."
-entrega-escolar,9,162,0.0147,0.0147,7
-entrega-escolar,10,163,0.4408,0.3924,6 Considerações finais
-entrega-escolar,10,173,0.0147,0.0147,8
-entrega-escolar,11,174,0.2152,0.2152,Referências
-entrega-escolar,11,179,0.2006,0.1973,39-020-00129-5 .
-entrega-escolar,11,188,0.2006,0.1974,58-024-09772-z .
-entrega-escolar,11,192,0.4281,0.4281,https://doi.org/10.1145/3507903 .
-entrega-escolar,11,195,0.3331,0.3331,10.3389/fpsyg.2017.00422 .
-entrega-escolar,11,198,0.3195,0.3195,6/j.jbusres.2019.07.039 .
-entrega-escolar,11,200,0.3196,0.3196,//www.w3.org/TR/WCAG22/ .
-entrega-escolar,11,203,0.0147,0.0147,9
+entrega-escolar,2,17,0.5999,0.4879,estudantes ainda a registrar . Liberation Sans
+entrega-escolar,2,20,0.1377,0.1304,pendentes .
+entrega-escolar,2,21,0.3281,0.3062,Teresina — Chapadinha Sul
+entrega-escolar,2,22,0.1978,0.1832,Outubro de 2026
+entrega-escolar,3,23,0.1519,0.1519,Sumário
+entrega-escolar,3,24,1.0,0.1655,1 Introdução 2
+entrega-escolar,3,25,1.0,0.2593,2 Referencial teórico 3
+entrega-escolar,3,26,1.0,0.4644,3 Planejamento e processos de estudo 5
+entrega-escolar,3,27,1.0,0.4277,4 Autorregulação e procrastinação 6
+entrega-escolar,3,28,1.0,0.4864,5 Intervenções e limites de transferência 7
+entrega-escolar,3,29,1.0,0.4044,6 Barreiras de acesso e interfaces 8
+entrega-escolar,3,30,1.0,0.3765,7 Usabilidade e inclusão digital 9
+entrega-escolar,3,31,1.0,0.3545,8 Adoção e prontidão digital 10
+entrega-escolar,3,32,1.0,0.4542,"9 Persistência, cache e consistência 11"
+entrega-escolar,3,34,1.0,0.401,11 Testes e avaliação do artefato 13
+entrega-escolar,3,35,1.0,0.4702,12 Reprodução e integração contínua 14
+entrega-escolar,3,39,1.0,0.167,16 Métodos 18
+entrega-escolar,3,40,1.0,0.2007,17 Resultados 19
+entrega-escolar,3,41,1.0,0.1905,18 Discussão 20
+entrega-escolar,3,42,1.0,0.3164,19 Considerações finais 21
+entrega-escolar,3,43,1.0,0.1787,Referências 22
+entrega-escolar,3,44,0.0147,0.0147,1
+entrega-escolar,4,45,0.2552,0.2172,1 Introdução
+entrega-escolar,4,52,0.0747,0.0747,2017).
+entrega-escolar,4,60,0.0147,0.0147,2
+entrega-escolar,5,61,0.4008,0.3523,2 Referencial teórico
+entrega-escolar,5,77,0.462,0.4254,"apoio oferecido (Palalas e Wark, 2020)."
+entrega-escolar,5,86,0.0147,0.0147,3
+entrega-escolar,6,102,0.3473,0.3179,"funcional (Júnior et al., 2022)."
+entrega-escolar,6,110,0.0147,0.0147,4
+entrega-escolar,7,128,0.4352,0.3986,"Saikia, 2023; Broadbent et al., 2020)."
+entrega-escolar,7,144,0.1172,0.1099,"al., 2022)."
+entrega-escolar,7,145,0.0147,0.0147,5
+entrega-escolar,8,179,0.1465,0.1319,"et al., 2017)."
+entrega-escolar,8,180,0.0147,0.0147,6
+entrega-escolar,9,197,0.0147,0.0147,7
+entrega-escolar,10,214,0.3927,0.3487,"e Chen, 2021; Choi e Seo, 2024)."
+entrega-escolar,10,230,0.0147,0.0147,8
+entrega-escolar,11,247,0.1465,0.1319,"et al., 2019)."
+entrega-escolar,11,264,0.0147,0.0147,9
+entrega-escolar,12,265,0.5378,0.4682,8 Adoção e prontidão digital
+entrega-escolar,12,281,0.3409,0.3116,"2017; Werfhorst et al., 2022)."
+entrega-escolar,12,282,0.0293,0.0293,10
+entrega-escolar,13,300,0.0747,0.0747,2019).
+entrega-escolar,13,317,0.5363,0.485,"MacFadden e Qiu, 2022; Jannes et al., 2023)."
+entrega-escolar,13,318,0.0274,0.0274,11
+entrega-escolar,14,346,0.0293,0.0293,12
+entrega-escolar,15,363,0.2784,0.2491,"2018; Zein et al., 2023)."
+entrega-escolar,15,381,0.1714,0.1641,"Robles, 2023)."
+entrega-escolar,15,382,0.0293,0.0293,13
+entrega-escolar,16,400,0.2682,0.2462,"Shepperd et al., 2018)."
+entrega-escolar,16,417,0.0293,0.0293,14
+entrega-escolar,17,428,0.0293,0.0293,15
+entrega-escolar,18,462,0.0293,0.0293,16
+entrega-escolar,19,475,0.0747,0.0747,2019).
+entrega-escolar,19,476,0.0293,0.0293,17
+entrega-escolar,20,477,0.2362,0.1983,16 Métodos
+entrega-escolar,20,484,0.1875,0.1802,cada afirmação.
+entrega-escolar,20,491,0.0293,0.0293,18
+entrega-escolar,21,492,0.2848,0.2468,17 Resultados
+entrega-escolar,21,505,0.482,0.4381,concluir e do que ainda requer avaliação.
+entrega-escolar,21,506,0.0293,0.0293,19
+entrega-escolar,22,507,0.27,0.2321,18 Discussão
+entrega-escolar,22,515,0.2315,0.2095,"(Araka et al., 2020)."
+entrega-escolar,22,525,0.1719,0.1573,"e Wark, 2020)."
+entrega-escolar,22,526,0.0293,0.0293,20
+entrega-escolar,23,527,0.4619,0.4135,19 Considerações finais
+entrega-escolar,23,535,0.4614,0.4395,procedimentos e autorizações próprios.
+entrega-escolar,23,536,0.0293,0.0293,21
+entrega-escolar,24,537,0.2152,0.2152,Referências
+entrega-escolar,24,543,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,24,547,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,24,556,0.4834,0.4395,de acesso registrado na matriz de fontes.
+entrega-escolar,24,561,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,24,570,0.0791,0.0791,fontes.
+entrega-escolar,24,575,0.2315,0.2095,na matriz de fontes.
+entrega-escolar,24,580,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,24,581,0.0293,0.0293,22
+entrega-escolar,25,586,0.1157,0.1084,de fontes.
+entrega-escolar,25,602,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+entrega-escolar,25,612,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,25,617,0.1948,0.1802,matriz de fontes.
+entrega-escolar,25,627,0.0293,0.0293,23
+entrega-escolar,26,628,0.2315,0.2095,na matriz de fontes.
+entrega-escolar,26,634,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+entrega-escolar,26,640,0.0791,0.0791,fontes.
+entrega-escolar,26,646,0.0791,0.0791,fontes.
+entrega-escolar,26,652,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,26,657,0.2315,0.2095,na matriz de fontes.
+entrega-escolar,26,662,0.1948,0.1802,matriz de fontes.
+entrega-escolar,26,667,0.0791,0.0791,fontes.
+entrega-escolar,26,673,0.0293,0.0293,24
+entrega-escolar,27,678,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+entrega-escolar,27,682,0.1948,0.1802,matriz de fontes.
+entrega-escolar,27,687,0.0791,0.0791,fontes.
+entrega-escolar,27,695,0.4834,0.4395,de acesso registrado na matriz de fontes.
+entrega-escolar,27,704,0.1948,0.1802,matriz de fontes.
+entrega-escolar,27,709,0.1157,0.1084,de fontes.
+entrega-escolar,27,715,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,27,718,0.0293,0.0293,25
+entrega-escolar,28,726,0.2315,0.2095,na matriz de fontes.
+entrega-escolar,28,735,0.1157,0.1084,de fontes.
+entrega-escolar,28,740,0.2315,0.2095,na matriz de fontes.
+entrega-escolar,28,745,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,28,751,0.0791,0.0791,fontes.
+entrega-escolar,28,756,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,28,761,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,28,763,0.0293,0.0293,26
+entrega-escolar,29,767,0.1948,0.1802,matriz de fontes.
+entrega-escolar,29,777,0.2315,0.2095,na matriz de fontes.
+entrega-escolar,29,793,0.1948,0.1802,matriz de fontes.
+entrega-escolar,29,802,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,29,807,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,29,808,0.0293,0.0293,27
+entrega-escolar,30,813,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,30,818,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,30,823,0.1948,0.1802,matriz de fontes.
+entrega-escolar,30,831,0.4834,0.4395,de acesso registrado na matriz de fontes.
+entrega-escolar,30,836,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
+entrega-escolar,30,841,0.0791,0.0791,fontes.
+entrega-escolar,30,846,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,30,851,0.0791,0.0791,fontes.
+entrega-escolar,30,853,0.0293,0.0293,28
+entrega-escolar,31,857,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,31,870,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,31,880,0.4834,0.4395,de acesso registrado na matriz de fontes.
+entrega-escolar,31,898,0.356,0.3267,registrado na matriz de fontes.
+entrega-escolar,31,899,0.0293,0.0293,29
+entrega-escolar,32,914,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,32,920,0.4468,0.4102,acesso registrado na matriz de fontes.
+entrega-escolar,32,933,0.1157,0.1084,de fontes.
+entrega-escolar,32,941,0.1948,0.1802,matriz de fontes.
+entrega-escolar,32,945,0.0293,0.0293,30
+entrega-escolar,33,954,0.0293,0.0293,31
 poster,1,1,0.2225,0.2225,EstudaOffline
 poster,1,2,0.4062,0.3769,Planejamento de estudos com dados locais
 poster,1,3,0.4763,0.4498,Estudantes — identificação omitida nesta demonstração
@@ -87,84 +262,89 @@ poster,1,4,0.4059,0.3882,Professor/orientador: Aloisio (revisão pendente)
 poster,1,5,0.4019,0.3648,CETI Lucas Meireles Alves — Técnico em ADS
 poster,1,6,0.2376,0.2217,Teresina — Chapadinha Sul
 poster,1,7,0.1909,0.1843,Pergunta técnica
-poster,1,9,0.4951,0.4579,"critérios são os do protocolo técnico (EstudaOffline, 2026)."
+poster,1,9,0.315,0.2832,critérios são os do protocolo técnico .
 poster,1,10,0.2027,0.1896,Artefato e método
 poster,1,14,0.3028,0.2962,Resultados documentados
-poster,1,18,0.2893,0.2787,"pedagógica (EstudaOffline, 2026)."
-poster,1,24,0.3377,0.3253,"observations.md. (EstudaOffline, 2026)."
-poster,1,25,0.2265,0.2133,Limites e conclusão
-poster,1,30,0.1607,0.1607,Transparência
-poster,1,33,0.1853,0.18,"(EstudaOffline, 2026)."
-poster,2,38,0.2247,0.1986,1 Apêndice bibliográfico: fichas e limites de uso
-poster,2,43,0.2028,0.1861,1.1 Planejamento e autorregulação da aprendizagem
-poster,2,52,0.1704,0.1572,"(Broadbent et al., 2020)."
-poster,2,61,0.2177,0.2002,"aplicativo (Hartley et al., 2022)."
-poster,2,74,0.1984,0.1853,"(Taghavi-Nejad et al., 2024)."
-poster,2,83,0.1384,0.1253,"(Wong et al., 2026)."
-poster,2,88,0.1423,0.1291,"(Zheng et al., 2016)."
-poster,3,89,0.2067,0.1901,"1.2 Acessibilidade, usabilidade e desigualdade digital"
-poster,3,96,0.4859,0.4405,"(Bong e Chen, 2021). Não avalia EstudaOffline (Bong e Chen, 2021)."
-poster,3,103,0.1264,0.1133,"(Cob et al., 2023)."
-poster,3,106,0.2528,0.2352,"brasileira (Farhan e Razmak, 2020)."
-poster,3,121,0.4165,0.377,"não é ensaio de eficácia causal (Kumi-Yeboah et al., 2023)."
-poster,3,125,0.3512,0.3204,"corrigido com fonte primária (Linhalis et al., 2026)."
-poster,3,134,0.367,0.345,"resultado direto (Punchoojit e Hongwarittorrn, 2017)."
-poster,3,137,0.209,0.1901,"1.3 Persistência local, cache, segurança e privacidade"
-poster,3,140,0.0878,0.079,"et al., 2021)."
-poster,4,149,0.0878,0.079,"et al., 2023)."
-poster,4,154,0.1844,0.1712,"(MacFadden e Qiu, 2022)."
-poster,4,159,0.2178,0.2046,"(Ekambaranathan et al., 2023)."
-poster,4,166,0.0703,0.0659,"al., 2023)."
-poster,4,169,0.1624,0.1479,"1.4 Engenharia, testes e reprodutibilidade"
-poster,4,176,0.2286,0.2066,"à web (Tramontana et al., 2018)."
-poster,5,205,0.1791,0.1602,"1.5 Integridade, atribuição e revisão da escrita"
-poster,5,218,0.1741,0.1609,"(Walters e Wilder, 2023)."
-poster,5,227,0.0448,0.0448,2019).
-poster,6,228,0.0537,0.0537,Referências
-poster,6,238,0.4047,0.3652,out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,6,241,0.2897,0.2634,de acesso registrado na matriz de fontes.
-poster,6,244,0.0474,0.0474,fontes.
-poster,6,247,0.0474,0.0474,fontes.
-poster,6,250,0.2133,0.1958,registrado na matriz de fontes.
-poster,6,253,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
-poster,6,256,0.1387,0.1255,na matriz de fontes.
-poster,6,259,0.0474,0.0474,fontes.
-poster,6,262,0.4179,0.374,5 out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,6,266,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
-poster,6,269,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,6,272,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
-poster,6,275,0.1167,0.108,matriz de fontes.
-poster,6,286,0.4179,0.374,5 out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,7,297,0.2678,0.2458,acesso registrado na matriz de fontes.
+poster,1,19,0.2281,0.2122,disponíveis no navegador .
+poster,1,20,0.2265,0.2133,Limites e conclusão
+poster,1,25,0.1607,0.1607,Transparência
+poster,2,32,0.2247,0.1986,1 Apêndice bibliográfico: fichas e limites de uso
+poster,2,36,0.1782,0.1607,de todas as publicações .
+poster,2,37,0.2028,0.1861,1.1 Planejamento e autorregulação da aprendizagem
+poster,2,46,0.1704,0.1572,"(Broadbent et al., 2020)."
+poster,2,55,0.2177,0.2002,"aplicativo (Hartley et al., 2022)."
+poster,2,68,0.1984,0.1853,"(Taghavi-Nejad et al., 2024)."
+poster,2,77,0.1384,0.1253,"(Wong et al., 2026)."
+poster,2,82,0.1423,0.1291,"(Zheng et al., 2016)."
+poster,3,83,0.2067,0.1901,"1.2 Acessibilidade, usabilidade e desigualdade digital"
+poster,3,90,0.4859,0.4405,"(Bong e Chen, 2021). Não avalia EstudaOffline (Bong e Chen, 2021)."
+poster,3,97,0.2748,0.2528,"específica (Ahmad Faudzi et al., 2023)."
+poster,3,100,0.2528,0.2352,"brasileira (Farhan e Razmak, 2020)."
+poster,3,115,0.4165,0.377,"não é ensaio de eficácia causal (Kumi-Yeboah et al., 2023)."
+poster,3,119,0.3512,0.3204,"corrigido com fonte primária (Linhalis et al., 2026)."
+poster,3,128,0.367,0.345,"resultado direto (Punchoojit e Hongwarittorrn, 2017)."
+poster,3,131,0.209,0.1901,"1.3 Persistência local, cache, segurança e privacidade"
+poster,3,134,0.0878,0.079,"et al., 2021)."
+poster,4,143,0.0878,0.079,"et al., 2023)."
+poster,4,148,0.1844,0.1712,"(MacFadden e Qiu, 2022)."
+poster,4,153,0.2178,0.2046,"(Ekambaranathan et al., 2023)."
+poster,4,160,0.0703,0.0659,"al., 2023)."
+poster,4,163,0.1624,0.1479,"1.4 Engenharia, testes e reprodutibilidade"
+poster,4,170,0.2286,0.2066,"à web (Tramontana et al., 2018)."
+poster,5,199,0.1791,0.1602,"1.5 Integridade, atribuição e revisão da escrita"
+poster,5,212,0.1741,0.1609,"(Walters e Wilder, 2023)."
+poster,5,221,0.0448,0.0448,2019).
+poster,6,222,0.0537,0.0537,Referências
+poster,6,230,0.2678,0.2458,acesso registrado na matriz de fontes.
+poster,6,236,0.5484,0.4939,2462-z . Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,6,239,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
+poster,6,242,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
+poster,6,245,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,6,251,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
+poster,6,254,0.2133,0.1958,registrado na matriz de fontes.
+poster,6,270,0.374,0.3389,2026. Nível de acesso registrado na matriz de fontes.
+poster,6,273,0.2678,0.2458,acesso registrado na matriz de fontes.
+poster,6,280,0.2133,0.1958,registrado na matriz de fontes.
+poster,6,287,0.0694,0.065,de fontes.
+poster,7,291,0.2133,0.1958,registrado na matriz de fontes.
+poster,7,297,0.4047,0.3652,out. 2026. Nível de acesso registrado na matriz de fontes.
 poster,7,300,0.1387,0.1255,na matriz de fontes.
-poster,7,306,0.1167,0.108,matriz de fontes.
-poster,7,310,0.1387,0.1255,na matriz de fontes.
-poster,7,324,0.2133,0.1958,registrado na matriz de fontes.
-poster,7,328,0.0694,0.065,de fontes.
-poster,7,343,0.2133,0.1958,registrado na matriz de fontes.
-poster,7,349,0.2678,0.2458,acesso registrado na matriz de fontes.
-poster,7,355,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
-poster,7,358,0.2678,0.2458,acesso registrado na matriz de fontes.
-poster,7,361,0.2678,0.2458,acesso registrado na matriz de fontes.
-poster,8,364,0.374,0.3389,2026. Nível de acesso registrado na matriz de fontes.
-poster,8,367,0.1167,0.108,matriz de fontes.
-poster,8,370,0.4047,0.3652,out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,8,381,0.4179,0.374,5 out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,8,384,0.4047,0.3652,out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,8,387,0.2133,0.1958,registrado na matriz de fontes.
-poster,8,390,0.2133,0.1958,registrado na matriz de fontes.
-poster,8,393,0.2133,0.1958,registrado na matriz de fontes.
+poster,7,311,0.1387,0.1255,na matriz de fontes.
+poster,7,314,0.4047,0.3652,out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,7,317,0.1167,0.108,matriz de fontes.
+poster,7,320,0.2133,0.1958,registrado na matriz de fontes.
+poster,7,323,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,7,326,0.4179,0.374,5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,7,330,0.1167,0.108,matriz de fontes.
+poster,7,336,0.5237,0.4695,253 . Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,7,339,0.2678,0.2458,acesso registrado na matriz de fontes.
+poster,7,342,0.4047,0.3652,out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,7,345,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,7,348,0.5399,0.4858,00062 . Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,357,0.5321,0.4777,-0_2 . Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,360,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,366,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,378,0.1387,0.1255,na matriz de fontes.
+poster,8,387,0.4179,0.374,5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,390,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,393,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,396,0.2133,0.1958,registrado na matriz de fontes.
+poster,8,399,0.0694,0.065,de fontes.
 poster,8,405,0.2678,0.2458,acesso registrado na matriz de fontes.
-poster,8,408,0.2133,0.1958,registrado na matriz de fontes.
-poster,8,411,0.2133,0.1958,registrado na matriz de fontes.
-poster,8,414,0.1167,0.108,matriz de fontes.
-poster,8,419,0.2678,0.2458,acesso registrado na matriz de fontes.
-poster,8,422,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,8,425,0.374,0.3389,2026. Nível de acesso registrado na matriz de fontes.
-poster,8,428,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
-poster,9,431,0.0474,0.0474,fontes.
-poster,9,452,0.0474,0.0474,fontes.
-poster,9,455,0.1387,0.1255,na matriz de fontes.
-poster,9,465,0.144,0.1352,de fontes científicas.
-poster,9,467,0.3933,0.3626,"Registro técnico, fora da contagem de fontes científicas."
-poster,9,471,0.3301,0.3038,"técnico, fora da contagem de fontes científicas."
+poster,8,408,0.5318,0.4777,7318 . Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,411,0.374,0.3389,2026. Nível de acesso registrado na matriz de fontes.
+poster,8,414,0.4905,0.4407,Consulta: 5 out. 2026. Nível de acesso registrado na matriz de fontes.
+poster,8,417,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
+poster,8,420,0.1167,0.108,matriz de fontes.
+poster,9,435,0.3301,0.2994,Nível de acesso registrado na matriz de fontes.
+poster,9,446,0.1387,0.1255,na matriz de fontes.
+poster,9,450,0.1167,0.108,matriz de fontes.
+poster,9,454,0.0694,0.065,de fontes.
+poster,9,459,0.2897,0.2634,de acesso registrado na matriz de fontes.
+poster,9,462,0.374,0.3389,2026. Nível de acesso registrado na matriz de fontes.
+poster,9,467,0.2678,0.2458,acesso registrado na matriz de fontes.
+poster,9,470,0.0694,0.065,de fontes.
+poster,9,473,0.1387,0.1255,na matriz de fontes.
+poster,9,475,0.144,0.1352,de fontes científicas.
+poster,9,477,0.3933,0.3626,"Registro técnico, fora da contagem de fontes científicas."
+poster,9,481,0.3301,0.3038,"técnico, fora da contagem de fontes científicas."
