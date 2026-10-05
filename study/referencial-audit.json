@@ -1,0 +1,33 @@
+{
+  "artigo": {
+    "start_page": 3,
+    "end_page": 7,
+    "content_pages": 5,
+    "pages_with_at_least_100_words": 5,
+    "extracted_words_per_page": [
+      478,
+      488,
+      469,
+      480,
+      343
+    ],
+    "minimum_three_content_pages_met": true,
+    "limitations": "Page count is editorial verification, not validation of theoretical or scientific claims."
+  },
+  "entrega-escolar": {
+    "start_page": 6,
+    "end_page": 11,
+    "content_pages": 6,
+    "pages_with_at_least_100_words": 6,
+    "extracted_words_per_page": [
+      374,
+      399,
+      399,
+      380,
+      388,
+      319
+    ],
+    "minimum_three_content_pages_met": true,
+    "limitations": "Page count is editorial verification, not validation of theoretical or scientific claims."
+  }
+}

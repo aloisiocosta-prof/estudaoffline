@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-05",
+  "type": "síntese narrativa focal orientada a decisões; não revisão sistemática",
+  "window": "2016–2026; fontes do novo referencial publicadas em 2017–2024",
+  "interfaces": [
+    "web system2",
+    "web system1",
+    "editoras e repositórios institucionais",
+    "corpus anterior Consensus/SciSpace"
+  ],
+  "queries": [
+    "systematic review self regulated learning online learning environments Viberg 2020 Araka 2020",
+    "systematic literature review progressive web applications offline 2023 accessibility education Bong Chen 2021",
+    "\"Challenges in Promoting Self-Regulated Learning\" \"Umbrella\" 2024",
+    "\"The relationship between mobile learning and self-regulated learning\" systematic review 2020",
+    "\"College Students’ Time Management\" \"2021\" review",
+    "\"Usability of mobile learning applications\" \"systematic\" Kumar 2017",
+    "\"effects of continuous integration\" \"systematic literature review\" 2021",
+    "\"Dynamic Testing Techniques of Non-functional Requirements\" 2022",
+    "\"Security Issues in the Use of Mobile Educational Apps\" review 2021",
+    "\"From digital divide to digital equity\" \"systematic review\" Martin 2024",
+    "\"Resources for Reproducibility of Experiments\" \"2020\" secondary study",
+    "\"Systematic reviews in mobile app software engineering\" \"2023\""
+  ],
+  "eligibility": "revisões especializadas relevantes aos construtos e critérios do MVP; documentos técnicos para mecanismos web; estudos de ameaça como complemento; seleção intencional, não exaustiva",
+  "access": "Prasse e Araka: seções de métodos/resultados/discussão disponíveis nas páginas editoriais consultadas; Wolters: página editorial; Palalas: resumo editorial e recomendações; engenharia: resumo/página editorial ou repositório; outros: níveis declarados no corpus anterior. Não houve leitura integral uniforme nem avaliação formal de viés. Falhas de abertura de DOI registradas sem presumir leitura.",
+  "limitations": [
+    "Estudos primários podem se repetir entre revisões; nenhuma soma das amostras ou estimativa nova de efeito.",
+    "Sem inferência de aprendizagem com tarefas sintéticas.",
+    "Scite permaneceu indisponível no histórico; não se alega nova verificação de retratação.",
+    "Detalhes de implementação dependem da documentação técnica, não de revisão educacional."
+  ],
+  "primary_urls": [
+    "https://link.springer.com/article/10.1007/s10758-024-09772-z",
+    "https://link.springer.com/article/10.1186/s41039-020-00129-5",
+    "https://link.springer.com/article/10.1007/s10648-020-09519-z",
+    "https://ajet.org.au/index.php/AJET/article/view/5650",
+    "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2425442",
+    "https://online-journals.org/index.php/i-jim/article/view/20631",
+    "https://doi.org/10.1145/3507903",
+    "https://link.springer.com/article/10.1007/s10664-021-10114-1",
+    "https://research.monash.edu/en/publications/systematic-reviews-in-mobile-app-software-engineering-a-tertiary-/",
+    "https://ieeexplore.ieee.org/document/8951162/"
+  ]
+}
