@@ -6,3 +6,6 @@ Consultar study/literature/core-source-appraisal.json e docs/research-correction
 
 
 Localizadores: usar `study/literature/source-locators.json` e `source-locators.md`. Cada ficha distingue DOI, URL de consulta, página impressa, posição no PDF, seção e estado de conferência. Cinco fontes centrais têm paginação conferida; as demais75 têm página pendente, sem preencher números a partir do intervalo geral da publicação. A citação com página é gerada somente quando o localizador está conferido; DOI identifica a publicação e não certifica validade metodológica. Não reintroduzir citação autor–ano nem entrada bibliográfica do próprio estudo.
+
+
+Entrega escolar: ler docs/school-model-requirements.json; gerar scripts/build_school_delivery.py. Referências são corpus provisório até decisões registradas; track_sources.py --strict deve passar antes de declarar entrega final aceita. Não confundir apta_para_revisao com aprovação. Grafo bibliográfico evidence-graph.json é separado do codebase-memory-mcp; registrar falhas e conferir artefato técnico, sem afirmar validação científica pelo índice de código.

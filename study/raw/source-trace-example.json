@@ -1,0 +1,62 @@
+{
+  "source": {
+    "key": "SU10",
+    "doi": "10.3389/fpsyg.2017.00422",
+    "reading_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/pdf",
+    "pages": "1, 3",
+    "input_fingerprint": "b8716814ce2f20c2302ffd9214b69a1a2bd873efe18a2fbb6d7ac6f22227f891",
+    "checks": {
+      "identificacao": true,
+      "doi_registrado": true,
+      "url_registrada": true,
+      "localizador_conferido": true,
+      "conferencia_dirigida": true,
+      "limites_registrados": true
+    },
+    "status": "apta_para_revisao",
+    "bloqueios": [],
+    "decisao_final": "nao_registrada",
+    "revisor": null,
+    "limite": "Triagem documental da paráfrase registrada; não valida instrumento, causalidade, qualidade global ou aprovação escolar."
+  },
+  "uses": [
+    {
+      "id": "paragraph:I1",
+      "type": "Paragraph",
+      "section": "Introdução",
+      "ABCD": {
+        "A": "O planejamento das atividades é o recorte educacional que orienta o EstudaOffline",
+        "B": "Panadero descreve a autorregulação como um processo que articula antecipação, execução e autorreflexão",
+        "C": "Nesse quadro, organizar tarefas corresponde a uma parte do processo, sem representar todas as dimensões da aprendizagem",
+        "D": "Essa delimitação permite investigar um organizador de tarefas sem lhe atribuir benefícios educacionais ainda não avaliados"
+      }
+    },
+    {
+      "id": "paragraph:T1",
+      "type": "Paragraph",
+      "section": "Referencial teórico",
+      "ABCD": {
+        "A": "O apoio ao planejamento precisa ser compreendido dentro de um ciclo de autorregulação",
+        "B": "Na descrição do modelo cíclico de Zimmerman apresentada por Panadero, a antecipação envolve o planejamento, enquanto a execução e a autorreflexão incluem processos adicionais",
+        "C": "Uma lista de tarefas pode apoiar a organização inicial, mas seus registros não cobrem, por si, monitoramento cognitivo, motivação ou avaliação da compreensão",
+        "D": "Por isso, a pertinência conceitual do organizador deve ser examinada junto às condições em que o apoio digital é utilizado"
+      }
+    },
+    {
+      "id": "paragraph:L22",
+      "type": "Paragraph",
+      "section": "Fundamentação e critérios de síntese",
+      "ABCD": {
+        "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+        "B": "Paráfrases das fontes registradas",
+        "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico",
+        "D": "A distinção entre orientação teórica e evidência observada prepara a delimitação do método técnico empregado neste estudo"
+      }
+    },
+    {
+      "id": "claim:L22:1",
+      "type": "Claim",
+      "text": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos"
+    }
+  ]
+}

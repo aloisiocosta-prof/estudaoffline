@@ -30,7 +30,9 @@
       "L1",
       "D1"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "apta_para_revisao; decisão final: nao_registrada",
+    "admission_blockers": "Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador"
   },
   {
     "doi": "10.4018/IJMBL.315628",
@@ -59,7 +61,9 @@
     "paragraphs": [
       "L1"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.4103/jehp.jehp_1106_22",
@@ -88,7 +92,9 @@
     "paragraphs": [
       "L1"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s11423-020-09781-6",
@@ -118,7 +124,9 @@
     "paragraphs": [
       "L1"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s10639-024-12462-z",
@@ -148,7 +156,9 @@
     "paragraphs": [
       "L2"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/01443410.2022.2102582",
@@ -178,7 +188,9 @@
     "paragraphs": [
       "L2"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/03075079.2023.2201608",
@@ -208,7 +220,9 @@
     "paragraphs": [
       "L2"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3991/ijim.v16i14.28783",
@@ -239,7 +253,9 @@
     "paragraphs": [
       "L2"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.34105/j.kmel.2019.11.024",
@@ -269,7 +285,9 @@
     "paragraphs": [
       "L3"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3390/bs10120184",
@@ -300,7 +318,9 @@
     "paragraphs": [
       "L3"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.14742/ajet.5650",
@@ -331,7 +351,9 @@
       "L3",
       "D2"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "apta_para_revisao; decisão final: nao_registrada",
+    "admission_blockers": "Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador"
   },
   {
     "doi": "10.3389/feduc.2025.1623228",
@@ -361,7 +383,9 @@
     "paragraphs": [
       "L3"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s10758-024-09772-z",
@@ -398,7 +422,9 @@
       "L4",
       "D2"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "apta_para_revisao; decisão final: nao_registrada",
+    "admission_blockers": "Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador"
   },
   {
     "doi": "10.1177/00332941241287423",
@@ -428,7 +454,9 @@
     "paragraphs": [
       "L4"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3389/fpsyg.2025.1562980",
@@ -458,7 +486,9 @@
     "paragraphs": [
       "L4"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s11409-017-9174-1",
@@ -488,7 +518,9 @@
     "paragraphs": [
       "L4"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s10648-020-09519-z",
@@ -517,7 +549,9 @@
     "paragraphs": [
       "L5"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1007/s11423-026-10586-2",
@@ -550,7 +584,9 @@
     "paragraphs": [
       "L5"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/0144929X.2022.2151935",
@@ -582,7 +618,9 @@
     "paragraphs": [
       "L5"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/14703297.2016.1259080",
@@ -612,7 +650,9 @@
     "paragraphs": [
       "L5"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.17718/tojde.1002822",
@@ -641,7 +681,9 @@
     "paragraphs": [
       "L6"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/ACCESS.2021.3095041",
@@ -674,7 +716,9 @@
     "paragraphs": [
       "L6"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/13603116.2021.1937344",
@@ -703,7 +747,9 @@
     "paragraphs": [
       "L6"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1007/s11528-024-00987-6",
@@ -732,7 +778,9 @@
     "paragraphs": [
       "L6"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1016/j.compedu.2018.12.004",
@@ -762,7 +810,9 @@
     "paragraphs": [
       "L7"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3390/educsci13010094",
@@ -794,7 +844,9 @@
     "paragraphs": [
       "L7"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/17483107.2020.1786733",
@@ -823,7 +875,9 @@
     "paragraphs": [
       "L7"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3390/su151411392",
@@ -852,7 +906,9 @@
     "paragraphs": [
       "L7"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1016/j.techsoc.2022.102122",
@@ -881,7 +937,9 @@
     "paragraphs": [
       "L8"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1177/00027642231156779",
@@ -910,7 +968,9 @@
     "paragraphs": [
       "L8"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s40692-017-0093-6",
@@ -939,7 +999,9 @@
     "paragraphs": [
       "L8"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1007/s10639-019-09937-9",
@@ -969,7 +1031,9 @@
     "paragraphs": [
       "L8"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1108/IJILT-03-2023-0029",
@@ -999,7 +1063,9 @@
     "paragraphs": [
       "L9"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1111/bjet.13356",
@@ -1029,7 +1095,9 @@
     "paragraphs": [
       "L9"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.17398/1695-288X.25.1.59",
@@ -1059,7 +1127,9 @@
     "paragraphs": [
       "L9"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/15391523.2024.2425442",
@@ -1089,7 +1159,9 @@
     "paragraphs": [
       "L9"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1080/14767724.2021.1981253",
@@ -1119,7 +1191,9 @@
     "paragraphs": [
       "L10"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3390/su151813566",
@@ -1151,7 +1225,9 @@
     "paragraphs": [
       "L10"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1155/2017/6787504",
@@ -1180,7 +1256,9 @@
     "paragraphs": [
       "L10"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1016/j.caeo.2022.100100",
@@ -1210,7 +1288,9 @@
     "paragraphs": [
       "L10"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/SPW53761.2021.00062",
@@ -1240,7 +1320,9 @@
     "paragraphs": [
       "L11"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1109/EuroSP53844.2022.00041",
@@ -1271,7 +1353,9 @@
     "paragraphs": [
       "L11"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.14722/NDSS.2021.23104",
@@ -1301,7 +1385,9 @@
     "paragraphs": [
       "L11"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/978-3-030-35055-0_2",
@@ -1331,7 +1417,9 @@
     "paragraphs": [
       "L11"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3633769",
@@ -1363,7 +1451,9 @@
     "paragraphs": [
       "L12"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3517209.3524041",
@@ -1392,7 +1482,9 @@
     "paragraphs": [
       "L12"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/SmartCloud55982.2022.00037",
@@ -1421,7 +1513,9 @@
     "paragraphs": [
       "L12"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/TPDS.2023.3241963",
@@ -1452,7 +1546,9 @@
     "paragraphs": [
       "L12"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3596267",
@@ -1482,7 +1578,9 @@
     "paragraphs": [
       "L13"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.56553/popets-2022-0078",
@@ -1514,7 +1612,9 @@
     "paragraphs": [
       "L13"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3501712.3535278",
@@ -1544,7 +1644,9 @@
     "paragraphs": [
       "L13"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3543507.3583327",
@@ -1577,7 +1679,9 @@
     "paragraphs": [
       "L13"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3991/IJIM.V15I06.20631",
@@ -1607,7 +1711,9 @@
     "paragraphs": [
       "L14"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1109/TR.2018.2865733",
@@ -1640,7 +1746,9 @@
     "paragraphs": [
       "L15"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3390/computers12050097",
@@ -1670,7 +1778,9 @@
     "paragraphs": [
       "L15"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s11219-018-9418-6",
@@ -1701,7 +1811,9 @@
     "paragraphs": [
       "L15"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1016/j.infsof.2023.107323",
@@ -1731,7 +1843,9 @@
     "paragraphs": [
       "L15"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1016/j.jss.2016.03.065",
@@ -1761,7 +1875,9 @@
     "paragraphs": [
       "L16"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3507903",
@@ -1795,7 +1911,9 @@
       "T5",
       "L16"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1109/CBI58679.2023.10187511",
@@ -1824,7 +1942,9 @@
     "paragraphs": [
       "L16"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1016/j.infsof.2023.107318",
@@ -1853,7 +1973,9 @@
     "paragraphs": [
       "L16"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3477535",
@@ -1886,7 +2008,9 @@
     "paragraphs": [
       "L17"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/ACCESS.2020.2964587",
@@ -1915,7 +2039,9 @@
     "paragraphs": [
       "L17"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1016/j.infsof.2022.106870",
@@ -1945,7 +2071,9 @@
     "paragraphs": [
       "L17"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1016/j.infsof.2018.01.006",
@@ -1975,7 +2103,9 @@
     "paragraphs": [
       "L17"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/ACCESS.2017.2685629",
@@ -2005,7 +2135,9 @@
     "paragraphs": [
       "L18"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1007/s10664-021-10114-1",
@@ -2037,7 +2169,9 @@
     "paragraphs": [
       "L18"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido"
   },
   {
     "doi": "10.1109/TSE.2021.3064953",
@@ -2070,7 +2204,9 @@
     "paragraphs": [
       "L18"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1016/j.jss.2024.112187",
@@ -2103,7 +2239,9 @@
     "paragraphs": [
       "L18"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1080/0960085X.2026.2627280",
@@ -2133,7 +2271,9 @@
     "paragraphs": [
       "L19"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1136/bmj.n71",
@@ -2186,7 +2326,9 @@
     "paragraphs": [
       "L20"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1136/bmj.n160",
@@ -2239,7 +2381,9 @@
     "paragraphs": [
       "L20"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1186/s13643-020-01542-z",
@@ -2274,7 +2418,9 @@
     "paragraphs": [
       "L20"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1038/s41562-016-0021",
@@ -2311,7 +2457,9 @@
     "paragraphs": [
       "L20"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1145/3345317",
@@ -2341,7 +2489,9 @@
     "paragraphs": [
       "L21"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1038/s41598-023-41032-5",
@@ -2370,7 +2520,9 @@
     "paragraphs": [
       "L21"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.7759/cureus.39238",
@@ -2401,7 +2553,9 @@
     "paragraphs": [
       "L21"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.1109/icievicivpr52578.2021.9564123",
@@ -2434,7 +2588,9 @@
     "paragraphs": [
       "L21"
     ],
-    "status": "ficha preliminar"
+    "status": "ficha preliminar",
+    "admission_status": "pendente; decisão final: nao_registrada",
+    "admission_blockers": "localizador_conferido; conferencia_dirigida"
   },
   {
     "doi": "10.3389/fpsyg.2017.00422",
@@ -2464,7 +2620,9 @@
       "T1",
       "L22"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "apta_para_revisao; decisão final: nao_registrada",
+    "admission_blockers": "Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador"
   },
   {
     "doi": "10.1016/j.jbusres.2019.07.039",
@@ -2493,6 +2651,8 @@
       "L22",
       "M2"
     ],
-    "status": "conferência dirigida"
+    "status": "conferência dirigida",
+    "admission_status": "apta_para_revisao; decisão final: nao_registrada",
+    "admission_blockers": "Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador"
   }
 ]

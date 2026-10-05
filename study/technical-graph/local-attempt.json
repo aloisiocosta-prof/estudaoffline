@@ -1,0 +1,11 @@
+{
+  "version": "0.11.0",
+  "archive_sha256": "032b33c1833919a2d1de67ff6367fa6ea46aee8689c86ef223c88fae3b6e4536",
+  "success": false,
+  "tools_attempted": [
+    "index_repository",
+    "get_graph_schema"
+  ],
+  "error": "secure CLI coordination could not be created (process-fingerprint)",
+  "no_graph_returned": true
+}

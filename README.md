@@ -36,3 +36,12 @@ Auditorias: `scripts/audit_latex.py`, `scripts/audit_referencial.py`. A regra li
 
 
 Localizadores: usar `study/literature/source-locators.json` e `source-locators.md`. Cada ficha distingue DOI, URL de consulta, página impressa, posição no PDF, seção e estado de conferência. Cinco fontes centrais têm paginação conferida; as demais75 têm página pendente, sem preencher números a partir do intervalo geral da publicação. A citação com página é gerada somente quando o localizador está conferido; DOI identifica a publicação e não certifica validade metodológica. Não reintroduzir citação autor–ano nem entrada bibliográfica do próprio estudo.
+
+
+## Rastreamento dos fichamentos e modelo escolar
+
+Executar `python scripts/track_sources.py` e consultar `study/literature/admission-report.md` ou CSV; recuperar destinos com `python scripts/query_evidence.py --key SU10`. Cinco fichas estão aptas para revisão, 75 pendentes e nenhuma decisão final registrada. `--strict` bloqueia entrega final enquanto não houver 80 decisões documentadas. Registrar decisões e fingerprint em `admission-decisions.json`; uma mudança da fonte invalida a decisão anterior. O grafo bibliográfico é documental e não valida causalidade ou instrumentos.
+
+A entrega escolar passa a usar o modelo DOCX fornecido: Introdução, Objetivos, Metodologia, Referencial teórico, Considerações finais, Referências, Apêndices e Anexos. Requisitos extraídos e hash: `docs/school-model-requirements.json`; detalhes e limites em `docs/editorial/rastreabilidade-fichamentos.md`. Margens literais 2 cm; fonte exata Arial/Times New Roman ainda pendente. Síntese ampliada e resultados ficam em apêndices, sem alterar a organização do artigo.
+
+CI executa separadamente `codebase-memory-mcp` 0.11.0 com arquivo verificado por hash. A tentativa local falhou em process-fingerprint; o resultado do job técnico deve ser conferido no artefato codebase-memory-evidence. O grafo de código auxilia manutenção dos geradores e testes; as fontes científicas são rastreadas por outro grafo, sem aceitação automática.

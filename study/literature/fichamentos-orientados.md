@@ -48,6 +48,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** apta_para_revisao; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** T4, L1, D1 (destino editorial).
 
 ## 02. education_baars2022 — Mobile Learning to Support Self-Regulated Learning: A Theoretical Review
@@ -81,6 +85,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L1 (destino editorial).
 
@@ -116,6 +124,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L1 (destino editorial).
 
 ## 04. education_broadbent2020 — Effects of mobile-app learning diaries vs online training on specific self-regulated learning components
@@ -149,6 +161,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L1 (destino editorial).
 
@@ -184,6 +200,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L2 (destino editorial).
 
 ## 06. education_forstervold2022 — Students’ time management and procrastination in the wake of the pandemic
@@ -217,6 +237,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L2 (destino editorial).
 
@@ -252,6 +276,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L2 (destino editorial).
 
 ## 08. education_hartley2022 — Smartphone as a Self-regulatory Planning Tool: Promise or Peril
@@ -285,6 +313,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L2 (destino editorial).
 
@@ -320,6 +352,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L3 (destino editorial).
 
 ## 10. education_limone2020 — Examining Procrastination among University Students through the Lens of the Self-Regulated Learning Model
@@ -353,6 +389,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L3 (destino editorial).
 
@@ -388,6 +428,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** apta_para_revisao; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** T2, L3, D2 (destino editorial).
 
 ## 12. education_patzak2025 — Boosting productivity and wellbeing through time management: evidence-based strategies for higher education and workforce development
@@ -421,6 +465,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L3 (destino editorial).
 
@@ -456,6 +504,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** apta_para_revisao; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** T3, L4, D2 (destino editorial).
 
 ## 14. education_taghavi2024 — Mindfulness and Procrastination Among University EFL Learners: The Role of Attention Control and Self-Regulated Learning
@@ -489,6 +541,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L4 (destino editorial).
 
@@ -524,6 +580,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L4 (destino editorial).
 
 ## 16. education_wolters2017 — Examining the relations of time management and procrastination within a model of self-regulated learning
@@ -557,6 +617,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L4 (destino editorial).
 
@@ -592,6 +656,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L5 (destino editorial).
 
 ## 18. education_wong2026 — Student engagement profiles in a mobile app: Links to self-regulated learning and performance
@@ -625,6 +693,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L5 (destino editorial).
 
@@ -660,6 +732,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L5 (destino editorial).
 
 ## 20. education_zheng2016 — Effects of a mobile self-regulated learning approach on students’ learning achievements and self-regulated learning skills
@@ -693,6 +769,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Planejar uma avaliação futura de processos e compreensão, sem usar conclusão de tarefa como desfecho educacional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L5 (destino editorial).
 
@@ -728,6 +808,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L6 (destino editorial).
 
 ## 22. batanero2021 — Improving Accessibility in Online Education: Comparative Analysis of Attitudes of Blind and Deaf Students Toward an Adapted Learning Platform
@@ -761,6 +845,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L6 (destino editorial).
 
@@ -796,6 +884,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L6 (destino editorial).
 
 ## 24. choi2024 — Accessibility, Usability, and Universal Design for Learning: Discussion of Three Key LX/UX Elements for Inclusive Learning Design
@@ -829,6 +921,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L6 (destino editorial).
 
@@ -864,6 +960,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L7 (destino editorial).
 
 ## 26. cob2023 — Investigating the User Interface Design Frameworks of Current Mobile Learning Applications: A Systematic Review
@@ -897,6 +997,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L7 (destino editorial).
 
@@ -932,6 +1036,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L7 (destino editorial).
 
 ## 28. gobbo2023 — Emerging Themes for Digital Accessibility in Education
@@ -965,6 +1073,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L7 (destino editorial).
 
@@ -1000,6 +1112,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L8 (destino editorial).
 
 ## 30. jamil2023 — The COVID-19 Pandemic and E-Learning: The Digital Divide and Educational Crises in Pakistan’s Universities
@@ -1033,6 +1149,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L8 (destino editorial).
 
@@ -1068,6 +1188,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L8 (destino editorial).
 
 ## 32. kumarguideline2019 — Usability guideline for Mobile learning applications: an update
@@ -1101,6 +1225,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L8 (destino editorial).
 
@@ -1136,6 +1264,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L9 (destino editorial).
 
 ## 34. kumiyeboah2023 — Strategies for overcoming the digital divide during the COVID-19 pandemic in higher education institutions in Ghana
@@ -1169,6 +1301,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L9 (destino editorial).
 
@@ -1204,6 +1340,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L9 (destino editorial).
 
 ## 36. martin2024 — From digital divide to digital equity: Systematic review of two decades of research on educational digital divide factors, dimensions, and interventions
@@ -1237,6 +1377,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L9 (destino editorial).
 
@@ -1272,6 +1416,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L10 (destino editorial).
 
 ## 38. naveed2023 — Mobile Learning in Higher Education: A Systematic Literature Review
@@ -1305,6 +1453,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L10 (destino editorial).
 
@@ -1340,6 +1492,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L10 (destino editorial).
 
 ## 40. werfhorst2022 — The digital divide in online education: Inequality in digital readiness of students and schools
@@ -1373,6 +1529,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Preparar uma inspeção ou estudo contextual que registre tarefa, barreira e critério; não declarar acessibilidade pela execução funcional (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L10 (destino editorial).
 
@@ -1408,6 +1568,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L11 (destino editorial).
 
 ## 42. OS02 — SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations
@@ -1441,6 +1605,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L11 (destino editorial).
 
@@ -1476,6 +1644,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L11 (destino editorial).
 
 ## 44. OS06 — Rotten Cellar: Security and Privacy of the Browser Cache Revisited
@@ -1509,6 +1681,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L11 (destino editorial).
 
@@ -1544,6 +1720,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L12 (destino editorial).
 
 ## 46. OS08 — Merge what you can, fork what you can't: managing data integrity in local-first software
@@ -1577,6 +1757,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L12 (destino editorial).
 
@@ -1612,6 +1796,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L12 (destino editorial).
 
 ## 48. OS10 — BeauForT: Robust Byzantine Fault Tolerance for Client-Centric Mobile Web Applications
@@ -1645,6 +1833,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L12 (destino editorial).
 
@@ -1680,6 +1872,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L13 (destino editorial).
 
 ## 50. OS14 — "We may share the number of diaper changes": A Privacy and Security Analysis of Mobile Child Care Applications
@@ -1713,6 +1909,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L13 (destino editorial).
 
@@ -1748,6 +1948,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L13 (destino editorial).
 
 ## 52. OS17 — Not Seen, Not Heard in the Digital World! Measuring Privacy Practices in Children’s Apps
@@ -1781,6 +1985,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Converter uma ameaça pertinente em cenário seguro com condição, entrada, resultado esperado e evidência; não declarar vulnerabilidade antes de reproduzir (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L13 (destino editorial).
 
@@ -1816,6 +2024,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L14 (destino editorial).
 
 ## 54. eng01 — Automated Testing of Android Apps: A Systematic Literature Review
@@ -1849,6 +2061,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L15 (destino editorial).
 
@@ -1884,6 +2100,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L15 (destino editorial).
 
 ## 56. eng03 — Automated functional testing of mobile applications: a systematic mapping study
@@ -1917,6 +2137,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L15 (destino editorial).
 
@@ -1952,6 +2176,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L15 (destino editorial).
 
 ## 58. eng05 — A systematic mapping study of mobile application testing techniques
@@ -1985,6 +2213,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L16 (destino editorial).
 
@@ -2020,6 +2252,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** T5, L16 (destino editorial).
 
 ## 60. eng07 — How to Identify your Design Science Research Artifact
@@ -2053,6 +2289,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L16 (destino editorial).
 
@@ -2088,6 +2328,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L16 (destino editorial).
 
 ## 62. eng10 — On the Reproducibility and Replicability of Deep Learning in Software Engineering
@@ -2121,6 +2365,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L17 (destino editorial).
 
@@ -2156,6 +2404,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L17 (destino editorial).
 
 ## 64. eng12 — Investigating replication challenges through multiple replications of an experiment
@@ -2189,6 +2441,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L17 (destino editorial).
 
@@ -2224,6 +2480,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L17 (destino editorial).
 
 ## 66. eng14 — Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices
@@ -2257,6 +2517,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L18 (destino editorial).
 
@@ -2292,6 +2556,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L18 (destino editorial).
 
 ## 68. eng16 — Uncovering the Benefits and Challenges of Continuous Integration Practices
@@ -2325,6 +2593,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L18 (destino editorial).
 
@@ -2360,6 +2632,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L18 (destino editorial).
 
 ## 70. eng20 — MEDS: Methodology for Evaluation in Design Science
@@ -2393,6 +2669,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Reproduzir apenas procedimentos compatíveis com a implementação, registrando versão e ambiente; não transferir validação de ferramentas automaticamente (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L19 (destino editorial).
 
@@ -2428,6 +2708,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L20 (destino editorial).
 
 ## 72. SU02 — PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews.
@@ -2461,6 +2745,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L20 (destino editorial).
 
@@ -2496,6 +2784,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L20 (destino editorial).
 
 ## 74. SU04 — A manifesto for reproducible science
@@ -2529,6 +2821,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L20 (destino editorial).
 
@@ -2564,6 +2860,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L21 (destino editorial).
 
 ## 76. SU06 — Fabrication and errors in the bibliographic citations generated by ChatGPT
@@ -2597,6 +2897,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L21 (destino editorial).
 
@@ -2632,6 +2936,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** L21 (destino editorial).
 
 ## 78. SU08 — AcPgChecker: Detection of Plagiarism among Academic and Scientific Writings
@@ -2665,6 +2973,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Auditar seleção, atribuição e limitações; qualquer rubrica local exige estudo próprio antes de ser chamada de validada (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** ficha preliminar (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** pendente; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** localizador_conferido; conferencia_dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L21 (destino editorial).
 
@@ -2700,6 +3012,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
 
+**Admissibilidade documental:** apta_para_revisao; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador (registro de leitura/proposta, sem fonte externa atribuída).
+
 **Destino:** I1, T1, L22 (destino editorial).
 
 ## 80. SU11 — Literature review as a research methodology: An overview and guidelines
@@ -2733,6 +3049,10 @@ Planejamento → apoio digital condicionado → amplitude do ciclo → validade 
 **Oportunidade e tarefa — proposta:** Documentar pergunta, critérios de seleção, acesso e cadeia afirmação–fonte; confirmar no original cada paráfrase usada no manuscrito (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Estado da ficha:** conferência dirigida (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Admissibilidade documental:** apta_para_revisao; decisão final: nao_registrada (registro de leitura/proposta, sem fonte externa atribuída).
+
+**Pendências de inclusão:** Sem bloqueio documental deste controle; requer revisão da afirmação e decisão do orientador (registro de leitura/proposta, sem fonte externa atribuída).
 
 **Destino:** L22, M2 (destino editorial).
 

@@ -54,7 +54,7 @@ def audit_pdf(directory):
         total = short = character_short = 0
         for page_no,page in enumerate(doc,1):
             # A1 margin30mm; A4 article25mm; school30mm left20mm right.
-            margin_mm = 60 if name == 'poster' else 50
+            margin_mm = 60 if name == 'poster' else (40 if name == 'entrega-escolar' else 50)
             width = page.rect.width-margin_mm*72/25.4
             # Links and citation runs can be separate extraction blocks on the
             # same printed line. Reassemble by baseline before measuring.
