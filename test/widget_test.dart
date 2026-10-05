@@ -17,9 +17,10 @@ void main() {
     await tester.tap(find.text('Adicionar'));
     await tester.pumpAndSettle();
     expect(find.text('Preparar resumo'), findsWidgets);
-    await tester.tap(find.byType(Checkbox).first);
-    await tester.pumpAndSettle();
     await tester.tap(find.text('Tarefas'));
+    await tester.pumpAndSettle();
+    await tester.ensureVisible(find.byType(Checkbox).first);
+    await tester.tap(find.byType(Checkbox).first);
     await tester.pumpAndSettle();
     await tester.tap(find.text('Concluídas'));
     await tester.pumpAndSettle();
