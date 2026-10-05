@@ -1,0 +1,79 @@
+name: Validate, build and deliver
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: deliver-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: '3.47.6'
+          cache: true
+      - run: flutter pub get
+      - run: flutter analyze
+      - run: flutter test --reporter expanded
+      - run: python3 scripts/test_version.py
+      - run: flutter build web --release --base-href /estudaoffline/ --no-web-resources-cdn
+      - run: python3 scripts/prepare_web.py
+      - run: sudo apt-get update && sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-lang-portuguese fonts-liberation latexmk
+      - run: mkdir -p build/web/pdfs && cd paper && latexmk -xelatex -interaction=nonstopmode -halt-on-error artigo.tex entrega-escolar.tex poster.tex && cp artigo.pdf entrega-escolar.pdf poster.pdf ../build/web/pdfs/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: deliverables
+          path: |
+            build/web
+            study
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        with:
+          path: build/web
+  pages:
+    needs: validate
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deploy
+  release:
+    needs: validate
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: deliverables
+          path: artifacts
+      - name: Conventional commits to SemVer and GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION=$(python3 scripts/next_version.py)
+          if [ -z "$VERSION" ]; then echo "No release-worthy commits"; exit 0; fi
+          cd artifacts/build/web
+          zip -qr ../../../estudaoffline-web.zip .
+          cd ../../..
+          sha256sum estudaoffline-web.zip artifacts/build/web/pdfs/*.pdf > SHA256SUMS.txt
+          gh release create "v$VERSION" --target "$GITHUB_SHA" --title "EstudaOffline v$VERSION" --generate-notes estudaoffline-web.zip SHA256SUMS.txt artifacts/build/web/pdfs/*.pdf

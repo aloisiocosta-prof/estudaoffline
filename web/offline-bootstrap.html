@@ -1,0 +1,11 @@
+<div id="offline-status" role="status" style="position:fixed;bottom:8px;right:10px;z-index:99999;padding:7px 12px;border-radius:20px;background:#163d3a;color:white;font:12px sans-serif">Preparando acesso offline…</div>
+<script>
+(() => {
+ const status=document.getElementById('offline-status');
+ if(!('serviceWorker' in navigator)){status.textContent='Acesso offline indisponível neste navegador';return;}
+ navigator.serviceWorker.addEventListener('message',e=>{if(e.data?.type==='OFFLINE_READY') status.textContent='Aplicativo preparado para uso offline';});
+ const ask=()=>navigator.serviceWorker.controller?.postMessage('OFFLINE_STATUS');
+ navigator.serviceWorker.addEventListener('controllerchange',ask);
+ navigator.serviceWorker.register('sw.js',{scope:'./'}).then(reg=>{ const watch=worker=>{if(worker) worker.addEventListener('statechange',()=>{if(worker.state==='redundant' && !navigator.serviceWorker.controller) status.textContent='Preparação offline falhou. Reconecte e recarregue.';});};watch(reg.installing);reg.addEventListener('updatefound',()=>watch(reg.installing));ask();}).catch(()=>status.textContent='Preparação offline falhou. Reconecte e recarregue.');
+})();
+</script>
