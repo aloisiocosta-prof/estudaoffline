@@ -16,28 +16,16 @@
 \author{Estudantes — identificação omitida nesta demonstração}
 \date{Outubro de 2026}
 \begin{document}\sloppy\maketitle
-\begin{abstract}Este trabalho descreve um MVP de planejamento de estudos com dados locais e um protocolo de verificação de persistência, backup e carregamento offline. O estudo usa dados sintéticos e cenários técnicos, sem participantes humanos. Os resultados são apresentados somente quando sustentados pelos registros de execução. A contribuição é um artefato e um procedimento verificável; não se demonstra eficácia pedagógica; o escopo e as evidências são documentados no protocolo \citep{projeto}.\end{abstract}
-\noindent\textbf{Palavras-chave:} Flutter web; PWA; armazenamento local; testes; planejamento de estudos.
-\section{Introdução}O EstudaOffline é um produto mínimo viável (MVP) de planejamento de estudos em Flutter para a web, com armazenamento local e proposta de funcionamento como aplicação web progressiva (PWA). O problema técnico é manter tarefas acessíveis no navegador quando a conexão está indisponível, reconhecendo limites de cache, armazenamento e atualização. O contexto escolar é o CETI Lucas Meireles Alves, curso técnico em Análise e Desenvolvimento de Sistemas, Teresina, bairro Chapadinha Sul, conforme o contexto registrado no protocolo \citep{projeto}. O objetivo é implementar e examinar a consistência técnica do MVP nos cenários definidos, conforme o protocolo do projeto \citep{projeto}.
-\section{Justificativa científica}Planejar tarefas é uma funcionalidade coerente com a investigação de gestão do tempo e procrastinação; relações observacionais não demonstram que um aplicativo reduza procrastinação. A escolha é uma hipótese de projeto, e não um resultado pedagógico do MVP \citep{education_wolters2017}.
-
-Interfaces acessíveis exigem formação, critérios e avaliação contextual. Por isso, testes funcionais não serão interpretados como comprovação de acessibilidade para estudantes com deficiência \citep{bong2021}.
-
-O uso de cache precisa de revisão de segurança: um estudo sobre service workers demonstra ampliação de ataques quando há XSS na mesma origem. Isso justifica examinar ameaças, mas não identifica vulnerabilidade específica no EstudaOffline \citep{OS01}.
-\input{referencial-teorico.tex}
-\section{Métodos}A avaliação delimita comportamentos funcionais e requisitos não funcionais em cenários técnicos controlados, com dados sintéticos e critérios observáveis definidos no protocolo \citep{eng06,projeto}.
-A aprovação de um cenário não equivale à validação educacional ou à certificação do artefato, e não se reivindica execução completa de uma metodologia de design science research \citep{projeto}.
-
-O estudo é aplicado e técnico, baseado em implementação e cenários reproduzíveis. Utilizam-se exclusivamente tarefas sintéticas, sem participantes humanos, contas ou coleta de dados de usuários reais. Cada cenário deve registrar ambiente, versão, comando ou passos, resultado esperado, observado e artefato de evidência. A revisão estática e os testes automatizados examinam regras de tarefa, persistência e backup. A verificação no navegador deve distinguir persistência de dados e carregamento da aplicação offline: salvar tarefas não demonstra que todos os recursos da interface estejam em cache, distinção estabelecida no protocolo técnico \citep{projeto,sw}.
-
-Os cenários contemplam criação e conclusão de tarefas, recarga, exportação e importação de backup, rejeição de dados inválidos e reabertura offline após instalação do cache. Resultados são restritos ao ambiente executado. Uma falha deve permanecer registrada; um cenário sem execução não pode ser contado como aprovado, conforme os critérios do protocolo \citep{projeto}.
-Flutter oferece execução de aplicações na web; sua documentação informa que versões recentes não geram nem gerenciam um service worker de cache por padrão \citep{flutter}. Portanto, a classificação como PWA e a disponibilidade offline dependem da configuração e da verificação do projeto, não apenas do uso de Flutter.
-
-A propriedade \texttt{localStorage} mantém pares de texto por origem e pode persistir entre sessões \citep{local}. Entretanto, cotas, políticas do navegador, limpeza e modo privado limitam a retenção; armazenamento local não substitui backup \citep{quota}. Um service worker pode interceptar requisições e atender recursos em cache, requer contexto seguro (HTTPS ou localhost) e tem ciclo de instalação e ativação \citep{sw}. Os dados das tarefas e os recursos executáveis precisam ser avaliados separadamente.
-\section{Resultados}\input{results.tex}
-\section{Discussão}O artefato constitui pesquisa técnica de MVP, sem revisão por pares, avaliação pedagógica com estudantes, aprovação de banca ou certificação institucional. Não se inferem ganho de aprendizagem, usabilidade populacional ou disponibilidade universal dos testes técnicos. Faltam avaliação em dispositivos variados, sessões privadas, esgotamento de cota e estratégias robustas de atualização. Uma primeira visita sem conexão não deve ser assumida como suportada. A remoção dos dados do navegador pode eliminar tarefas; backup exportado é uma medida de recuperação, cuja integridade também precisa de teste, conforme os cenários ainda pendentes no registro técnico \citep{projeto}.
-\section{Conclusão}O MVP e o protocolo oferecem uma base para revisão técnica escolar. A conclusão sobre cada requisito depende das evidências de execução registradas; a implantação mais ampla requer novas verificações previstas no protocolo \citep{projeto}.
-\section*{Autoria e uso de IA}Ferramentas de inteligência artificial auxiliaram a elaboração de código e texto nesta demonstração. A atribuição ``Estudantes — identificação omitida nesta demonstração'' não comprova autoria individual. Os estudantes devem conferir fontes, resultados e código, registrar suas contribuições e assumir a versão entregue. Aloisio é indicado como professor/orientador; sua revisão está pendente e não se presume autoria, assinatura ou aprovação; as responsabilidades e pendências estão registradas no projeto \citep{projeto}.
-\clearpage\input{literature.tex}
-\clearpage\input{bibliography.tex}
+\begin{abstract}Este estudo técnico descreve um MVP Flutter web para organizar tarefas sintéticas, com persistência local e backup \citep{projeto}. A avaliação distingue cenários automatizados, observações online e verificações offline pendentes \citep{projeto}. A contribuição é um artefato acompanhado de procedimentos e limites verificáveis, sem avaliação com participantes ou demonstração de eficácia pedagógica \citep{projeto}.\end{abstract}
+\noindent\textbf{Palavras-chave:} planejamento; Flutter web; persistência; verificação técnica.
+\par\medskip\noindent\textbf{Transparência:} IA auxiliou código e texto; estudantes devem revisar fontes e registrar contribuições, e a aprovação do orientador permanece pendente \citep{projeto}.
+\input{argumento.tex}
+\clearpage
+\begingroup
+\linespread{1}\selectfont
+\setlength{\bibsep}{4pt}
+\renewcommand{\refname}{Referências}
+\phantomsection\addcontentsline{toc}{section}{Referências}
+\input{references-core.tex}
+\endgroup
 \end{document}

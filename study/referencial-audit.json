@@ -1,33 +1,104 @@
 {
   "artigo": {
-    "start_page": 3,
-    "end_page": 7,
-    "content_pages": 5,
-    "pages_with_at_least_100_words": 5,
-    "extracted_words_per_page": [
-      481,
-      501,
-      467,
-      479,
-      407
-    ],
-    "minimum_three_content_pages_met": true,
-    "limitations": "Page count is editorial verification, not validation of theoretical or scientific claims."
+    "Introdução": {
+      "start_page": 2,
+      "end_page": 2,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Referencial teórico": {
+      "start_page": 3,
+      "end_page": 4,
+      "pages": 2,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Métodos": {
+      "start_page": 5,
+      "end_page": 5,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Resultados": {
+      "start_page": 6,
+      "end_page": 6,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Discussão": {
+      "start_page": 7,
+      "end_page": 7,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Considerações finais": {
+      "start_page": 8,
+      "end_page": 8,
+      "pages": 1,
+      "maximum_pages": 1,
+      "passed": true
+    },
+    "Referências": {
+      "start_page": 9,
+      "end_page": 9,
+      "pages": 1,
+      "maximum_pages": 1,
+      "passed": true
+    }
   },
   "entrega-escolar": {
-    "start_page": 6,
-    "end_page": 11,
-    "content_pages": 6,
-    "pages_with_at_least_100_words": 6,
-    "extracted_words_per_page": [
-      376,
-      419,
-      400,
-      398,
-      386,
-      357
-    ],
-    "minimum_three_content_pages_met": true,
-    "limitations": "Page count is editorial verification, not validation of theoretical or scientific claims."
+    "Introdução": {
+      "start_page": 4,
+      "end_page": 4,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Referencial teórico": {
+      "start_page": 5,
+      "end_page": 6,
+      "pages": 2,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Métodos": {
+      "start_page": 7,
+      "end_page": 7,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Resultados": {
+      "start_page": 8,
+      "end_page": 8,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Discussão": {
+      "start_page": 9,
+      "end_page": 9,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Considerações finais": {
+      "start_page": 10,
+      "end_page": 10,
+      "pages": 1,
+      "maximum_pages": 1,
+      "passed": true
+    },
+    "Referências": {
+      "start_page": 11,
+      "end_page": 11,
+      "pages": 1,
+      "maximum_pages": 1,
+      "passed": true
+    }
   }
 }

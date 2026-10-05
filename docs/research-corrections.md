@@ -1,3 +1,5 @@
+> Registro histórico da revisão anterior. A versão ABCD usa seis fontes científicas no manuscrito conciso, conserva as 80 no caderno e substitui o mínimo de três páginas pelo máximo de duas; ver docs/editorial/revisao-abcd.md.
+
 # Correções de fundamentação e evidências — 5 outubro 2026
 
 A revisão trata a fundamentação como seleção narrativa focal, orientada à pergunta técnica e sujeita a limites de cobertura; a escolha de uma modalidade de revisão não dispensa transparência de seleção e análise (Snyder,2019, DOI10.1016/j.jbusres.2019.07.039).

@@ -1,6 +1,6 @@
 # Política editorial dos trabalhos LaTeX
 
-Aplicação: artigo, entrega escolar e pôster do EstudaOffline e futuras revisões deste projeto. Requisito do orientador: pelo menos 80 fontes científicas distintas em cada documento, com citação indireta explícita em cada parágrafo argumentativo. A aprovação desta regra não equivale a aprovação institucional do trabalho.
+Aplicação: artigo, entrega escolar e pôster do EstudaOffline e futuras revisões deste projeto. Requisito atualizado do orientador: ABCD por parágrafo, no máximo duas páginas físicas por seção do artigo e da entrega escolar, e uma página para cada uma das seções Considerações finais e Referências. A regra atual substitui o mínimo anterior de três páginas do referencial e, para permitir referências legíveis em uma página, concentra o corpus de 80 fontes no caderno complementar; o manuscrito cita apenas seu núcleo utilizado. A aprovação desta regra não equivale a aprovação institucional do trabalho.
 
 ## Atribuição verificável
 
@@ -22,3 +22,7 @@ Compilar com XeLaTeX até estabilizar referências; não permitir citação inde
 ## Conferência científica
 
 Quantidade e paginação não validam instrumentos, teoria ou aprendizagem. Usar o modelo explicitamente escolhido e a matriz central de fontes, incluindo resultados contrários, sobreposição de revisões, população e limites de transferência. Uma seleção narrativa não vira revisão sistemática por citar PRISMA; uma conferência dirigida não recebe nome de instrumento validado. Registrar restrições de acesso por fonte e não confundir offline temporal de mensuração com execução sem internet (Snyder,2019; Panadero,2017; Araka et al.,2020).
+
+## Encadeamento e fichamento
+
+A → B → C → D é uma regra editorial fornecida pelo orientador, não um método empiricamente validado. Registrar abertura, sustentação, análise e ligação seguinte em argumento-abcd.json; retirar rótulos no texto final. Não usar “isso demonstra” para transformar associação em causalidade. A ligação deve retomar um conceito anterior e introduzir o problema seguinte. Manter caderno separado com achado, acesso, localizador, força pertinente, limite, oportunidade proposta e procedimento de verificação. Referências em espaço simples e fonte 12, sem redução para acomodar 80 entradas em uma página. A seleção narrativa precisa de transparência e adaptação à pergunta (Snyder, 2019, DOI10.1016/j.jbusres.2019.07.039).

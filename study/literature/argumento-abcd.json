@@ -1,0 +1,208 @@
+{
+  "editorial_method": "ABCD proposto pelo orientador, sem alegação de instrumento validado",
+  "supersedes": "mínimo anterior de três páginas para referencial; máximo atual de duas páginas por seção e uma para considerações finais e referências",
+  "bibliography_policy": "seis publicações científicas no artigo; corpus de 80 no caderno separado; sem microtipografia",
+  "sections": [
+    {
+      "title": "Introdução",
+      "paragraphs": [
+        {
+          "id": "I1",
+          "A": "O planejamento das atividades é o recorte educacional que orienta o EstudaOffline",
+          "B": "Panadero descreve a autorregulação como um processo que articula antecipação, execução e autorreflexão",
+          "C": "Nesse quadro, organizar tarefas corresponde a uma parte do processo, sem representar todas as dimensões da aprendizagem",
+          "D": "Essa delimitação permite investigar um organizador de tarefas sem lhe atribuir benefícios educacionais ainda não avaliados",
+          "keys": [
+            "SU10"
+          ],
+          "next": "I2"
+        },
+        {
+          "id": "I2",
+          "A": "A investigação concentra-se na conservação de tarefas sintéticas em um aplicativo Flutter web",
+          "B": "O protocolo do projeto situa o MVP no curso técnico de Análise e Desenvolvimento de Sistemas do CETI Lucas Meireles Alves, em Teresina, e define testes sem participantes",
+          "C": "A pergunta é se tarefas e interface continuam disponíveis após preparação online e interrupção da conexão, com persistência e backup verificáveis",
+          "D": "Para responder a essa pergunta técnica, o referencial seguinte distingue apoio ao planejamento, aprendizagem e qualidade do software",
+          "keys": [
+            "projeto"
+          ],
+          "next": "T1"
+        }
+      ]
+    },
+    {
+      "title": "Referencial teórico",
+      "paragraphs": [
+        {
+          "id": "T1",
+          "A": "O apoio ao planejamento precisa ser compreendido dentro de um ciclo de autorregulação",
+          "B": "Na descrição do modelo cíclico de Zimmerman apresentada por Panadero, a antecipação envolve o planejamento, enquanto a execução e a autorreflexão incluem processos adicionais",
+          "C": "Uma lista de tarefas pode apoiar a organização inicial, mas seus registros não cobrem, por si, monitoramento cognitivo, motivação ou avaliação da compreensão",
+          "D": "Por isso, a pertinência conceitual do organizador deve ser examinada junto às condições em que o apoio digital é utilizado",
+          "keys": [
+            "SU10"
+          ],
+          "next": "T2"
+        },
+        {
+          "id": "T2",
+          "A": "A pertinência conceitual não assegura que qualquer recurso digital produza benefício educacional",
+          "B": "Palalas e Wark sintetizam uma relação complexa entre aprendizagem móvel e autorregulação, com achados heterogêneos e resultados também neutros ou desfavoráveis",
+          "C": "A revisão oferece uma oportunidade de investigar a integração intencional do recurso ao estudo, mas não autoriza transferir efeitos de outras intervenções para este MVP",
+          "D": "Essa cautela desloca a análise da simples presença de tecnologia para a amplitude do apoio oferecido",
+          "keys": [
+            "education_palalas2020"
+          ],
+          "next": "T3"
+        },
+        {
+          "id": "T3",
+          "A": "A amplitude do apoio exige reconhecer que organizar tarefas é apenas um componente da aprendizagem autorregulada",
+          "B": "Prasse e colaboradores sintetizam 31 revisões e meta-análises e ressaltam a integração de suportes ao longo do ciclo de aprendizagem",
+          "C": "Como o EstudaOffline foi delimitado à organização de tarefas, ampliar o acompanhamento é uma oportunidade futura, e não uma funcionalidade ou um efeito já demonstrado",
+          "D": "Essa diferença entre escopo atual e oportunidade futura exige definir precisamente o significado dos registros produzidos",
+          "keys": [
+            "education_prasse2024"
+          ],
+          "next": "T4"
+        },
+        {
+          "id": "T4",
+          "A": "Os registros produzidos pelo organizador precisam ser interpretados como dados de tarefa, e não como medidas automáticas de aprendizagem",
+          "B": "Araka e colaboradores discutem limites dos instrumentos e dos registros empregados para mensurar autorregulação em ambientes digitais",
+          "C": "À luz desse problema de mensuração, os minutos do MVP são duração planejada e a conclusão é um estado informado, conforme a definição dos campos no protocolo do projeto",
+          "D": "Uma vez delimitado o que os registros significam, a investigação pode avaliar a qualidade técnica de sua conservação",
+          "keys": [
+            "education_araka2020",
+            "projeto"
+          ],
+          "next": "T5"
+        },
+        {
+          "id": "T5",
+          "A": "A conservação de registros demanda critérios técnicos diferentes dos critérios de aprendizagem",
+          "B": "O mapeamento de Júnior e colaboradores caracteriza técnicas de teste de requisitos não funcionais em aplicativos móveis",
+          "C": "Esse panorama justifica separar cenários de persistência, recuperação e falha, preservando o limite de transferir conclusões de estudos predominantemente móveis para uma implementação web",
+          "D": "Essa separação permite tratar acessibilidade como outra dimensão específica, em vez de deduzi-la do sucesso funcional",
+          "keys": [
+            "eng06"
+          ],
+          "next": "T6"
+        },
+        {
+          "id": "T6",
+          "A": "A acessibilidade precisa de inspeção específica mesmo quando o cadastro e a recuperação de tarefas funcionam",
+          "B": "A recomendação WCAG 2.2 especifica critérios de teclado, foco, mensagens de erro, rótulos, contraste e semântica dos componentes",
+          "C": "No projeto, esses critérios originam procedimentos de inspeção ainda pendentes, enquanto o protocolo delimita o estudo atual aos cenários técnicos registrados",
+          "D": "Assim, o método deve transformar as distinções anteriores em verificações observáveis, sem confundir fundamentação com certificação",
+          "keys": [
+            "wcag",
+            "projeto"
+          ],
+          "next": "M1"
+        }
+      ]
+    },
+    {
+      "title": "Métodos",
+      "paragraphs": [
+        {
+          "id": "M1",
+          "A": "O método traduz a delimitação teórica em um estudo técnico descritivo do artefato",
+          "B": "O protocolo define como unidade a execução de um cenário em uma combinação registrada de versão, navegador e armazenamento, utilizando dados sintéticos",
+          "C": "Cada cenário deve indicar entrada, procedimento, resultado esperado, resultado observado e evidência, distinguindo testes de modelo, widget e navegador",
+          "D": "Com essa unidade explícita, a leitura das fontes também precisa de um registro que preserve a origem de cada afirmação",
+          "keys": [
+            "projeto"
+          ],
+          "next": "M2"
+        },
+        {
+          "id": "M2",
+          "A": "A leitura das fontes foi organizada como uma síntese narrativa focal apoiada em fichamentos",
+          "B": "Snyder relaciona a modalidade de revisão à pergunta e à transparência da seleção, extração e análise",
+          "C": "O caderno complementar preserva 80 registros com níveis de acesso e limites, enquanto seis publicações científicas foram selecionadas para o argumento deste texto; as fichas não representam 80 validações independentes",
+          "D": "Essa seleção documentada orienta a interpretação dos resultados técnicos apresentados a seguir",
+          "keys": [
+            "SU11",
+            "projeto"
+          ],
+          "next": "R1"
+        }
+      ]
+    },
+    {
+      "title": "Resultados",
+      "paragraphs": [
+        {
+          "id": "R1",
+          "A": "A execução automatizada documentada verificou componentes técnicos do MVP",
+          "B": "O registro da versão 0.1.1 informa análise estática, seis testes Flutter, quatro testes de versionamento e compilação web, na execução 37249382657",
+          "C": "Esses resultados se restringem à execução registrada: o teste de widget usa armazenamento simulado e não comprova recarga real do navegador sem conexão",
+          "D": "Por isso, os resultados automatizados precisam ser lidos junto às observações disponíveis no navegador",
+          "keys": [
+            "projeto"
+          ],
+          "next": "R2"
+        },
+        {
+          "id": "R2",
+          "A": "A demonstração no navegador acrescentou evidências de manipulação de tarefas e recarga online",
+          "B": "O registro da versão 0.1.0 descreve criação, conclusão, recuperação após recarga online, rejeição de backup com versão 99 e importação válida de duas tarefas",
+          "C": "A preparação indicada do cache e a solicitação de download não comprovam reabertura desconectada nem integridade do arquivo exportado, que permanecem sem confirmação",
+          "D": "Esses limites conduzem à discussão do que a demonstração permite concluir e do que ainda requer avaliação",
+          "keys": [
+            "projeto"
+          ],
+          "next": "D1"
+        }
+      ]
+    },
+    {
+      "title": "Discussão",
+      "paragraphs": [
+        {
+          "id": "D1",
+          "A": "Os resultados registrados sustentam uma demonstração funcional delimitada, e não uma avaliação de aprendizagem",
+          "B": "Araka e colaboradores evidenciam problemas de mensuração da autorregulação a partir de instrumentos e registros digitais",
+          "C": "A criação e a recuperação de uma tarefa são coerentes com o recorte técnico do protocolo, mas não demonstram que seu usuário estudou, compreendeu o conteúdo ou melhorou o desempenho",
+          "D": "Essa distinção delimita a contribuição atual e permite identificar uma oportunidade de pesquisa futura",
+          "keys": [
+            "education_araka2020",
+            "projeto"
+          ],
+          "next": "D2"
+        },
+        {
+          "id": "D2",
+          "A": "A oportunidade futura é integrar o organizador a um processo de estudo mais amplo e avaliá-lo em contexto",
+          "B": "Prasse e colaboradores recomendam suportes ao longo do ciclo autorregulatório, enquanto Palalas e Wark mostram que resultados digitais dependem de condições heterogêneas",
+          "C": "As revisões oferecem uma direção de desenvolvimento, mas sua sobreposição e diversidade impedem somar seus estudos como evidências independentes ou prever o efeito do MVP",
+          "D": "Portanto, a conclusão deve preservar a contribuição técnica existente e formular a investigação educacional como etapa posterior",
+          "keys": [
+            "education_prasse2024",
+            "education_palalas2020",
+            "projeto"
+          ],
+          "next": "F1"
+        }
+      ]
+    },
+    {
+      "title": "Considerações finais",
+      "paragraphs": [
+        {
+          "id": "F1",
+          "A": "O EstudaOffline oferece um artefato e um protocolo para examinar a organização e a conservação local de tarefas sintéticas",
+          "B": "Os registros do projeto sustentam apenas os cenários efetivamente observados e mantêm pendentes recarga sem rede, falha de quota, verificação do arquivo exportado e inspeção de acessibilidade",
+          "C": "A contribuição está nessa base verificável, sem demonstração de eficácia pedagógica, conformidade institucional integral ou funcionamento universal",
+          "D": "A continuidade deve primeiro concluir os cenários técnicos pendentes e, depois, planejar uma avaliação educacional com procedimentos e autorizações próprios",
+          "keys": [
+            "projeto"
+          ],
+          "next": "END"
+        }
+      ]
+    }
+  ]
+}

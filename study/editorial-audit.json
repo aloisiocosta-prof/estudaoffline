@@ -1,20 +1,26 @@
 {
   "sources": {
     "artigo": {
-      "scientific_publications_cited": 80,
-      "bibliography_entries": 86,
+      "scientific_publications_cited": 6,
+      "bibliography_entries": 8,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "entrega-escolar": {
-      "scientific_publications_cited": 80,
-      "bibliography_entries": 86,
+      "scientific_publications_cited": 6,
+      "bibliography_entries": 8,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     },
     "poster": {
       "scientific_publications_cited": 80,
       "bibliography_entries": 86,
+      "undefined_keys": [],
+      "uncited_bibliography_entries": []
+    },
+    "fichamentos": {
+      "scientific_publications_cited": 80,
+      "bibliography_entries": 81,
       "undefined_keys": [],
       "uncited_bibliography_entries": []
     }
@@ -26,19 +32,19 @@
   ],
   "pdf_lines": {
     "artigo": {
-      "pages": 26,
-      "text_lines": 1059,
-      "lines_below_half_width": 148,
-      "lines_below_half_character_width": 157,
+      "pages": 9,
+      "text_lines": 184,
+      "lines_below_half_width": 32,
+      "lines_below_half_character_width": 32,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."
     },
     "entrega-escolar": {
-      "pages": 35,
-      "text_lines": 1092,
-      "lines_below_half_width": 163,
-      "lines_below_half_character_width": 183,
+      "pages": 11,
+      "text_lines": 201,
+      "lines_below_half_width": 41,
+      "lines_below_half_character_width": 49,
       "literal_every_line_requirement_met": false,
       "definition": "Union of non-whitespace character boxes / usable page width. Bounding-box span is reported separately. Single-column layout; headings, pagination and bibliography included.",
       "measurement_limit": "Character boxes measure typographic advance, not black-pixel ink coverage. An image-only or empty PDF is not approved."

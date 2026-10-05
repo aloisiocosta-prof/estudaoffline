@@ -1,161 +1,36 @@
 document,page,line,bounding_width_ratio,nonspace_character_width_ratio,text
 artigo,1,4,0.2374,0.2198,Outubro de 2026
 artigo,1,5,0.0949,0.0949,Resumo
-artigo,1,12,0.3392,0.3258,"protocolo (EstudaOffline, 2026)."
-artigo,1,14,0.0996,0.0996,estudos.
-artigo,1,15,0.2552,0.2172,1 Introdução
-artigo,1,25,0.4535,0.405,2 Justificativa científica
-artigo,1,29,0.3526,0.3159,"do MVP (Wolters et al., 2017)."
-artigo,1,33,0.0147,0.0147,1
-artigo,2,37,0.2813,0.2593,"(Squarcina et al., 2021)."
-artigo,2,38,0.0147,0.0147,2
-artigo,3,39,0.4008,0.3523,3 Referencial teórico
-artigo,3,83,0.0147,0.0147,3
-artigo,4,107,0.4171,0.3951,"(EstudaOffline, 2026; MDN, 2026c)."
-artigo,4,115,0.3648,0.3355,"relevantes (Martin et al., 2024)."
-artigo,4,129,0.4171,0.3951,"(MDN, 2026c; EstudaOffline, 2026)."
-artigo,4,130,0.0147,0.0147,4
-artigo,5,150,0.2842,0.2622,"(Kumar e Mohite, 2017)."
-artigo,5,166,0.482,0.4527,"necessidades dos usuários (W3C, 2024)."
-artigo,5,173,0.3912,0.3546,"al., 2024; Kumar e Mohite, 2017)."
-artigo,5,174,0.0147,0.0147,5
-artigo,6,192,0.4801,0.4435,"(EstudaOffline, 2026; Júnior et al., 2022)."
-artigo,6,200,0.2472,0.2398,"EstudaOffline, 2026)."
-artigo,6,207,0.507,0.4556,"(Mkpojiogu et al., 2021; Júnior et al., 2022)."
-artigo,6,215,0.0747,0.0747,2026).
-artigo,6,220,0.0147,0.0147,6
-artigo,7,230,0.3204,0.3058,"2022; EstudaOffline, 2026)."
-artigo,7,243,0.2472,0.2398,"EstudaOffline, 2026)."
-artigo,7,252,0.3922,0.3629,"et al., 2020; EstudaOffline, 2026)."
-artigo,7,261,0.0147,0.0147,7
-artigo,8,262,0.2151,0.1771,4 Métodos
-artigo,8,268,0.0747,0.0747,2026).
-artigo,8,277,0.4171,0.3951,"(EstudaOffline, 2026; MDN, 2026c)."
-artigo,8,293,0.1905,0.1905,separadamente.
-artigo,8,294,0.2637,0.2257,5 Resultados
-artigo,8,299,0.4963,0.4742,"eficácia pedagógica (EstudaOffline, 2026)."
-artigo,8,306,0.0147,0.0147,8
-artigo,9,308,0.4664,0.4493,"observations.md. (EstudaOffline, 2026)."
-artigo,9,309,0.2489,0.211,6 Discussão
-artigo,9,318,0.442,0.42,"registro técnico (EstudaOffline, 2026)."
-artigo,9,319,0.2531,0.2151,7 Conclusão
-artigo,9,323,0.3459,0.3037,Autoria e uso de IA
-artigo,9,330,0.3439,0.3292,"projeto (EstudaOffline, 2026)."
-artigo,9,331,0.0147,0.0147,9
-artigo,10,339,0.4025,0.3878,"publicações (EstudaOffline, 2026)."
-artigo,10,344,0.4059,0.3765,"aprendizagem (Araka et al., 2020)."
-artigo,10,348,0.0747,0.0747,2022).
-artigo,10,352,0.2916,0.2696,"(Brahma e Saikia, 2023)."
-artigo,10,356,0.5114,0.4747,"qualquer aplicativo (Broadbent et al., 2020)."
-artigo,10,360,0.3136,0.2842,"tarefas (Chen et al., 2024)."
-artigo,10,364,0.5304,0.4864,"para ensino técnico (Forstervold et al., 2022)."
-artigo,10,368,0.211,0.189,"(Han et al., 2023)."
-artigo,10,376,0.2051,0.1831,"(Lim et al., 2019)."
-artigo,10,377,0.0293,0.0293,10
-artigo,11,381,0.1172,0.1099,"al., 2020)."
-artigo,11,385,0.1719,0.1573,"e Wark, 2020)."
-artigo,11,389,0.2432,0.2212,"(Patzak et al., 2025)."
-artigo,11,393,0.2447,0.2227,"(Prasse et al., 2024)."
-artigo,11,401,0.3311,0.3018,"específica (Tao et al., 2025)."
-artigo,11,405,0.0747,0.0747,2017).
-artigo,11,420,0.5109,0.467,"efeito ao EstudaOffline (Zheng et al., 2016)."
-artigo,11,424,0.0274,0.0274,11
-artigo,12,429,0.4835,0.4542,"universal (Batanero-Ochaíta et al., 2021)."
-artigo,12,434,0.4171,0.3878,"EstudaOffline (Bong e Chen, 2021)."
-artigo,12,452,0.0747,0.0747,2023).
-artigo,12,465,0.0747,0.0747,2019).
-artigo,12,473,0.0293,0.0293,12
-artigo,13,474,0.3199,0.2979,"(Kumi-Yeboah et al., 2023)."
-artigo,13,484,0.2359,0.2139,"(Martin et al., 2024)."
-artigo,13,495,0.2623,0.2549,"Hongwarittorrn, 2017)."
-artigo,13,510,0.1465,0.1319,"et al., 2021)."
-artigo,13,520,0.0293,0.0293,13
-artigo,14,522,0.2593,0.2373,"(Litt e Jackson, 2022)."
-artigo,14,530,0.2476,0.2256,"(Jannes et al., 2023)."
-artigo,14,538,0.3619,0.3325,"sintéticos (Gruber et al., 2022)."
-artigo,14,542,0.2227,0.2007,"(Zhao et al., 2022)."
-artigo,14,546,0.4835,0.4395,"todos os ecossistemas (Sun et al., 2023)."
-artigo,14,550,0.1465,0.1319,"et al., 2021)."
-artigo,14,565,0.0747,0.0747,2023).
-artigo,14,566,0.0293,0.0293,14
-artigo,15,576,0.2462,0.2388,"Johannesson, 2023)."
-artigo,15,580,0.444,0.4219,"(Gonzalez-Barahona e Robles, 2023)."
-artigo,15,584,0.3575,0.3282,"reprodutíveis (Liu et al., 2022)."
-artigo,15,588,0.2462,0.2242,"e Fonseca C., 2020)."
-artigo,15,592,0.2447,0.2227,"(Santos et al., 2022)."
-artigo,15,596,0.277,0.2549,"(Shepperd et al., 2018)."
-artigo,15,603,0.1172,0.1099,"al., 2022)."
-artigo,15,610,0.4791,0.4425,"badge ACM (Guevara-Vega et al., 2024)."
-artigo,15,614,0.1465,0.1319,"et al., 2026)."
-artigo,15,615,0.0293,0.0293,15
-artigo,16,620,0.378,0.3487,"sistemática (Page et al., 2021a)."
-artigo,16,627,0.0747,0.0747,2021).
-artigo,16,631,0.1465,0.1319,"et al., 2017)."
-artigo,16,635,0.2623,0.2403,"(Foltýnek et al., 2019)."
-artigo,16,643,0.1465,0.1319,"et al., 2023)."
-artigo,16,647,0.1465,0.1319,"et al., 2021)."
-artigo,16,651,0.3033,0.2886,"técnico (Panadero, 2017)."
-artigo,16,655,0.4836,0.4542,"ao problema educacional (Snyder, 2019)."
-artigo,16,656,0.0293,0.0293,16
-artigo,17,657,0.2152,0.2152,Referências
-artigo,17,663,0.0791,0.0791,fontes.
-artigo,17,667,0.0791,0.0791,fontes.
-artigo,17,671,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-artigo,17,676,0.0791,0.0791,fontes.
-artigo,17,684,0.4835,0.4395,de acesso registrado na matriz de fontes.
-artigo,17,688,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-artigo,17,697,0.0293,0.0293,17
-artigo,18,705,0.4468,0.4102,acesso registrado na matriz de fontes.
-artigo,18,710,0.1948,0.1802,matriz de fontes.
-artigo,18,717,0.0791,0.0791,fontes.
-artigo,18,722,0.1948,0.1802,matriz de fontes.
-artigo,18,734,0.356,0.3267,registrado na matriz de fontes.
-artigo,18,740,0.0293,0.0293,18
-artigo,19,746,0.1157,0.1084,de fontes.
-artigo,19,751,0.2315,0.2095,na matriz de fontes.
-artigo,19,764,0.4468,0.4102,acesso registrado na matriz de fontes.
-artigo,19,776,0.2315,0.2095,na matriz de fontes.
-artigo,19,782,0.356,0.3267,registrado na matriz de fontes.
-artigo,19,783,0.0293,0.0293,19
-artigo,20,789,0.356,0.3267,registrado na matriz de fontes.
-artigo,20,796,0.1948,0.1802,matriz de fontes.
-artigo,20,805,0.0791,0.0791,fontes.
-artigo,20,809,0.2315,0.2095,na matriz de fontes.
-artigo,20,819,0.2315,0.2095,na matriz de fontes.
-artigo,20,825,0.0293,0.0293,20
-artigo,21,830,0.4468,0.4102,acesso registrado na matriz de fontes.
-artigo,21,836,0.0791,0.0791,fontes.
-artigo,21,851,0.1157,0.1084,de fontes.
-artigo,21,860,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-artigo,21,869,0.0293,0.0293,21
-artigo,22,878,0.1948,0.1802,matriz de fontes.
-artigo,22,887,0.1948,0.1802,matriz de fontes.
-artigo,22,901,0.1948,0.1802,matriz de fontes.
-artigo,22,906,0.1948,0.1802,matriz de fontes.
-artigo,22,911,0.0293,0.0293,22
-artigo,23,927,0.356,0.3267,registrado na matriz de fontes.
-artigo,23,931,0.1157,0.1084,de fontes.
-artigo,23,936,0.2315,0.2095,na matriz de fontes.
-artigo,23,940,0.356,0.3267,registrado na matriz de fontes.
-artigo,23,953,0.0293,0.0293,23
-artigo,24,957,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-artigo,24,961,0.2315,0.2095,na matriz de fontes.
-artigo,24,970,0.2315,0.2095,na matriz de fontes.
-artigo,24,975,0.0791,0.0791,fontes.
-artigo,24,980,0.2315,0.2095,na matriz de fontes.
-artigo,24,984,0.4835,0.4395,de acesso registrado na matriz de fontes.
-artigo,24,993,0.0791,0.0791,fontes.
-artigo,24,997,0.0293,0.0293,24
-artigo,25,1003,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-artigo,25,1017,0.1157,0.1084,de fontes.
-artigo,25,1021,0.4468,0.4102,acesso registrado na matriz de fontes.
-artigo,25,1032,0.356,0.3267,registrado na matriz de fontes.
-artigo,25,1036,0.1948,0.1802,matriz de fontes.
-artigo,25,1040,0.1948,0.1802,matriz de fontes.
-artigo,25,1041,0.0293,0.0293,25
-artigo,26,1046,0.3633,0.3414,contagem de fontes científicas.
-artigo,26,1052,0.2036,0.1963,fontes científicas.
-artigo,26,1059,0.0293,0.0293,26
+artigo,1,15,0.0147,0.0147,1
+artigo,2,16,0.2552,0.2172,1 Introdução
+artigo,2,23,0.2125,0.2051,"(Panadero, 2017)."
+artigo,2,32,0.0147,0.0147,2
+artigo,3,33,0.4008,0.3523,2 Referencial teórico
+artigo,3,49,0.462,0.4254,"apoio oferecido (Palalas e Wark, 2020)."
+artigo,3,58,0.0147,0.0147,3
+artigo,4,75,0.3473,0.3179,"funcional (Júnior et al., 2022)."
+artigo,4,84,0.2472,0.2398,"EstudaOffline, 2026)."
+artigo,4,85,0.0147,0.0147,4
+artigo,5,86,0.2151,0.1771,3 Métodos
+artigo,5,94,0.2559,0.2486,"(EstudaOffline, 2026)."
+artigo,5,103,0.2472,0.2398,"EstudaOffline, 2026)."
+artigo,5,104,0.0147,0.0147,5
+artigo,6,105,0.2637,0.2257,4 Resultados
+artigo,6,121,0.0147,0.0147,6
+artigo,7,122,0.2489,0.211,5 Discussão
+artigo,7,131,0.3629,0.3409,"al., 2020; EstudaOffline, 2026)."
+artigo,7,142,0.3204,0.3058,"2020; EstudaOffline, 2026)."
+artigo,7,143,0.0147,0.0147,7
+artigo,8,144,0.4408,0.3924,6 Considerações finais
+artigo,8,154,0.0147,0.0147,8
+artigo,9,155,0.2152,0.2152,Referências
+artigo,9,160,0.2006,0.1973,39-020-00129-5 .
+artigo,9,169,0.2006,0.1974,58-024-09772-z .
+artigo,9,173,0.4281,0.4281,https://doi.org/10.1145/3507903 .
+artigo,9,176,0.3331,0.3331,10.3389/fpsyg.2017.00422 .
+artigo,9,179,0.3195,0.3195,6/j.jbusres.2019.07.039 .
+artigo,9,181,0.3196,0.3196,//www.w3.org/TR/WCAG22/ .
+artigo,9,184,0.0147,0.0147,9
 entrega-escolar,1,1,0.3862,0.3643,CETI LUCAS MEIRELES ALVES
 entrega-escolar,1,3,0.3071,0.2998,PROJETO INTEGRADOR
 entrega-escolar,1,5,0.3901,0.369,COM DADOS LOCAIS
@@ -163,182 +38,48 @@ entrega-escolar,1,6,0.3281,0.3062,Teresina — Chapadinha Sul
 entrega-escolar,1,7,0.1978,0.1832,Outubro de 2026
 entrega-escolar,2,9,0.2075,0.1977,Professor: Aloisio
 entrega-escolar,2,11,0.3901,0.369,COM DADOS LOCAIS
-entrega-escolar,2,15,0.4454,0.4161,e avaliação pelo professor pendentes.
-entrega-escolar,2,16,0.3281,0.3062,Teresina — Chapadinha Sul
-entrega-escolar,2,17,0.1978,0.1832,Outubro de 2026
-entrega-escolar,3,18,0.1519,0.1519,Sumário
-entrega-escolar,3,19,1.0,0.1655,1 Introdução 2
-entrega-escolar,3,20,0.9604,0.4176,1.1 Objetivos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-entrega-escolar,3,21,0.8998,0.4411,1.1.1 Objetivo geral . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-entrega-escolar,3,22,0.8998,0.4909,1.1.2 Objetivos específicos . . . . . . . . . . . . . . . . . . . . . . . . 2
-entrega-escolar,3,23,0.9604,0.444,1.2 Metodologia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-entrega-escolar,3,24,1.0,0.2593,2 Referencial teórico 4
-entrega-escolar,3,32,1.0,0.3018,3 Considerações finais 10
-entrega-escolar,3,33,1.0,0.1919,4 Referências 11
-entrega-escolar,3,40,1.0,0.1626,Apêndices 33
-entrega-escolar,3,41,1.0,0.1245,Anexos 33
-entrega-escolar,3,42,0.0147,0.0147,1
-entrega-escolar,4,43,0.2552,0.2172,1 Introdução
-entrega-escolar,4,51,0.2197,0.1881,1.1 Objetivos
-entrega-escolar,4,52,0.2607,0.2271,1.1.1 Objetivo geral
-entrega-escolar,4,54,0.3911,0.3618,persistência local em Flutter web.
-entrega-escolar,4,55,0.356,0.3223,1.1.2 Objetivos específicos
-entrega-escolar,4,57,0.2666,0.252,importação de backup.
-entrega-escolar,4,59,0.2842,0.2769,técnicos documentados.
-entrega-escolar,4,60,0.2619,0.2302,1.2 Metodologia
-entrega-escolar,4,66,0.0747,0.0747,2026).
-entrega-escolar,4,74,0.0147,0.0147,2
-entrega-escolar,5,76,0.4171,0.3951,"(EstudaOffline, 2026; MDN, 2026c)."
-entrega-escolar,5,82,0.0147,0.0147,3
-entrega-escolar,6,83,0.4008,0.3523,2 Referencial teórico
-entrega-escolar,6,118,0.0147,0.0147,4
-entrega-escolar,7,151,0.4171,0.3951,"(EstudaOffline, 2026; MDN, 2026c)."
-entrega-escolar,7,156,0.0147,0.0147,5
-entrega-escolar,8,160,0.3648,0.3355,"relevantes (Martin et al., 2024)."
-entrega-escolar,8,174,0.4171,0.3951,"(MDN, 2026c; EstudaOffline, 2026)."
-entrega-escolar,8,194,0.0147,0.0147,6
-entrega-escolar,9,195,0.2842,0.2622,"(Kumar e Mohite, 2017)."
-entrega-escolar,9,211,0.482,0.4527,"necessidades dos usuários (W3C, 2024)."
-entrega-escolar,9,218,0.3912,0.3546,"al., 2024; Kumar e Mohite, 2017)."
-entrega-escolar,9,232,0.0147,0.0147,7
-entrega-escolar,10,237,0.4801,0.4435,"(EstudaOffline, 2026; Júnior et al., 2022)."
-entrega-escolar,10,245,0.2472,0.2398,"EstudaOffline, 2026)."
-entrega-escolar,10,252,0.507,0.4556,"(Mkpojiogu et al., 2021; Júnior et al., 2022)."
-entrega-escolar,10,260,0.0747,0.0747,2026).
-entrega-escolar,10,270,0.0147,0.0147,8
-entrega-escolar,11,275,0.3204,0.3058,"2022; EstudaOffline, 2026)."
-entrega-escolar,11,288,0.2472,0.2398,"EstudaOffline, 2026)."
-entrega-escolar,11,297,0.3922,0.3629,"et al., 2020; EstudaOffline, 2026)."
-entrega-escolar,11,306,0.0147,0.0147,9
-entrega-escolar,12,307,0.4408,0.3924,3 Considerações finais
-entrega-escolar,12,312,0.4963,0.4742,"eficácia pedagógica (EstudaOffline, 2026)."
-entrega-escolar,12,329,0.5063,0.4535,Declaração de autoria e uso de IA
-entrega-escolar,12,336,0.3439,0.3292,"projeto (EstudaOffline, 2026)."
-entrega-escolar,12,337,0.3181,0.3006,Limite de formatação
-entrega-escolar,12,341,0.0293,0.0293,10
-entrega-escolar,13,345,0.2559,0.2486,"(EstudaOffline, 2026)."
-entrega-escolar,13,346,0.0274,0.0274,11
-entrega-escolar,14,354,0.4025,0.3878,"publicações (EstudaOffline, 2026)."
-entrega-escolar,14,359,0.4059,0.3765,"aprendizagem (Araka et al., 2020)."
-entrega-escolar,14,363,0.0747,0.0747,2022).
-entrega-escolar,14,367,0.2916,0.2696,"(Brahma e Saikia, 2023)."
-entrega-escolar,14,371,0.5114,0.4747,"qualquer aplicativo (Broadbent et al., 2020)."
-entrega-escolar,14,375,0.3136,0.2842,"tarefas (Chen et al., 2024)."
-entrega-escolar,14,379,0.5304,0.4864,"para ensino técnico (Forstervold et al., 2022)."
-entrega-escolar,14,383,0.0293,0.0293,12
-entrega-escolar,15,384,0.211,0.189,"(Han et al., 2023)."
-entrega-escolar,15,392,0.2051,0.1831,"(Lim et al., 2019)."
-entrega-escolar,15,396,0.1172,0.1099,"al., 2020)."
-entrega-escolar,15,400,0.1719,0.1573,"e Wark, 2020)."
-entrega-escolar,15,404,0.2432,0.2212,"(Patzak et al., 2025)."
-entrega-escolar,15,408,0.2447,0.2227,"(Prasse et al., 2024)."
-entrega-escolar,15,416,0.3311,0.3018,"específica (Tao et al., 2025)."
-entrega-escolar,15,420,0.0747,0.0747,2017).
-entrega-escolar,15,423,0.0293,0.0293,13
-entrega-escolar,16,436,0.5109,0.467,"efeito ao EstudaOffline (Zheng et al., 2016)."
-entrega-escolar,16,444,0.4835,0.4542,"universal (Batanero-Ochaíta et al., 2021)."
-entrega-escolar,16,449,0.4171,0.3878,"EstudaOffline (Bong e Chen, 2021)."
-entrega-escolar,16,461,0.0293,0.0293,14
-entrega-escolar,17,468,0.0747,0.0747,2023).
-entrega-escolar,17,481,0.0747,0.0747,2019).
-entrega-escolar,17,489,0.3199,0.2979,"(Kumi-Yeboah et al., 2023)."
-entrega-escolar,17,499,0.2359,0.2139,"(Martin et al., 2024)."
-entrega-escolar,17,501,0.0293,0.0293,15
-entrega-escolar,18,511,0.2623,0.2549,"Hongwarittorrn, 2017)."
-entrega-escolar,18,526,0.1465,0.1319,"et al., 2021)."
-entrega-escolar,18,537,0.2593,0.2373,"(Litt e Jackson, 2022)."
-entrega-escolar,18,539,0.0293,0.0293,16
-entrega-escolar,19,546,0.2476,0.2256,"(Jannes et al., 2023)."
-entrega-escolar,19,554,0.3619,0.3325,"sintéticos (Gruber et al., 2022)."
-entrega-escolar,19,558,0.2227,0.2007,"(Zhao et al., 2022)."
-entrega-escolar,19,562,0.4835,0.4395,"todos os ecossistemas (Sun et al., 2023)."
-entrega-escolar,19,566,0.1465,0.1319,"et al., 2021)."
-entrega-escolar,19,577,0.0293,0.0293,17
-entrega-escolar,20,582,0.0747,0.0747,2023).
-entrega-escolar,20,592,0.2462,0.2388,"Johannesson, 2023)."
-entrega-escolar,20,596,0.444,0.4219,"(Gonzalez-Barahona e Robles, 2023)."
-entrega-escolar,20,600,0.3575,0.3282,"reprodutíveis (Liu et al., 2022)."
-entrega-escolar,20,604,0.2462,0.2242,"e Fonseca C., 2020)."
-entrega-escolar,20,608,0.2447,0.2227,"(Santos et al., 2022)."
-entrega-escolar,20,612,0.277,0.2549,"(Shepperd et al., 2018)."
-entrega-escolar,20,617,0.0293,0.0293,18
-entrega-escolar,21,620,0.1172,0.1099,"al., 2022)."
-entrega-escolar,21,627,0.4791,0.4425,"badge ACM (Guevara-Vega et al., 2024)."
-entrega-escolar,21,631,0.1465,0.1319,"et al., 2026)."
-entrega-escolar,21,636,0.378,0.3487,"sistemática (Page et al., 2021a)."
-entrega-escolar,21,643,0.0747,0.0747,2021).
-entrega-escolar,21,647,0.1465,0.1319,"et al., 2017)."
-entrega-escolar,21,651,0.2623,0.2403,"(Foltýnek et al., 2019)."
-entrega-escolar,21,655,0.0293,0.0293,19
-entrega-escolar,22,660,0.1465,0.1319,"et al., 2023)."
-entrega-escolar,22,664,0.1465,0.1319,"et al., 2021)."
-entrega-escolar,22,668,0.3033,0.2886,"técnico (Panadero, 2017)."
-entrega-escolar,22,672,0.4836,0.4542,"ao problema educacional (Snyder, 2019)."
-entrega-escolar,22,673,0.0293,0.0293,20
-entrega-escolar,23,674,0.2468,0.2363,4 Referências
-entrega-escolar,23,680,0.0791,0.0791,fontes.
-entrega-escolar,23,684,0.0791,0.0791,fontes.
-entrega-escolar,23,688,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-entrega-escolar,23,693,0.0791,0.0791,fontes.
-entrega-escolar,23,701,0.4834,0.4395,de acesso registrado na matriz de fontes.
-entrega-escolar,23,705,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-entrega-escolar,23,708,0.0293,0.0293,21
-entrega-escolar,24,722,0.4468,0.4102,acesso registrado na matriz de fontes.
-entrega-escolar,24,727,0.1948,0.1802,matriz de fontes.
-entrega-escolar,24,734,0.0791,0.0791,fontes.
-entrega-escolar,24,739,0.1948,0.1802,matriz de fontes.
-entrega-escolar,24,744,0.0293,0.0293,22
-entrega-escolar,25,752,0.356,0.3267,registrado na matriz de fontes.
-entrega-escolar,25,763,0.1157,0.1084,de fontes.
-entrega-escolar,25,768,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,25,780,0.0293,0.0293,23
-entrega-escolar,26,782,0.4468,0.4102,acesso registrado na matriz de fontes.
-entrega-escolar,26,794,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,26,800,0.356,0.3267,registrado na matriz de fontes.
-entrega-escolar,26,806,0.356,0.3267,registrado na matriz de fontes.
-entrega-escolar,26,813,0.1948,0.1802,matriz de fontes.
-entrega-escolar,26,816,0.0293,0.0293,24
-entrega-escolar,27,823,0.0791,0.0791,fontes.
-entrega-escolar,27,827,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,27,837,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,27,847,0.4468,0.4102,acesso registrado na matriz de fontes.
-entrega-escolar,27,852,0.0293,0.0293,25
-entrega-escolar,28,854,0.0791,0.0791,fontes.
-entrega-escolar,28,869,0.1157,0.1084,de fontes.
-entrega-escolar,28,878,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-entrega-escolar,28,887,0.0293,0.0293,26
-entrega-escolar,29,896,0.1948,0.1802,matriz de fontes.
-entrega-escolar,29,905,0.1948,0.1802,matriz de fontes.
-entrega-escolar,29,919,0.1948,0.1802,matriz de fontes.
-entrega-escolar,29,923,0.0293,0.0293,27
-entrega-escolar,30,925,0.1948,0.1802,matriz de fontes.
-entrega-escolar,30,945,0.356,0.3267,registrado na matriz de fontes.
-entrega-escolar,30,949,0.1157,0.1084,de fontes.
-entrega-escolar,30,954,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,30,958,0.356,0.3267,registrado na matriz de fontes.
-entrega-escolar,30,959,0.0293,0.0293,28
-entrega-escolar,31,975,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-entrega-escolar,31,979,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,31,988,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,31,993,0.0791,0.0791,fontes.
-entrega-escolar,31,994,0.0293,0.0293,29
-entrega-escolar,32,999,0.2315,0.2095,na matriz de fontes.
-entrega-escolar,32,1003,0.4834,0.4395,de acesso registrado na matriz de fontes.
-entrega-escolar,32,1012,0.0791,0.0791,fontes.
-entrega-escolar,32,1021,0.5508,0.4996,Nível de acesso registrado na matriz de fontes.
-entrega-escolar,32,1032,0.0293,0.0293,30
-entrega-escolar,33,1036,0.1157,0.1084,de fontes.
-entrega-escolar,33,1040,0.4468,0.4102,acesso registrado na matriz de fontes.
-entrega-escolar,33,1051,0.356,0.3267,registrado na matriz de fontes.
-entrega-escolar,33,1055,0.1948,0.1802,matriz de fontes.
-entrega-escolar,33,1059,0.1948,0.1802,matriz de fontes.
-entrega-escolar,33,1064,0.3633,0.3414,contagem de fontes científicas.
-entrega-escolar,33,1068,0.0293,0.0293,31
-entrega-escolar,34,1071,0.2036,0.1963,fontes científicas.
-entrega-escolar,34,1078,0.0293,0.0293,32
-entrega-escolar,35,1079,0.1919,0.1919,Apêndices
-entrega-escolar,35,1086,0.1371,0.1371,Anexos
-entrega-escolar,35,1092,0.0293,0.0293,33
+entrega-escolar,2,16,0.5999,0.4805,"2026). IA auxiliou código e texto, com revisão"
+entrega-escolar,2,21,0.2559,0.2486,"(EstudaOffline, 2026)."
+entrega-escolar,2,22,0.3281,0.3062,Teresina — Chapadinha Sul
+entrega-escolar,2,23,0.1978,0.1832,Outubro de 2026
+entrega-escolar,3,24,0.1519,0.1519,Sumário
+entrega-escolar,3,25,1.0,0.1655,1 Introdução 2
+entrega-escolar,3,26,1.0,0.2593,2 Referencial teórico 3
+entrega-escolar,3,27,1.0,0.1377,3 Métodos 5
+entrega-escolar,3,28,1.0,0.1714,4 Resultados 6
+entrega-escolar,3,29,1.0,0.1612,5 Discussão 7
+entrega-escolar,3,30,1.0,0.2871,6 Considerações finais 8
+entrega-escolar,3,31,1.0,0.1641,Referências 9
+entrega-escolar,3,32,0.0147,0.0147,1
+entrega-escolar,4,33,0.2552,0.2172,1 Introdução
+entrega-escolar,4,40,0.2125,0.2051,"(Panadero, 2017)."
+entrega-escolar,4,49,0.0147,0.0147,2
+entrega-escolar,5,50,0.4008,0.3523,2 Referencial teórico
+entrega-escolar,5,66,0.462,0.4254,"apoio oferecido (Palalas e Wark, 2020)."
+entrega-escolar,5,75,0.0147,0.0147,3
+entrega-escolar,6,92,0.3473,0.3179,"funcional (Júnior et al., 2022)."
+entrega-escolar,6,101,0.2472,0.2398,"EstudaOffline, 2026)."
+entrega-escolar,6,102,0.0147,0.0147,4
+entrega-escolar,7,103,0.2151,0.1771,3 Métodos
+entrega-escolar,7,111,0.2559,0.2486,"(EstudaOffline, 2026)."
+entrega-escolar,7,120,0.2472,0.2398,"EstudaOffline, 2026)."
+entrega-escolar,7,121,0.0147,0.0147,5
+entrega-escolar,8,122,0.2637,0.2257,4 Resultados
+entrega-escolar,8,138,0.0147,0.0147,6
+entrega-escolar,9,139,0.2489,0.211,5 Discussão
+entrega-escolar,9,148,0.3629,0.3409,"al., 2020; EstudaOffline, 2026)."
+entrega-escolar,9,159,0.3204,0.3058,"2020; EstudaOffline, 2026)."
+entrega-escolar,9,160,0.0147,0.0147,7
+entrega-escolar,10,161,0.4408,0.3924,6 Considerações finais
+entrega-escolar,10,171,0.0147,0.0147,8
+entrega-escolar,11,172,0.2152,0.2152,Referências
+entrega-escolar,11,177,0.2006,0.1973,39-020-00129-5 .
+entrega-escolar,11,186,0.2006,0.1974,58-024-09772-z .
+entrega-escolar,11,190,0.4281,0.4281,https://doi.org/10.1145/3507903 .
+entrega-escolar,11,193,0.3331,0.3331,10.3389/fpsyg.2017.00422 .
+entrega-escolar,11,196,0.3195,0.3195,6/j.jbusres.2019.07.039 .
+entrega-escolar,11,198,0.3196,0.3196,//www.w3.org/TR/WCAG22/ .
+entrega-escolar,11,201,0.0147,0.0147,9
 poster,1,1,0.2225,0.2225,EstudaOffline
 poster,1,2,0.4062,0.3769,Planejamento de estudos com dados locais
 poster,1,3,0.4763,0.4498,Estudantes — identificação omitida nesta demonstração

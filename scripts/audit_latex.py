@@ -23,11 +23,12 @@ def audit_sources():
     current_year = date.today().year
     assert all(current_year - 10 <= s['year'] <= current_year for s in selected), 'Source outside the required year window'
     result = {}
-    for name in ['artigo', 'entrega-escolar', 'poster']:
+    for name in ['artigo', 'entrega-escolar', 'poster', 'fichamentos']:
         text = expand(ROOT/'paper'/f'{name}.tex')
         cites = {k.strip() for m in re.finditer(r'\\cite(?:p|t)?\{([^}]+)\}', text) for k in m[1].split(',')}
         bibs = set(re.findall(r'\\bibitem(?:\[[^\]]*\])?\{([^}]+)\}',text))
-        assert not (keys-cites), (name, 'missing science citations', sorted(keys-cites))
+        required=keys if name in ['poster', 'fichamentos'] else {'SU10','SU11','education_palalas2020','education_prasse2024','education_araka2020','eng06'}
+        assert not (required-cites), (name, 'missing science citations', sorted(required-cites))
         assert not (cites-bibs), (name, 'undefined source keys', sorted(cites-bibs))
         result[name] = {'scientific_publications_cited':len(keys & cites),
             'bibliography_entries':len(bibs), 'undefined_keys':sorted(cites-bibs),
