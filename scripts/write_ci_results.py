@@ -1,9 +1,17 @@
 from pathlib import Path
 import os
-# Invoked only after analyze, test and release web compilation succeed.
-commit=os.environ.get('GITHUB_SHA','unknown')
-run=os.environ.get('GITHUB_RUN_ID','unknown')
-Path('paper/results.tex').write_text('A execução técnica no GitHub Actions concluiu análise estática, suíte de testes Flutter, quatro testes de versionamento e compilação web sem falha. Commit: '+commit[:7]+'. Execução: '+run+'. Os relatórios estão nos artefatos da execução em study/raw. Esses resultados não demonstram eficácia pedagógica. A reabertura sem rede, a instalação PWA e a falha de quota permanecem pendentes de teste específico no navegador. \\citep{projeto}.\n')
+commit=os.environ.get('GITHUB_SHA','unknown');run=os.environ.get('GITHUB_RUN_ID','unknown')
+parts=['A execução automatizada documentada verificou componentes técnicos do MVP',
+       'O GitHub Actions concluiu análise estática, testes Flutter, quatro testes de versionamento e compilação web; commit '+commit[:7]+', execução '+run,
+       'Esses resultados se restringem à execução registrada, e o teste de widget com armazenamento simulado não comprova recarga real do navegador sem conexão',
+       'Por isso, os resultados automatizados precisam ser lidos junto às observações disponíveis no navegador']
+Path('paper/results.tex').write_text(' '.join(s+'.' for s in parts)+'\n')
 
-with Path('paper/results.tex').open('a') as output:
-    output.write(Path('paper/browser-results.tex').read_text())
+import json
+ledger=Path('study/literature/argumento-abcd.json')
+x=json.loads(ledger.read_text())
+for section in x['sections']:
+    for p in section['paragraphs']:
+        if p['id']=='R1':
+            for key,value in zip(['A','B','C','D'],parts):p[key]=value
+ledger.write_text(json.dumps(x,ensure_ascii=False,indent=2)+'\n')

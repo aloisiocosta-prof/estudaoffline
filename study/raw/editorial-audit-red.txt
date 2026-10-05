@@ -1,0 +1,35 @@
+Historical auditor from main74e32bd; expected regression failures before correction.
+test_blank_page_is_not_approved (test_editorial_audit.EditorialAuditTests.test_blank_page_is_not_approved) ... FAIL
+test_document_without_pages_is_rejected (test_editorial_audit.EditorialAuditTests.test_document_without_pages_is_rejected) ... FAIL
+test_spaces_do_not_count_as_characters (test_editorial_audit.EditorialAuditTests.test_spaces_do_not_count_as_characters) ... FAIL
+
+======================================================================
+FAIL: test_blank_page_is_not_approved (test_editorial_audit.EditorialAuditTests.test_blank_page_is_not_approved)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/scratch/91c6ab881ce7/estudaoffline/scripts/test_editorial_audit.py", line 28, in test_blank_page_is_not_approved
+    with self.assertRaisesRegex(ValueError, 'no extractable text'):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ValueError not raised
+
+======================================================================
+FAIL: test_document_without_pages_is_rejected (test_editorial_audit.EditorialAuditTests.test_document_without_pages_is_rejected)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/scratch/91c6ab881ce7/estudaoffline/scripts/test_editorial_audit.py", line 15, in test_document_without_pages_is_rejected
+    with self.assertRaisesRegex(ValueError, 'no pages'):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ValueError not raised
+
+======================================================================
+FAIL: test_spaces_do_not_count_as_characters (test_editorial_audit.EditorialAuditTests.test_spaces_do_not_count_as_characters)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/workspace/scratch/91c6ab881ce7/estudaoffline/scripts/test_editorial_audit.py", line 44, in test_spaces_do_not_count_as_characters
+    self.assertFalse(report['artigo']['literal_every_line_requirement_met'])
+AssertionError: True is not false
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.016s
+
+FAILED (failures=3)

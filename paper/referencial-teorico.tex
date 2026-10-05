@@ -1,0 +1,103 @@
+\clearpage
+\section{Referencial teórico}\label{sec:referencial-inicio}
+\subsection{Organização conceitual e alcance da fundamentação}
+O referencial do EstudaOffline articula seis eixos: organização do estudo, mediação docente, acesso, interação, proteção dos registros e engenharia verificável; essa organização é uma síntese proposta para o projeto, apoiada em revisões educacionais e de engenharia, e não uma teoria nova já validada \citep{education_palalas2020,eng04}.
+A pergunta orientadora permanece técnica: em condições documentadas, o aplicativo permite organizar tarefas e preservar registros sintéticos quando a conexão é interrompida; a literatura oferece justificativas e limites para essa pergunta, mas não substitui a execução dos cenários previstos \citep{eng06}.
+
+Revisões sistemáticas, mapeamentos e revisões guarda-chuva constituem fontes prioritárias porque permitem examinar conjuntos de pesquisas, em vez de tratar um resultado isolado como universal; entretanto, seus desenhos, populações e formas de síntese precisam ser considerados antes da transferência de conclusões \citep{education_prasse2024,eng04}.
+Neste texto, convergência entre publicações significa coerência conceitual para uma decisão de projeto, e não uma nova estimativa estatística de efeito, pois as revisões podem compartilhar estudos primários e investigar intervenções diferentes \citep{education_prasse2024,education_palalas2020}.
+
+
+A seleção desta fundamentação é narrativa e intencional: procura conceitos adequados ao problema técnico, sem estimar efeito educacional nem demonstrar cobertura exaustiva do campo \citep{SU11}.
+A conferência dirigida passou a registrar, para os enunciados centrais, a localização consultada, o desenho da fonte, a sustentação disponível e os limites de transferência, mantendo distintos texto consultado, interpretação e proposta do projeto \citep{SU11}.
+
+\subsection{Aprendizagem autorregulada e planejamento de tarefas}
+Adota-se como referência organizadora a descrição do modelo cíclico de Zimmerman apresentada na revisão de Panadero, que distingue antecipação, execução e autorreflexão e inclui processos cognitivos, motivacionais e afetivos \citep{SU10}.
+Essa escolha explicita a lente teórica, sem pressupor implementação de todos os processos: os registros atuais de tarefa, prazo e duração planejada são recursos organizacionais, enquanto a marcação de conclusão é apenas um estado declarado \citep{SU10}.
+A revisão de Wolters e Brady situa gestão do tempo no quadro autorregulatório, mas não transforma esses campos em medidas validadas de motivação ou aprendizagem \citep{education_wolters2021}.
+
+Palalas e Wark descrevem uma relação dinâmica entre aprendizagem móvel e autorregulação e recomendam integração curricular intencional, mas também relatam resultados neutros ou desfavoráveis quando se examina o uso de dispositivos \citep{education_palalas2020}.
+As limitações da revisão incluem seleção em inglês, contextos formais e lacunas de relato em estudos incluídos; esses pontos impedem converter a recomendação geral em efeito esperado para este MVP \citep{education_palalas2020}.
+A integração das tarefas à orientação do professor é uma proposta de uso a avaliar, e não um resultado produzido pelos cenários sintéticos atuais .
+
+A revisão guarda-chuva de Prasse e colaboradores analisou 27 revisões sistemáticas e quatro meta-análises, identificando a importância de apoiar o ciclo autorregulatório de maneira integrada, com atenção às características dos suportes oferecidos \citep{education_prasse2024}.
+No projeto, essa conclusão motiva examinar recursos organizacionais que poderiam apoiar parte do ciclo, sem afirmar que o usuário efetivamente planejou, monitorou ou refletiu ao utilizar a interface \citep{education_prasse2024}.
+A revisão guarda-chuva inclui a revisão de Araka em seu conjunto analisado; por isso, citá-las juntas não representa duas bases empíricas independentes nem permite somar suas amostras \citep{education_prasse2024}.
+
+Como operacionalização proposta, o cadastro de uma tarefa representa um registro de intenção, a mudança de estado representa uma declaração de andamento e a consulta posterior permite recuperar esse registro; esses eventos são observáveis no software, mas não medem diretamente compreensão, esforço cognitivo ou domínio de conteúdo \citep{education_araka2020}.
+O critério verificável desta etapa é a correspondência entre os valores informados e recuperados, com identificação da versão e do cenário, enquanto eventuais indicadores educacionais dependerão de instrumentos e dados adicionais \citep{education_araka2020,eng11}.
+
+Araka e colaboradores focalizam a medição e promoção da autorregulação em ambientes digitais de ensino superior; a transferência de instrumentos para estudantes do curso técnico não está demonstrada pelo simples uso da revisão \citep{education_araka2020}.
+Nessa literatura, medidas ``offline'' são obtidas antes ou depois de um episódio de aprendizagem, ao contrário das medidas tomadas durante o processo; esse uso temporal do termo não demonstra funcionamento de software sem internet \citep{education_araka2020}.
+No EstudaOffline, disponibilidade sem rede e preservação de registros são requisitos técnicos separados de qualquer inferência sobre autorregulação \citep{sw}.
+
+
+
+\subsection{Desigualdade digital e continuidade em baixa conectividade}
+A revisão de Martin, Ceviker e Gezer examina 77 estudos sobre desigualdade digital educacional e adota uma perspectiva multidimensional, envolvendo fatores, dimensões e intervenções, em vez de limitar o problema à presença de conexão \citep{martin2024}.
+Para o EstudaOffline, essa perspectiva sustenta tratar continuidade sem rede como uma redução potencial de uma barreira técnica específica, reconhecendo que disponibilidade de dispositivos, competências e condições de uso continuam relevantes \citep{martin2024}.
+
+A opção por manter registros no dispositivo é, portanto, uma decisão de escopo para experimentar continuidade de tarefas sob interrupção da rede; não constitui diagnóstico empírico da conectividade dos estudantes de Chapadinha Sul nem comprova inclusão digital na comunidade \citep{martin2024}.
+O contexto escolar delimita o destino pretendido, mas a adequação local deverá ser investigada posteriormente, sem transferir automaticamente resultados de populações ou instituições analisadas pelas revisões \citep{martin2024,education_palalas2020}.
+
+A continuidade operacional precisa distinguir disponibilidade da interface de disponibilidade dos registros, porque o armazenamento das tarefas e o cache dos recursos executáveis são mecanismos diferentes nas aplicações web \citep{local,sw}.
+Por isso, o teste proposto combina preparação online, confirmação do controle pelo service worker, interrupção da rede e recarga; uma primeira visita sem recursos previamente armazenados constitui cenário distinto e deve ter seu limite explicitado \citep{sw}.
+
+A escolha de Flutter corresponde à implementação do artefato, enquanto a justificativa científica se refere às funções e condições que serão examinadas; a documentação do framework não demonstra superioridade pedagógica nem garante, sozinha, operação offline \citep{flutter,education_palalas2020}.
+O alvo inicialmente verificado é Flutter web, e extensões para Android ou compilação WebAssembly deverão registrar configuração, compatibilidade e resultados próprios, sem extrapolar os resultados de uma plataforma para outra \citep{eng04}.
+
+\subsection{Acessibilidade, usabilidade e limites da avaliação técnica}
+A revisão de Bong e Chen investiga a competência docente para produzir materiais e ambientes digitais acessíveis e inclusivos, trazendo a formação dos responsáveis pelo ensino para a discussão de acessibilidade \citep{bong2021}.
+Essa perspectiva justifica incluir orientação de uso e clareza dos procedimentos no planejamento do trabalho, sem atribuir exclusivamente à interface a responsabilidade por remover todas as barreiras à participação \citep{bong2021}.
+
+A revisão de Kumar e Mohite trata especificamente da usabilidade de aplicações de aprendizagem móvel, sustentando a necessidade de avaliação explícita das condições de interação \citep{kumar2017}.
+No EstudaOffline, a proposta é examinar separadamente a execução correta das operações e a possibilidade de encontrar e compreender seus controles, pois uma função correta pode continuar difícil de utilizar \citep{kumar2017}.
+
+O mapeamento de Kumar, Chand e Goundar reúne trabalhos sobre testes de usabilidade de aprendizagem móvel e identifica práticas como observação, questionários e avaliação com usuários, cujo emprego depende do contexto e do desenho da investigação \citep{kumarmapping2024}.
+Como o estudo atual não possui participantes, não poderá oferecer estimativas de satisfação, taxa de sucesso dos estudantes ou representatividade de necessidades; inspeções técnicas preliminares serão relatadas como tais \citep{kumarmapping2024}.
+
+A revisão de Gobbo e Bezerra discute acessibilidade digital na educação e amplia a atenção para barreiras que não se esgotam em aspectos técnicos; assim, corrigir um componente não autoriza concluir que a experiência educacional se tornou inclusiva \citep{gobbo2023}.
+Os procedimentos de inspeção propostos passam a remeter a critérios identificáveis da WCAG 2.2: teclado (2.1.1), foco visível (2.4.7), identificação de erros (3.3.1), rótulos ou instruções (3.3.2), contraste (1.4.3) e nome, função e valor (4.1.2) \citep{wcag}.
+Essa seleção parcial organiza verificações futuras e não comprova conformidade integral com a norma nem atendimento a todas as necessidades dos usuários \citep{wcag}.
+
+Esses critérios organizam uma etapa de avaliação e não representam certificação obtida: a evidência deverá registrar controle examinado, procedimento, condição e resultado, inclusive falhas ou verificações ainda não realizadas \citep{eng06}.
+A relação entre disponibilidade offline e acessibilidade é complementar, pois conservar a aplicação disponível não assegura que uma pessoa consiga operá-la; por isso, ambas as dimensões exigem evidências próprias \citep{martin2024,kumar2017}.
+
+\subsection{Segurança, privacidade e preservação dos registros}
+A revisão de Mkpojiogu, Hussain e Agbudu selecionou 21 estudos sobre segurança em aplicativos educacionais móveis e destacou limitações da literatura e dos enquadramentos utilizados, justificando examinar riscos sem pressupor que o contexto educacional torne uma aplicação segura \citep{OS18}.
+A implementação atual não oferece contas nem telemetria própria, e os cenários de pesquisa usam dados sintéticos; porém, campos de texto livre podem receber informações pessoais se uma pessoa as inserir, o que impede prometer ausência universal desse conteúdo .
+Registros locais na mesma origem e perfil do navegador não são isolados por identidade, e o uso de dispositivo compartilhado permanece uma ameaça específica a examinar \citep{local}.
+
+A retenção no navegador depende das políticas de armazenamento e pode ser afetada por limpeza, cotas e condições de execução; portanto, persistência local deve ser entendida como comportamento condicionado e não como garantia de conservação permanente \citep{local,quota}.
+O backup é proposto como caminho de recuperação, exigindo verificação de formato, versão, identificadores e conteúdo antes da substituição dos registros existentes, conforme os critérios definidos no protocolo \citep{eng06}.
+
+Estudos sobre ataques com service workers e caches demonstram que mecanismos utilizados para disponibilidade também podem participar de ameaças de segurança, o que impede equiparar funcionamento offline a proteção dos dados \citep{OS01,OS02}.
+As implicações propostas são delimitar recursos e escopo do cache, registrar atualização de versão e testar cenários de falha, sem afirmar vulnerabilidade encontrada nem proteção comprovada no EstudaOffline apenas pela leitura desses estudos \citep{OS01,OS02}.
+
+O critério operacional de integridade consiste em recuperar os mesmos registros válidos e preservar o estado anterior quando uma importação inválida for rejeitada; trata-se de um requisito local verificável, e não de uma definição completa de segurança \citep{eng06}.
+Essa delimitação evita interpretar aprovação em um teste de backup como evidência de resistência a todos os ataques, mantendo futuras análises de ameaças e testes de segurança como tarefas específicas \citep{OS18,eng06}.
+
+\subsection{Qualidade do software, rastreabilidade e reprodutibilidade}
+O estudo terciário de Zein, Salleh e Grundy organiza 24 estudos secundários de engenharia de aplicações móveis e evidencia a presença de diferentes fases e problemas de desenvolvimento, sustentando uma visão de qualidade que ultrapassa a construção da interface \citep{eng04}.
+No projeto, isso justifica relacionar requisito, decisão de implementação, cenário e evidência, em vez de apresentar o aplicativo executável como conclusão suficiente da investigação \citep{eng04}.
+
+O mapeamento de Júnior e colaboradores caracteriza técnicas de teste de requisitos não funcionais em 56 estudos e distingue atributos como confiabilidade, segurança e usabilidade, cujas avaliações demandam estratégias específicas \citep{eng06}.
+Consequentemente, os testes de criação e conclusão de tarefas examinam operações funcionais, enquanto recarga sem rede, tratamento de falhas e interação assistiva exigem cenários próprios; uma dimensão aprovada não aprova automaticamente as demais \citep{eng06}.
+
+A revisão de Soares e colaboradores sintetiza 101 estudos empíricos sobre integração contínua e identifica tanto efeitos positivos quanto desafios técnicos e de processo, impedindo tratar automação como ausência de defeitos \citep{eng15}.
+No EstudaOffline, a integração contínua tem a função proposta de executar verificações, compilar artefatos e preservar registros associados à versão, enquanto a suficiência dos testes depende dos requisitos efetivamente examinados \citep{eng15}.
+
+O estudo secundário de Anchundia e Fonseca identifica recursos de reprodução experimental cuja adequação depende do domínio; disponibilizar código é relevante, mas não substitui condições de execução e registros necessários à conferência \citep{eng11}.
+Assim, cada cenário deve registrar versão, ambiente, dados, procedimento, resultado esperado e observado, permitindo conferir a observação sem presumir repetição idêntica em todos os navegadores \citep{eng11}.
+O teste de interface atual utiliza armazenamento simulado em memória; sua reconstrução de widget não é uma recarga real do navegador, e os minutos registrados são duração planejada, não tempo efetivamente estudado .
+Testes de conversão de backup sustentam regras do modelo, mas não demonstram sozinhos download real, atomicidade da restauração pela interface ou funcionamento offline \citep{eng06}.
+
+\subsection{Modelo orientador e critérios de interpretação}
+O encadeamento conceitual proposto é: necessidades de organização justificam funções de planejamento; condições de acesso justificam continuidade local; requisitos de interação e proteção delimitam sua operação; testes e registros delimitam quais conclusões podem ser sustentadas \citep{education_wolters2021,martin2024,eng06,OS18}.
+Esse encadeamento organiza o estudo e não estabelece uma cadeia causal comprovada entre uso do aplicativo e desempenho acadêmico, mantendo distinta a hipótese educacional da observação técnica \citep{education_araka2020}.
+
+Como regra analítica proposta, cada resultado responderá a um requisito dentro do ambiente executado: registro recuperado sustenta persistência naquele cenário, interface aberta sem rede sustenta disponibilidade nas condições testadas e dado inválido rejeitado sustenta aquela regra de validação \citep{eng06,eng11}.
+Nenhum desses resultados, isoladamente, sustenta autonomia, aprendizagem, acessibilidade universal ou inclusão digital, pois tais construtos exigem outras medidas, públicos e desenhos de investigação \citep{education_araka2020,bong2021,martin2024}.
+
+\label{sec:referencial-fim}
+\clearpage

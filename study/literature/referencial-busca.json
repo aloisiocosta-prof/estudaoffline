@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-05",
+  "type": "síntese narrativa focal orientada a decisões; não revisão sistemática",
+  "window": "2016–2026; contagem não deve ser confundida com estudos independentes",
+  "interfaces": [
+    "web system2",
+    "web system1",
+    "editoras e repositórios institucionais",
+    "corpus anterior Consensus/SciSpace"
+  ],
+  "queries": [
+    "systematic review self regulated learning online learning environments Viberg 2020 Araka 2020",
+    "systematic literature review progressive web applications offline 2023 accessibility education Bong Chen 2021",
+    "\"Challenges in Promoting Self-Regulated Learning\" \"Umbrella\" 2024",
+    "\"The relationship between mobile learning and self-regulated learning\" systematic review 2020",
+    "\"College Students’ Time Management\" \"2021\" review",
+    "\"Usability of mobile learning applications\" \"systematic\" Kumar 2017",
+    "\"effects of continuous integration\" \"systematic literature review\" 2021",
+    "\"Dynamic Testing Techniques of Non-functional Requirements\" 2022",
+    "\"Security Issues in the Use of Mobile Educational Apps\" review 2021",
+    "\"From digital divide to digital equity\" \"systematic review\" Martin 2024",
+    "\"Resources for Reproducibility of Experiments\" \"2020\" secondary study",
+    "\"Systematic reviews in mobile app software engineering\" \"2023\""
+  ],
+  "eligibility": "revisões especializadas relevantes aos construtos e critérios do MVP; documentos técnicos para mecanismos web; estudos de ameaça como complemento; seleção intencional, não exaustiva",
+  "access": "Níveis por fonte e localizações específicas em core-source-appraisal.json. Algumas seções de textos abertos foram consultadas; outras fontes permanecem em resumo/metadados. Não se declara leitura integral das80fontes ou avaliação formal uniforme de risco de viés.",
+  "limitations": [
+    "Estudos primários podem se repetir entre revisões; nenhuma soma das amostras ou estimativa nova de efeito.",
+    "Sem inferência de aprendizagem com tarefas sintéticas.",
+    "Scite permaneceu indisponível no histórico; não se alega nova verificação de retratação.",
+    "Detalhes de implementação dependem da documentação técnica, não de revisão educacional."
+  ],
+  "primary_urls": [
+    "https://link.springer.com/article/10.1007/s10758-024-09772-z",
+    "https://link.springer.com/article/10.1186/s41039-020-00129-5",
+    "https://link.springer.com/article/10.1007/s10648-020-09519-z",
+    "https://ajet.org.au/index.php/AJET/article/view/5650",
+    "https://www.tandfonline.com/doi/abs/10.1080/15391523.2024.2425442",
+    "https://online-journals.org/index.php/i-jim/article/view/20631",
+    "https://doi.org/10.1145/3507903",
+    "https://link.springer.com/article/10.1007/s10664-021-10114-1",
+    "https://research.monash.edu/en/publications/systematic-reviews-in-mobile-app-software-engineering-a-tertiary-/",
+    "https://ieeexplore.ieee.org/document/8951162/",
+    "https://fis.epn.edu.ec/la-facultad/planta-docentes/219-anchundia-valencia-carlos-eduardo/",
+    "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/full",
+    "https://fenix.iseg.ulisboa.pt/downloadFile/281608120804966/Guidelines%20Snyder%202019.pdf",
+    "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+    "https://doi.org/10.1108/IJILT-03-2023-0029",
+    "https://link.springer.com/article/10.1057/ejis.2014.36"
+  ],
+  "metadata_corrections": [
+    "DOI de Martin et al. confirmado na editora.",
+    "Autoria de Anchundia e Fonseca C. conferida na instituição EPN; rótulo de citação com sobrenome composto explícito."
+  ],
+  "revision": "Correção dirigida de seleção, evidência contrária, definições e escopo; mantém histórico de consultas anterior.",
+  "queries_correction": [
+    {
+      "interface": "Consensus",
+      "query": "\"A Review of Self-regulated Learning: Six Models and Four Directions for Research\" year:2017",
+      "returned_records": 10,
+      "fetched_record": "af5c2137dbef5b94adce095db796b98f",
+      "used_records": 1
+    },
+    {
+      "interface": "SciSpace",
+      "query": "What methodological limitations and risks of bias are reported in systematic reviews of self-regulated learning tools and mobile learning, especially when transferring findings to a technical offline study planner evaluated only with synthetic data?",
+      "returned_records": 10,
+      "used_records": 0,
+      "reason": "Apêndices e temas de IA não usados como sustentação do MVP; não foram certificados ou incluídos sem verificação."
+    },
+    {
+      "interface": "scite",
+      "doi": "10.1007/s10758-024-09772-z",
+      "action": "read_fulltext offset0 length8000",
+      "result": "bloqueado por exigência de plano pago/teste ativo; nenhum texto recuperado"
+    },
+    {
+      "interface": "web",
+      "query": "Panadero 2017 review self regulated learning six models 422 full text"
+    },
+    {
+      "interface": "web",
+      "query": "ROBIS risk of bias systematic reviews 2016 domains applicability tool",
+      "used_as_validated_local_instrument": false
+    },
+    {
+      "interface": "web",
+      "query": "SANRA 2019 scale assessment narrative review articles limitations",
+      "used_as_validated_local_instrument": false
+    },
+    {
+      "interface": "web",
+      "query": "\"Usability testing of mobile learning applications\" \"51\" \"Scopus\""
+    },
+    {
+      "interface": "web",
+      "query": "\"Increasing faculty\" \"competence\" digital accessibility systematic literature review 2021 15 studies"
+    }
+  ],
+  "eligibility_correction": "Excluir Miller2007; excluir FEDS cujo primeiro registro online é2014, embora fascículo2016; incluir Panadero2017 e Snyder2019 pela pertinência à teoria e ao método. Normas e documentação técnica não contam no mínimo científico."
+}

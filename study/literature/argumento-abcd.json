@@ -1,0 +1,923 @@
+{
+  "editorial_method": "ABCD com achados atribuídos por fonte, análise delimitada e ligação entre parágrafos; regra editorial do orientador, não instrumento validado",
+  "supersedes": "Bibliografia compacta de seis fontes e limite1p de Referências revogados; demais seções continuam máximo2p e Considerações finais máximo1p",
+  "bibliography_policy": "mínimo80 publicações científicas citadas, DOI+URL em cada entrada; referências sem limite de páginas; proibição de citar o próprio estudo como base externa",
+  "sections": [
+    {
+      "title": "Introdução",
+      "paragraphs": [
+        {
+          "id": "I1",
+          "A": "O planejamento das atividades é o recorte educacional que orienta o EstudaOffline",
+          "B": "Panadero descreve a autorregulação como um processo que articula antecipação, execução e autorreflexão",
+          "C": "Nesse quadro, organizar tarefas corresponde a uma parte do processo, sem representar todas as dimensões da aprendizagem",
+          "D": "Essa delimitação permite investigar um organizador de tarefas sem lhe atribuir benefícios educacionais ainda não avaliados",
+          "keys": [
+            "SU10"
+          ],
+          "next": "I2"
+        },
+        {
+          "id": "I2",
+          "A": "A investigação concentra-se na conservação de tarefas sintéticas em um aplicativo Flutter web",
+          "B": "O protocolo do projeto situa o MVP no curso técnico de Análise e Desenvolvimento de Sistemas do CETI Lucas Meireles Alves, em Teresina, e define testes sem participantes",
+          "C": "A pergunta é se tarefas e interface continuam disponíveis após preparação online e interrupção da conexão, com persistência e backup verificáveis",
+          "D": "Para responder a essa pergunta técnica, o referencial seguinte distingue apoio ao planejamento, aprendizagem e qualidade do software",
+          "keys": [],
+          "next": "T1"
+        }
+      ]
+    },
+    {
+      "title": "Referencial teórico",
+      "paragraphs": [
+        {
+          "id": "T1",
+          "A": "O apoio ao planejamento precisa ser compreendido dentro de um ciclo de autorregulação",
+          "B": "Na descrição do modelo cíclico de Zimmerman apresentada por Panadero, a antecipação envolve o planejamento, enquanto a execução e a autorreflexão incluem processos adicionais",
+          "C": "Uma lista de tarefas pode apoiar a organização inicial, mas seus registros não cobrem, por si, monitoramento cognitivo, motivação ou avaliação da compreensão",
+          "D": "Por isso, a pertinência conceitual do organizador deve ser examinada junto às condições em que o apoio digital é utilizado",
+          "keys": [
+            "SU10"
+          ],
+          "next": "T2"
+        },
+        {
+          "id": "T2",
+          "A": "A pertinência conceitual não assegura que qualquer recurso digital produza benefício educacional",
+          "B": "Palalas e Wark sintetizam uma relação complexa entre aprendizagem móvel e autorregulação, com achados heterogêneos e resultados também neutros ou desfavoráveis",
+          "C": "A revisão oferece uma oportunidade de investigar a integração intencional do recurso ao estudo, mas não autoriza transferir efeitos de outras intervenções para este MVP",
+          "D": "Essa cautela desloca a análise da simples presença de tecnologia para a amplitude do apoio oferecido",
+          "keys": [
+            "education_palalas2020"
+          ],
+          "next": "T3"
+        },
+        {
+          "id": "T3",
+          "A": "A amplitude do apoio exige reconhecer que organizar tarefas é apenas um componente da aprendizagem autorregulada",
+          "B": "Prasse e colaboradores sintetizam 31 revisões e meta-análises e ressaltam a integração de suportes ao longo do ciclo de aprendizagem",
+          "C": "Como o EstudaOffline foi delimitado à organização de tarefas, ampliar o acompanhamento é uma oportunidade futura, e não uma funcionalidade ou um efeito já demonstrado",
+          "D": "Essa diferença entre escopo atual e oportunidade futura exige definir precisamente o significado dos registros produzidos",
+          "keys": [
+            "education_prasse2024"
+          ],
+          "next": "T4"
+        },
+        {
+          "id": "T4",
+          "A": "Os registros produzidos pelo organizador precisam ser interpretados como dados de tarefa, e não como medidas automáticas de aprendizagem",
+          "B": "Araka e colaboradores discutem limites dos instrumentos e dos registros empregados para mensurar autorregulação em ambientes digitais",
+          "C": "À luz desse problema de mensuração, os minutos do MVP são duração planejada e a conclusão é um estado informado, conforme a definição dos campos no protocolo do projeto",
+          "D": "Uma vez delimitado o que os registros significam, a investigação pode avaliar a qualidade técnica de sua conservação",
+          "keys": [
+            "education_araka2020"
+          ],
+          "next": "T5"
+        },
+        {
+          "id": "T5",
+          "A": "A conservação de registros demanda critérios técnicos diferentes dos critérios de aprendizagem",
+          "B": "O mapeamento de Júnior e colaboradores caracteriza técnicas de teste de requisitos não funcionais em aplicativos móveis",
+          "C": "Esse panorama justifica separar cenários de persistência, recuperação e falha, preservando o limite de transferir conclusões de estudos predominantemente móveis para uma implementação web",
+          "D": "Essa separação permite tratar acessibilidade como outra dimensão específica, em vez de deduzi-la do sucesso funcional",
+          "keys": [
+            "eng06"
+          ],
+          "next": "T6"
+        },
+        {
+          "id": "T6",
+          "A": "A acessibilidade precisa de inspeção específica mesmo quando o cadastro e a recuperação de tarefas funcionam",
+          "B": "A recomendação WCAG 2.2 especifica critérios de teclado, foco, mensagens de erro, rótulos, contraste e semântica dos componentes",
+          "C": "No projeto, esses critérios originam procedimentos de inspeção ainda pendentes, enquanto o protocolo delimita o estudo atual aos cenários técnicos registrados",
+          "D": "A separação dessas dimensões orienta a síntese ampliada das fontes, começando pelas relações entre planejamento e autorregulação",
+          "keys": [
+            "wcag"
+          ],
+          "next": "L1"
+        }
+      ]
+    },
+    {
+      "title": "Planejamento e processos de estudo",
+      "paragraphs": [
+        {
+          "id": "L1",
+          "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "education_araka2020",
+              "text": "A revisão descreve a passagem de autorrelatos para análises de registros digitais, com desafios de interpretação"
+            },
+            {
+              "key": "education_baars2022",
+              "text": "Revisão teórica discute suporte móvel oportuno a planejamento, monitoramento, reflexão e estratégias de aprendizagem"
+            },
+            {
+              "key": "education_brahma2023",
+              "text": "Levantamento com 142 universitários encontrou associação negativa entre autorregulação e procrastinação acadêmica"
+            },
+            {
+              "key": "education_broadbent2020",
+              "text": "Em 73 universitários, condição combinando treinamento online e diários móveis apresentou maiores melhorias em componentes autorregulatórios"
+            }
+          ],
+          "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Período 2008–2018; medir atividades digitais não equivale a medir aprendizagem",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação",
+          "keys": [
+            "education_araka2020",
+            "education_baars2022",
+            "education_brahma2023",
+            "education_broadbent2020"
+          ],
+          "next": "L2"
+        },
+        {
+          "id": "L2",
+          "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "education_chen2024",
+              "text": "Em duas turmas de 22 participantes, abordagem móvel gamificada melhorou desempenho, definição de metas e reflexão, mas não monitoramento"
+            },
+            {
+              "key": "education_forstervold2022",
+              "text": "Em 8.907 universitários durante a pandemia, motivação e procrastinação relacionaram-se à gestão do tempo e regulação do esforço"
+            },
+            {
+              "key": "education_han2023",
+              "text": "Em 1.216 universitários, autoeficácia autorregulatória e procrastinação apresentaram relações recíprocas"
+            },
+            {
+              "key": "education_hartley2022",
+              "text": "Planejamento por smartphone e agenda associou-se a habilidades autorregulatórias"
+            }
+          ],
+          "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Amostra pequena; gamificação e instrução diferem de organizador local de tarefas",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação",
+          "keys": [
+            "education_chen2024",
+            "education_forstervold2022",
+            "education_han2023",
+            "education_hartley2022"
+          ],
+          "next": "L3"
+        }
+      ]
+    },
+    {
+      "title": "Autorregulação e procrastinação",
+      "paragraphs": [
+        {
+          "id": "L3",
+          "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "education_lim2019",
+              "text": "Duas pesquisas-ação descrevem regulação não linear e construção compartilhada de conhecimento em aprendizagem móvel colaborativa"
+            },
+            {
+              "key": "education_limone2020",
+              "text": "Em 450 universitários, estratégias metacognitivas e gestão do tempo foram examinadas como preditores de procrastinação"
+            },
+            {
+              "key": "education_palalas2020",
+              "text": "Revisão de 38 estudos descreveu relação complexa entre aprendizagem móvel e autorregulação e recomendou integração curricular intencional"
+            },
+            {
+              "key": "education_patzak2025",
+              "text": "Revisão de 107 estudos identificou planejamento, metas, priorização e organização de tarefas entre estratégias relevantes"
+            }
+          ],
+          "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Contexto colaborativo qualitativo não valida planejador individual nem produz estimativa causal",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação",
+          "keys": [
+            "education_lim2019",
+            "education_limone2020",
+            "education_palalas2020",
+            "education_patzak2025"
+          ],
+          "next": "L4"
+        },
+        {
+          "id": "L4",
+          "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "education_prasse2024",
+              "text": "Síntese de 31 revisões e meta-análises recomenda suportes autorregulatórios integrados ao longo do ciclo de aprendizagem"
+            },
+            {
+              "key": "education_taghavi2024",
+              "text": "Em 272 universitários iranianos de inglês, maior autorregulação e controle atencional associaram-se a menor procrastinação"
+            },
+            {
+              "key": "education_tao2025",
+              "text": "Em 239 universitários de inglês como língua estrangeira, gestão do tempo e regulação do esforço associaram-se negativamente à procrastinação"
+            },
+            {
+              "key": "education_wolters2017",
+              "text": "Em levantamento com 446 universitários, gestão do tempo contribuiu à predição de procrastinação além de variáveis motivacionais e estratégicas"
+            }
+          ],
+          "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Revisões com contextos diversos; recomendação de desenho não constitui validação deste MVP",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de planejamento e autorregulação",
+          "keys": [
+            "education_prasse2024",
+            "education_taghavi2024",
+            "education_tao2025",
+            "education_wolters2017"
+          ],
+          "next": "L5"
+        }
+      ]
+    },
+    {
+      "title": "Intervenções e limites de transferência",
+      "paragraphs": [
+        {
+          "id": "L5",
+          "A": "A análise de planejamento e autorregulação aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "education_wolters2021",
+              "text": "Revisão situa a gestão do tempo nas fases de antecipação, execução e avaliação da aprendizagem autorregulada"
+            },
+            {
+              "key": "education_wong2026",
+              "text": "Estudo identificou perfis ativo, desengajado e utilitário em app de prática de recuperação"
+            },
+            {
+              "key": "education_xu2022",
+              "text": "Meta-análise encontrou efeito positivo moderado de intervenções de autorregulação no desempenho em ambientes online e híbridos"
+            },
+            {
+              "key": "education_zheng2016",
+              "text": "Experimento com 60 graduandos encontrou melhores resultados e autorregulação em leitura de inglês apoiada por mecanismo móvel autorregulatório"
+            }
+          ],
+          "C": "As diferenças entre intervenções e levantamentos impedem interpretar todo resultado como efeito causal ou como benefício do mesmo aplicativo. Síntese conceitual não comprova eficácia de aplicativo específico",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces",
+          "keys": [
+            "education_wolters2021",
+            "education_wong2026",
+            "education_xu2022",
+            "education_zheng2016"
+          ],
+          "next": "L6"
+        }
+      ]
+    },
+    {
+      "title": "Barreiras de acesso e interfaces",
+      "paragraphs": [
+        {
+          "id": "L6",
+          "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "azionya2021",
+              "text": "Cobertura de rede, dispositivo e condições socioeconômicas afetam participação em ensino síncrono"
+            },
+            {
+              "key": "batanero2021",
+              "text": "Avaliação por pessoas cegas e surdas pode revelar diferenças na facilidade de uso de uma plataforma adaptada"
+            },
+            {
+              "key": "bong2021",
+              "text": "A revisão examina a formação docente para produção de materiais e ambientes digitais inclusivos"
+            },
+            {
+              "key": "choi2024",
+              "text": "Acessibilidade, usabilidade e desenho universal para aprendizagem devem ser considerados em conjunto"
+            }
+          ],
+          "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Netnografia de tweets, com seleção de usuários de rede social; não representa todos os estudantes",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces",
+          "keys": [
+            "azionya2021",
+            "batanero2021",
+            "bong2021",
+            "choi2024"
+          ],
+          "next": "L7"
+        },
+        {
+          "id": "L7",
+          "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "cinquin2019",
+              "text": "Há lacunas na avaliação de efetividade de e-learning acessível a pessoas com dificuldades cognitivas"
+            },
+            {
+              "key": "cob2023",
+              "text": "A revisão organiza critérios de interface e sua relação com carga cognitiva"
+            },
+            {
+              "key": "farhan2020",
+              "text": "O estudo avaliou recursos de voz e língua de sinais com estudantes e docentes"
+            },
+            {
+              "key": "gobbo2023",
+              "text": "A avaliação de acessibilidade educacional deve considerar barreiras atitudinais além de aspectos técnicos"
+            }
+          ],
+          "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Revisão de estudos heterogêneos; resumo do editor consultado, texto integral não inspecionado",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces",
+          "keys": [
+            "cinquin2019",
+            "cob2023",
+            "farhan2020",
+            "gobbo2023"
+          ],
+          "next": "L8"
+        }
+      ]
+    },
+    {
+      "title": "Usabilidade e inclusão digital",
+      "paragraphs": [
+        {
+          "id": "L8",
+          "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "guo2022",
+              "text": "Qualidade da conexão e condições de acesso integram a divisão digital no ensino online"
+            },
+            {
+              "key": "jamil2023",
+              "text": "Acesso à internet e habilidades digitais podem limitar continuidade educacional em universidades"
+            },
+            {
+              "key": "kumar2017",
+              "text": "Usabilidade de aplicações de aprendizagem móvel exige avaliação explícita e não pode ser presumida pela tecnologia"
+            },
+            {
+              "key": "kumarguideline2019",
+              "text": "Diretrizes de usabilidade móvel devem ser atualizadas a partir de problemas observados"
+            }
+          ],
+          "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Survey de estudantes chineses no contexto pandêmico; não autoriza inferência causal nem generalização direta ao Piauí",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces",
+          "keys": [
+            "guo2022",
+            "jamil2023",
+            "kumar2017",
+            "kumarguideline2019"
+          ],
+          "next": "L9"
+        },
+        {
+          "id": "L9",
+          "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "kumarmapping2024",
+              "text": "Testes com usuários, observação e questionários são utilizados na avaliação de aprendizagem móvel"
+            },
+            {
+              "key": "kumiyeboah2023",
+              "text": "Entrevistas com docentes e administradores descrevem estratégias de enfrentamento da divisão digital"
+            },
+            {
+              "key": "linhalis2026",
+              "text": "Existe pesquisa anterior sobre AVA com operação offline e uso em baixa conectividade, tornando inadequada uma alegação genérica de novidade de aplicativo offline educacional"
+            },
+            {
+              "key": "martin2024",
+              "text": "Inclusão digital educacional depende de acesso, uso, fatores sociais e suporte organizacional"
+            }
+          ],
+          "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Mapeamento de 51 trabalhos de uma base; muitos testes controlados, limitando transferência para uso real",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de acesso e desenho de interfaces",
+          "keys": [
+            "kumarmapping2024",
+            "kumiyeboah2023",
+            "linhalis2026",
+            "martin2024"
+          ],
+          "next": "L10"
+        }
+      ]
+    },
+    {
+      "title": "Adoção e prontidão digital",
+      "paragraphs": [
+        {
+          "id": "L10",
+          "A": "A análise de acesso e desenho de interfaces aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "mathrani2021",
+              "text": "Acesso, práticas culturais e agência devem compor a análise de aprendizagem com conectividade limitada"
+            },
+            {
+              "key": "naveed2023",
+              "text": "Facilidade de uso e acessibilidade integram fatores considerados na adoção de aprendizagem móvel"
+            },
+            {
+              "key": "punchoojit2017",
+              "text": "O artigo revisa padrões de interfaces móveis"
+            },
+            {
+              "key": "werfhorst2022",
+              "text": "Prontidão digital dos estudantes e das escolas são dimensões distintas da desigualdade educacional"
+            }
+          ],
+          "C": "A participação depende de condições de acesso, características da interface e contexto, de modo que testar uma funcionalidade não demonstra inclusão universal. Estudo em cinco países e no lockdown; gênero e responsabilidades domésticas dependem do contexto",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros",
+          "keys": [
+            "mathrani2021",
+            "naveed2023",
+            "punchoojit2017",
+            "werfhorst2022"
+          ],
+          "next": "L11"
+        }
+      ]
+    },
+    {
+      "title": "Persistência, cache e consistência",
+      "paragraphs": [
+        {
+          "id": "L11",
+          "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "OS01",
+              "text": "O estudo mostra que XSS na mesma origem pode manipular Cache API e ampliar o impacto sobre conteúdo armazenado"
+            },
+            {
+              "key": "OS02",
+              "text": "A sistematização reproduz ataques ligados a service workers e analisa medidas de mitigação dos navegadores"
+            },
+            {
+              "key": "OS03",
+              "text": "Os autores demonstram ataques de inferência de histórico explorando isolamento de service workers e cache"
+            },
+            {
+              "key": "OS06",
+              "text": "Experimentos mostram limitações dos controles e salvaguardas de cache nos navegadores examinados"
+            }
+          ],
+          "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Cenários de ataque específicos; não demonstra vulnerabilidade no EstudaOffline nem estado atual de todos os navegadores",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros",
+          "keys": [
+            "OS01",
+            "OS02",
+            "OS03",
+            "OS06"
+          ],
+          "next": "L12"
+        },
+        {
+          "id": "L12",
+          "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "OS07",
+              "text": "LoRe combina programação reativa e verificação para identificar interações que violam invariantes e coordená-las quando necessário"
+            },
+            {
+              "key": "OS08",
+              "text": "Forking histories preserva restrições por histórico e expõe conflitos para reconciliação pelo usuário"
+            },
+            {
+              "key": "OS09",
+              "text": "O trabalho compara opções de criptografia para Web Storage e relata alternativas com impacto de desempenho limitado no cenário avaliado"
+            },
+            {
+              "key": "OS10",
+              "text": "BeauForT propõe consenso e sincronização no navegador para tolerar réplicas bizantinas e redes instáveis"
+            }
+          ],
+          "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Garantias dependem do modelo, das propriedades especificadas e do compilador; não se transferem ao Flutter localStorage",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros",
+          "keys": [
+            "OS07",
+            "OS08",
+            "OS09",
+            "OS10"
+          ],
+          "next": "L13"
+        }
+      ]
+    },
+    {
+      "title": "Privacidade em aplicações educacionais",
+      "paragraphs": [
+        {
+          "id": "L13",
+          "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "OS13",
+              "text": "A análise de 137 apps infantis e entrevistas com 12 desenvolvedores identificaram barreiras ao uso de SDKs favoráveis à privacidade"
+            },
+            {
+              "key": "OS14",
+              "text": "A análise de 42 apps Android de cuidado infantil e seus backends identificou rastreadores e riscos de exposição de dados"
+            },
+            {
+              "key": "OS15",
+              "text": "Oficinas de codesign orientaram KOALA Hero para tornar riscos de tratamento de dados compreensíveis a crianças"
+            },
+            {
+              "key": "OS17",
+              "text": "Análise estática e dinâmica de 20.195 apps identificou práticas de rastreamento e permissões que divergiam de políticas de proteção infantil"
+            }
+          ],
+          "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Estudo qualitativo e ferramenta de apoio; não demonstra que remover SDKs garante segurança integral",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de conservação e proteção dos registros",
+          "keys": [
+            "OS13",
+            "OS14",
+            "OS15",
+            "OS17"
+          ],
+          "next": "L14"
+        },
+        {
+          "id": "L14",
+          "A": "A análise de conservação e proteção dos registros aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "OS18",
+              "text": "A revisão selecionou 21 de 64 trabalhos e apontou lacunas na literatura sobre segurança de apps educacionais"
+            }
+          ],
+          "C": "Ameaças e mecanismos de consistência oferecem critérios para novas verificações, mas não constituem vulnerabilidades reproduzidas ou proteções implementadas neste MVP. Revisão secundária; apenas resumo consultado, sem auditoria de busca ou qualidade de cada estudo",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software",
+          "keys": [
+            "OS18"
+          ],
+          "next": "L15"
+        }
+      ]
+    },
+    {
+      "title": "Testes e avaliação do artefato",
+      "paragraphs": [
+        {
+          "id": "L15",
+          "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "eng01",
+              "text": "A revisão de 103 estudos distingue testes funcionais e não funcionais e identifica desafios do ecossistema Android"
+            },
+            {
+              "key": "eng02",
+              "text": "A revisão de 56 artigos identifica necessidades de adaptação dos frameworks de automação ao domínio móvel"
+            },
+            {
+              "key": "eng03",
+              "text": "O mapeamento de 131 artigos organiza técnicas, atividades de teste e formas de avaliação, com predominância de Android"
+            },
+            {
+              "key": "eng04",
+              "text": "O estudo terciário organiza 24 revisões sobre engenharia de aplicativos e identifica lacunas em manutenção e plataformas cruzadas"
+            }
+          ],
+          "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Foco Android e literatura até 2016; não valida Flutter web nem este aplicativo",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software",
+          "keys": [
+            "eng01",
+            "eng02",
+            "eng03",
+            "eng04"
+          ],
+          "next": "L16"
+        },
+        {
+          "id": "L16",
+          "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "eng05",
+              "text": "O mapeamento de 79 estudos identifica necessidade de elicitar requisitos de teste cedo e avaliar em contextos reais"
+            },
+            {
+              "key": "eng06",
+              "text": "O mapeamento de 56 estudos caracteriza técnicas e ferramentas de teste dinâmico de requisitos não funcionais"
+            },
+            {
+              "key": "eng07",
+              "text": "O artigo propõe explicitar o artefato e o objetivo de pesquisa para tornar mais precisa a investigação em design science"
+            },
+            {
+              "key": "eng08",
+              "text": "A reavaliação de um método para estudos de repositórios mostra utilidade de caracterizar a reprodutibilidade além da disponibilidade"
+            }
+          ],
+          "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Mapeamento secundário de literatura anterior; não substitui ensaios atuais no navegador",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software",
+          "keys": [
+            "eng05",
+            "eng06",
+            "eng07",
+            "eng08"
+          ],
+          "next": "L17"
+        }
+      ]
+    },
+    {
+      "title": "Reprodução e integração contínua",
+      "paragraphs": [
+        {
+          "id": "L17",
+          "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "eng10",
+              "text": "A revisão e reexecução de modelos de deep learning mostram que compartilhar código não basta para reproduzir resultados"
+            },
+            {
+              "key": "eng11",
+              "text": "O mapeamento de 40 estudos identifica dependência do domínio nas ferramentas e práticas de reprodução experimental"
+            },
+            {
+              "key": "eng12",
+              "text": "Sete replicações externas identificam dificuldades relacionadas a instruções pouco claras e defeitos nos artefatos"
+            },
+            {
+              "key": "eng13",
+              "text": "A revisão de replicações identifica relato incompleto e problemas para interpretar resultados confirmatórios"
+            }
+          ],
+          "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Escopo deep learning; o aplicativo não usa IA. Relevância limitada a documentação e pacotes reprodutíveis",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software",
+          "keys": [
+            "eng10",
+            "eng11",
+            "eng12",
+            "eng13"
+          ],
+          "next": "L18"
+        },
+        {
+          "id": "L18",
+          "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "eng14",
+              "text": "A revisão de 69 artigos organiza ferramentas e desafios de integração, entrega e implantação contínuas"
+            },
+            {
+              "key": "eng15",
+              "text": "A revisão de 101 estudos empíricos identifica benefícios e desafios técnicos associados à integração contínua"
+            },
+            {
+              "key": "eng16",
+              "text": "O estudo de três empresas mostra que a implementação de CI varia com o contexto e pode criar restrições ao feedback"
+            },
+            {
+              "key": "eng18",
+              "text": "A proposta de estrutura de artefatos para experimentos humanos organiza elementos alinhados às políticas de badges ACM"
+            }
+          ],
+          "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Revisão até junho de 2016; resultados exigem contextualização em pipelines atuais",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de verificação e reprodução do software",
+          "keys": [
+            "eng14",
+            "eng15",
+            "eng16",
+            "eng18"
+          ],
+          "next": "L19"
+        }
+      ]
+    },
+    {
+      "title": "Planejamento de evidências técnicas",
+      "paragraphs": [
+        {
+          "id": "L19",
+          "A": "A análise de verificação e reprodução do software aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "eng20",
+              "text": "O MEDS propõe planejar objetivos, estratégias, propriedades e episódios de avaliação para ajustar rigor e recursos em DSR"
+            }
+          ],
+          "C": "Testar, compilar e compartilhar código são atividades distintas da reprodução de resultados, e a aplicação de um procedimento depende da plataforma e do desenho avaliativo. Método orientador; não demonstra qualidade do MVP nem efeitos nos estudantes",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de transparência e atribuição das evidências",
+          "keys": [
+            "eng20"
+          ],
+          "next": "L20"
+        }
+      ]
+    },
+    {
+      "title": "Transparência e integridade científica",
+      "paragraphs": [
+        {
+          "id": "L20",
+          "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "SU01",
+              "text": "PRISMA 2020 fornece checklist de 27 itens e fluxogramas para relatar revisões sistemáticas de modo transparente"
+            },
+            {
+              "key": "SU02",
+              "text": "O artigo de explicação detalha a justificativa e exemplifica recomendações de cada item PRISMA 2020"
+            },
+            {
+              "key": "SU03",
+              "text": "PRISMA-S apresenta 16 itens para descrever fontes e procedimentos de busca de forma reproduzível"
+            },
+            {
+              "key": "SU04",
+              "text": "O manifesto propõe melhorar métodos, transparência, reprodução, avaliação e incentivos na pesquisa"
+            }
+          ],
+          "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Diretriz de relato, não valida qualidade metodológica nem transforma esta busca exploratória em revisão sistemática",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de transparência e atribuição das evidências",
+          "keys": [
+            "SU01",
+            "SU02",
+            "SU03",
+            "SU04"
+          ],
+          "next": "L21"
+        },
+        {
+          "id": "L21",
+          "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "SU05",
+              "text": "A revisão de 239 estudos identifica avanços na detecção de plágio e lacunas de avaliação rigorosa dos sistemas"
+            },
+            {
+              "key": "SU06",
+              "text": "A avaliação de 636 referências geradas por GPT-3.5 e GPT-4 encontrou referências fabricadas e erros em referências reais"
+            },
+            {
+              "key": "SU07",
+              "text": "Nos 30 textos médicos gerados por GPT-3.5, os autores encontraram referências fabricadas ou com metadados incorretos"
+            },
+            {
+              "key": "SU08",
+              "text": "AcPgChecker compara documentos offline com similaridade de cosseno e um limiar para sinalizar possível plágio"
+            }
+          ],
+          "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Literatura de 2013–2018; detecção computacional não substitui julgamento contextual nem garante originalidade",
+          "D": "Esses limites tornam necessário examinar, na continuidade, outras condições de transparência e atribuição das evidências",
+          "keys": [
+            "SU05",
+            "SU06",
+            "SU07",
+            "SU08"
+          ],
+          "next": "L22"
+        }
+      ]
+    },
+    {
+      "title": "Fundamentação e critérios de síntese",
+      "paragraphs": [
+        {
+          "id": "L22",
+          "A": "A análise de transparência e atribuição das evidências aprofunda as condições que limitam a interpretação do apoio digital",
+          "B": "Paráfrases das fontes registradas",
+          "base_parts": [
+            {
+              "key": "SU10",
+              "text": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos"
+            },
+            {
+              "key": "SU11",
+              "text": "O artigo relaciona a escolha e execução do tipo de revisão à pergunta, ao propósito e à transparência da seleção e síntese"
+            }
+          ],
+          "C": "Diretrizes de relato, verificações bibliográficas e modelos conceituais exercem funções diferentes, sem converter esta seleção narrativa em revisão sistemática ou instrumento validado. Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico",
+          "D": "A distinção entre orientação teórica e evidência observada prepara a delimitação do método técnico empregado neste estudo",
+          "keys": [
+            "SU10",
+            "SU11"
+          ],
+          "next": "M1"
+        }
+      ]
+    },
+    {
+      "title": "Métodos",
+      "paragraphs": [
+        {
+          "id": "M1",
+          "A": "O método traduz a delimitação teórica em um estudo técnico descritivo do artefato",
+          "B": "O protocolo define como unidade a execução de um cenário em uma combinação registrada de versão, navegador e armazenamento, utilizando dados sintéticos",
+          "C": "Cada cenário deve indicar entrada, procedimento, resultado esperado, resultado observado e evidência, distinguindo testes de modelo, widget e navegador",
+          "D": "Com essa unidade explícita, a leitura das fontes também precisa de um registro que preserve a origem de cada afirmação",
+          "keys": [],
+          "next": "M2"
+        },
+        {
+          "id": "M2",
+          "A": "A leitura das fontes foi organizada como uma síntese narrativa focal apoiada em fichamentos",
+          "B": "Snyder relaciona a modalidade de revisão à pergunta e à transparência da seleção, extração e análise",
+          "C": "O caderno preserva 80 registros com níveis de acesso e limites, e as 80 publicações são articuladas à síntese deste texto; sua quantidade não representa 80 validações independentes",
+          "D": "Essa seleção documentada orienta a interpretação dos resultados técnicos apresentados a seguir",
+          "keys": [
+            "SU11"
+          ],
+          "next": "R1"
+        }
+      ]
+    },
+    {
+      "title": "Resultados",
+      "paragraphs": [
+        {
+          "id": "R1",
+          "A": "A execução automatizada documentada verificou componentes técnicos do MVP",
+          "B": "O registro da versão 0.1.1 informa análise estática, seis testes Flutter, quatro testes de versionamento e compilação web, na execução 37249382657",
+          "C": "Esses resultados se restringem à execução registrada: o teste de widget usa armazenamento simulado e não comprova recarga real do navegador sem conexão",
+          "D": "Por isso, os resultados automatizados precisam ser lidos junto às observações disponíveis no navegador",
+          "keys": [],
+          "next": "R2"
+        },
+        {
+          "id": "R2",
+          "A": "A demonstração no navegador acrescentou evidências de manipulação de tarefas e recarga online",
+          "B": "O registro da versão 0.1.0 descreve criação, conclusão, recuperação após recarga online, rejeição de backup com versão 99 e importação válida de duas tarefas",
+          "C": "A preparação indicada do cache e a solicitação de download não comprovam reabertura desconectada nem integridade do arquivo exportado, que permanecem sem confirmação",
+          "D": "Esses limites conduzem à discussão do que a demonstração permite concluir e do que ainda requer avaliação",
+          "keys": [],
+          "next": "D1"
+        }
+      ]
+    },
+    {
+      "title": "Discussão",
+      "paragraphs": [
+        {
+          "id": "D1",
+          "A": "Os resultados registrados sustentam uma demonstração funcional delimitada, e não uma avaliação de aprendizagem",
+          "B": "Araka e colaboradores evidenciam problemas de mensuração da autorregulação a partir de instrumentos e registros digitais",
+          "C": "A criação e a recuperação de uma tarefa são coerentes com o recorte técnico do protocolo, mas não demonstram que seu usuário estudou, compreendeu o conteúdo ou melhorou o desempenho",
+          "D": "Essa distinção delimita a contribuição atual e permite identificar uma oportunidade de pesquisa futura",
+          "keys": [
+            "education_araka2020"
+          ],
+          "next": "D2"
+        },
+        {
+          "id": "D2",
+          "A": "A oportunidade futura é integrar o organizador a um processo de estudo mais amplo e avaliá-lo em contexto",
+          "B": "Prasse e colaboradores recomendam suportes ao longo do ciclo autorregulatório, enquanto Palalas e Wark mostram que resultados digitais dependem de condições heterogêneas",
+          "C": "As revisões oferecem uma direção de desenvolvimento, mas sua sobreposição e diversidade impedem somar seus estudos como evidências independentes ou prever o efeito do MVP",
+          "D": "Portanto, a conclusão deve preservar a contribuição técnica existente e formular a investigação educacional como etapa posterior",
+          "keys": [
+            "education_prasse2024",
+            "education_palalas2020"
+          ],
+          "next": "F1"
+        }
+      ]
+    },
+    {
+      "title": "Considerações finais",
+      "paragraphs": [
+        {
+          "id": "F1",
+          "A": "O EstudaOffline oferece um artefato e um protocolo para examinar a organização e a conservação local de tarefas sintéticas",
+          "B": "Os registros do projeto sustentam apenas os cenários efetivamente observados e mantêm pendentes recarga sem rede, falha de quota, verificação do arquivo exportado e inspeção de acessibilidade",
+          "C": "A contribuição está nessa base verificável, sem demonstração de eficácia pedagógica, conformidade institucional integral ou funcionamento universal",
+          "D": "A continuidade deve primeiro concluir os cenários técnicos pendentes e, depois, planejar uma avaliação educacional com procedimentos e autorizações próprios",
+          "keys": [],
+          "next": "END"
+        }
+      ]
+    }
+  ],
+  "locator_policy": "Página impressa e posição PDF verificadas para cinco fontes centrais; demais páginas pendentes. DOI identifica publicação e não certifica qualidade. ABCD preservado."
+}

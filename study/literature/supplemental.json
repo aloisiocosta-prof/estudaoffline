@@ -239,9 +239,41 @@
     "access_level": "primary publisher and institutional abstract/metadata consulted; direct PMC blocked by CAPTCHA",
     "claim_pt": "A orientação metodológica organiza pôsteres em mensagem central, apresentação visual e comunicação oral ajustadas ao público, em vez de reproduzir todo o artigo no painel principal.",
     "limitation_pt": "Guia voltado à pesquisa em saúde, não experimento de validação de um template universal; usado como fundamento editorial anterior à janela de 2016–2026, sem inferir eficácia educacional.",
-    "source_service": "Primary Wiley publisher and Rutgers institutional abstract/metadata; direct PMC CAPTCHA",
+    "source_service": "Metadados e resumo editorial/institucional Wiley/Rutgers; acesso PMC bloqueado por CAPTCHA; excluído nesta revisão pela janela temporal.",
     "publication_date": "2007-02",
     "selection_exception": "Foundational poster communication guidance retained outside recent-search window.",
     "primary_metadata_url": "https://www.researchwithrutgers.org/en/publications/preparing-and-presenting-effective-research-posters/"
+  },
+  {
+    "key": "SU10",
+    "title": "A Review of Self-regulated Learning: Six Models and Four Directions for Research",
+    "authors": [
+      "Ernesto Panadero"
+    ],
+    "year": 2017,
+    "doi": "10.3389/fpsyg.2017.00422",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/full",
+    "kind": "peer-reviewed theoretical review",
+    "journal": "Frontiers in Psychology",
+    "access_level": "seções de definição, modelo cíclico e instrumentos consultadas no texto editorial aberto; avaliação dirigida, não leitura crítica integral uniforme",
+    "source_service": "Consensus search+fetch; Frontiers texto aberto, 5 out. 2026",
+    "claim_pt": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos.",
+    "limitation_pt": "Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico."
+  },
+  {
+    "key": "SU11",
+    "title": "Literature review as a research methodology: An overview and guidelines",
+    "authors": [
+      "Hannah Snyder"
+    ],
+    "year": 2019,
+    "doi": "10.1016/j.jbusres.2019.07.039",
+    "url": "https://doi.org/10.1016/j.jbusres.2019.07.039",
+    "kind": "peer-reviewed methodological review",
+    "journal": "Journal of Business Research",
+    "access_level": "seções de tipos, desenho, seleção, análise e relato consultadas em PDF do artigo depositado na Universidade de Lisboa",
+    "source_service": "Artigo editorial em PDF institucional, 5 out. 2026",
+    "claim_pt": "O artigo relaciona a escolha e execução do tipo de revisão à pergunta, ao propósito e à transparência da seleção e síntese.",
+    "limitation_pt": "Diretrizes discutidas em pesquisa de negócios não certificam esta síntese narrativa nem dispensam adaptação ao problema educacional."
   }
 ]

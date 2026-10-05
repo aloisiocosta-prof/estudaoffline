@@ -1,0 +1,15 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{fontspec}
+% Prefer installed fonts; bundled unmodified fonts keep CI and local builds portable.
+\IfFontExistsTF{Liberation Sans}{\setmainfont{Liberation Sans}}{%
+  \setmainfont{LiberationSans}[Path=fonts/,Extension=.ttf,UprightFont=*-Regular,BoldFont=*-Bold,ItalicFont=*-Italic,BoldItalicFont=*-BoldItalic]}
+
+\usepackage{babel}
+\babelprovide[main,import]{portuguese}
+\usepackage{hyperref,booktabs,array,xcolor}
+\usepackage[authoryear,round]{natbib}
+\usepackage{xurl}
+\hypersetup{citecolor=black}
+\hypersetup{colorlinks=true,urlcolor=blue,linkcolor=black}
+\usepackage[margin=2.5cm]{geometry}
+\begin{document}\sloppy\input{fichamentos-conteudo.tex}\clearpage\input{references-fichamentos.tex}\end{document}

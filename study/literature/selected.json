@@ -12,8 +12,8 @@
     "doi": "10.1186/s41039-020-00129-5",
     "url": "https://doi.org/10.1186/s41039-020-00129-5",
     "kind": "Revisão sistemática",
-    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
-    "claim_pt": "Revisão identificou uso continuado de instrumentos de sala presencial para medir autorregulação em ambientes digitais e lacunas em análises de registros.",
+    "access_level": "seções Introdução, Methodology, Quality assessment and selection criteria e Results consultadas no texto editorial aberto; avaliação dirigida, não integral uniforme",
+    "claim_pt": "A revisão descreve a passagem de autorrelatos para análises de registros digitais, com desafios de interpretação.",
     "limitation_pt": "Período 2008–2018; medir atividades digitais não equivale a medir aprendizagem.",
     "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
     "journal": "Research and Practice in Technology Enhanced Learning",
@@ -201,7 +201,7 @@
     "doi": "10.14742/ajet.5650",
     "url": "https://doi.org/10.14742/ajet.5650",
     "kind": "Revisão sistemática",
-    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "access_level": "PDF editorial: seções Research design, Discussion, Review limitations e recomendações consultadas; avaliação dirigida",
     "claim_pt": "Revisão de 38 estudos descreveu relação complexa entre aprendizagem móvel e autorregulação e recomendou integração curricular intencional.",
     "limitation_pt": "Síntese heterogênea de 2007–2019 não demonstra efeito de todo app móvel.",
     "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
@@ -244,7 +244,7 @@
     "doi": "10.1007/s10758-024-09772-z",
     "url": "https://doi.org/10.1007/s10758-024-09772-z",
     "kind": "Revisão guarda-chuva",
-    "access_level": "abstract recuperado no Consensus; texto integral não avaliado sistematicamente",
+    "access_level": "seções Methods, Results, Discussion e lista de revisões incluídas consultadas no texto editorial aberto; avaliação dirigida, sem novo escore de viés",
     "claim_pt": "Síntese de 31 revisões e meta-análises recomenda suportes autorregulatórios integrados ao longo do ciclo de aprendizagem.",
     "limitation_pt": "Revisões com contextos diversos; recomendação de desenho não constitui validação deste MVP.",
     "source_service": "Consensus search + fetch; metadados DOI conferidos em fontes editoriais/repositórios primários",
@@ -401,14 +401,15 @@
       "Abyshey Nhedzi"
     ],
     "year": 2021,
-    "doi": null,
-    "url": "https://consensus.app/papers/the-digital-divide-and-higher-education-challenge-with-azionya-nhedzi/7ee97159a4ea582bac1d7d50692fd0ec/?utm_source=chatgpt",
+    "doi": "10.17718/tojde.1002822",
+    "url": "https://dergipark.org.tr/en/pub/tojde/article/1002822",
     "kind": "peer_reviewed_journal_article",
     "journal": "Turkish Online Journal of Distance Education",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Cobertura de rede, dispositivo e condições socioeconômicas afetam participação em ensino síncrono.",
     "limitation_pt": "Netnografia de tweets, com seleção de usuários de rede social; não representa todos os estudantes.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
     "group": "accessibility"
   },
   {
@@ -423,14 +424,15 @@
       "Salvador Otón Tortosa"
     ],
     "year": 2021,
-    "doi": null,
-    "url": "https://consensus.app/papers/improving-accessibility-in-online-education-comparative-batanero-ochaíta-de-marcos/712b36a1a68d5154a8474f08f721f788/?utm_source=chatgpt",
+    "doi": "10.1109/ACCESS.2021.3095041",
+    "url": "https://ebuah.uah.es/dspace/handle/10017/55403",
     "kind": "peer_reviewed_journal_article",
     "journal": "IEEE Access",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Avaliação por pessoas cegas e surdas pode revelar diferenças na facilidade de uso de uma plataforma adaptada.",
     "limitation_pt": "Protótipo e população específicos; percepções não demonstram eficácia pedagógica ou acessibilidade universal.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
     "group": "accessibility"
   },
   {
@@ -492,20 +494,29 @@
     "key": "cob2023",
     "title": "Investigating the User Interface Design Frameworks of Current Mobile Learning Applications: A Systematic Review",
     "authors": [
+      "M. Ahmad Faudzi",
       "Zaihisma Che Cob",
       "Ridha Omar",
       "Sharul Azim Sharudin",
       "Masitah Ghazali"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/investigating-the-user-interface-design-frameworks-of-cob-omar/0832d843386a5ec3ac5587ce6430bf87/?utm_source=chatgpt",
+    "doi": "10.3390/educsci13010094",
+    "url": "https://www.mdpi.com/2227-7102/13/1/94",
     "kind": "peer_reviewed_journal_article",
     "journal": "Education Sciences",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "A revisão organiza critérios de interface e sua relação com carga cognitiva; considerar tamanho de tela e desenho da interface no EstudaOffline é uma inferência de projeto.",
     "limitation_pt": "Revisão limitada a 2020–2022; não prova redução de carga cognitiva por uma interface específica.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "citation_names": [
+      "Ahmad Faudzi",
+      "Che Cob",
+      "Omar",
+      "Sharudin",
+      "Ghazali"
+    ],
     "group": "accessibility"
   },
   {
@@ -516,14 +527,16 @@
       "Jamil Razmak"
     ],
     "year": 2020,
-    "doi": null,
-    "url": "https://consensus.app/papers/a-comparative-study-of-an-assistive-elearning-interface-farhan-razmak/ddcdf278f30c576aae0d46ba235fdcf6/?utm_source=chatgpt",
+    "doi": "10.1080/17483107.2020.1786733",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17483107.2020.1786733",
     "kind": "peer_reviewed_journal_article",
     "journal": "Disability and Rehabilitation: Assistive Technology",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "O estudo avaliou recursos de voz e língua de sinais com estudantes e docentes; propor avaliação participativa do EstudaOffline é uma inferência de projeto.",
     "limitation_pt": "Estudo de métodos mistos de satisfação; não transfere resultados ao EstudaOffline nem à educação técnica brasileira.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "publication_history": "Online2020; fascículo2022,17(4),431–441",
     "group": "accessibility"
   },
   {
@@ -570,14 +583,16 @@
       "G. Muschert"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/the-covid19-pandemic-and-elearning-the-digital-divide-and-jamil-muschert/0c47f8b26df453b78335dedb3551abcf/?utm_source=chatgpt",
+    "doi": "10.1177/00027642231156779",
+    "url": "https://journals.sagepub.com/doi/10.1177/00027642231156779",
     "kind": "peer_reviewed_journal_article",
     "journal": "The American Behavioral Scientist",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Acesso à internet e habilidades digitais podem limitar continuidade educacional em universidades.",
     "limitation_pt": "Entrevistas por email podem excluir as pessoas com pior acesso; contexto paquistanês e pandêmico.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "publication_history": "Online2023; fascículo2024; DOI confirmado em registro editorial e institucional",
     "group": "accessibility"
   },
   {
@@ -645,14 +660,15 @@
       "Yaa Essah Armah"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/strategies-for-overcoming-the-digital-divide-during-the-kumi-yeboah-kim/967c7df48228548cb51021274702d9a5/?utm_source=chatgpt",
+    "doi": "10.1111/bjet.13356",
+    "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13356",
     "kind": "peer_reviewed_journal_article",
     "journal": "Br. J. Educ. Technol.",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Entrevistas com docentes e administradores descrevem estratégias de enfrentamento da divisão digital; combinar conectividade acessível, suporte e formação no projeto é uma proposta informada por esses relatos.",
     "limitation_pt": "35 entrevistas em cinco universidades de Gana; relato de estratégias não é ensaio de eficácia causal.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
     "group": "accessibility"
   },
   {
@@ -688,14 +704,14 @@
       "T. Gezer"
     ],
     "year": 2024,
-    "doi": null,
-    "url": "https://consensus.app/papers/from-digital-divide-to-digital-equity-systematic-review-of-martin-ceviker/35f2fb00391a5c6b8b1ad3c73891775c/?utm_source=chatgpt",
+    "doi": "10.1080/15391523.2024.2425442",
+    "url": "https://doi.org/10.1080/15391523.2024.2425442",
     "kind": "peer_reviewed_journal_article",
     "journal": "Journal of Research on Technology in Education",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Inclusão digital educacional depende de acesso, uso, fatores sociais e suporte organizacional.",
     "limitation_pt": "Revisão de 77 estudos em duas décadas; heterogeneidade e publicação online/volume posterior impedem uma estimativa única.",
-    "source_service": "Consensus search + fetch",
+    "source_service": "Consensus search + fetch; DOI confirmado na página editorial Taylor & Francis em 5 out. 2026",
     "group": "accessibility"
   },
   {
@@ -707,14 +723,16 @@
       "R. Umer"
     ],
     "year": 2021,
-    "doi": null,
-    "url": "https://consensus.app/papers/digital-divide-framework-online-learning-in-developing-mathrani-sarvesh/851d21a0596c547db106657fc2fa6c51/?utm_source=chatgpt",
+    "doi": "10.1080/14767724.2021.1981253",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/14767724.2021.1981253",
     "kind": "peer_reviewed_journal_article",
     "journal": "Globalisation, Societies and Education",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Acesso, práticas culturais e agência devem compor a análise de aprendizagem com conectividade limitada.",
     "limitation_pt": "Estudo em cinco países e no lockdown; gênero e responsabilidades domésticas dependem do contexto.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
+    "publication_history": "Online 2021; fascículo2022,20(5),625–640; DOI editorial confirmado",
     "group": "accessibility"
   },
   {
@@ -728,14 +746,15 @@
       "A. Qahmash"
     ],
     "year": 2023,
-    "doi": null,
-    "url": "https://consensus.app/papers/mobile-learning-in-higher-education-a-systematic-naveed-choudhary/acb83e94541852779b0ca87547d4e199/?utm_source=chatgpt",
+    "doi": "10.3390/su151813566",
+    "url": "https://www.mdpi.com/2071-1050/15/18/13566",
     "kind": "peer_reviewed_journal_article",
     "journal": "Sustainability",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Facilidade de uso e acessibilidade integram fatores considerados na adoção de aprendizagem móvel.",
     "limitation_pt": "Revisão de 161 artigos, majoritariamente quantitativos; adoção e aprendizagem não são equivalentes.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
     "group": "accessibility"
   },
   {
@@ -765,14 +784,15 @@
       "Sara Geven"
     ],
     "year": 2022,
-    "doi": null,
-    "url": "https://consensus.app/papers/the-digital-divide-in-online-education-inequality-in-werfhorst-kessenich/e49c1494c3a757608599a52c6e9b4374/?utm_source=chatgpt",
+    "doi": "10.1016/j.caeo.2022.100100",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666557322000295",
     "kind": "peer_reviewed_journal_article",
     "journal": "Computers and Education Open",
     "access_level": "abstract_and_metadata_only; full_text_not_assessed",
     "claim_pt": "Prontidão digital dos estudantes e das escolas são dimensões distintas da desigualdade educacional.",
     "limitation_pt": "Dados e contextos internacionais; não demonstra que uma PWA resolve desigualdade estrutural.",
     "source_service": "Consensus search + fetch",
+    "doi_verification": "Metadados confrontados com editor/repositório institucional em 5 outubro 2026; não implica leitura integral",
     "group": "accessibility"
   },
   {
@@ -1178,7 +1198,7 @@
     "kind": "peer-reviewed journal article",
     "journal": "ACM Computing Surveys (CSUR)",
     "citation_count": 21,
-    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "access_level": "resumo e seções Methods, Background, Discussion e Threats to Validity recuperadas na página ACM; avaliação dirigida",
     "claim_pt": "O mapeamento de 56 estudos caracteriza técnicas e ferramentas de teste dinâmico de requisitos não funcionais.",
     "limitation_pt": "Classifica trabalhos existentes; segurança e confiabilidade do MVP exigem testes específicos.",
     "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
@@ -1254,7 +1274,7 @@
     "title": "Resources for Reproducibility of Experiments in Empirical Software Engineering: Topics Derived From a Secondary Study",
     "authors": [
       "Carlos E. Anchundia",
-      "E. Fonseca C."
+      "Efraín R. Fonseca C."
     ],
     "year": 2020,
     "doi": "10.1109/ACCESS.2020.2964587",
@@ -1265,8 +1285,12 @@
     "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
     "claim_pt": "O mapeamento de 40 estudos identifica dependência do domínio nas ferramentas e práticas de reprodução experimental.",
     "limitation_pt": "Ferramentas dependem do domínio; não autoriza generalização direta para estudantes.",
-    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check; autoria conferida em registro institucional EPN em 5 out. 2026",
     "raw_fetch": "raw/engineering-fetch-10.json",
+    "citation_names": [
+      "Anchundia",
+      "Fonseca C."
+    ],
     "group": "engineering"
   },
   {
@@ -1377,27 +1401,6 @@
     "limitation_pt": "Três empresas; generalização limitada e ausência de avaliação deste pipeline.",
     "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
     "raw_fetch": "raw/engineering-fetch-15.json",
-    "group": "engineering"
-  },
-  {
-    "key": "eng17",
-    "title": "FEDS: a Framework for Evaluation in Design Science Research",
-    "authors": [
-      "J. Venable",
-      "J. Pries-Heje",
-      "R. Baskerville"
-    ],
-    "year": 2016,
-    "doi": "10.1057/ejis.2014.36",
-    "url": "https://consensus.app/papers/feds-a-framework-for-evaluation-in-design-science-research-venable-pries-heje/62e9e81d258f5122a19eee0521478d38/?utm_source=chatgpt",
-    "kind": "peer-reviewed journal article",
-    "journal": "European Journal of Information Systems",
-    "citation_count": 1089,
-    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
-    "claim_pt": "O FEDS separa avaliações formativas e somativas, artificiais e naturalistas, e orienta o planejamento dos episódios.",
-    "limitation_pt": "Framework metodológico com exemplos; não certifica o artefato nem substitui avaliação com usuários.",
-    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
-    "raw_fetch": "raw/engineering-fetch-16.json",
     "group": "engineering"
   },
   {
@@ -1687,23 +1690,37 @@
     "group": "supplemental"
   },
   {
-    "key": "SU09",
-    "title": "Preparing and Presenting Effective Research Posters",
+    "key": "SU10",
+    "title": "A Review of Self-regulated Learning: Six Models and Four Directions for Research",
     "authors": [
-      "Jane E. Miller"
+      "Ernesto Panadero"
     ],
-    "year": 2007,
-    "doi": "10.1111/j.1475-6773.2006.00588.x",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1955747/",
-    "journal": "Health Services Research, 42(1 Pt 1), 311–328",
-    "kind": "journal methodology article",
-    "access_level": "primary publisher and institutional abstract/metadata consulted; direct PMC blocked by CAPTCHA",
-    "claim_pt": "A orientação metodológica organiza pôsteres em mensagem central, apresentação visual e comunicação oral ajustadas ao público, em vez de reproduzir todo o artigo no painel principal.",
-    "limitation_pt": "Guia voltado à pesquisa em saúde, não experimento de validação de um template universal; usado como fundamento editorial anterior à janela de 2016–2026, sem inferir eficácia educacional.",
-    "source_service": "Primary Wiley publisher and Rutgers institutional abstract/metadata; direct PMC CAPTCHA",
-    "publication_date": "2007-02",
-    "selection_exception": "Foundational poster communication guidance retained outside recent-search window.",
-    "primary_metadata_url": "https://www.researchwithrutgers.org/en/publications/preparing-and-presenting-effective-research-posters/",
+    "year": 2017,
+    "doi": "10.3389/fpsyg.2017.00422",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00422/full",
+    "kind": "peer-reviewed theoretical review",
+    "journal": "Frontiers in Psychology",
+    "access_level": "seções de definição, modelo cíclico e instrumentos consultadas no texto editorial aberto; avaliação dirigida, não leitura crítica integral uniforme",
+    "source_service": "Consensus search+fetch; Frontiers texto aberto, 5 out. 2026",
+    "claim_pt": "A revisão compara seis modelos de aprendizagem autorregulada, incluindo processos cognitivos, motivacionais e afetivos.",
+    "limitation_pt": "Modelos e instrumentos discutidos não validam uma lista de tarefas nem sua adaptação ao ensino técnico.",
+    "group": "supplemental"
+  },
+  {
+    "key": "SU11",
+    "title": "Literature review as a research methodology: An overview and guidelines",
+    "authors": [
+      "Hannah Snyder"
+    ],
+    "year": 2019,
+    "doi": "10.1016/j.jbusres.2019.07.039",
+    "url": "https://doi.org/10.1016/j.jbusres.2019.07.039",
+    "kind": "peer-reviewed methodological review",
+    "journal": "Journal of Business Research",
+    "access_level": "seções de tipos, desenho, seleção, análise e relato consultadas em PDF do artigo depositado na Universidade de Lisboa",
+    "source_service": "Artigo editorial em PDF institucional, 5 out. 2026",
+    "claim_pt": "O artigo relaciona a escolha e execução do tipo de revisão à pergunta, ao propósito e à transparência da seleção e síntese.",
+    "limitation_pt": "Diretrizes discutidas em pesquisa de negócios não certificam esta síntese narrativa nem dispensam adaptação ao problema educacional.",
     "group": "supplemental"
   }
 ]

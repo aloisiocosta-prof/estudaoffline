@@ -178,6 +178,27 @@
     "group": "engineering"
   },
   {
+    "key": "eng17",
+    "title": "FEDS: a Framework for Evaluation in Design Science Research",
+    "authors": [
+      "J. Venable",
+      "J. Pries-Heje",
+      "R. Baskerville"
+    ],
+    "year": 2016,
+    "doi": "10.1057/ejis.2014.36",
+    "url": "https://consensus.app/papers/feds-a-framework-for-evaluation-in-design-science-research-venable-pries-heje/62e9e81d258f5122a19eee0521478d38/?utm_source=chatgpt",
+    "kind": "peer-reviewed journal article",
+    "journal": "European Journal of Information Systems",
+    "citation_count": 1089,
+    "access_level": "abstract_from_Consensus_fetch; full_text_not_read",
+    "claim_pt": "O FEDS separa avaliações formativas e somativas, artificiais e naturalistas, e orienta o planejamento dos episódios.",
+    "limitation_pt": "Framework metodológico com exemplos; não certifica o artefato nem substitui avaliação com usuários.",
+    "source_service": "Consensus search + mandatory fetch; primary metadata cross-check",
+    "raw_fetch": "raw/engineering-fetch-16.json",
+    "group": "engineering"
+  },
+  {
     "key": "eng19",
     "title": "Supporting Long-term Reproducible Software Execution",
     "authors": [
@@ -196,5 +217,25 @@
     "source_service": "SciSpace search; publisher URL supplied in retrieved record",
     "raw_fetch": "raw/engineering-scispace-search.json",
     "group": "engineering"
+  },
+  {
+    "key": "SU09",
+    "title": "Preparing and Presenting Effective Research Posters",
+    "authors": [
+      "Jane E. Miller"
+    ],
+    "year": 2007,
+    "doi": "10.1111/j.1475-6773.2006.00588.x",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1955747/",
+    "journal": "Health Services Research, 42(1 Pt 1), 311–328",
+    "kind": "journal methodology article",
+    "access_level": "primary publisher and institutional abstract/metadata consulted; direct PMC blocked by CAPTCHA",
+    "claim_pt": "A orientação metodológica organiza pôsteres em mensagem central, apresentação visual e comunicação oral ajustadas ao público, em vez de reproduzir todo o artigo no painel principal.",
+    "limitation_pt": "Guia voltado à pesquisa em saúde, não experimento de validação de um template universal; usado como fundamento editorial anterior à janela de 2016–2026, sem inferir eficácia educacional.",
+    "source_service": "Metadados e resumo editorial/institucional Wiley/Rutgers; acesso PMC bloqueado por CAPTCHA; excluído nesta revisão pela janela temporal.",
+    "publication_date": "2007-02",
+    "selection_exception": "Foundational poster communication guidance retained outside recent-search window.",
+    "primary_metadata_url": "https://www.researchwithrutgers.org/en/publications/preparing-and-presenting-effective-research-posters/",
+    "group": "supplemental"
   }
 ]

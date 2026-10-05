@@ -1,0 +1,286 @@
+{
+  "artigo": {
+    "Introdução": {
+      "start_page": 2,
+      "end_page": 2,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Referencial teórico": {
+      "start_page": 3,
+      "end_page": 4,
+      "pages": 2,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Planejamento e processos de estudo": {
+      "start_page": 5,
+      "end_page": 5,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Autorregulação e procrastinação": {
+      "start_page": 6,
+      "end_page": 6,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Intervenções e limites de transferência": {
+      "start_page": 7,
+      "end_page": 7,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Barreiras de acesso e interfaces": {
+      "start_page": 8,
+      "end_page": 8,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Usabilidade e inclusão digital": {
+      "start_page": 9,
+      "end_page": 9,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Adoção e prontidão digital": {
+      "start_page": 10,
+      "end_page": 10,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Persistência, cache e consistência": {
+      "start_page": 11,
+      "end_page": 11,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Privacidade em aplicações educacionais": {
+      "start_page": 12,
+      "end_page": 12,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Testes e avaliação do artefato": {
+      "start_page": 13,
+      "end_page": 13,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Reprodução e integração contínua": {
+      "start_page": 14,
+      "end_page": 14,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Planejamento de evidências técnicas": {
+      "start_page": 15,
+      "end_page": 15,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Transparência e integridade científica": {
+      "start_page": 16,
+      "end_page": 16,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Fundamentação e critérios de síntese": {
+      "start_page": 17,
+      "end_page": 17,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Métodos": {
+      "start_page": 18,
+      "end_page": 18,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Resultados": {
+      "start_page": 19,
+      "end_page": 19,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Discussão": {
+      "start_page": 20,
+      "end_page": 20,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Considerações finais": {
+      "start_page": 21,
+      "end_page": 21,
+      "pages": 1,
+      "maximum_pages": 1,
+      "passed": true
+    },
+    "Referências": {
+      "start_page": 22,
+      "end_page": 31,
+      "pages": 10,
+      "maximum_pages": null,
+      "passed": true
+    }
+  },
+  "entrega-escolar": {
+    "Introdução": {
+      "start_page": 4,
+      "end_page": 4,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Referencial teórico": {
+      "start_page": 5,
+      "end_page": 6,
+      "pages": 2,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Planejamento e processos de estudo": {
+      "start_page": 7,
+      "end_page": 7,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Autorregulação e procrastinação": {
+      "start_page": 8,
+      "end_page": 8,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Intervenções e limites de transferência": {
+      "start_page": 9,
+      "end_page": 9,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Barreiras de acesso e interfaces": {
+      "start_page": 10,
+      "end_page": 10,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Usabilidade e inclusão digital": {
+      "start_page": 11,
+      "end_page": 11,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Adoção e prontidão digital": {
+      "start_page": 12,
+      "end_page": 12,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Persistência, cache e consistência": {
+      "start_page": 13,
+      "end_page": 13,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Privacidade em aplicações educacionais": {
+      "start_page": 14,
+      "end_page": 14,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Testes e avaliação do artefato": {
+      "start_page": 15,
+      "end_page": 15,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Reprodução e integração contínua": {
+      "start_page": 16,
+      "end_page": 16,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Planejamento de evidências técnicas": {
+      "start_page": 17,
+      "end_page": 17,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Transparência e integridade científica": {
+      "start_page": 18,
+      "end_page": 18,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Fundamentação e critérios de síntese": {
+      "start_page": 19,
+      "end_page": 19,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Métodos": {
+      "start_page": 20,
+      "end_page": 20,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Resultados": {
+      "start_page": 21,
+      "end_page": 21,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Discussão": {
+      "start_page": 22,
+      "end_page": 22,
+      "pages": 1,
+      "maximum_pages": 2,
+      "passed": true
+    },
+    "Considerações finais": {
+      "start_page": 23,
+      "end_page": 23,
+      "pages": 1,
+      "maximum_pages": 1,
+      "passed": true
+    },
+    "Referências": {
+      "start_page": 24,
+      "end_page": 33,
+      "pages": 10,
+      "maximum_pages": null,
+      "passed": true
+    }
+  }
+}
