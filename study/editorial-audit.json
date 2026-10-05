@@ -33,7 +33,7 @@
   "pdf_lines": {
     "artigo": {
       "pages": 9,
-      "text_lines": 184,
+      "text_lines": 186,
       "lines_below_half_width": 32,
       "lines_below_half_character_width": 32,
       "literal_every_line_requirement_met": false,
@@ -42,7 +42,7 @@
     },
     "entrega-escolar": {
       "pages": 11,
-      "text_lines": 201,
+      "text_lines": 203,
       "lines_below_half_width": 41,
       "lines_below_half_character_width": 49,
       "literal_every_line_requirement_met": false,

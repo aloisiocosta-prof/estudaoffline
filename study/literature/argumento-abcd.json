@@ -13,7 +13,8 @@
           "C": "Nesse quadro, organizar tarefas corresponde a uma parte do processo, sem representar todas as dimensões da aprendizagem",
           "D": "Essa delimitação permite investigar um organizador de tarefas sem lhe atribuir benefícios educacionais ainda não avaliados",
           "keys": [
-            "SU10"
+            "SU10",
+            "projeto"
           ],
           "next": "I2"
         },
@@ -62,7 +63,8 @@
           "C": "Como o EstudaOffline foi delimitado à organização de tarefas, ampliar o acompanhamento é uma oportunidade futura, e não uma funcionalidade ou um efeito já demonstrado",
           "D": "Essa diferença entre escopo atual e oportunidade futura exige definir precisamente o significado dos registros produzidos",
           "keys": [
-            "education_prasse2024"
+            "education_prasse2024",
+            "projeto"
           ],
           "next": "T4"
         },
