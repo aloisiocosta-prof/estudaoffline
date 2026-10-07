@@ -30,10 +30,15 @@ def check_freshness(root, hashes):
     for name,expected in hashes.items():
       if hashlib.sha256((root/name).read_bytes()).hexdigest()!=expected:
         raise ValueError('Rastreamento desatualizado: '+name)
+def enforce_final_acceptance(report):
+    if report['final_accepted']<80:
+      raise SystemExit('Entrega final bloqueada: menos de 80 fontes com decisão de inclusão documentada')
 def main():
     parser=argparse.ArgumentParser();parser.add_argument('--strict',action='store_true');parser.add_argument('--verify-fresh',action='store_true');args=parser.parse_args()
     if args.verify_fresh:
-      report=load('admission-report.json');check_freshness(ROOT,report['input_sha256']);print('Rastreamento corresponde aos arquivos atuais');return
+      report=load('admission-report.json');check_freshness(ROOT,report['input_sha256'])
+      if args.strict:enforce_final_acceptance(report)
+      print('Rastreamento corresponde aos arquivos atuais');return
     sources=load('selected.json');locations=load('source-locators.json')
     appraisals={s['key']:s for s in load('core-source-appraisal.json')['core_sources']}
     decisions=load('admission-decisions.json')['source_decisions']
@@ -69,5 +74,5 @@ def main():
     md=['# Rastreabilidade e admissibilidade','',report['policy'],'',f"Fontes aptas para revisão: {report['counts'].get('apta_para_revisao',0)}; pendentes: {report['counts'].get('pendente',0)}; decisões finais registradas: {report['final_accepted']}.",'','| Fonte | Triagem | Página | Bloqueios |','|---|---|---|---|']
     md += [f"| {r['key']} | {r['status']} | {r['pages'] or 'pendente'} | {', '.join(r['bloqueios']) or 'nenhum bloqueio documental deste controle'} |" for r in rows]
     (out/'admission-report.md').write_text('\n'.join(md)+'\n');print(report['counts'])
-    if args.strict and report['final_accepted']<80:raise SystemExit('Entrega final bloqueada: menos de 80 fontes com decisão de inclusão documentada')
+    if args.strict:enforce_final_acceptance(report)
 if __name__=='__main__':main()
