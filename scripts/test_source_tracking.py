@@ -1,7 +1,12 @@
-import hashlib,tempfile,unittest
+import hashlib,tempfile,unittest,sys
+from unittest.mock import patch
+import track_sources
 from pathlib import Path
 from track_sources import assess,apply_decision,check_freshness
 class AdmissionTests(unittest.TestCase):
+    def test_freshness_and_strict_cannot_bypass_acceptance(self):
+      with patch.object(sys,'argv',['track_sources.py','--verify-fresh','--strict']),patch.object(track_sources,'load',return_value={'input_sha256':{},'final_accepted':0}):
+        with self.assertRaisesRegex(SystemExit,'menos de 80 fontes'):track_sources.main()
     def setUp(self):
       self.s={'authors':['Autor'],'title':'Título','year':2020,'doi':'10.1234/test','url':'https://doi.org/10.1234/test','limitation_pt':'Escopo limitado'}
       self.l={'status':'pagina_conferida','pages_pdf':[3]}
